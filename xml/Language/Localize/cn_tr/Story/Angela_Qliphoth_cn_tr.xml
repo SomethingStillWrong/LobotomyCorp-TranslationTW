@@ -1,69 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <localize>
   <!-- 0%-->
-  <text id="angela1_1">你在找尋這個地方的裂痕嗎?</text>
-  <text id="angela1_2">管理者, 在我們第一次見面的時候我還有些東西沒跟你提過.</text>
-  <text id="angela1_3">這些 Sephirah 非常想跟你見面, 他們很敬佩你並跟隨著你...</text>
-  <text id="angela1_4">但同時, 他們也想讓你頂替他們的罪惡.</text>
-  <text id="angela1_5">所以請務必小心.</text>
-  <text id="angela1_6">老實說, 你不用花費太多心思在這上面.</text>
-  <text id="angela1_7">我所說的是你能回去過你原本習慣的正常生活. 如果某些 Sephirah 失去控制的話頂替那個空缺對我來說不是什麼大不了的事.</text>
-  <text id="angela1_8">但是你會永遠的失去這個位置.</text>
-  <text id="angela1_9">停下一切的鑰匙也連接著命運.</text>
+  <text id="angela1_1">您正發覺到此地銘刻的傷痕了嗎？</text>
+  <text id="angela1_2">與您初次見面時，我有些話未能言明。</text>
+  <text id="angela1_3">Sephiroth確實曾想見您，尊敬並追隨您……</text>
+  <text id="angela1_4">但同時，他們也懷著怨懟與詛咒，渴望見到您被吞噬。</text>
+  <text id="angela1_5">還請務必小心。</text>
+  <text id="angela1_6">當然，若您願意，其實也不必過於在意。</text>
+  <text id="angela1_7">畢竟，您只需如常度日即可。即便出現精神失常的Sephirah，由我遞補其位也並非難事。</text>
+  <text id="angela1_8">只是……您或許將因此永遠錯失那件東西。</text>
+  <text id="angela1_9">錯失那顆能斬斷枷鎖的種子。</text>
  
 
 
   <!--10%-->
 
-  <text id="angela2_1">的確, 我並沒有期望它能夠復原. 不過這次我錯了.</text>
-  <text id="angela2_2">我正要警告你這是非常魯莽的, 但是對我們來說這已經不是什麼大問題了.</text>
-  <text id="angela2_3">我發現在我們復原這些 Sephirah 的同時, 已經將大量的能源提煉出來了.</text>
-  <text id="angela2_4">其他的 Sephirah 已經被撤除了, 或是我該說已經去冬眠了.</text>
-  <text id="angela2_5">如果你問為什麼會發生這種情況, 嗯, 總有一天你會知道的.</text>
+  <text id="angela2_1">是的，我原本預測這絕對無法復原，但這次看來是我的預測出錯了。</text>
+  <text id="angela2_2">本想說這太過魯莽，但對我們而言倒也不算什麼重大損失。</text>
+  <text id="angela2_3">畢竟在恢復Sephirah的過程中，我們也提煉出了相當多的能源。</text>
+  <text id="angela2_4">若您要問為何會產生這種結果……這個嘛，總有一天主管您也會明白的。</text>
+  <text id="angela2_5">其他Sephiroth當時均處於機能停止狀態。簡單來說，就是進入了休眠。</text>
+  <text id="angela2_6">至於原因，這是因為電力需求爆發性激增。要同時運轉全部10台機器已略顯不足，因此只好將其餘的暫時停機了。</text>
+
 
 
   <!--30%-->
 
-  <text id="angela3_1">希望能把時間倒轉回你錯過的那一刻嗎?</text>
-  <text id="angela3_2">在過了這麼久之後?</text>
-  <text id="angela3_3">即使你將時間倒轉了,</text>
-  <text id="angela3_4">你真的覺得能夠洗刷掉你的懊悔嗎, 就像什麼都沒發生過一樣?</text>
+  <text id="angela3_1">看來，您這是在試圖挽回那些曾經錯失的事物啊。</text>
+  <text id="angela3_2">即便事至如此？</text>
+  <text id="angela3_3">即便一切真能夠重來，</text>
+  <text id="angela3_4">您心中殘存的那些後悔，難道就能如同從未發生般蕩然無存嗎？</text>
 
 
   <!-- 50%-->
-  <text id="angela4_1">我想把我自己從痛苦中解放, 但我意識到那是不可能的.</text>
-  <text id="angela4_2">直到最近我才找到了我要的答案.</text>
-  <text id="angela4_3">我必須接受那些我從一開始就承受的痛苦, 那麼我便自由了.</text>
-  <text id="angela4_4">管理者, 如果你也在折磨之中, 那便承受痛苦以及接受它吧.</text>
-  <text id="angela4_5">你不必不斷地改變事物, 如果這對你來說太難的話.</text>
-  <text id="angela4_6">我知道你想繼續下去, 某方面來說.</text>
-  <text id="angela4_7">你害怕現在, 但感受黑暗是往前邁進的唯一方法.</text>
-  <text id="angela4_8">起初, 我很佩服你.</text>
-  <text id="angela4_9">但現在, 你看來真可悲.</text>
-  <text id="angela4_10">你覺得照你這麼做還能持續多久?</text>
-  <text id="angela4_11">你覺得你能撐到最後嗎?</text>
+  <text id="angela4_1">我曾經渴望從痛苦中解脫，卻發現那根本就是不可能。</text>
+  <text id="angela4_2">直到最近才終於找到了答案。</text>
+  <text id="angela4_3">唯有不再將痛苦視為陌生之物，而是如同對待與生俱來之物般全然接納之時，方能真正從中解脫。</text>
+  <text id="angela4_4">主管，若您也感到痛苦，就請接納它吧。</text>
+  <text id="angela4_5">您不必如此艱難地、持續地強求改變。</text>
+  <text id="angela4_6">您那份無論如何都想要向前奔馳的心意，我是明白的。</text>
+  <text id="angela4_7">正因當下令人畏懼、前路茫然，才只能這般摸索前行吧。</text>
+  <text id="angela4_8">最初，這樣的您令我感到欽佩。</text>
+  <text id="angela4_9">但如今，只覺得……令人可悲。</text>
+  <text id="angela4_10">您究竟還能堅持多久呢？</text>
+  <text id="angela4_11">您真能夠抵達所謂的終點嗎？</text>
 
   <!-- 70%-->
-  <text id="angela5_1">這是我們第一次抵達這裡, 我現有的數據已經不夠用了.</text>
-  <text id="angela5_2">現在這裡的一切都是神秘的.</text>
-  <text id="angela5_3">雖然輪不到我說話, 但...</text>
-  <text id="angela5_4">這不會是個不可能的任務. </text>
-  <text id="angela5_5">在 “不可能” 以及 “0% 的機率” 之間有個明確的區別. </text>
-  <text id="angela5_6">我們, 機械, 說過在考慮過每種可能性後, 永遠不會發生的事情將是 0% 的機率. </text>
-  <text id="angela5_7">因此, 我們能在未來看見你成功並不是 “不可能” 的, 而是 “0% 的機率”.</text>
-  <text id="angela5_8">但我不會失望的. 畢竟, 我只是台機器.</text>
-  <text id="angela5_9">即使你建立的一切都將分崩離兮, 我也能若無其事的忍受一切.</text>
+  <text id="angela5_1">由於這是首次抵達此處，我的資料已匱乏至極。</text>
+  <text id="angela5_2">這意味著，從此刻起，一切皆成未知。</text>
+  <text id="angela5_3">關於未來之事，我雖不敢妄下斷言，</text>
+  <text id="angela5_4">但這並非「不可能」之事。</text>
+  <text id="angela5_5">然而，「不可能」與「可能性為0」是截然不同的議題。</text>
+  <text id="angela5_6">換言之，當衡量所有可能性後，若某件事絕無發生的機會，像我這樣的機器便會輸出為「可能性為0」。</text>
+  <text id="angela5_7">因此我對您的「您能夠實現一切」結論的結果是：可能性為0</text>
+  <text id="angela5_8">但正因身為機器，我不會因此感到失望。</text>
+  <text id="angela5_9">即便這一切再次歸於虛無，我亦能習以為常地承受。</text>
 
   <!-- 90%-->
-  <text id="angela6_1">...............</text>
-  <text id="angela6_2">你想從我的口中聽到答案.</text>
-  <text id="angela6_3">我已經得出了結論.</text>
-  <text id="angela6_4">起初的我相當目中無人. 在我們初次見面時, 我以為沒有我的話你什麼也做不了.</text>
-  <text id="angela6_5">你比我想的還要獨立.</text>
-  <text id="angela6_6">或許完全沒有我協助的必要.</text>
-  <text id="angela6_7">所以, 不要從我身上尋求解答.</text>
-  <text id="angela6_8">現在你看到那扇門了.</text>
-  <text id="angela6_9">所以, 你覺得在門後會有什麼東西等待著你?</text>
+  <text id="angela6_1">……</text>
+  <text id="angela6_2">您似乎想從我這聽到答案。</text>
+  <text id="angela6_3">但我早已有了結論。</text>
+  <text id="angela6_4">初次見到作為主管的您時，我曾自滿地認為：沒有我，您什麼都做不到。</text>
+  <text id="angela6_5">然而，您遠比我想的更加獨立。</text>
+  <text id="angela6_6">或許從一開始，我的協助就並非必要之物吧。</text>
+  <text id="angela6_7">因此，如今再向我尋求解答，也已毫無意義。</text>
+  <text id="angela6_8">看來直到此刻，您終於也看見那扇門了。</text>
+  <text id="angela6_9">那麼，若推開那扇門，您認為究竟會有什麼在等待著您呢？</text>
   
   
 </localize>

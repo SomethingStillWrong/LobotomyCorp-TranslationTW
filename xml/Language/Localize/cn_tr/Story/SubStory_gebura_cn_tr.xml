@@ -1,534 +1,534 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <localize>
   <!-- 에피소드 1-->
-  <text id="gebura1_intro_g1">...</text>
-  <text id="gebura1_intro_g2">….? </text>
-  <text id="gebura1_intro_g3">什麼? 你是誰?</text>
+  <text id="gebura1_intro_g1">……</text>
+  <text id="gebura1_intro_g2">……？</text>
+  <text id="gebura1_intro_g3">什麼？你哪位？</text>
   <text id="gebura1_selection1">自我介紹</text>
-  <text id="gebura1_selection2">什麼都不說</text>
-  <text id="gebura1_intro_1_g1">啊, 你是那個新來的管理者?</text>
-  <text id="gebura1_intro_1_g2">抱歉, 你跟其他人看起不同.</text>
-  <text id="gebura1_intro_2_g1">啊, 你是那位 Tifaerith 提到的管理者?</text>
-  <text id="gebura1_intro_2_g2">你知道那句話嗎, “沉默會把子彈塞入你的腦袋中”?</text>
-  <text id="gebura1_intro_2_g3">你最好看好你自己.</text>
-  <text id="gebura1_intro_g4">其他部門或許會因為你是個管理者去拍你的馬屁,</text>
-  <text id="gebura1_intro_g5">但在這裡, 那種態度在你終結之後都不會出現.</text>
-  <text id="gebura1_intro_g6">嗯, 既然你都已經在這了, 至少我猜你也算不上什麼大人物吧.</text>
-  <text id="gebura1_intro_g7">我是, 紀律小組的頭頭.</text>
-  <text id="gebura1_intro_g8">我們在 Sephirah 之中是最強的戰鬥部門, 在這裡容不下懦夫.</text>
-  <text id="gebura1_intro_g9">想知道我最討厭什麼樣的人嗎?</text>
-  <text id="gebura1_intro_g10">像悲哀的小嬰兒哭號般的異常或員工.</text>
-  <text id="gebura1_intro_g11">這就像是個在戰場中拒絕殺敵的士兵.</text>
-  <text id="gebura1_intro_g12">如果你跟那些人不同, 那們或許我們能一起共事.</text>
-  <text id="gebura1_selection3">為何你討厭懦夫</text>
-  <text id="gebura1_selection4">為何你討厭異常</text>
-  <text id="gebura1_intro_3_g1">不是很明顯嗎? 它們在這裡舉足輕重.</text>
-  <text id="gebura1_intro_3_g2">讓我問問你,</text>
-  <text id="gebura1_intro_4_g1">為什麼需要解釋?</text>
-  <text id="gebura1_intro_g13">究竟對你來說異常又是什麼?</text>
-  <text id="gebura1_intro_g14">Holy entities? 被鎖在地底的可悲生物? 替我們生產能源的寶貝?</text>
-  <text id="gebura1_intro_g15">錯了.</text>
-  <text id="gebura1_intro_g16">異常能被傷害, 但決不會被摧毀.</text>
-  <text id="gebura1_intro_g17">但他們說它們能感到疼痛.</text>
-  <text id="gebura1_intro_g18">來讓生命盡可能的痛苦吧.</text>
+  <text id="gebura1_selection2">一言不發</text>
+  <text id="gebura1_intro_1_g1">啊，你就是那個新來的主管？</text>
+  <text id="gebura1_intro_1_g2">不好意思，我從你身上看不出個一點主管樣。</text>
+  <text id="gebura1_intro_2_g1">啊，你就是那位Tiphereth提到的主管？</text>
+  <text id="gebura1_intro_2_g2">你知不知道沉默有時是子彈，會給腦門來一發？</text> 
+  <text id="gebura1_intro_2_g3">你最好小心點。</text>
+  <text id="gebura1_intro_g4">在別處，你還能仗著自己是主管擺臭架子，然後就有人跑來順從你。</text>
+  <text id="gebura1_intro_g5">但在這，那種優待遲早讓你的脖子被勒緊。</text>
+  <text id="gebura1_intro_g6">既然你都在這了，大概不會是那種見點血就哭的纍贅吧。</text>
+  <text id="gebura1_intro_g7">我是懲戒部的Geburah。</text>
+  <text id="gebura1_intro_g8">我們這裡不需要懦夫，因為我們是最強的戰鬥部門。</text>
+  <text id="gebura1_intro_g9">要我告訴你，我最討厭什麽類型的人嗎？</text>
+  <text id="gebura1_intro_g10">就那種什麽都可憐的，一會可憐異想體一會可憐職員的，不想看到有東西死去的人。</text>
+  <text id="gebura1_intro_g11">這和那些持槍卻拒絕在戰場中央殺敵的軍人有何區別？</text>
+  <text id="gebura1_intro_g12">如果你不是那類人，我們或許能達成很好的合作關係。</text>
+  <text id="gebura1_selection3">為何討厭懦夫？</text>
+  <text id="gebura1_selection4">為何討厭異想體？</text>
+  <text id="gebura1_intro_3_g1">不很明顯？它們只能拖你後腿。</text>
+  <text id="gebura1_intro_3_g2">我問你，</text>
+  <text id="gebura1_intro_4_g1">這不理所當然？</text>
+  <text id="gebura1_intro_g13">你把異想體看成什麽了？</text>
+  <text id="gebura1_intro_g14">神聖的存在？被關在地下的可悲生物？就因為要從它們身上提取能源？</text>
+  <text id="gebura1_intro_g15">這并不全面。</text>
+  <text id="gebura1_intro_g16">異想體只會受到傷害，不會消亡。</text>
+  <text id="gebura1_intro_g17">但聽説它們能感受到痛苦。</text>
+  <text id="gebura1_intro_g18">既然它們是那種不會死的活物，那我們就讓它們知道什麽是生不如死。</text>
 
   <!--에피소드 2-->
 
-  <text id="gebura2_intro_g1">嗯, 不是很簡單嗎, 你覺得呢?</text>
-  <text id="gebura2_intro_g2">但是有時候你的抉擇太過軟弱了.</text>
-  <text id="gebura2_intro_g3">下一次...</text>
-  <text id="gebura2_intro_c1">Geburah, 你給我的鎮壓計畫, 這規模不會太大了嗎?</text>
-  <text id="gebura2_intro_g4">好啦, 如果你沒話好說的就滾吧.  </text>
-  <text id="gebura2_intro_c2">這之前也發生過. 我是福利小組的首腦, 所以我該記下這點.</text>
-  <text id="gebura2_intro_g5">是啦, 我知道啦, 所以你怎麼還不回去你那總是備著咖啡的部門裡?</text>
-  <text id="gebura2_intro_c3">而且一些在我部門裡的 E.G.O 似乎故障了. 這不是你幹的, 對吧? 那場鎮壓來的太突然了.</text>
-  <text id="gebura2_intro_g6"> ...我會賠償啦. 更進一步的說, 那些 E.G.O 可能會衝往你的頭上. </text>
-  <text id="gebura2_intro_c4">好好好, 我會走的. 為什麼我的運氣這麼差? 我的同事... 是個狂熱的戰爭頭子, 也是我的雙胞胎.</text>
-  <text id="gebura2_intro_h1">我來到中間樓層有一段時間了. 好久不見, Chesed.</text>
-  <text id="gebura2_intro_c5">你是來這裡見 Geburah 的嗎? 如果你講錯什麼的話你的頭上會被搞出個洞的, 請小心點! </text>
-  <text id="gebura2_intro_h2">這是真的嗎, Geburah? </text>
-  <text id="gebura2_intro_g7">滾開, Chesed. Hod, 你帶了什麼過來?</text>
-  <text id="gebura2_intro_h3">啊, 是一些關於你編寫的異常逃脫訓練的建議. 它需要一些調整.</text>
-  <text id="gebura2_intro_g8">說下去.</text>
-  <text id="gebura2_intro_h4">嗯, 如果我們像你所建議的直接對它展開攻擊, 那會造成嚴重的傷亡. 如果我們改變一下訓練方針, 讓人員改為以防禦為主的姿態, 那麼傷亡率會降低很多.</text>
-  <text id="gebura2_intro_g9"> ...</text>
-  <text id="gebura2_intro_h5">你怎麼想呢?</text>
-  <text id="gebura2_intro_g10">但是, 這...</text>
-  <text id="gebura2_intro_h6">嗯? </text>
-  <text id="gebura2_intro_g11">這樣對異常不就太禮貌了?</text>
-  <text id="gebura2_intro_h7">呣, 我很抱歉, 你是什麼意思呢?</text>
-  <text id="gebura2_intro_g12">... 忘掉它吧. 自從你到訓練小組後, 最終都只會有你的意見, 對吧?</text>
-  <text id="gebura2_intro_h8">是的, 但是照我的計畫做...</text>
-  <text id="gebura2_intro_g13">就這麼辦吧.</text>
-  <text id="gebura2_intro_h9">謝謝你, 晚點見囉!</text>
-  <text id="gebura2_intro_g14">Hod!</text>
-  <text id="gebura2_intro_h10">蛤? 什麼?! </text>
-  <text id="gebura2_intro_g15">你忘了你的報告.</text>
-  <text id="gebura2_intro_h11">啊, 我差點丟了它. 我還以為你會像 Chesed 說的在我的頭上開一個洞呢. 謝謝了!</text>
-  <text id="gebura2_intro_g16">...</text>
-  <text id="gebura2_intro_g17">Hod 太軟弱了.</text>
-  <text id="gebura2_intro_g18">如果我是訓練小組的頭子, 我絕對不會這麼做的.</text>
+  <text id="gebura2_intro_g1">沒什麽特別的，不是嗎？</text>
+  <text id="gebura2_intro_g2">但你有時候判斷得太過軟弱了。</text>
+  <text id="gebura2_intro_g3">下一次……</text>
+  <text id="gebura2_intro_c1">Geburah，你給我的鎮壓計畫書，規模是不是大了點？</text>
+  <text id="gebura2_intro_g4">啊對對對，話説完啦？説完了就快滾。</text>
+  <text id="gebura2_intro_c2">上次也不是發生過類似的事嘛~名義上，我還是福利部負責人，所以我認為該讓大家注意點。</text>
+  <text id="gebura2_intro_g5">知道了知道了。所以你怎麽不和以前一樣滾回你的部門喝杯晨間咖啡去？</text>
+  <text id="gebura2_intro_c3">還有，我們部門的E.G.O的部分功能似乎故障了，不會是你幹的好事吧？上次鎮壓的時候我還奇怪著，怎麽鎮壓過程一下就結束了。</text>
+  <text id="gebura2_intro_g6">……我會補償你的。但你如果還在這喃喃自語，小心E.G.O懟你頭上去。</text>
+  <text id="gebura2_intro_c4">好，那我回去咯~為什麽我的運氣這麼差啊？我的同事除了那位狂熱的戰鬥狂外，還有對看不出心裡想法的雙胞胎。</text>
+  <text id="gebura2_intro_h1">似乎很久沒下來中層了。好久不見，Chesed。</text>
+  <text id="gebura2_intro_c5">你來見Geburah的？小心點喲，説錯什麽話腦袋會被她開洞的~</text>
+  <text id="gebura2_intro_h2">這是真的嗎？</text>
+  <text id="gebura2_intro_g7">給我滾啊，Chesed。Hod，怎麽了？</text>
+  <text id="gebura2_intro_h3">我看了上回你發的異想體出逃鎮壓培訓的建議，我覺得有些可以修改。</text>
+  <text id="gebura2_intro_g8">繼續。</text> 
+  <text id="gebura2_intro_h4">嗯，如果按你說的全面開戰的話，該區域的職員將遭受較大的損失。我想把培訓方向改成防禦性的應對方式，這樣應該能減少事故發生率。</text>
+  <text id="gebura2_intro_g9">……</text>
+  <text id="gebura2_intro_h5">你怎麼想？</text>
+  <text id="gebura2_intro_g10">但這樣的話……</text>
+  <text id="gebura2_intro_h6">嗯？</text>
+  <text id="gebura2_intro_g11">這樣對異想體是不是太和藹了？</text>
+  <text id="gebura2_intro_h7">呣，抱歉，請問這是什麽意思？</text>
+  <text id="gebura2_intro_g12">……好吧。他們最終看的是你的意見，對吧？畢竟，你是培訓部部長。</text>
+  <text id="gebura2_intro_h8">嗯，但按我這樣做……</text>
+  <text id="gebura2_intro_g13">那就照你這麼辦吧。</text>
+  <text id="gebura2_intro_h9">謝謝，回頭見囉！</text>
+  <text id="gebura2_intro_g14">Hod！</text>
+  <text id="gebura2_intro_h10">蛤？怎麽了？！</text>
+  <text id="gebura2_intro_g15">你的報告書落這了。</text>
+  <text id="gebura2_intro_h11">啊，太好了，差點把它丟這了。我還以為要像Chesed說的那樣在我的腦袋上開洞呢。謝謝你了！</text>
+  <text id="gebura2_intro_g16">……</text>
+  <text id="gebura2_intro_g17">Hod心腸太軟了。</text>
+  <text id="gebura2_intro_g18">如果我是培訓部部長，我絕不那麼做。</text>
 
 
   <!--에피소드 3-->
 
-  <text id="gebura3_intro_c1">Geburah 隨時都會回來.</text>
-  <text id="gebura3_intro_c2">...</text>
-  <text id="gebura3_intro_c3">管理者, 如果不要緊, 那你能幫我傳個話嗎?</text>
-  <text id="gebura3_intro_c4">Geburah 是... </text>
-  <text id="gebura3_intro_c5">... 對鎮壓行動異常的執著, 我會這麼說.</text>
-  <text id="gebura3_intro_c6">在行動中員工們額外的傷亡... 完全被忽視了.</text>
-  <text id="gebura3_intro_c7">Angela 知道的, 但完全不在乎.</text>
-  <text id="gebura3_intro_c8">Geburah 的確在鎮壓異常上很在行,</text>
-  <text id="gebura3_intro_c9">所以在行動中有些額外的損失是可以接受的.</text>
-  <text id="gebura3_intro_c10">但是身為一個管理者, 你明白將異常撂倒不是我們唯一的目標.</text>
-  <text id="gebura3_intro_c11">嗯, 我不確定 Geburah 是否聽的下你的話, 但是如果你試過的話我會非常感激的. </text>
-  <text id="gebura3_intro_g1">我看到 Chesed 離開, 有什麼東西我該知道的嗎?</text>
-  <text id="gebura3_intro_g2">我老實說吧, 我能看穿一切.</text>
-  <text id="gebura3_intro_g3">….</text>
-  <text id="gebura3_intro_g4">我在警告你,</text>
-  <text id="gebura3_intro_g5">別表現的好像你知道一切.</text>
-  <text id="gebura3_intro_g6">我在這裡已經很久了, 而我看過的東西比你還要多上許多.</text>
+  <text id="gebura3_intro_c1">Geburah很快就會回來。</text>
+  <text id="gebura3_intro_c2">……</text>
+  <text id="gebura3_intro_c3">主管，可以的話，能幫我傳句話嗎？</text>
+  <text id="gebura3_intro_c4">就説，</text>
+  <text id="gebura3_intro_c5">Geburah她，是執著於鎮壓異想體嗎？</text>
+  <text id="gebura3_intro_c6">就算鎮壓過程中就算多死幾個職員，她也真覺得根本無所謂。</text>
+  <text id="gebura3_intro_c7">安吉拉小姐想必早就知道，只是故意裝作沒看見罷了。</text>
+  <text id="gebura3_intro_c8">畢竟，要順利鎮壓異想體，沒有誰比Geburah更勝任這份工作，</text>
+  <text id="gebura3_intro_c9">在她眼裡，多犧牲幾名職員大概也只是微不足道的代價。</text>
+  <text id="gebura3_intro_c10">但您也明白，消滅異想體並非這裡的全部目的。</text>
+  <text id="gebura3_intro_c11">唔，雖然不知道Geburah會把您的話聽進去多少，但總之還是給她些建議吧。</text>
+  <text id="gebura3_intro_g1">剛才看到Chesed出來，他又說了什麼廢話？</text>
+  <text id="gebura3_intro_g2">最好老實交代，我可都看得一清二楚。</text>
+  <text id="gebura3_intro_g3">……</text>
+  <text id="gebura3_intro_g4">警告你，</text>
+  <text id="gebura3_intro_g5">別擺出一副自己什麼都知道的態度。</text>
+  <text id="gebura3_intro_g6">我已經在這裡待得很久了，見過的事情遠比你知道的還要多得多。</text>
   <!-- 과거 회상1-->
-  <text id="gebura3_intro_g7"> 實驗項目 09-34, 在應用化學物前進行的簡單測試.</text>
-  <text id="gebura3_intro_Christopher1">Geburah, 一台有著靈魂的機器. Lobotomy 公司的完美產物.</text>
-  <text id="gebura3_intro_g8">有著靈魂代表著什麼?</text>
-  <text id="gebura3_intro_Christopher2">意思就是有其價值. 這是 A 實際所相信的一種信仰. 我參加了這個實驗, 因為我相信他.</text>
-  <text id="gebura3_intro_g9">我不明白如果我擁有靈魂. 如果我被解體了, 那麼我的靈魂還會在那嗎?</text>
-  <text id="gebura3_intro_Christopher3">啊, 透過與你對談就能很簡單的檢測出來. 靈魂是看不到的, 但是卻能感覺得到. </text>
-  <text id="gebura3_intro_Christopher4">我會在看著我的靈魂時重生. 人類與世界或許變得很快. 但請相信 A, 他是新的救世主.</text>
+  <text id="gebura3_intro_g7">實驗者09-34，藥物注射前進行簡單檢查。</text>
+  <text id="gebura3_intro_Christopher1">Geburah，你是擁有靈魂的機器，不愧是腦葉公司驚人的傑作。</text>
+  <text id="gebura3_intro_g8">「擁有靈魂」是什麼意思？</text>
+  <text id="gebura3_intro_Christopher2">就是有價值的意思。這正是A先生所信仰的信念。我相信他，所以才參與這項實驗。</text>
+  <text id="gebura3_intro_g9">我不知道自己是否擁有靈魂，如果將我拆解，裡面會存在靈魂嗎？</text>
+  <text id="gebura3_intro_Christopher3">噢，只要和你稍作交談就能明白了。靈魂並非和視力有關，你得去感受。</text>
+  <text id="gebura3_intro_Christopher4">直面自己的靈魂，我將獲得重生……不久後，人類、這個世界，全都會改變。相信A先生吧，他是引領我們所有人的救贖者。</text>
  <!-- 과거 회상 2-->
-  <text id="gebura3_intro_Isabel1">所以你就是 Geburah, 我從 Christopher 聽到很多關於你的事. 你有一個靈魂, 就我所聞. A 實在太厲害了. 別去理會那些輕蔑你的人, 他們不知道你的價值.</text>
-  <text id="gebura3_intro_Isabel2">這是 Gelly, 我們的女兒. 她是多麼甜美, 如同你一般.</text>
-  <text id="gebura3_intro_g10">那麼, 這個小孩也一樣擁有靈魂嗎?</text>
-  <text id="gebura3_intro_Isabel3">當然. 每個生命都擁有靈魂, 這是我們不會去注意到的本質.</text>
-  <text id="gebura3_intro_Isabel4">這個世界只相信看得見的東西, 這樣的信仰最終會導致人們的崩壞.</text>
+  <text id="gebura3_intro_Isabel1">你就是Geburah吧，從克里斯托弗那裡聽了不少你的事，聽說你也有靈魂？A先生真是了不起，別在意人們的輕視，他們只是不懂你的價值。</text>
+  <text id="gebura3_intro_Isabel2">這是我的女兒，吉莉。像你一樣善良漂亮的孩子。</text>
+  <text id="gebura3_intro_g10">那這孩子也擁有靈魂嗎？</text>
+  <text id="gebura3_intro_Isabel3">當然，只要是生命理應都有靈魂。靈魂是我們的本質，它存在於每個人之中卻不為人所知。</text>
+  <text id="gebura3_intro_Isabel4">這世上有些人只相信眼見為憑之事，而盲目信任終將導致毀滅。</text>
   <!-- 과거 회상 3-->
  
-  <text id="gebura3_intro_g11">Angela, 那是個怪物嗎?</text>
-  <text id="gebura3_intro_a1">稱呼它為異常, Geburah. </text>
-  <text id="gebura3_intro_g12">它跟怪物又有什麼區別呢?</text>
-  <text id="gebura3_intro_a2">怪物的存在是因為它本身的怪異, 但異常是為了人類而存在.</text>
-  <text id="gebura3_intro_g13">那又為什麼那個異常有 Christopher 的手錶跟他的聲音?</text>
-  <text id="gebura3_intro_a3">那是因為, 異常是從某些東西誕生出來的. 它不會憑空就出現. </text>
-  <text id="gebura3_intro_g14">那異常會把人類吃掉嗎? 異常會不會把 Christopher 吃掉了又偷偷的變成他? 我不懂. </text>
-  <text id="gebura3_intro_a4">這是很複雜的, Geburah.</text>
-  <text id="gebura3_intro_a5">有件事是肯定的, 它不會因為某人是邪惡的就發生在他身上. 而這個你稱為怪物的東西確實有 Christopher 的意志在它裡面.</text>
+  <text id="gebura3_intro_g11">安吉拉，那個是怪物嗎？</text>
+  <text id="gebura3_intro_a1">那叫做異想體，Geburah。</text>
+  <text id="gebura3_intro_g12">它和怪物有什麼不同？</text>
+  <text id="gebura3_intro_a2">怪物是存在本身即為怪異的生物，而異想體則源自於人類。</text>
+  <text id="gebura3_intro_g13">那為什麼那個「異想體」拿著克里斯托弗先生的手錶，而且發出的聲音還很像他？</text>
+  <text id="gebura3_intro_a3">Geburah，那是因為異想體並非從地底突然冒出，或是某天憑空出現的概念。它源於「那些東西」。</text>
+  <text id="gebura3_intro_g14">異想體……會吃人嗎？所以它吃了克里斯托弗先生，才能那樣模仿他嗎？我無法理解。</text>
+  <text id="gebura3_intro_a4">這是個複雜的問題，Geburah。</text>
+  <text id="gebura3_intro_a5">但可以肯定的是，這並非誰犯下惡行而導致的後果。並且你所感知的那個怪物形態中，確實存在著名為克里斯托弗之人的明確意志。</text>
   <!-- 과거 회상 4-->
-  <text id="gebura3_intro_g15">為什麼我們要把 Isabella 送到 DI-01 的測試室裡? </text>
-  <text id="gebura3_intro_ta1">我不知道, Geburah, 他們不會對我們解釋任何細節. 我聽說這是要測試失去人性或是什麼之類的, 但我真的不知道.</text>
-  <text id="gebura3_intro_g16">這會傷到 Isabella 的. 我應該跟 Angela 說說. </text>
-  <text id="gebura3_intro_ta2">Geburah, 也許最好什麼都不要說. 我看到其他的機器質疑了命令, 但是 Angela 就將他們重設了.</text>
-  <text id="gebura3_intro_g17">...</text>
-  <text id="gebura3_intro_ta3">拜託, 如果你覺得生氣, 就請活在那股情緒裡. </text>
-  <text id="gebura3_intro_ta4">總好過你把這些回憶忘光而死氣沉沉的活著?</text>
+  <text id="gebura3_intro_g15">為什麼實驗記錄中有將伊莎貝爾送往DI-01實驗室的流程？為什麼要把她丟給那個可怕的怪物？</text>
+  <text id="gebura3_intro_ta1">我也不知道，Geburah，他們本來就不會向我們一一說明實驗意圖。隱約聽說是要明確驗證那異想體是否喪失人性，但我不明白這話的意思。</text>
+  <text id="gebura3_intro_g16">那絕對會傷害伊莎貝爾女士，我要去勸勸安吉拉。</text>
+  <text id="gebura3_intro_ta2">Geburah，也許保持沉默比較好。我看過其他機器，也看過他們違抗指令的下場。安吉拉小姐會將違抗指令的機器初始化。</text>
+  <text id="gebura3_intro_g17">……</text>
+  <text id="gebura3_intro_ta3">算我求你，如果你感到憤怒，不如懷抱著這份憤怒堅持到底，</text>
+  <text id="gebura3_intro_ta4">總比失去記憶，讓你擁有的靈魂失去意義，如同行屍走肉般存在要好得多，不是嗎？</text>
  <!-- 과거 회상 4 끝-->
-  <text id="gebura3_intro_g18">你對這個故事的結局有什麼看法?</text>
-  <text id="gebura3_intro_g19">在 Christopher 的妻子和女兒身上發生了什麼事?</text>
-  <text id="gebura3_intro_g20">我也不知道. 不確定這到底是好是壞, 但這不在我的實驗裡.</text>
-  <text id="gebura3_intro_g21">我只知道唯一從那個房間裡出來的東西是 Gilly 的舊毯子.</text>
-  <text id="gebura3_intro_g22">許多人甚至沒跟我們說過話, 因為他們不想和機器有任何關係.</text>
-  <text id="gebura3_intro_g23">但是他們跟我說我是無價的... 看們看見我的內在, 我甚至沒去注意到的.  </text>
-  <text id="gebura3_intro_g24">那個異常, 從一開始就殺了無數的人. </text>
-  <text id="gebura3_intro_g25">但它卻不會死.</text>
-  <text id="gebura3_intro_g26">這不公平.</text>
-  <text id="gebura3_intro_g27">所以為什麼我們要對它們客氣?</text>
-  <text id="gebura3_intro_g28">不要在意你眼前的員工. 當事情發生了, 至少這會是你最不用擔心的地方. </text>
-  <text id="gebura3_intro_g29">即使這真的讓你感到傷痛,</text>
-  <text id="gebura3_intro_g30">我會盡可的帶來痛苦.</text>
-  <text id="gebura3_intro_g31">這就是我在這裡的原因.</text>
-  <text id="gebura3_intro_g32">.... 不要再愚弄我了, 絕對.</text>
+  <text id="gebura3_intro_g18">你覺得故事後來怎麼樣了？</text>
+  <text id="gebura3_intro_g19">克里斯托弗的妻子和他的女兒吉莉去了哪裡？</text>
+  <text id="gebura3_intro_g20">我也不知道。那並非我負責的實驗，這能説是幸還是不幸呢。</text>
+  <text id="gebura3_intro_g21">我只知道從那個怪物的實驗室裡，只找到了吉莉破舊的毯子。</text>
+  <text id="gebura3_intro_g22">大多數人甚至不願和我們交談，覺得對機器付出感情沒有價值。</text>
+  <text id="gebura3_intro_g23">但他們卻告訴我「我有存在的價值」，他們看見的不是我的外表，而是連我自己都未曾見過的內在。</text>
+  <text id="gebura3_intro_g24">後來，那個稱為異想體的怪物殺死了許多人。</text>
+  <text id="gebura3_intro_g25">而它卻沒有死。</text>
+  <text id="gebura3_intro_g26">真是不公平。</text>
+  <text id="gebura3_intro_g27">到底為什麼要對那些東西友善？</text>
+  <text id="gebura3_intro_g28">別在乎眼前這些職員了。等那東西突破收容的瞬間，這區區幾條職員的命又算得了什麼？</text>
+  <text id="gebura3_intro_g29">至少能確定的是它們會感到痛苦，</text>
+  <text id="gebura3_intro_g30">我會盡我所能，讓它們嚐到最多的痛苦。</text>
+  <text id="gebura3_intro_g31">這才是我站在這裡的理由。</text>
+  <text id="gebura3_intro_g32">……別再對我東扯西扯的。</text>
 
 
 
   <!-- 에피소드 4-->
   <!-- text id의 gebura_4_intro_r~은 용병 대장 (토끼대장) 을 의미하며 gebura_4_intro_a~는 앤젤라, gebura_4_intro_g~는 게부라를 의미합니다.-->
-  <text id="gebura4_intro_r1">嗯, 我知道 Lobotomy 公司是個很重要的客戶, 但是它們的合約也更新的太快了吧?</text>
+  <text id="gebura4_intro_r1">我知道腦葉公司是備受禮遇的客戶，但這合約更新周期是不是太頻繁了點？</text>
   <!-- 화자 : 용병대장 (토끼대장)-->
-  <text id="gebura4_intro_r2">這個地方很噁心, 像是地牢般總是讓我感到厭惡.</text>
+  <text id="gebura4_intro_r2">這地方每次來都像地下監獄一樣陰沉，讓人不舒服。</text>
   <!-- 화자 : 용병대장 (토끼대장)-->
-  <text id="gebura4_intro_a1">等我一下, 隊長. 我們需要向管理者解釋這點.</text>
-  <text id="gebura4_intro_r3">喔, 還是不知道我是誰嗎? 那我很快的說明一下.</text>
-  <text id="gebura4_intro_a2">.....這一定是你第一次參加外部的會議吧, 管理者.</text>
-  <text id="gebura4_intro_a3">就如我們之前幾次提過的, 我的公司已經跟其他的翼簽署了共同開發以及商業機會.</text>
-  <text id="gebura4_intro_a4">我們的工作也包括了在適當的時機與翼的管理者更新合約.</text>
-  <text id="gebura4_intro_a5">我們只需要你當個象徵性的管理者, 並坐在那個位置就好. 我會把其餘的工作完成的.</text>
-  <text id="gebura4_intro_r4">你打算繼續為你的商業夥伴做你那無聊的介紹嗎?</text>
-  <text id="gebura4_intro_a6">之後我會私下為你做更詳細的解釋, 先讓我們開始會議吧.</text>
-  <text id="gebura4_intro_a7">....為什麼不脫掉你的頭盔, 至少在會議期間?</text>
-  <text id="gebura4_intro_r5">你在說什麼? 這可是我們身為兔子的證明.</text>
-  <text id="gebura4_intro_r6">嗯, 好吧, 不管怎樣.</text>
-  <text id="gebura4_intro_r7">讓我在結束前簡單的解釋一下合約的細節.</text>
-  <text id="gebura4_intro_r8">嗯, 姆,</text>
-  <text id="gebura4_intro_r9">我已經厭倦再跟你從頭解釋到尾了... 如果你有讀過合約的內容, 全部都寫在那了. 我還有再說一次的必要嗎?</text>
-  <text id="gebura4_intro_a8">就如我先前說過得, 這是個正式的程序.</text>
-  <text id="gebura4_intro_a9">而我得再說一次, 無論你是否同意合約的條款.</text>
-  <text id="gebura4_intro_r10">你不能擅自更改它.</text>
-  <text id="gebura4_intro_r11">讓我告訴你關於我們的服務.</text>
-  <text id="gebura4_intro_r12">在 R 企業中, 我們將提供軍事服務, 並保護 L 企業免於任何外部的威脅.</text>
-  <text id="gebura4_intro_r13">L 企業包括了 Lobotomy 的每個分部, 但在某些情況下可能會有些例外.</text>
-  <text id="gebura4_intro_r14">而我提到的那些例外, 我是指在某些行為涉及到關於頭部或是眼睛時. 其他的事物大部分都是可以的.</text>
-  <text id="gebura4_intro_r15">L 企業則持續提供能源給 R 企業以維持這些行動.</text>
-  <text id="gebura4_intro_r16">這個更新過程的先決條件將包括要求 W 企業和 L 企業之間相互持續協議.</text>
-  <text id="gebura4_intro_r17">以及... 讓我看看... L 將提供所有用於殺死異常的軍械.</text>
-  <text id="gebura4_intro_r18">所有兔子小隊的員工在完成他們的任務後記憶將會完全抹除.</text>
-  <text id="gebura4_intro_r19">沒有員工會質疑這個設施的功用或是目的.</text>
-  <text id="gebura4_intro_r20">最後, 身為這些兔子的隊長, 我會依照 R 的指示來派遣我的小隊並親自指揮.</text>
-  <text id="gebura4_intro_r21">這就是全部了. 請在休息的時候熟讀這合約的詳細內容.</text>
-  <text id="gebura4_intro_a10">與 W 企業的協議仍舊沒有改變.</text>
-  <text id="gebura4_intro_a11">而且, 續約的期限將是一年, 就跟之前一樣.</text>
-  <text id="gebura4_intro_r22">對你們這些傢伙來說是一年啦, 但我們... 可以.</text>
-  <text id="gebura4_intro_r23">另外一點, 能把我們傳送來這裡的強度降低一些嗎? 我的身體被分解後總是讓我感到非常的奇怪.</text>
-  <text id="gebura4_intro_a12">關於這點你得去問問 W 企業. 這不在我們的控制中.</text>
-  <text id="gebura4_intro_a13">Geburah, 你這是什麼表情?</text>
-  <text id="gebura4_intro_g1">為什麼要把兔子派來這裡?</text>
-  <text id="gebura4_intro_r24">不要輕忽兔子了, 別這麼傻!</text>
-  <text id="gebura4_intro_r25">我們得到的結論就是兔子是最適合在這種地方殺戮的.</text>
-  <text id="gebura4_intro_r26">犀牛可能會在戰鬥的時候撞壞設施,</text>
-  <text id="gebura4_intro_r27">而那些馴鹿, 除了在這裡的機械, 會對在這裡的經理人造成不可挽回的損害.</text>
-  <text id="gebura4_intro_r28">Angela 非常明確的指示到不得傷害到這裡的經理人.</text>
-  <text id="gebura4_intro_r29">我們總是聽從我們客戶的需求.</text>
-  <text id="gebura4_intro_g2">我說的不是那些犀牛還是馴鹿!</text>
-  <text id="gebura4_intro_g3">我說的是我們能自己搞定我們的問題, 我們不需要外人來介入這裡.</text>
-  <text id="gebura4_intro_r30">什麼? 再跟我說一次你用那副錫做的身體幹得了什麼?</text>
-  <text id="gebura4_intro_r31">你現在看起來比我們還弱, 你看不出來?</text>
-  <text id="gebura4_intro_r32">或許年輕的你還能寫出一些故事來.</text>
+  <text id="gebura4_intro_a1">稍等一下，兔子隊長，我需要向主管說明一下。</text>
+  <text id="gebura4_intro_r3">啊，還不知道我是誰嗎？那就快說明吧，快點。</text>
+  <text id="gebura4_intro_a2">……這應該是您第一次參加外部會議吧，主管。</text>
+  <text id="gebura4_intro_a3">如之前幾次提及，我們公司為了持續發展與可能性，與多家翼簽訂了協約。</text>
+  <text id="gebura4_intro_a4">到時，我還需要與其他翼的相關負責人會面並更新合約。</text>
+  <text id="gebura4_intro_a5">您只需作為形式上的主管出席即可，其餘事務交給我就好。</text>
+  <text id="gebura4_intro_r4">就說是公司的相關負責人，介紹得這麼平淡？</text>
+  <text id="gebura4_intro_a6">繆，稍後私下再談詳細說明，現在正式開始會議。</text>
+  <text id="gebura4_intro_a7">……開會時，至少把頭盔摘下來吧？</text>
+  <text id="gebura4_intro_r5">什麽？頭盔！這可是我們兔子的標誌啊。</text>
+  <text id="gebura4_intro_r6">好吧好吧。</text>
+  <text id="gebura4_intro_r7">我這邊簡要說明合約內容就可以了吧？</text>
+  <text id="gebura4_intro_r8">也就是說，</text>
+  <text id="gebura4_intro_r9">呃，再說一次都覺得煩了……合約書上明明都寫了，還非得要我再說一遍？</text>
+  <text id="gebura4_intro_a8">就如字面意思，這是形式上的程序。</text>
+  <text id="gebura4_intro_a9">而且需要再次明確你是否同意該合約。</text>
+  <text id="gebura4_intro_r10">還是一如既往的嚴格啊。</text>
+  <text id="gebura4_intro_r11">首先說明我們提供的服務。</text>
+  <text id="gebura4_intro_r12">我們R公司應向L公司提供部分軍事支援，並保護其免受所有外部威脅。</text>
+  <text id="gebura4_intro_r13">這裡的L公司包括腦葉公司向前追溯的所有分部，但根據情況也可能會有例外。</text>
+  <text id="gebura4_intro_r14">雖說是例外，但只要不是與首腦或眼線相關的事，一般都會通融。</text>
+  <text id="gebura4_intro_r15">L公司則應為R公司提供維持活動所需的能源。</text>
+  <text id="gebura4_intro_r16">此次更新過程中，也包含了必須持續進行的W公司與L公司相互協約的強制條件。</text>
+  <text id="gebura4_intro_r17">然後……我看看……戰鬥過程中消耗對異想體的殺傷性子彈，必須由L公司提供。</text>
+  <text id="gebura4_intro_r18">此外，所有兔子隊成員在任務結束後必須進行記憶刪除。</text>
+  <text id="gebura4_intro_r19">對於此地的目的及設施的特殊性，不得抱有任何疑問。</text>
+  <text id="gebura4_intro_r20">最後，我，兔子隊長，根據R公司的指示派遣兔子隊並負責此地。</text>
+  <text id="gebura4_intro_r21">說完了。其餘內容請參考合約書。</text>
+  <text id="gebura4_intro_a10">與W公司的協約依舊維持不變。</text>
+  <text id="gebura4_intro_a11">並且更新期限與之前一樣，為一年。</text>
+  <text id="gebura4_intro_r22">對你們來說是一年吧……不過，好吧。</text>
+  <text id="gebura4_intro_r23">另外閒話一句，來這裡的空間移動能不能換成溫和點的方式？感覺身體都要分解了，暈乎乎的。</text>
+  <text id="gebura4_intro_a12">那要問W公司，我們這邊也無能為力。</text>
+  <text id="gebura4_intro_a13">Geburah，你從剛才就用那種表情看著，是怎麼了？</text>
+  <text id="gebura4_intro_g1">為什麼非要派兔子這種東西來這裡？</text>
+  <text id="gebura4_intro_r24">竟敢小看兔子，你這不懂的傢伙！</text>
+  <text id="gebura4_intro_r25">我們兔子啊，可是被認定為最適合在此地進行殺戮活動的。</text>
+  <text id="gebura4_intro_r26">犀牛們會把設施連同形態一起砸得粉碎，</text>
+  <text id="gebura4_intro_r27">而馴鹿們，雖然對這裡的機器是例外，但會對主管造成無可挽回的損傷。</text>
+  <text id="gebura4_intro_r28">而安吉拉強烈要求不得讓主管受影響。</text>
+  <text id="gebura4_intro_r29">這得聽從客戶的要求嘛。</text>
+  <text id="gebura4_intro_g2">我可不是在說什麼犀牛馴鹿這些的！</text>
+  <text id="gebura4_intro_g3">我是問為什麼我們自己能處理的事情，要讓外人插手。</text>
+  <text id="gebura4_intro_r30">什麼？再說一遍，你這鐵皮身子能處理什麼？</text>
+  <text id="gebura4_intro_r31">現在的你看起來比我們還弱不禁風啊？</text>
+  <text id="gebura4_intro_r32">如果是以前的你當然另當別論。</text>
 
-  <text id="gebura4_intro_r33">但看看現在的你. 很快你就得滾回你的巷子裡, 被那些清潔工拆成碎片.</text>
-  <text id="gebura4_intro_r34">最後一次你還能把你眼前的東西給弄濕是那殷紅迷霧還在的時候, 但它現在就只是你以前的一部分.</text>
-  <text id="gebura4_intro_r35">今非昔比. 記住這點.</text>
-  <text id="gebura4_intro_g4">如果我想要的話, 我能在幾秒內把像你一樣的兔子都拆成碎片...</text>
-  <text id="gebura4_intro_a14">大家, 請專注在會議裡的話題.</text>
-  <text id="gebura4_intro_a15">Geburah, 兔子小隊會在這裡的原因, 是為了幫助我們因應那些超過我們能力所及的惡劣情況.</text>
-  <text id="gebura4_intro_a16">我想你很清楚這一點, 就像你以往的經驗一樣.</text>
-  <text id="gebura4_intro_a17">相比於其他的翼, R 企業派出去的傭兵對戰鬥是最在行的.</text>
-  <text id="gebura4_intro_g5">我們能自己搞定我們的問題!</text>
-  <text id="gebura4_intro_g6">如果你想要的話我現在就能證明給你看...</text>
-  <text id="gebura4_intro_a18">我做了一份統計. 除了我以外, 這個數據給任何人來計算都顯得太龐大了.</text>
-  <text id="gebura4_intro_a19">即使冒著外人涉入的風險也是值得的, 這就是我繼續這份合約的原因.</text>
+  <text id="gebura4_intro_r33">但以你現在的狀態，一進後巷就會被清道夫們拆得連螺絲都不剩吧？</text>
+  <text id="gebura4_intro_r34">讓眼前一切不留痕跡地染上血霧的往日，真的只是往日了。</text>
+  <text id="gebura4_intro_r35">現在的你情況不同。你得認清這一點。</text>
+  <text id="gebura4_intro_g4">只要我願意，像你這樣的兔子瞬間就能碎成渣……</text>
+  <text id="gebura4_intro_a14">請各位在會議期間只限制討論會議內容，這算是基本的分辨力。</text>
+  <text id="gebura4_intro_a15">Geburah，派遣兔子隊是為了防備僅靠我們員工無法應對的情況。</text>
+  <text id="gebura4_intro_a16">你的鎮壓經驗非常出色，我想你很清楚。</text>
+  <text id="gebura4_intro_a17">R公司提供的傭兵戰鬥力，與其他翼相比也毫不遜色。</text>
+  <text id="gebura4_intro_g5">我們自己也能充分處理！</text>
+  <text id="gebura4_intro_g6">我可以證明，如果你想的話現在就可以……</text>
+  <text id="gebura4_intro_a18">我這裡有累積的統計。數量龐大到我一個人才能計算。</text>
+  <text id="gebura4_intro_a19">我之所以冒險引入外部人員並持續合約，是因為這有足夠的價值。</text>
 
-  <text id="gebura4_intro_a20">兔子們不會介入一般的鎮壓行動中.</text>
-  <text id="gebura4_intro_a21">冷靜下來並分析情勢的合理性, Geburah.</text>
-  <text id="gebura4_intro_g7">…….</text>
-  <text id="gebura4_intro_a22">嗯, 來完成我們的合約吧.</text>
-  <text id="gebura4_intro_a23">Geburah 負責基本的鎮壓程序,</text>
-  <text id="gebura4_intro_a24">Geburah 負責基本的鎮壓程序, 所以如果對戰鬥的方面有任何問題或需要幫忙的地方, 請去詢問 Geburah.</text>
+  <text id="gebura4_intro_a20">不過日常鎮壓時兔子隊不會介入。</text>
+  <text id="gebura4_intro_a21">冷靜地，理性地判斷情況吧，Geburah。</text>
+  <text id="gebura4_intro_g7">……</text>
+  <text id="gebura4_intro_a22">協約更新就此結束。</text>
+  <text id="gebura4_intro_a23">基礎鎮壓過程主要由Geburah負責，</text>
+  <text id="gebura4_intro_a24">其他戰鬥相關問題最好向Geburah請教。</text>
   <!-- 앤젤라 퇴장-->
-  <text id="gebura4_intro_r36">嗯, 很抱歉我沒有什麼要問你的, 我們兔子有自己的方法把事情搞定.</text>
-  <text id="gebura4_intro_g8">...我跟你們這些動物沒有什麼話好說.</text>
-  <text id="gebura4_intro_g9">你把你的生意搞定了, 為什麼現在你還留在這?</text>
-  <text id="gebura4_intro_r37">哇, 這樣對待你巷子裡的朋友真是太超過了.</text>
-  <text id="gebura4_intro_r38">你對我這麼生氣是因為我剛才取笑你嗎?</text>
-  <text id="gebura4_intro_g10">你覺得這很好玩? 我沒心情陪你玩遊戲, 請你閉嘴.</text>
-  <text id="gebura4_intro_r39">啊! 我知道了.</text>
-  <text id="gebura4_intro_r40">你生氣的原因是因為我們跑進了你的戰爭中.</text>
-  <text id="gebura4_intro_g11">是啦, 我不需要像你一樣的人來幫我.</text>
-  <text id="gebura4_intro_r41">嗯, 我們待在這裡不需要太多的原因.</text>
-  <text id="gebura4_intro_r42">當我們被呼喚的時候我們就會過來, 並在時間到的時候消失的無影無蹤.</text>
-  <text id="gebura4_intro_r43">我想你發現在這些殺戮之中的樂趣了, 跟我一樣,</text>
-  <text id="gebura4_intro_r44">但你對此太狂熱了.</text>
-  <text id="gebura4_intro_r45">整個人都是.</text>
-  <text id="gebura4_intro_g12">…….</text>
-  <text id="gebura4_intro_r46">我們是兔子, 我們為了能在綠意盎然的草地上跳躍而遵從命令, 可是你不一樣.</text>
-  <text id="gebura4_intro_r47">你以前知道你的敵人是誰.</text>
-  <text id="gebura4_intro_r48">你知道我有多震驚嗎? 我沒有想過會看到你會像... 這樣, 並待在這種地方.</text>
-  <text id="gebura4_intro_r49">你曾經是我的英雄, 那時的你為了保護別人從不害怕流血. 拜託不要弄髒了我的回憶.</text>
+  <text id="gebura4_intro_r36">怎麼辦呢，兔子有兔子的方式，應該沒什麼要請教的。</text>
+  <text id="gebura4_intro_g8">……我這邊也沒什麼要對野獸說的話。</text>
+  <text id="gebura4_intro_g9">事情辦完了就安靜離開不行嗎？</text>
+  <text id="gebura4_intro_r37">同是後巷出身，也太冷淡了。</text>
+  <text id="gebura4_intro_r38">難道是因為剛才開玩笑惹你生氣了？</text>
+  <text id="gebura4_intro_g10">你從剛才就一副很懂的樣子，但我可沒打算搭理你，閉嘴吧。</text>
+  <text id="gebura4_intro_r39">啊哈！現在我明白了。</text>
+  <text id="gebura4_intro_r40">你是在氣我們插手你的戰鬥吧？</text>
+  <text id="gebura4_intro_g11">沒錯，我從來沒指望過你們的協助。</text>
+  <text id="gebura4_intro_r41">我們也不是有什麼偉大理想才來的。</text>
+  <text id="gebura4_intro_r42">被叫來就來，時間到了就不留痕跡地消失。</text>
+  <text id="gebura4_intro_r43">我還以為你和我一樣是從殺戮中尋找樂趣的類型，</text>
+  <text id="gebura4_intro_r44">結果你只是瘋了而已。</text>
+  <text id="gebura4_intro_r45">（砰啪聲）</text>
+  <text id="gebura4_intro_g12">……</text>
+  <text id="gebura4_intro_r46">我們是為了新鮮牧草而聽命奔跑的兔子，但你不同。</text>
+  <text id="gebura4_intro_r47">以前的你清楚該為什麼而戰。</text>
+  <text id="gebura4_intro_r48">知道有多驚訝嗎？沒想到那麼厲害的你會在這種地方變成……這副模樣。</text>
+  <text id="gebura4_intro_r49">別糟蹋了我的英雄，那個從不吝嗇為他人流血、竭盡全力守護的英雄。</text>
   <!-- 장면 전환 (과거 회상)-->
-  <text id="gebura4_intro_e1">… 所有的異常都逃出收容了, 大家都死光了…</text>
+  <text id="gebura4_intro_e1">……異想體全部出逃，這裡的人都死了……</text>
   <!-- 화자 : 직원-->
-  <text id="gebura4_intro_g13">….死了? 所有的人?</text>
-  <text id="gebura4_intro_e2">我想那裡沒人能夠活下來了...</text>
-  <text id="gebura4_intro_e3">那些異常不是我們自己能夠搞定的東西.</text>
-  <text id="gebura4_intro_e4">你現在一定也很危險... 你最好趁現在趕快閃人....</text>
+  <text id="gebura4_intro_g13">……死了？全部？</text>
+  <text id="gebura4_intro_e2">恐怕，幾乎沒人活下來……</text>
+  <text id="gebura4_intro_e3">異想體不是我們能獨自處理的存在，</text>
+  <text id="gebura4_intro_e4">你肯定也很危險……不如現在就逃走……</text>
   <!-- 장면 전환 (과거 회상 2)-->
-  <text id="gebura4_intro_Christopher1">Geburah, 我很快就要參加一場實驗了.</text>
+  <text id="gebura4_intro_Christopher1">Geburah，我馬上要參加實驗了。</text>
   <!-- 화자 : 크리스토퍼-->
-  <text id="gebura4_intro_Christopher2">我們可能還會再見面, 但是以防萬一我還是得這麼說.</text>
+  <text id="gebura4_intro_Christopher2">雖然應該還能再見，但還是放心不下。</text>
   <!-- 화자 : 크리스토퍼-->
-  <text id="gebura4_intro_Christopher3">請在我不在的時候好好照顧 Gilly 跟 Isabelle.</text>
+  <text id="gebura4_intro_Christopher3">在我不在的時候，就拜託你照顧吉莉和伊莎貝爾了。</text>
   <!-- 화자 : 크리스토퍼-->
   <!-- 장면 전환 (과거 회상 3)-->
-  <text id="gebura4_intro_a25">異常們在遇到員工的時候會有任何一般的情緒嗎?</text>
+  <text id="gebura4_intro_a25">異想體在與相關人員面對面時，是否能感受到常規情感。</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a26">如果他們在面臨極端的情況時, 他們會做出什麼選擇?</text>
+  <text id="gebura4_intro_a26">面對極端情況時，它們會做出何種選擇，</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a27">在這個實驗中... 結果是可以預料得到的.</text>
+  <text id="gebura4_intro_a27">關於這項實驗……果然如預期一樣。</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_e5">我能用這些東西做什麼? 我只有幾件毯子跟奶瓶而已.</text>
+  <text id="gebura4_intro_e5">這些物品怎麼處理？還剩幾條毯子和奶瓶。</text>
   <!-- 화자 : 직원-->
-  <text id="gebura4_intro_a28">從這實驗中我得到了所有想要的結果.</text>
+  <text id="gebura4_intro_a28">這項實驗能得到的結果都已得到。</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_a29">丟了這些吧, 我們不會再用到了.</text>
+  <text id="gebura4_intro_a29">既然沒有原主人，那就廢棄吧。</text>
   <!-- 화자 : 앤젤라-->
-  <text id="gebura4_intro_r50">嘿....</text>
+  <text id="gebura4_intro_r50">喂……</text>
   <!-- 화자 : 용병 대장 (토끼 대장)-->
   <!-- 장면 전환 (현재)-->
-  <text id="gebura4_intro_r51">嘿! 你的電源還開著嗎?</text>
-  <text id="gebura4_intro_r52">我得走了.</text>
-  <text id="gebura4_intro_r53">嗯, 我想我們下一次再見的時候不會再這麼和平了.</text>
-  <text id="gebura4_intro_r54">兔子們現在要離開了.</text>
+  <text id="gebura4_intro_r51">喂！現在是斷電了嗎？</text>
+  <text id="gebura4_intro_r52">我得走了。</text>
+  <text id="gebura4_intro_r53">下次我們見面時，絕不會像現在這樣和平了吧。</text>
+  <text id="gebura4_intro_r54">兔子就此告退。</text>
   <!-- 용병 대장 퇴장-->
-  <text id="gebura4_intro_g14">.....</text>
-  <text id="gebura4_intro_g15">很顯然的那個英雄絕對不是我.</text>
-  <text id="gebura4_intro_g16">絕對不是.</text>
+  <text id="gebura4_intro_g14">……</text>
+  <text id="gebura4_intro_g15">那個英雄不是我。</text>
+  <text id="gebura4_intro_g16">絕對不是。</text>
 
 
   <!-- 에피소드 5-->
-  <text id="gebura5_intro_g1">或許大家都注意到了. 我們以前從來沒遇過這種情況.</text>
-  <text id="gebura5_intro_g2">那些本該要睡著的怪物不知道被什麼給叫醒了.</text>
-  <text id="gebura5_intro_g3">先別去管是什麼導致了這場災難.</text>
-  <text id="gebura5_intro_g4">先讓我們去搞定這些問題, 讓我們奪回局勢.</text>
-  <text id="gebura5_intro_g5">在開始這場戰鬥前讓我說幾句話.</text>
-  <text id="gebura5_intro_g6">我的部門裡不需要懦夫.</text>
-  <text id="gebura5_intro_g7">當你面對那些怪物時不要疏忽了每項細節.</text>
-  <text id="gebura5_intro_g8">記得在抵禦這些怪物時用憤怒來武裝你自己.</text>
-  <text id="gebura5_intro_g9">如果你不認同我說的話, 你隨時都能離開.</text>
-  <text id="gebura5_intro_g0">我會不斷的衝向那些怪物, 即使你在我面前被撕成碎片也是.</text>
-  <text id="gebura5_intro_g10">我不會為那些沒把名字留在世上的人流淚或哀悼.</text>
-  <text id="gebura5_intro_g11">如果你想要讓你的軀體跟靈魂安息, 請在福利小組的候補名單裡填上你的名字.</text>
-  <text id="gebura5_intro_g12">這就是在我們的部門裡員工這麼少的原因. 在你覺得你能夠成為我們的一分子時, 記住這點.</text>
-  <text id="gebura5_intro_g13">結束. 在整理完這些雜事後我會告訴你更多事的.</text>
-  <text id="gebura5_intro_tb1">(靜靜地站著)</text>
+  <text id="gebura5_intro_g1">大家都應該清楚。這種情況前所未有。</text>
+  <text id="gebura5_intro_g2">本該安靜沉睡的那些怪物們，突然睜開了眼睛。</text>
+  <text id="gebura5_intro_g3">為何會變成這樣，原因並不重要。</text>
+  <text id="gebura5_intro_g4">既然情況發生了，我們就去解決。</text>
+  <text id="gebura5_intro_g5">投入戰鬥前，今天我要多說幾句。</text>
+  <text id="gebura5_intro_g6">我們部門不需要懦夫，</text>
+  <text id="gebura5_intro_g7">也不能以安逸的心態去面對怪物。</text>
+  <text id="gebura5_intro_g8">必須以憤怒武裝自己，去處理那些怪物。</text>
+  <text id="gebura5_intro_g9">如果對此感到抗拒，現在就可以申請調離部門。</text>
+  <text id="gebura5_intro_g0">即使你們在我眼前被撕碎，我也會立刻衝向眼前的怪物。</text>
+  <text id="gebura5_intro_g10">我不會為連名字都未能留下就消失的人流淚或哀悼。</text>
+  <text id="gebura5_intro_g11">如果想讓身心更輕鬆些，就去拿那可悲的福利部調職等候號碼牌吧。</text>
+  <text id="gebura5_intro_g12">我們部門職員數量遠少於他人是有原因的，但這也意味著我們更加卓越，請記住這一點。</text>
+  <text id="gebura5_intro_g13">完畢。剩下的話等情況處理完後再說。</text>
+  <text id="gebura5_intro_tb1">（滋滋）</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb2">Geburah 你的身體受了太多損傷了.</text>
+  <text id="gebura5_intro_tb2">Geburah，你的本體似乎損傷過重。</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb3">我們何不稍停一下今天的鎮壓行動?</text>
+  <text id="gebura5_intro_tb3">鎮壓作戰是否該到此為止？</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_tb4">Tipereth 正在調查這個情況, 我們需要趕緊解決這個問題.</text>
+  <text id="gebura5_intro_tb4">Tiphereth現正在持續調查原因，應該很快就能解決。</text>
   <!-- 무전기 속 티페리트 b-->
-  <text id="gebura5_intro_g14">我不需要... 我還能戰鬥下去.</text>
-  <text id="gebura5_intro_tb5">但是, 依你現在的狀況, 這已經...</text>
-  <text id="gebura5_intro_g15">閉嘴, 我說了我還能戰鬥!</text>
+  <text id="gebura5_intro_g14">不需要……我還可以繼續戰鬥。</text>
+  <text id="gebura5_intro_tb5">但是，現在的狀態太勉強了……</text>
+  <text id="gebura5_intro_g15">吵死了，我說了我還能繼續戰鬥！</text>
   <!-- 비나 등장-->
-  <text id="gebura5_intro_b1">目前為止有 31 個 E.G.O 損壞, 以及 17 名員工死亡,</text>
+  <text id="gebura5_intro_b1">目前損壞的E.G.O共31件，死亡的職員共17名，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b2">而我的身體大約有五或六個部件需要更換...</text>
+  <text id="gebura5_intro_b2">以及需要更換的本體零件共五六個……</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b3">我對看到一個行為幼稚的機器並不會感到高興,</text>
+  <text id="gebura5_intro_b3">雖然並不樂意給不懂事的機器收拾爛攤子，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b4">但是中央小組的 Sephirah 控制不了你,  這就是為什麼我會在這裡.</text>
+  <text id="gebura5_intro_b4">但中央總部的Sephirah說無法應付你，所以我只好親自上來一趟。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_g16">…….. 你...</text>
-  <text id="gebura5_intro_b5">可憐的孩子, 看看你自己.</text>
+  <text id="gebura5_intro_g16">……你……</text>
+  <text id="gebura5_intro_b5">看看你這副樣子，可憐的小傢伙。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b6">以前的你眼神是多的清澈,</text>
+  <text id="gebura5_intro_b6">曾經還算看得過去的眼神，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b7">但是現在你的雙眼已經被瘋狂給佔據了.</text>
+  <text id="gebura5_intro_b7">也被瘋狂侵蝕變得渾濁了啊。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b8">多麼可恥, 現在的我倆被深鎖在這座地牢裡,</text>
+  <text id="gebura5_intro_b8">雖然你我以同樣不堪的模樣被關進了這地下監獄，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b9">但直到現在我仍沒崩潰.</text>
+  <text id="gebura5_intro_b9">但我可沒有彎腰屈服。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b10">除非像以前一樣拼了老命, 不然我們也不再有臉能面對彼此了,</text>
+  <text id="gebura5_intro_b10">或許不會再有像過去那樣你我以命相搏的日子了，但是，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b11">憐憫你.</text>
+  <text id="gebura5_intro_b11">看你可憐，還是說一句吧。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b12">緊盯那些使你憤怒的東西.</text>
+  <text id="gebura5_intro_b12">請直視你憤怒的對象。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b13">不過有多鋒利, 迷失方向的利刃能劃破的只有空氣而已.</text>
+  <text id="gebura5_intro_b13">失去目標的刀刃，無論如何打磨，也只會斬擊虛空，變得無比遲鈍。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b14">為什麼在看到我永遠的對手時我會覺得像是看到一攤爛泥.</text>
+  <text id="gebura5_intro_b14">希望你顧及一下我的顏面，畢竟我曾是與你兵刃相向的對手，卻要看著你以這副模樣滾爬。</text>
   <!-- 화자 : 비나-->
   <!-- 장면 전환 (과거 회상)-->
-  <text id="gebura5_intro_g17">切割, 批砍, 摧毀, 掐緊, 以及踐踏...</text>
-  <text id="gebura5_intro_g18">我有時會想起那些對我露出善意的臉孔.</text>
-  <text id="gebura5_intro_g19">如果我能在那些有著笑臉, 幸福, 未來的怪物身上嚐到一點復仇的滋味,</text>
-  <text id="gebura5_intro_g20">我的將不會停下我那揮舞的長矛.</text>
-  <text id="gebura5_intro_g21">人類在我模糊的視線中死去.</text>
-  <text id="gebura5_intro_g22">他們總是被那些怪物扯成碎片.</text>
-  <text id="gebura5_intro_g23">一次又一次, 那些死去的臉孔總是不一樣.</text>
-  <text id="gebura5_intro_g24">有些是陌生人, 有些是曾經深愛的人, 而有時候他們會變成 Christopher 或是 Isabelle.</text>
-  <text id="gebura5_intro_g25">不管他們是誰, 我都深陷在痛苦之中.</text>
+  <text id="gebura5_intro_g17">切割，斬殺，破壞，勒緊，踐踏……</text>
+  <text id="gebura5_intro_g18">時常會想起那些曾溫柔待我的人們的面容。</text>
+  <text id="gebura5_intro_g19">若能向奪走他們微笑、幸福、未來的那些東西報仇雪恨，哪怕只有一點點，</text>
+  <text id="gebura5_intro_g20">我的槍與劍就絕不會停止。</text>
+  <text id="gebura5_intro_g21">在我模糊的視野中，人們不斷死去。</text>
+  <text id="gebura5_intro_g22">總是被怪物們撕咬著。</text>
+  <text id="gebura5_intro_g23">垂死的面容總是各式各樣。</text>
+  <text id="gebura5_intro_g24">有時是陌生的面孔，有時是非常思念的面孔，有時又会變成克里斯托弗先生，或是伊莎貝爾女士的樣子。</text>
+  <text id="gebura5_intro_g25">無論他們是誰，我總是痛苦萬分。</text>
 
-  <text id="gebura5_intro_g26">我看著我癱瘓的雙腿以及殘缺的雙臂, 痛罵我無能的軀體並在壓抑的憤怒中狂嘯,</text>
-  <text id="gebura5_intro_g27">接著我眼前一黑.</text>
-  <text id="gebura5_intro_g28">我非常討厭暈倒的感覺...</text>
+  <text id="gebura5_intro_g26">我看著無法動彈的腿和被切斷的手臂，詛咒這軟弱的身體，滿懷怨恨地嘶吼，</text>
+  <text id="gebura5_intro_g27">隨後黑暗降臨。</text>
+  <text id="gebura5_intro_g28">又是這該死的黑暗……</text>
   <!-- 장면 전환 (과거 회상2)-->
-  <text id="gebura5_intro_a1">使用這麼稀疏的人力去戰鬥是不可能的. 我不能准許你的提議.</text>
-  <text id="gebura5_intro_g29">... 請再考慮一下...</text>
-  <text id="gebura5_intro_a2">為什麼我要准許這如此高風險的行動?</text>
-  <text id="gebura5_intro_g30">如果人力太少的話, 我能靠我自己來彌補. 如果他們太弱的話, 我也能靠我自己來彌補.</text>
-  <text id="gebura5_intro_a3">……..</text>
-  <text id="gebura5_intro_g31">沒有任何規定 Sephirah 去限制去使用 E.G.O.</text>
-  <text id="gebura5_intro_a4">如果這是你想要做的, 那就照你的意思吧.</text>
+  <text id="gebura5_intro_a1">以這點人力戰力是不可能的。你的提議無法接受。</text>
+  <text id="gebura5_intro_g29">……請再考慮一次……</text>
+  <text id="gebura5_intro_a2">為什麼我要批准一個注定失敗的作戰？</text>
+  <text id="gebura5_intro_g30">如果人力不足，我來補上。如果戰力薄弱，我來彌補。</text>
+  <text id="gebura5_intro_a3">……</text>
+  <text id="gebura5_intro_g31">規定裡也沒有禁止Sephirah使用E.G.O啊。</text>
+  <text id="gebura5_intro_a4">如果那是你的期望，就那麼做吧。</text>
   <!-- 장면 전환 (과거 회상3)-->
-  <text id="gebura5_intro_g32">熟悉的握感, 正確的重量, 以及熟練的姿勢.</text>
-  <text id="gebura5_intro_g33">這感覺真是特別, 就像個路標在我茫然的時候把我拉回到正確的道路上.</text>
-  <text id="gebura5_intro_g34">在我揮著武器時我在時間的軌跡中完全的迷失了.</text>
-  <text id="gebura5_intro_g35">在看到 Tipereth 和 Chesed 用困惑的眼神看著滿身是血的我時還真的有點好笑.</text>
-  <text id="gebura5_intro_g36">我試著用盡力氣去刺穿, 粉碎它們, 但總有一天它們還是會變得完好如初.</text>
-  <text id="gebura5_intro_g37">有些仍在哀號, 哭泣.</text>
-  <text id="gebura5_intro_g38">我的部件也在當中損毀或失去, 但很快就能更換掉它們.</text>
-  <text id="gebura5_intro_g39">這個只為我準備的可愛的地獄是如此完美.</text>
+  <text id="gebura5_intro_g32">熟悉的手感，恰到好處的重量。熟練掌握的姿勢。</text>
+  <text id="gebura5_intro_g33">這種感覺無比清晰，如同為一直徘徊的我指引道路的標誌。</text>
+  <text id="gebura5_intro_g34">甚至忘記時間的流逝，不斷揮舞。</text>
+  <text id="gebura5_intro_g35">看到我渾身是血回來的樣子，Tiphereth和Chesed的表情有點可笑。</text>
+  <text id="gebura5_intro_g36">即使盡全力刺入、砸碎，它們總有一天會再生。</text>
+  <text id="gebura5_intro_g37">有的在哀嚎，有的在尖叫。</text>
+  <text id="gebura5_intro_g38">即使我被打碎，部分脫落，也很快就會被更換。</text>
+  <text id="gebura5_intro_g39">這是多麼完美無缺的、只屬於我的地獄啊。</text>
   <!-- 장면 전환 (과거 회상4)-->
-  <text id="gebura5_intro_b15">你在找你的手臂嗎?</text>
+  <text id="gebura5_intro_b15">在找你被砍掉的一隻手臂嗎？</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b16">就在這.</text>
+  <text id="gebura5_intro_b16">在這。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b17">在我把你的手臂遞給你時, 把這當成是我對一名戰士的憐憫吧.</text>
+  <text id="gebura5_intro_b17">還有隻胳膊給你留著，就當是對戰士的敬意吧。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b18">我想她並不知道. 她為了實現她美好的烏托邦, 在這裡上演了多少悲劇.</text>
+  <text id="gebura5_intro_b18">她大概沒想到吧，自己那偉大的理想會招致如此慘劇。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b19">我不知道這到底有沒有幫助, 但這種情況總是在發生, 發生的頻率比你想的還要多.</text>
+  <text id="gebura5_intro_b19">不知能否安慰到你，但這種事比你想像的更頻繁。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b20">我是說, 一些幼苗在踐踏當中就這麼死了.</text>
+  <text id="gebura5_intro_b20">剛剛長出的新芽被踐踏得無影無踪。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b21">我會說你真是個幸運的倖存者.</text>
+  <text id="gebura5_intro_b21">不過像你這樣，也算努力爬上來了。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b22">你甚至有點阻礙了我的計畫.</text>
+  <text id="gebura5_intro_b22">甚至讓我的計劃出現了一些偏差。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b23">我並不期望你能殺死那兩隻爪子, 阻止那些怪物,</text>
+  <text id="gebura5_intro_b23">你不僅解決了兩名爪牙，擋住了怪物，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b24">甚至搞定我.</text>
+  <text id="gebura5_intro_b24">甚至沒想到連我都能對付。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b25">問帶一提, 關於那些怪物,</text>
+  <text id="gebura5_intro_b25">不過說起那些怪物，</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b26">我不能否定他們是如此驚奇的生物.</text>
+  <text id="gebura5_intro_b26">不得不承認它們確實是了不起的生物。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b27">即使在殺了你這麼多的朋友後, 你還是不會感到疲弱或厭倦.</text>
+  <text id="gebura5_intro_b27">雖然已經殺死了你很多朋友，但看起來既不會疲倦也不會鬆懈。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b28">...... 我看不出來你跟它們的差別.</text>
+  <text id="gebura5_intro_b28">……現在看來，你也一樣呢。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b29">好吧.</text>
+  <text id="gebura5_intro_b29">好吧。</text>
   <!-- 화자 : 비나-->
-  <text id="gebura5_intro_b30">如果你的雙腿站得起來的話, 你可以走了.</text>
+  <text id="gebura5_intro_b30">如果還有拿起武器、雙腳站立的力氣，就試試看吧。</text>
   <!-- 화자 : 비나-->
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="gebura5_intro_g40">我不會崩潰的.</text>
-  <text id="gebura5_intro_g41">…...…...</text>
-  <text id="gebura5_intro_g42">如果我除不掉這些怪物,</text>
-  <text id="gebura5_intro_g43">我會親自拆了這間公司...</text>
-  <text id="gebura5_intro_g44">讓我的憤怒長眠在地下吧.</text>
+  <text id="gebura5_intro_g40">我不會破碎，</text>
+  <text id="gebura5_intro_g41">…………</text>
+  <text id="gebura5_intro_g42">如果無法消滅那些怪物，</text>
+  <text id="gebura5_intro_g43">拿我就把公司本身砸碎……</text>
+  <text id="gebura5_intro_g44">讓這無處可去的憤怒也一同塌陷，永遠沉睡於地底……</text>
   <!-- 장면 전환 (A 독백)-->
-  <text id="gebura5_intro_A1">在小巷眾多的清潔工當中, 她是少數能忍受那些頭領跟爪子的人.</text>
-  <text id="gebura5_intro_A2">在小巷的人們裡, 他們稱呼她做 ‘殷紅迷霧’.</text>
-  <text id="gebura5_intro_A3">她掙得了保護我們不受外部的威脅的名聲.</text>
-  <text id="gebura5_intro_A4">Michelle 背叛了我們, 那些眼線在暗處發現了我們, 並朝我們派出頭領跟爪子.</text>
-  <text id="gebura5_intro_A5">那些頭領沒有直接地跟我們衝突, 而是釋放了那些不穩定的異常來對付我們.</text>
-  <text id="gebura5_intro_A6">那些異常失去了控制, 不停地撕裂員工,</text>
-  <text id="gebura5_intro_A7">而那些爪子則獵殺著它們的獵物...</text>
-  <text id="gebura5_intro_A8">這超過了她的極限, 但是她為了保護我們奉獻了一切.</text>
-  <text id="gebura5_intro_A9">她失去了一隻眼睛, 一肢手臂被切下, 怵目驚心的傷疤滿佈全身.</text>
-  <text id="gebura5_intro_A10">但她卻沒放棄...</text>
-  <text id="gebura5_intro_A11">而她最後在保護 B 以及我的時候死去.</text>
-  <text id="gebura5_selection1">收集殘肢</text>
-  <text id="gebura5_selection2">收集殘肢</text>
-  <text id="gebura5_selection3">收集殘肢</text>
-  <text id="gebura5_intro_A12">這些殘肢屍塊顯示了她在那個時候經歷了多麼可怕的情況.</text>
-  <text id="gebura5_intro_A13">一段時間後她再次睜開了雙眼,</text>
-  <text id="gebura5_intro_A14">但她失去了對憤怒的控制, 將她拉下至深淵之中,</text>
-  <text id="gebura5_intro_A15">所以我們只好不斷的重啟她.</text>
+  <text id="gebura5_intro_A1">在奔波於後巷的眾多收尾人中，她是極少數能與首腦和爪牙抗衡的存在。</text>
+  <text id="gebura5_intro_A2">在後巷，人們稱她為「殷紅迷霧」。</text>
+  <text id="gebura5_intro_A3">這是她從外部威脅和震懾中保護我們而取得的另一個名字。</text>
+  <text id="gebura5_intro_A4">由於米歇爾的背叛，眼線找到了隱藏起來的我們，首腦則無情地揮舞著爪牙。</text>
+  <text id="gebura5_intro_A5">狡猾無比的首腦沒有直接對付她，而是透過放出不穩定的異想體來試圖處理掉她和我們。</text>
+  <text id="gebura5_intro_A6">失控的異想體們，被撕碎慘叫的同伴們，</text>
+  <text id="gebura5_intro_A7">能抓住任何獵物的爪牙……</text>
+  <text id="gebura5_intro_A8">這並非她一人能應付的局面，但她仍試圖以任何方式守護到底。</text>
+  <text id="gebura5_intro_A9">即使失去一條手臂，一隻眼睛失明，全身佈滿無法癒合的傷痕，</text>
+  <text id="gebura5_intro_A10">但她直到最後都沒有放棄……</text>
+  <text id="gebura5_intro_A11">至少讓我和B得以幸存。</text>
+  <text id="gebura5_selection1">收殮遺體。</text>
+  <text id="gebura5_selection2">收殮遺體。</text>
+  <text id="gebura5_selection3">收殮遺體。</text>
+  <text id="gebura5_intro_A12">收殮的時候，那慘不忍睹的遺體展示了當時慘烈的狀況。</text>
+  <text id="gebura5_intro_A13">在漫長時間後再次睜開眼睛的她，</text>
+  <text id="gebura5_intro_A14">因失去歸所的憤怒而不斷向下墜落，</text>
+  <text id="gebura5_intro_A15">因此也不得不經歷多次重啟。</text>
 
 
   <!-- 에피소드 6-->
   <!-- 장면 : 과거-->
-  <text id="gebura6_intro_g1">你那是什麼表情? 你覺得我是個小偷或是什麼東西?</text>
-  <text id="gebura6_intro_ca1">我只是沒有預料到會在這看到你.</text>
+  <text id="gebura6_intro_g1">為什麼是那種表情？我看起來像小偷嗎？</text>
+  <text id="gebura6_intro_ca1">沒想到你會在這裡。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca2">嗯, 老實說, 我知道你終究會來到這裡, 只是我沒預料到會有這麼快.</text>
+  <text id="gebura6_intro_ca2">準確地說，我知道你會來，但沒想到這麼快。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca3">你在那時候轉開了你的臉, 但你實際上跟我很像, 不是嗎?</text>
+  <text id="gebura6_intro_ca3">那時你雖然皺著眉頭，但其實對我的印象還不錯吧？</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g2">搞什麼鬼.</text>
-  <text id="gebura6_intro_ca4">你知道的, 我就是搞不懂那些住在巷子裡的人們過著什麼樣的生活或是痛苦.</text>
-  <!-- 화자 : 카르멘-->
-
-  <text id="gebura6_intro_ca5">也許跟他們相比我像個懦夫一樣過著富有的生活.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca6">所以我總是對一切感到羞愧, 甚至只是一縷陽光.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g3">……. 不是所有時候都這麼艱難.</text>
-
-  <text id="gebura6_intro_ca7"> …. 我知道來到這裡是個困難的決定, 謝謝你.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca8">很快, 在這裡我們將面臨到難以預料的挑戰.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca9">這麼多棘手的問題需要和平解決.</text>
+  <text id="gebura6_intro_g2">到底在說什麼啊……</text>
+  <text id="gebura6_intro_ca4">聽著，我並不了解後巷人們的痛苦或他們的世界。</text>
   <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_ca10">那天我和其他人說話的原因其實是一些相當微不足道的事情.</text>
+  <text id="gebura6_intro_ca5">或許和他們相比，我過著相當寬裕而又懦弱的生活。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g4">…… 所以是什麼?</text>
-  <text id="gebura6_intro_ca11">老實說....</text>
+  <text id="gebura6_intro_ca6">所以即使面對一絲陽光，我也總是心懷愧疚地活著。</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_g3">……也並非總是那麼艱難。</text>
+
+  <text id="gebura6_intro_ca7">……來到這裡應該不是個容易的決定，謝謝你。</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_ca8">無論快慢，不久後這裡將會面臨難以預料的苦難。</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_ca9">想要和平解決的問題實在太多了。</text>
   <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_g5">老實說...?</text>
-  <text id="gebura6_intro_ca12">我以為我能用便宜的代價跟你交換.</text>
+  <text id="gebura6_intro_ca10">即便如此，我那天選擇對你開口，而不是找組織或其他收尾人，理由並不宏大。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g6">...... 我做了錯誤的決定. 我現在要回去了.</text>
+  <text id="gebura6_intro_g4">……是什麼？</text>
+  <text id="gebura6_intro_ca11">其實……</text>
+  <!-- 화자 : 카르멘-->
 
-  <text id="gebura6_intro_ca13">我聽到了最後.</text>
+  <text id="gebura6_intro_g5">其實……？</text>
+  <text id="gebura6_intro_ca12">覺得如果口才好點，或許能壓低你的價碼……</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca14">我看到你為了一位老太太以及那些你甚至不認識的人支付了喪葬的費用.</text>
+  <text id="gebura6_intro_g6">……我找錯人了。溜了。</text>
+
+  <text id="gebura6_intro_ca13">聽我說完嘛。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca15">我真的佩服你的善良, 我甚至會為此期待著.</text>
+  <text id="gebura6_intro_ca14">我看到你替一位無名老奶奶支付了葬禮費用。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g7">沒被埋葬的屍體可能會讓所有的巷子都感染鼠疫,</text>
-  <text id="gebura6_intro_g8">所以我只是想回報她以前做過的事.</text>
-  <text id="gebura6_intro_g9">懂了嗎? 我的人生裡從來沒有跟善良接近過.</text>
-  <text id="gebura6_intro_ca16">…..…..</text>
+  <text id="gebura6_intro_ca15">我喜歡你那樣的溫柔，並對你抱有期待。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_g10">為什麼你笑個不停?!</text>
-  <text id="gebura6_intro_ca17">我只是對我厲害的洞察力感到滿意而已.</text>
+  <text id="gebura6_intro_g7">屍體如果隨便埋了，整個後巷會鼠患成災，</text>
+  <text id="gebura6_intro_g8">而且想起之前從她那裡得過幾次食物，就當是還人情了。</text>
+  <text id="gebura6_intro_g9">明白了嗎？我這一生都與溫柔二字無緣。</text>
+  <text id="gebura6_intro_ca16">……</text>
+  <!-- 화자 : 카르멘-->
+  <text id="gebura6_intro_g10">你為什麼一直在笑！</text>
+  <text id="gebura6_intro_ca17">我只是再次驚嘆自己看人的眼光很準。</text>
   <!-- 화자 : 카르멘-->
   <!-- A 독백-->
-  <text id="gebura6_intro_A1">她是對的. Carmen 對人非常的敏銳.</text>
-  <text id="gebura6_intro_A2">實際上, 僅僅將她出名的原因記載在書上是不夠的.</text>
-  <text id="gebura6_intro_A3">Carmen 太過熱衷在照顧其他人身上, 甚至忘記將她自己給照顧好.</text>
-  <text id="gebura6_intro_A4">當時我們都很快樂, 回想起來那些過去是多麼殘忍.</text>
-  <text id="gebura6_intro_A5">我們以為我們的幸福會一直持續下去.</text>
+  <text id="gebura6_intro_A1">正如其所言，卡門看人的眼光確實很準。</text>
+  <text id="gebura6_intro_A2">後來她如何聲名鵲起，即便用書卷編寫年表也記載不完。</text>
+  <text id="gebura6_intro_A3">但卡門過於熱衷於關照周圍，反而無暇顧及自己。</text>
+  <text id="gebura6_intro_A4">現在回想起來，我們當時正幸福地高飛著，簡直近乎殘酷。</text>
+  <text id="gebura6_intro_A5">那時正向著那看似會永遠持續的無限世界飛去。</text>
   <!-- A 독백끝-->
-  <text id="gebura6_intro_g11">順帶一提, 那個盯著我的傢伙是誰?</text>
-  <text id="gebura6_intro_ca18">那一臉粗獷的傢伙是 A.</text>
+  <text id="gebura6_intro_g11">不過從剛才就一直盯著我看的那傢伙是誰？</text>
+  <text id="gebura6_intro_ca18">他叫A。只是因為他面相本來就很兇</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca19">…….</text>
+  <text id="gebura6_intro_ca19">……</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca20">拜託你了, 請保護這裡的人吧.</text>
+  <text id="gebura6_intro_ca20">拜託了。請守護好這裡的人。</text>
   <!-- 화자 : 카르멘-->
-  <text id="gebura6_intro_ca21">這方面我只能相信你了.</text>
+  <text id="gebura6_intro_ca21">如果是你的話，我會很放心。</text>
   <!-- 화자 : 카르멘-->
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="gebura6_intro_g12">從古至今, 那些異常在設施裡遊蕩並殺害了無數的人類.</text>
-  <text id="gebura6_intro_g13">有太多東西我保護不了, 讓我到了現在依然愧疚無比.</text>
-  <text id="gebura6_intro_g14">正義早在很久以前就遠離了我的人生.</text>
-  <text id="gebura6_intro_g15">如果我只待在巢中, 我就不會跟小巷有如此強大的牽絆了.</text>
-  <text id="gebura6_intro_g16">那是一個不需要正義, 倫理, 或是其他類似那些東西的地方.</text>
-  <text id="gebura6_intro_g17">如果你從沒去過那個地方, 你絕對不會知道這些事.</text>
-  <text id="gebura6_intro_g18">這些痛苦是過去住在那裡的人們的故事.</text>
-  <text id="gebura6_intro_g19">那些人們的生活是如此的不公.</text>
-  <text id="gebura6_intro_g20">我學到如何用那悲慘的生存方式存活下去.</text>
-  <text id="gebura6_intro_g21">Carmen 跟我說她不會放棄任何人, 包括像我一樣的那些人.</text>
-  <text id="gebura6_intro_g22">她也告訴我們就算是弱者, 只要懷有意願, 也能獲得砍下那些頭領的力量.</text>
-  <text id="gebura6_intro_g23">多麼荒謬可笑的故事. 為何我不繼續說下去呢?</text>
-  <text id="gebura6_intro_g24">........</text>
-  <text id="gebura6_intro_g25">我的腦袋並不擅長這些複雜的計算,</text>
-  <text id="gebura6_intro_g26">我甚至寫不出一篇條理分明的文件.</text>
-  <text id="gebura6_intro_g27">我唯一會做的事只有抽出我的劍去對抗站在我面前的敵人.</text>
-  <text id="gebura6_intro_g28">我只會為了存活下來而去保護我自己,</text>
-  <text id="gebura6_intro_g29">但在那一天, 我從沒來有這麼對我自己能夠去保護其他人而感到驕傲.</text>
-  <text id="gebura6_intro_g30">但我還是保護不了任何人, 讓我深深的感到痛苦.</text>
-  <text id="gebura6_intro_g31">我全身充滿憤怒, 讓我失去了我的理智.</text>
-  <text id="gebura6_selection1">就在最後, 我設法保護了某人</text>
+  <text id="gebura6_intro_g12">無論過去還是現在，異想體們在設施各處遊蕩，殺死了無數的人。</text>
+  <text id="gebura6_intro_g13">多到讓我的名聲都黯然失色，沒能守護的東西實在太多了。</text>
+  <text id="gebura6_intro_g14">我認為自己一生都過著與正義相距甚遠的人生。</text>
+  <text id="gebura6_intro_g15">如果一直生活在巢中，或許與後巷不會有太多交集。</text>
+  <text id="gebura6_intro_g16">那裡是根本不需要正義或道德這種概念的地方。</text>
+  <text id="gebura6_intro_g17">但若不曾去過，便無從知曉。</text>
+  <text id="gebura6_intro_g18">那裡的人們懷揣著多麼悲慘的故事，</text>
+  <text id="gebura6_intro_g19">過著多麼不正當的生活。</text>
+  <text id="gebura6_intro_g20">我學會的，只不過是可悲地活下去的方法。</text>
+  <text id="gebura6_intro_g21">卡門曾說，她不會連我們這樣的人也拋棄。</text>
+  <text id="gebura6_intro_g22">她還說，即使是弱者，只要下定決心，也能獲得足以斬下首腦頭顱的力量。</text>
+  <text id="gebura6_intro_g23">為什麼那天，我就沒能對那些荒誕不經、難以置信的話置若罔聞呢。</text>
+  <text id="gebura6_intro_g24">……</text>
+  <text id="gebura6_intro_g25">我頭腦不好，做不來複雜的計算，</text>
+  <text id="gebura6_intro_g26">也寫不出邏輯縝密的文章。</text>
+  <text id="gebura6_intro_g27">我唯一能做的，只是向礙事的對手揮刀。</text>
+  <text id="gebura6_intro_g28">我為了生存而習得的這點本事，</text>
+  <text id="gebura6_intro_g29">第一次讓我為能夠守護某人而感到自豪。</text>
+  <text id="gebura6_intro_g30">但最終誰也沒能守護的事實，對我來說是巨大的痛苦。</text>
+  <text id="gebura6_intro_g31">所以我憤怒了，瘋狂了。</text>
+  <text id="gebura6_selection1">但最終還是守護了某些人。</text>
   <!-- 선택지-->
-  <text id="gebura6_selection2">B 與我倖存了下來</text>
+  <text id="gebura6_selection2">但至少你讓我和B都倖存了。</text>
   <!-- 선택지-->
-  <text id="gebura6_intro_g32">好吧.</text>
-  <text id="gebura6_intro_g33">因為我, 你跟其他人活了下來...</text>
-  <text id="gebura6_intro_g34">我以為我的心裡早就沒有 Carmen 的意志了,</text>
-  <text id="gebura6_intro_g35">但在這一切之後, 某個東西帶領著我來到了這裡, 對吧?</text>
-  <text id="gebura6_intro_g36">現在就讓我休息一下吧.</text>
-  <text id="gebura6_intro_g37">在我們醒來後, 讓我們記住在我們心中的最深處嚥下最後一口氣的那一刻吧.</text>
-  <text id="gebura6_intro_g38">可悲的是, 在我醒來後心中只剩下對那些異常的憤怒.</text>
-  <text id="gebura6_intro_g39">你想念她, 對吧?</text>
-  <text id="gebura6_intro_g40">我也是.</text>
-  <text id="gebura6_intro_g41">我不認為她能回得來.</text>
-  <text id="gebura6_intro_g42">我不認為我還能從她的臉上看見那無所畏懼的笑容, 讓那些跟我一樣的人追隨著她.</text>
-  <text id="gebura6_intro_g43">你只會想用雙手去捧住那道從她臉上所溢出的光芒.</text>
-  <text id="gebura6_intro_g44">我的意志與承諾將是永恆的.</text>
-  <text id="gebura6_intro_g45">一個就算是在她死後也能讓她活著的地方.</text>
+  <text id="gebura6_intro_g32">是啊。</text>
+  <text id="gebura6_intro_g33">你和其他人確實因我而得以倖存。</text>
+  <text id="gebura6_intro_g34">我曾以為我永遠失去了卡門的意志，</text>
+  <text id="gebura6_intro_g35">但正因為我，那份意志最終得以延續，並來到了這裡，對吧？</text>
+  <text id="gebura6_intro_g36">現在似乎終於可以鬆一口氣了。</text>
+  <text id="gebura6_intro_g37">我們醒來時，呼吸停止的瞬間如同碎片般嵌入體內。</text>
+  <text id="gebura6_intro_g38">愚蠢的是，我睜開眼睛時，心中只充斥著對異想體的憤怒。</text>
+  <text id="gebura6_intro_g39">你也想見她嗎？</text>
+  <text id="gebura6_intro_g40">我也是。</text>
+  <text id="gebura6_intro_g41">她大概無法再回來了。</text>
+  <text id="gebura6_intro_g42">她那憨厚臉皮的微笑，竟能讓像我這樣的人也能回心轉意，但恐怕再也見不到了。</text>
+  <text id="gebura6_intro_g43">還有那雙手無法盛載、滿溢而出的光芒。</text>
+  <text id="gebura6_intro_g44">但即使經歷永恆的時間，意志與諾言仍將長存。</text>
+  <text id="gebura6_intro_g45">那麼，她即使死去了，也將存活於那其中。</text>
 
-  <text id="gebura6_intro_g46">如果你還記得關於她的一切, 請跟我分享你的記憶吧.</text>
-  <text id="gebura6_intro_g47">這或許就是她最後贈與我們的禮物吧.</text>
+  <text id="gebura6_intro_g46">如果你也記得，就告訴我吧。</text>
+  <text id="gebura6_intro_g47">告訴我她留給我們的禮物。</text>
   
   
 </localize>
