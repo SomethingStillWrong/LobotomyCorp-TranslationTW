@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
-  <text id="expend_default">你想要擴充 {0} 嗎?</text>
+  <text id="expend_default">您確定要擴充{0}？</text>
   
-	<text id="expend_malkuth">早安啊! 你想要擴充控制小組嗎?</text>
-  <text id="expend_malkuth_first">你應該每天管管這些小組. 你想要開啟控制小組並繼續嗎?</text>
+	<text id="expend_malkuth">主管，祝您有美好的一天！您是要擴充指揮部並進入管理階段？</text>
+  <text id="expend_malkuth_first">主管！您每天都可以開放部門並開始管理喔！現在，我們來擴充指揮部並進入管理階段吧！</text>
 
-  <text id="expend_yesod">你想要擴充資訊小組並繼續嗎?</text>
-  <text id="expend_yesod_first">我負責資訊小組. 在你繼續之前你想要開啟該小組嗎?</text>
+  <text id="expend_yesod">你是要擴充情報部並進入管理階段？請務必做出準確的判斷。</text>
+  <text id="expend_yesod_first">我負責情報部。問候的話就稍後再說吧。您是要開放情報部並進入管理階段？</text>
 
-  <text id="expend_netzach">你確定你要在擴充保安小組後繼續嗎?</text>
-  <text id="expend_netzach_first">我負責保安小組. 在你繼續之前你想要開啟該小組嗎?</text>
+  <text id="expend_netzach">您確定是要擴充安全部並進入管理階段？</text>
+  <text id="expend_netzach_first">我是負責安全部的……唉，待會再說吧。嗯，先開放安全部，再進入管理部分。慢慢來。</text>
 
-  <text id="expend_hod">你想要先擴充訓練小組嗎? 這對你去管理員工有很大的幫助唷.</text>
-  <text id="expend_hod_first">哈囉, 我負責訓練小組. 你現在想要開啟小組嗎?</text>
+  <text id="expend_hod">您是要擴充培訓部並進入管理階段？這肯定能對主管您大有幫助的！</text>
+  <text id="expend_hod_first">您好，主管。我負責培訓部。您是要開放培訓部並進入管理階段？</text>
 
-  <text id="expend_tiphereth">你想要擴充中央指揮組嗎?</text>
-  <text id="expend_tiphereth_first">我們負責中央指揮組. 你想要擴充中央指揮組嗎?</text>
+  <text id="expend_tiphereth">你是要擴充中央總部並進入管理部分？</text>
+  <text id="expend_tiphereth_first">我們負責中央總部，你是要開放中央總部並進入管理階段？</text>
 
-  <text id="expend_geburah">擴充紀律小組並且想要去管理部門? 如果你想這麼幹, 就幹吧.</text>
-  <text id="expend_geburah_first">我負責紀律小組. 你想在繼續前要擴充紀律小組嗎?</text>
+  <text id="expend_geburah">你要擴充懲戒部？要做的話就快點。</text>
+  <text id="expend_geburah_first">我是負責懲戒部的。你是要開放懲戒部並進入管理部分？</text> 
 
-  <text id="expend_chesed">你想要擴充福利小組嗎? 如果你有點忙, 試著放輕鬆些.</text>
-  <text id="expend_chesed_first">我負責福利小組.你想要擴充福利小組嗎?</text>
+  <text id="expend_chesed">您是想擴充福利部並進入管理部分？忙的話可以慢慢來喔~</text>
+  <text id="expend_chesed_first">幸會~我負責福利部。問候的話我們稍後再慢慢聊~要開放福利部並進入管理部分？</text>
 
-  <text id="expend_binah">你要開啟萃取小組嗎?</text>
-  <text id="expend_binah_first">很高興見到你. 我負責萃取小組. 我們會再見面的.</text>
+  <text id="expend_binah">你要擴充提取部？</text>
+  <text id="expend_binah_first">很高興再度見到你。我執掌提取部。我們很快會再見的。</text>
 
-  <text id="expend_chokhmah">你想開啟紀錄小組嗎?</text>
-  <text id="expend_chokhmah_first">早安. 這裡是紀錄小組. 我們紀錄並操控一切.</text>
+  <text id="expend_chokhmah">您要擴充記錄部？</text>
+  <text id="expend_chokhmah_first">此處是記錄部。我們負責記錄公司的一切，也掌控著一切。</text>
 </localize>
