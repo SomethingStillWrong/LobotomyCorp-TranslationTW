@@ -144,11 +144,11 @@
   <text id="yesod5_intro_y8">我不知道是以什麽標準處理。制定標準是由其他部門的權力。</text>
   <text id="yesod5_intro_y9">我們部門只按下達的命令篡改情報罷了。</text>
   <text id="yesod5_intro_y10">這不很好笑嗎？</text>
-  <text id="yesod5_intro_y11">按下達的命令抹除並篡改情報。淪落到這種程度了，我們還能被稱為「情報部」。</text>
+  <text id="yesod5_intro_y11">按下達的命令抹除並篡改情報。都到這種程度了，我們還能被稱為「情報部」。</text>
   <text id="yesod5_intro_y12">每當向他們介紹我是情報部的Sephirah時，總會有種感覺，</text>
   <text id="yesod5_intro_y13">感覺到有什麽東西突然從我裡面涌了上來。</text>
   <text id="yesod5_intro_a2">Yesod，預定清除的檔案收到了嗎？</text>
-  <text id="yesod5_intro_a3">職員名單也快來了。清除工作結束後務必進行審核。</text>
+  <text id="yesod5_intro_a3">職員名單也快來了。清除工作結束後請務必進行審核。</text>
   <text id="yesod5_intro_y14">安吉拉，你覺得記住某人的名字代表著什麽？</text>
   <text id="yesod5_intro_a4">雖然都是週期性工作，但感覺你今天特別情緒化用事？</text>
   <text id="yesod5_intro_y15">名字不就是世界上的非定型體們為了相互銘記各自的存在而賦予的標誌嗎？</text>
@@ -172,7 +172,7 @@
   <text id="yesod5_intro_y31">到最後，連一縷空氣都讓我噁心……</text>
   <text id="yesod5_intro_y32">看著在滾輪上的我們很有趣嗎？</text>
   <text id="yesod5_intro_y33">……</text>
-  <text id="yesod5_intro_y34">你看，我不是說過了嗎，我裡面早腐爛了……</text>
+  <text id="yesod5_intro_y34">你看，我不是說過了嗎，我的內部早腐爛了……</text>
   <text id="yesod5_intro_A2">加百列比其他人更加理性。</text>
   <text id="yesod5_intro_A3">在聽説以利亞的事後，他的表情也沒有變化。</text>
   <text id="yesod5_intro_A4">也有些人抱怨過他沒人情味。</text>
@@ -199,7 +199,7 @@
   <!-- 에피소드 6-->
 
   <text id="yesod6_intro_y1">……以利亞的事我聼説了，倍感遺憾。</text>
-  <text id="yesod6_intro_y2">因為這事，所有人都知道：強行開了一個禁止出入的實驗室是要承擔相應的責任的。</text>
+  <text id="yesod6_intro_y2">因為這事，所有人都知道：強行開了一個禁止出入的實驗室是要承擔相應責任的。</text>
   <text id="yesod6_intro_y3">還有，你昨天沒有把備品管理鑰匙放回原位。這是很大的疏忽。</text>
   <text id="yesod6_intro_y4">你也許會覺得我太苛刻了，但這也沒辦法，而且我說得也對。</text>
   <text id="yesod6_intro_y5">為了像你這樣的人，我得明確規定鑰匙交還的時間。</text>
@@ -207,20 +207,20 @@
   <text id="yesod6_intro_y7">我穿這衣服是為了防止藥品濺出來。</text>
   <text id="yesod6_intro_y8">我只是有點累了。</text>
   <text id="yesod6_intro_y9">別在意。準備下一個實驗。</text>
-  <text id="yesod6_intro_A1">即使是不想把自己的傷口暴露出來的人，其傷口最終也會以其他的方式暴露出來。</text>
+  <text id="yesod6_intro_A1">即使是不想把自己的傷口暴露出來的人，其傷口最終也會以其他方式暴露出來。</text>
   <text id="yesod6_intro_A2">這種情況在體現加百利身上的，是他衣著的變化</text>
   <text id="yesod6_intro_A3">他下了結論，將以利亞的死亡歸為她沒有遵守原則的行為上，這反而會讓他心情舒暢。</text>
-  <text id="yesod6_intro_A4">他越來越執著於原則，試圖保持客觀，</text>
+  <text id="yesod6_intro_A4">他越來越執著於原則，試圖保持理性，</text>
   <text id="yesod6_intro_A5">但過度的理性最終毀了他自己。</text>
   <text id="yesod6_intro_A6">我無法感受到他不想再看到死亡的懇切。</text>
-  <text id="yesod6_intro_A7">不，現在沒有什麼好說謊的了。裝作沒聽見他懇切的呐喊的人，是我。</text>
+  <text id="yesod6_intro_A7">不，現在沒有什麼好說謊的了。裝作沒聽見他懇切呐喊的人，是我。</text>
   <text id="yesod6_intro_y10">……</text>
   <text id="yesod6_intro_y11">不必問我現在的狀態。</text>
   <text id="yesod6_intro_y12">我聽說了主管你做的事。</text>
   <text id="yesod6_intro_y13">這似乎是我第一次理性崩潰的瞬間。</text>
   <text id="yesod6_intro_y14">雖然感覺不是那麼愉快，但也沒想象中那麼可怕。</text>
   <text id="yesod6_intro_y15">不，不如説是很舒暢。</text>
-  <text id="yesod6_intro_y16">但這並不意味著纏繞著我的所有厭惡都消失得不見其影。</text>
+  <text id="yesod6_intro_y16">但這並不意味著纏繞著我的所有厭惡都消失不見。</text>
   <text id="yesod6_intro_y17">我在這裡仍能看到腐爛的幻覺，有時會感到噁心，會感到指向你的，無法忍受的憤怒。</text>
   <text id="yesod6_intro_y18">但是，如果說有什麼不同之處，那就是，</text>
   <text id="yesod6_intro_y19">我好像可以盡情絕望了。</text>
