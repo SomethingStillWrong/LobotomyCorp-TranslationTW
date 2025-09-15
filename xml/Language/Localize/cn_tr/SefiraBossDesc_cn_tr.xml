@@ -1,80 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <localize>
 
-  <text id="boss_seed">萌發光之種子</text>
+  <text id="boss_seed">光之種萌發</text>
 
+  <text id="boss_recive_mission_up_txt">偵測到Sephirah崩潰導致的逆卡巴拉實體化顯現</text>
+  <text id="boss_recive_mission_down_txt">需要抑制Sephirah的核心</text>
 
-  <text id="boss_recive_mission_up_txt">因 Sephirah 崩潰導致逆卡巴拉形式化</text>
-  <text id="boss_recive_mission_down_txt">需要壓制 Sephirah 的核心</text>
+  <text id="boss_tutorial_0">若未完成該Sephiroth的所有任務和劇情，則「抑制核心」按鈕將不會出現。</text>
+  <text id="boss_tutorial_1">在取得核心抑制任務但未滿足條件時。此處會出現「條件未滿足」的按鈕。必須滿足下述條件才可激活抑制按鈕。</text>
+  <text id="boss_tutorial_2">滿足所有條件后，左上的「條件未滿足」會變為可按下的抑制按鈕。</text>
+  <text id="boss_tutorial_3">按下抑制按鈕後，將無法指派對應部門裡的員工。同時顯示抑制核心的完成條件及其負面效果。</text>
+  <text id="boss_tutorial_4">按下抑制按鈕後，原先的「開始管理」按鈕將會變為「抑制核心」。</text>
 
-  <text id="boss_tutorial_0">若所有的 Sephirah 章節還沒完成, 該按鈕將不會出現.</text>
-  <text id="boss_tutorial_1">如果你取得了頭目戰任務, 但還沒滿足那些條件的話 “條件尚未滿足” 按鈕將會出現.</text>
-  <text id="boss_tutorial_2">當頭目戰所有的條件都滿足後, 便能啟動位於左上的頭目戰按鈕.</text>
-  <text id="boss_tutorial_3">如果你按下頭目戰按鈕, 部門裡的員工將不會被分派, 並顯示出頭目戰的完成條件及阻礙方法.</text>
-  <text id="boss_tutorial_4">按下頭目戰按鈕後, 原先的 “開始工作” 按鈕將會變為 “壓制核心” 按鈕.</text>
-
-  <text id="boss_common_clear">完成同步</text>
-  <text id="boss_common_逆卡巴拉">即便逆卡巴拉爆走了, 相關部門也不會受到影響</text>
+  <text id="boss_common_clear">完全同步</text>
+  <text id="boss_common_qliphoth">該部門不再受一般逆卡巴拉熔毀影響</text>
   
   <!--Malkut-->
-  <text id="boss_malkut_clear">需要 逆卡巴拉熔燬等級 6 + 進行能源提煉.</text>
-  <text id="boss_malkut_condition">已偵測到控制系統錯誤.</text>
-
-  <text id="boss_malkut_reward_0">增加每天獲得的 LOB 點數</text>
-  <text id="boss_malkut_reward_1">提高員工的移動速度.</text>
-
-  <text id="boss_malkut_default_0">這就是你稱呼為無法控制的情況, 管理者.</text>
-  <text id="boss_malkut_default_1">一切都混亂了, 搞砸了, 烏煙瘴氣... 哈哈哈</text>
-  <text id="boss_malkut_default_2">驚訝嗎, 不是嗎?</text>
-
-  <text id="boss_malkut_overload1_0">我不能再這麼做了.</text>
-  <text id="boss_malkut_overload1_1">我只是想幫忙...</text>
-
-  <text id="boss_malkut_overload2_0">我曉得我並沒有權限參與這個實驗, 這讓我很緊張.</text>
-  <text id="boss_malkut_overload2_1">我希望你能體會到這無助感帶來的悲慘感受.</text>
-
-  <text id="boss_malkut_overload3_0">請看看我, 管理者! 讓我搞定這個情況吧!</text>
-  <text id="boss_malkut_overload3_1">我有很多事要做, 看看我的筆記本就知道, 都這麼老舊了......</text>
-
-  <text id="boss_malkut_overload4_0">你能聽見在那死亡中掙扎的聲音嗎?</text>
-  <text id="boss_malkut_overload4_1">現在能讚美我了嗎? 多給我些尊重吧.</text>
-
-  <text id="boss_malkut_overload5_0">仔細想想, 並不是真的有那麼痛.</text>
-  <text id="boss_malkut_overload5_1">我現在明白低頭往下看著某人為什麼這麼有趣了, 管理者...</text>
-
-  <text id="boss_malkut_finish_0">喔, 我不能這麼做.... </text>
-
-  <text id="boss_malkut_story_finish">'挺身而出的意願'</text>
+  <text id="boss_malkut_clear">逆卡巴拉熔燬達到6級+收集滿今日能源配額</text>
+  <text id="boss_malkut_condition">偵測到工作指令系統出現異常</text>
+  <text id="boss_malkut_reward_0">每日結束管理所得的LOB點數增加</text>
+  <text id="boss_malkut_reward_1">提升員工的移動速度。</text>
+  <text id="boss_malkut_default_0">所謂「無法控制的狀況」就是這樣啊，主管。</text>
+  <text id="boss_malkut_default_1">全都亂七八糟、一塌糊塗、手忙腳亂……哈哈哈……</text>
+  <text id="boss_malkut_default_2">真是無法預測，對吧？</text>
+  <text id="boss_malkut_overload1_0">我明明可以做到的。</text>
+  <text id="boss_malkut_overload1_1">我只想幫上忙而已。</text>
+  <text id="boss_malkut_overload2_0">我早知道那項實驗的管理權和我無關，所以才那麽焦躁不安。</text>
+  <text id="boss_malkut_overload2_1">請你好好感受這份可怕的無力感。</text>
+  <text id="boss_malkut_overload3_0">主管，你看著吧。我會試著控制住情況的。</text>
+  <text id="boss_malkut_overload3_1">我還有很多事要做，看看這本筆記本，都快破舊不堪了……</text>
+  <text id="boss_malkut_overload4_0">你聽不見這聲音嗎？就是那蠢蠢欲動的聲音，彷彿在掙扎著說不能就這樣沉睡下去。</text>
+  <text id="boss_malkut_overload4_1">現在能誇獎我了嗎？可以讓我更有成就感了嗎？</text>
+  <text id="boss_malkut_overload5_0">回頭看看我，其實並不是那麼難的事。</text>
+  <text id="boss_malkut_overload5_1">原來俯視他人是這麼有趣的事啊，主管……</text>
+  <text id="boss_malkut_finish_0">啊，我原本就做不到啊……</text>
+  <text id="boss_malkut_story_finish">屹立不摇的堅志</text>
 
 
   <!--Yesod-->
-  <text id="boss_yesod_clear">需要 逆卡巴拉熔燬等級 6 + 進行能源提煉.</text>
-  <text id="boss_yesod_condition">已偵測到資訊系統錯誤.</text>
-
-  <text id="boss_yesod_reward_0">PE-BOX 的獲取數量提高 25%.</text>
-
-  <text id="boss_yesod_default_0">我在看著什麼?</text>
-  <text id="boss_yesod_default_1">這無法看透的黑暗, 是不可言諭的寂寞.</text>
-  <text id="boss_yesod_default_2">驚訝嗎, 不是嗎?</text>
-
-  <text id="boss_yesod_overload1_0">我們做錯了什麼? </text>
-  <text id="boss_yesod_overload1_1">我們甚至不被允許陷入絕望?</text>
-
-  <text id="boss_yesod_overload2_0">我不想再看見更多的死亡了.</text>
-  <text id="boss_yesod_overload2_1">我們創造了這些不該存在於這世上的怪物. 這條罪惡永無被原諒的一天.</text>
-
-  <text id="boss_yesod_overload3_0">你該了解所有你草草掠過的資訊都是出自於某人的悲慘犧牲下.</text>
-  <text id="boss_yesod_overload3_1">我來自資訊小組. 我為我的小組自豪, 依照命令來獲取並抹消資訊.</text>
-
-  <text id="boss_yesod_overload4_0">你並符合作為一位管理者的資格, 你甚至記不住這些規範.</text>
-  <text id="boss_yesod_overload4_1">你看不見我腐爛的血肉嗎, 跟著膿汁滲出的那些? </text>
-
-  <text id="boss_yesod_overload5_0">我已身陷絕望很久一段時間了.</text>
-  <text id="boss_yesod_overload5_1">我假裝一切相安無事, 但實際上並不是. 我正從內部逐漸死去.</text>
-
-  <text id="boss_yesod_finish_0">我就是那個看不見四周的那一位... </text>
-
-  <text id="boss_yesod_story_finish">'獨特的推理'</text>
+  <text id="boss_yesod_clear">逆卡巴拉熔燬達到6級+滿足今日所需能源配額</text>
+  <text id="boss_yesod_condition">偵測到情報確認程序出現異常。</text>
+  <text id="boss_yesod_reward_0">獨立PE-BOX獲取量增加25%</text>
+  <text id="boss_yesod_default_0">我一直在看些什麼？</text>
+  <text id="boss_yesod_default_1">不見前方的黑暗，不可言諭的孤獨。</text>
+  <text id="boss_yesod_default_2">我們連任何事物，都無法正確看清。</text>
+  <text id="boss_yesod_overload1_0">我們究竟做錯了什麼？</text>
+  <text id="boss_yesod_overload1_1">我們難道連絕望都不能嗎？</text>
+  <text id="boss_yesod_overload2_0">事實上，我不想再看到更多的死亡了。</text>
+  <text id="boss_yesod_overload2_1">我們創造了不該存在於世界上的怪物，這罪孽絕不可被饒恕。</text>
+  <text id="boss_yesod_overload3_0">你可知道，你輕描淡寫讀過的每一行情報，全都是憑藉某些人的犧牲才得以換來的？</text>
+  <text id="boss_yesod_overload3_1">我負責情報部。一個取得情報後依照指令將其抹消的部門，真令人無比自豪。</text>
+  <text id="boss_yesod_overload4_0">連管理須知都記不牢的你，沒有擔任主管的資格。</text>
+  <text id="boss_yesod_overload4_1">難道你沒有看見我那腐爛流膿的血肉嗎？</text>
+  <text id="boss_yesod_overload5_0">原來，我從很久以前，就一直在絕望著。</text>
+  <text id="boss_yesod_overload5_1">我總是裝作若無其事。但實際上，我比誰都不好過。我的內心早已逐漸死去。</text>
+  <text id="boss_yesod_finish_0">原來，不見前方的人，是我……</text>
+  <text id="boss_yesod_story_finish">明辨是非的理性</text>
 
 
   <!--Netzach-->
@@ -337,7 +318,7 @@
 
   <!-- hokma-->
 
-  <text id="boss_chokhmah_clear">達到逆卡巴拉熔燬最大指標並提煉能源.</text>
+  <text id="boss_chokhmah_clear">逆卡巴拉熔燬達到10級+收集滿今日能源配額</text>
   <text id="boss_chokhmah_condition">在時間的流動中偵測到反常.</text>
 
   <text id="boss_chokhmah_reward_0">所有的價值成長極限提高到 130. </text>
