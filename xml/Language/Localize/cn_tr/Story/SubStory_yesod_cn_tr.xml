@@ -3,21 +3,21 @@
   <!-- 에피소드 1-->
   <text id="yesod1_intro_y1">…</text>
   <text id="yesod1_intro_y2">主管是腦葉公司的負責人，應該是大家的楷模和榜樣。在我們部門，若是現在這副穿著，就算被扣10分也綽綽有餘。</text>
-  <text id="yesod1_intro_y3">即使是主管也不例外，但按照規定，Sephirah無權對主管扣分。</text>
+  <text id="yesod1_intro_y3">即使是主管也不例外，但按照規定，Sephirah無權對主管進行扣分。</text>
   <text id="yesod1_intro_y4">我是情報部的Sephirah，Yesod。</text>
-  <text id="yesod1_intro_y5">我們情報部負責管理所有與公司相關的龐大資料。這裡每日都有新情報生成。在這過程中必須保持情報的準確無誤，因此我們時刻集中精神。</text>
+  <text id="yesod1_intro_y5">我們情報部負責管理所有與公司相關的龐大資料。這裡每日都有新情報生成。在這過程中我們必須保持情報的準確無誤，因此我們時刻集中精神。</text>
   <text id="yesod1_intro_y6">換而言之，這裡如同巨大的圖書館。</text>
   <text id="yesod1_intro_y7">只要有一個情報出錯，情形就會一發不可收拾。</text>
-  <text id="yesod1_intro_y8">我相信主管你會明白我的意思的。</text>
+  <text id="yesod1_intro_y8">我相信主管你會明白我意思的。</text>
   <text id="yesod1_intro_y9">你讀的每一行情報，都蘊含著員工們的絕望，還有他們的迫切感。</text> 
   <text id="yesod1_intro_y10">請千萬不要忽視它們的重量。</text>
   <text id="yesod1_intro_y11">……</text>
   <text id="yesod1_intro_y12">你有些在意我的衣著。</text>
   <text id="yesod1_intro_y13">我不喜歡將身體部位暴露在外，一點也不行。</text>
-  <text id="yesod1_intro_y14">雖然我記不得這從什麽時候開始的……</text>
-  <text id="yesod1_intro_y15">我敢肯定，在這裡的時候，就已經這樣了。</text>
+  <text id="yesod1_intro_y14">雖然我記不得這是從什麽時候開始的……</text>
+  <text id="yesod1_intro_y15">但我敢肯定，我在這裡的時候，就已經這樣了。</text>
   <text id="yesod1_intro_n1">Yesod，你還有剩餘的紙嗎？有的話能借給我們部門嗎？</text> <!-- 화자 : 네짜흐-->
-  <text id="yesod1_intro_y16">Netzach，和其他部門交換物品這事，是被禁止的。這應該在Sephirah手冊的第一頁就有寫明的。</text>
+  <text id="yesod1_intro_y16">Netzach，和其他部門交換物品這事，是被禁止的。這應該在Sephirah手冊的第一頁就有寫明。</text>
   <text id="yesod1_intro_n2">知道了，別擺出那副凶狠的表情了。真不愧是Sephirah裡的毒蛇。</text> <!-- 화자 : 네짜흐-->
   <text id="yesod1_intro_y17">……</text>
   <text id="yesod1_intro_n3">再多嘴一句我恐怕就得被咬死了……先走一步。</text> <!-- 화자 : 네짜흐-->
@@ -26,7 +26,7 @@
   <text id="yesod1_intro_y20">雖説Sephiroth叫這綽號的時候只是在開玩笑，</text>
   <text id="yesod1_intro_y21">但不是所有人都這麽認為。</text>
   <text id="yesod1_intro_y22">我知道有很多職員都不喜歡我。</text>
-  <text id="yesod1_intro_y23">綽號這種東西雖然幼稚，但只要一説出來就能把對方一語道破，其他話可做不到這樣。</text>
+  <text id="yesod1_intro_y23">綽號這種東西雖然幼稚，但只要一説出來就能精確描述一個人，這可不是其他話能做得到的。</text>
   <text id="yesod1_intro_y24">我喜歡我的綽號。</text>
   <text id="yesod1_intro_y25">你認為呢？</text>
   <text id="yesod1_selection1">我也喜歡。</text> <!-- 선택지 1-->
@@ -44,17 +44,17 @@
   <text id="yesod2_intro_y1">和你之前給我的第一印象不同，你做得很好。</text>
   <text id="yesod2_intro_y2">那我解釋下一件事……</text>
   <text id="yesod2_intro_h1">Yesod，我聽説你的部門出現了大量人員傷亡！</text>
-  <text id="yesod2_intro_y3">這也不是一次兩次的了。</text>
+  <text id="yesod2_intro_y3">這也不是一次兩次的事了。</text>
   <text id="yesod2_intro_h2">呃……部門氣氛有些壓抑，就麻煩你過去下可以吧？</text>
   <text id="yesod2_intro_y4">越是這樣，越要冷處理。他們才會明白這事不足掛齒。我可沒這麽多精力去逐一管這些事。</text> 
-  <text id="yesod2_intro_h3">嗯……這時候，就算只是表面努力也累人啊。但想著死去的同事，至少説聲「我們加油吧」這種話吧。畢竟，不管如何，我們也是領導部門的角色啊……</text> 
+  <text id="yesod2_intro_h3">嗯……這時候，就算只是表面努力也累啊。但想著死去的同事，至少説聲「我們加油吧」這種話吧。畢竟，不管如何，我們也是領導部門的角色啊……</text> 
   <text id="yesod2_intro_y5">也許你和我追求的路并不相同。要是我們太過在意員工的敬意，或者對瑣碎的抱怨斤斤計較的話，我們反而會錯過更重要的事。</text> 
-  <text id="yesod2_intro_h4">只是以防萬一……嗯，我也不知道那個才是正確答案。那我們既然彼此都還有很多事要做，那就一起加油吧！</text> 
-  <text id="yesod2_intro_y6">主管，你怎麼想？你也認為，哪怕是為了部門的氣氛，也應該過去說些無關痛癢的安慰話嗎？</text>
+  <text id="yesod2_intro_h4">只是以防萬一……嗯，我也不知道那哪個才是正確答案。既然我們彼此都還有很多事要做，那就一起加油吧！</text> 
+  <text id="yesod2_intro_y6">主管，你怎麼想？你也認為，哪怕是為了部門的氣氛，也該過去說些無關痛癢的安慰話嗎？</text>
   <text id="yesod2_selection1">是的，就要這麽做。</text>
-  <text id="yesod2_selection2">不，沒必要這樣做。</text>
+  <text id="yesod2_selection2">不，沒必要這麼做。</text>
   <text id="yesod2_intro_y1_1">主管能説出這樣的話，很是令人費解。</text>
-  <text id="yesod2_intro_y1_2">這裡部門很多，你能確保在每次出事時親自露面？</text>
+  <text id="yesod2_intro_y1_2">這裡的部門很多，你能確保每次出事時都能親自露面？</text>
   <text id="yesod2_intro_y1_3">畢竟，你每天只需要盯著那了不起的監視器螢幕看著職員們的死亡。</text>
   <text id="yesod2_intro_y1_4">據我所知，你剛來這不久。可能還沒來得及抛棄那種茫然的心。</text>
   <text id="yesod2_intro_y1_5">説到底，這種微不足道的安慰在這根本毫無作用。最好還是早點抛棄它們。</text>
@@ -63,7 +63,7 @@
   <text id="yesod2_intro_y2_3">剛才那位同事説的話都有可能就是他的遺言。</text>
   <text id="yesod2_intro_y2_4">他們所在的位置不足以讓他們放下一切，死而無憾。</text>
   <text id="yesod2_intro_y2_5">像Hod那樣自己舒服就好的想法，我可不認同。 </text> 
-  <text id="yesod2_intro_y2_6">不如利用這段時間，好好想想如何避免下一次事故的發生。</text>
+  <text id="yesod2_intro_y2_6">不如利用這段時間，好好想想該如何避免下一次事故的發生。</text>
   
   <!--에피소드 3-->
 
@@ -79,14 +79,14 @@
   <text id="yesod3_intro_et_1">是……是！那我們先走了！</text> <!-- et는 직원 1,2를 의미-->
   <text id="yesod3_intro_y3">職員閒好像又流行起成語接龍了。</text>
   <text id="yesod3_intro_y4">你喜歡這遊戲嗎？</text>
-  <text id="yesod3_intro_y5">（Yesod似乎一時陷入了沉思。）</text>
-  <text id="yesod3_intro_y6">但詹姆斯，按照規定，精神污染達80%的時候是不能進入收容室工作的。</text> <!-- 과거 회상 시작-->
-  <text id="yesod3_intro_j1">我知道，但你通融下，你知道沒有完成指派的工作的下場的。況且我才81%，莎莉進去的時候還是82%，況且她也不是安然無恙！</text>
+  <text id="yesod3_intro_y5">（Yesod似乎陷入了沉思。）</text>
+  <text id="yesod3_intro_y6">但詹姆斯，按照規定，精神污染達80%的時候不能進入收容單元工作。</text> <!-- 과거 회상 시작-->
+  <text id="yesod3_intro_j1">我知道，但你通融下。你是知道沒有完成指派的工作的下場的。況且我才81%，莎莉進去的時候還是82%，況且她也不是安然無恙！</text>
   <text id="yesod3_intro_y7">……</text>
   <text id="yesod3_intro_j2">別擺出那可怕的表情啦。你再這麽謹慎行事的話，別的職員可會孤立你的。到那時你得多孤獨啊。</text> 
   <text id="yesod3_intro_y8">……</text>
   <text id="yesod3_intro_j3">開玩笑的。即使所有職員們都討厭你，我也陪你玩！</text>
-  <text id="yesod3_intro_y9">在公司陪別人玩這種話是……</text>
+  <text id="yesod3_intro_y9">「在公司陪別人玩」這種話是……</text>
   <text id="yesod3_intro_j4">知道了，我説錯了！Yesod大人~就當是上回你玩成語接龍時放你一馬的補償吧。</text> 
   <text id="yesod3_intro_y10">……就這次。</text>
   <text id="yesod3_intro_y11">這次工作之後，一定要去接受精神咨詢。</text>
@@ -96,17 +96,17 @@
   <text id="yesod3_intro_y14">但在我醒來時，身上一點傷口都沒有，一切都很正常。</text>
   <text id="yesod3_intro_y15">有時，我對這種理所當然的情境感到陌生。</text>
   <text id="yesod3_intro_y16">為什麽我的身體還完好？為什麽它不腐爛？</text>
-  <text id="yesod3_intro_y17">我問過其他的Sephiroth，但好像就我有這種現象。</text> 
+  <text id="yesod3_intro_y17">我問過其他Sephiroth，但好像就我有這種現象。</text> 
   
   <!-- 에피소드 4-->
 
-  <text id="yesod4_intro_y1">詹姆斯故意放出了兩只異想體，造成3位文職與4名員工的死亡。</text>
+  <text id="yesod4_intro_y1">詹姆斯故意放出了兩隻異想體，造成了3位文職與4名員工的死亡。</text>
   <text id="yesod4_intro_y2">你也知道，異想體的出逃和4名員工的死亡是不小的人力損失。</text>
   <text id="yesod4_intro_y3">命令射殺詹姆斯的當然是我。</text>
   <text id="yesod4_intro_y4">我知道我們在哪工作。</text>
   <text id="yesod4_intro_y5">我不為沒能阻止他而感到遺憾。</text>
   <text id="yesod4_intro_y6">和他有私情的我都感到可惜。</text>
-  <text id="yesod4_intro_y7">一時間忘了自己所處的位置。</text>
+  <text id="yesod4_intro_y7">甚至一時間都忘了自己所處的位置。</text>
   <text id="yesod4_intro_y8">事實上，毫無意義的聊天很是愉快。</text>
   <text id="yesod4_intro_y9">他那無聊的玩笑很是有趣，</text>
   <text id="yesod4_intro_y10">而且成語接龍也玩得很開心。</text>
@@ -117,7 +117,7 @@
   <text id="yesod4_intro_y15">同時，這裡也是個孤獨的地方。</text>
   <text id="yesod4_intro_y16">或許茫然，或許不安，有時想和別人分享這種情感的衝動擡起頭來。</text>
   <text id="yesod4_intro_y17">但主管，希望你別再犯我這種錯誤了。</text>
-  <text id="yesod4_intro_y18">這樣可以度過毫無意義的死亡。</text>
+  <text id="yesod4_intro_y18">這樣就可以度過毫無意義的死亡。</text>
   <text id="yesod4_intro_y19">我忌妒安吉拉，她沒有「血」和「淚」。</text>
   <text id="yesod4_intro_y20">人們都說我太過理性了。</text>
   <text id="yesod4_intro_y21">冷血的Yesod，毒蛇般的Yesod，數十名職員死在眼前也不眨一眼的殘忍Yesod。</text>
@@ -133,7 +133,7 @@
   <text id="yesod5_intro_h1">Yesod，你對這個都沒有任何感覺嗎？</text>
   <text id="yesod5_intro_n1">這時候，喝點腦啡肽，然後閉上眼睛，再睜開。</text>
   <text id="yesod5_intro_a1">幸虧你的精神比其他Sephiroth相比還不算弱。但更重要的是，在任何情況下都要保持冷靜。</text>
-  <text id="yesod5_intro_A1">……加百列，你為什麽剛才開始就在撓自己的身體？</text>
+  <text id="yesod5_intro_A1">……加百列，你為什麽剛才就開始在撓自己的身體？</text>
   <text id="yesod5_intro_y1">我們再次見面了，這就説明主管你已經完成了任務。</text>
   <text id="yesod5_intro_y2">我想稱贊你，但我手頭有很多事要做。</text>
   <text id="yesod5_intro_y3">每個週期內，情報部有特定的事要做。</text>
@@ -141,27 +141,27 @@
   <text id="yesod5_intro_y5">在我們所積纍的情報中，有些因安全原因而不得向職員們公開。</text>
   <text id="yesod5_intro_y6">其中就包括了員工的名字。</text>
   <text id="yesod5_intro_y7">發生在他們身上的事，殘酷的死亡，還有想活下去的懇切，這些痕跡都已「情報抹除」的名義被抹除。</text>
-  <text id="yesod5_intro_y8">我不知道是以什麽標準處理。制定標準是由其他部門的權力。</text>
+  <text id="yesod5_intro_y8">我不知道是以什麽標準而處理的，因為制定標準是由其他部門的權力。</text>
   <text id="yesod5_intro_y9">我們部門只按下達的命令篡改情報罷了。</text>
   <text id="yesod5_intro_y10">這不很好笑嗎？</text>
-  <text id="yesod5_intro_y11">按下達的命令抹除並篡改情報。都到這種程度了，我們還能被稱為「情報部」。</text>
-  <text id="yesod5_intro_y12">每當向他們介紹我是情報部的Sephirah時，總會有種感覺，</text>
-  <text id="yesod5_intro_y13">感覺到有什麽東西突然從我裡面涌了上來。</text>
+  <text id="yesod5_intro_y11">按下達的指令抹除並篡改情報。都到這種程度了，我們還能被稱為「情報部」。</text>
+  <text id="yesod5_intro_y12">每當向他們介紹我是情報部的Sephirah時，我總會有種感覺，</text>
+  <text id="yesod5_intro_y13">感覺到有什麽東西突然從我內部涌了上來。</text>
   <text id="yesod5_intro_a2">Yesod，預定清除的檔案收到了嗎？</text>
   <text id="yesod5_intro_a3">職員名單也快來了。清除工作結束後請務必進行審核。</text>
   <text id="yesod5_intro_y14">安吉拉，你覺得記住某人的名字代表著什麽？</text>
   <text id="yesod5_intro_a4">雖然都是週期性工作，但感覺你今天特別情緒化用事？</text>
   <text id="yesod5_intro_y15">名字不就是世界上的非定型體們為了相互銘記各自的存在而賦予的標誌嗎？</text>
   <text id="yesod5_intro_y16">「安吉拉」這個名字，應該也是有人以同樣的心情命名的吧。</text>
-  <text id="yesod5_intro_a5">Yesod，如果因為工作太多而暫時累了，不如休息下吧。</text>
+  <text id="yesod5_intro_a5">Yesod，如果你是因為工作太多而暫時累了，不妨去休息下。</text>
   <text id="yesod5_intro_y17">就知道你會這麽説。</text>
   <text id="yesod5_intro_a6">幸虧你知道。</text>
   <text id="yesod5_intro_y18">……</text>
   <text id="yesod5_intro_y19">在這很不提倡以職員的名字稱呼他們。</text>
-  <text id="yesod5_intro_y20">從進公司的那一刻起，每個人都被賦予了獨立的識別號碼。</text> 
+  <text id="yesod5_intro_y20">從進入公司的那一刻起，每個人都被賦予了獨立的識別號碼。</text> 
   <text id="yesod5_intro_y21">我們僅挑出最基礎的資訊，以在公司裡辨識職員。</text> 
-  <text id="yesod5_intro_y22">我們的儲存裝置裡基本上刻有他們的號碼。</text>
-  <text id="yesod5_intro_y23">Malkuth早就不以職員的名稱稱呼他們了。</text>
+  <text id="yesod5_intro_y22">我們的儲存裝置內基本上刻有他們的號碼。</text>
+  <text id="yesod5_intro_y23">Malkuth早就不以職員的名字稱呼他們了。</text>
   <text id="yesod5_intro_y24">或許，她才是我們之中最適合當Sephirah的類型。</text>
   <text id="yesod5_intro_y25">但我們不覺得Malkuth必須承受所有痛苦，</text>
   <text id="yesod5_intro_y26">我們也是。</text>
@@ -181,7 +181,7 @@
   <text id="yesod5_intro_A7">他慢慢失去表情，就連一點休閑娛樂也不允許。</text>
   <text id="yesod5_intro_A8">而且，他無法忍受將身體的任何部位暴露在外。</text>
   <text id="yesod5_intro_A9">我們創造了不該存在於世界上的怪物，在這條路走得太遠了，把一切都當作無事發生也為時已晚。</text>
-  <text id="yesod5_intro_A10">所有人都知道，為了不讓以利亞所做的付出白費，與其哀悼，不如利用其結果。</text>
+  <text id="yesod5_intro_A10">所有人都知道，為了不白費以利亞的付出，與其哀悼，不如利用其結果。</text>
   <text id="yesod5_intro_A11">他曾極力試圖包裝自己，强裝冷酷，保持冷靜。但理性卻如強迫症般糾纏著他。</text>
   <text id="yesod5_intro_A12">從某天開始，他就開始穿能遮住脖子的長袖。過沒多久，他就開始對自己的身體抓個不停。</text>
   <text id="yesod5_intro_A13">我們想仔細檢查他，以確認是否存在未被發現的感染症狀，但被他所拒絕。</text>
@@ -209,7 +209,7 @@
   <text id="yesod6_intro_y9">別在意。準備下一個實驗。</text>
   <text id="yesod6_intro_A1">即使是不想把自己的傷口暴露出來的人，其傷口最終也會以其他方式暴露出來。</text>
   <text id="yesod6_intro_A2">這種情況在體現加百利身上的，是他衣著的變化</text>
-  <text id="yesod6_intro_A3">他下了結論，將以利亞的死亡歸為她沒有遵守原則的行為上，這反而會讓他心情舒暢。</text>
+  <text id="yesod6_intro_A3">他下了結論，將以利亞的死亡歸為她沒有遵守原則的行為上。這反而會讓他心情舒暢。</text>
   <text id="yesod6_intro_A4">他越來越執著於原則，試圖保持理性，</text>
   <text id="yesod6_intro_A5">但過度的理性最終毀了他自己。</text>
   <text id="yesod6_intro_A6">我無法感受到他不想再看到死亡的懇切。</text>
