@@ -71,30 +71,30 @@
   <text id="ordeal_outtergod_midnight_end">為了不讓自己倒下. 它們是不被允許去理解與觸碰這些的...</text>
 
   <!--해결사 속성별 이름-->
-  <text id="ordeal_fixer_red_name">緋紅技工</text>
-  <text id="ordeal_fixer_white_name">蒼白技工</text>
-  <text id="ordeal_fixer_black_name">漆黑技工</text>
-  <text id="ordeal_fixer_pale_name">靛藍技工</text>
+  <text id="ordeal_fixer_red_name">紅色收尾人</text>
+  <text id="ordeal_fixer_white_name">白色收尾人</text>
+  <text id="ordeal_fixer_black_name">黑色收尾人</text>
+  <text id="ordeal_fixer_pale_name">藍色收尾人</text>
   <text id="ordeal_fixer_claw_name">爪牙</text>
 
   <!--해결사 크리쳐 이름은 위에 있음-->
-  <text id="ordeal_fixer_dawn_type">蒼白黎明</text>
-  <text id="ordeal_fixer_dawn_name">索求</text>
-  <text id="ordeal_fixer_dawn_start">從最細小的雜事到獵殺的合約, 一旦有了報酬, 他們就能為了你幹下任何事.</text>
-  <text id="ordeal_fixer_dawn_end">他們通常被聘顧到辦公室, 財團, 以及羽翼裡面. 從最小的雜事到最崇高的事物都在他們工作的範圍裡.</text>
+  <text id="ordeal_fixer_dawn_type">白色的黎明</text>
+  <text id="ordeal_fixer_dawn_name">委託</text>
+  <text id="ordeal_fixer_dawn_start">從瑣碎的雜務到調查，甚至是雇兇殺人。只要給予相應的報酬，他們就會繼續完成任務。</text>
+  <text id="ordeal_fixer_dawn_end">他們隸屬於事務所、幫派以及翼之下。從微不足道之事到崇高之業，他們無所不包。</text>
 
-  <text id="ordeal_fixer_noon_type">蒼白正午</text>
+  <text id="ordeal_fixer_noon_type">白色的正午</text>
   <text id="ordeal_fixer_noon_name">武器</text>
-  <text id="ordeal_fixer_noon_start">他們不斷的搜索. 羽翼的夥伴, 巷子內的發明, 郊區的殘值, 廢墟的遺物…</text>
-  <text id="ordeal_fixer_noon_end">他們只是拿著手上的武器, 把出現在面前的一切事物全都擊倒而已, 就跟長久以來他們一直在做的一樣.</text>
+  <text id="ordeal_fixer_noon_start">他們不斷地搜尋。不論是翼的支援、還是後巷的發明、又或是郊區的战利品、甚至是廢墟的遺物……</text>
+  <text id="ordeal_fixer_noon_end">他們只是如往常般、按習慣地拿著手中的武器，解決眼前的事物而已。</text>
 
-  <text id="ordeal_fixer_dusk_type">蒼白黃昏</text>
-  <text id="ordeal_fixer_dusk_name">技工</text>
-  <text id="ordeal_fixer_dusk_start">被稱作圖書館的光之巨塔. 技工被吸引到這個神秘的生死之地是非常自然的事情.</text>
-  <text id="ordeal_fixer_dusk_end">藏書獵人, 前任的技工. 將在某一天藉由靛藍館員的幫助下翻遍這座圖書館.</text>
+  <text id="ordeal_fixer_dusk_type">白色的薄暮</text>
+  <text id="ordeal_fixer_dusk_name">收尾人</text>
+  <text id="ordeal_fixer_dusk_start">被稱為圖書館的光之塔巍然聳立，而收尾人被那神秘的承載生與死之地所吸引也是理所當然之事。</text>
+  <text id="ordeal_fixer_dusk_end">書籍獵人……終將穿於由蒼白司書掌管的圖書館。而收尾人便是他們的前身。</text>
 
-  <text id="ordeal_fixer_midnight_type">蒼白午夜</text>
+  <text id="ordeal_fixer_midnight_type">白色的午夜</text>
   <text id="ordeal_fixer_midnight_name">爪牙</text>
-  <text id="ordeal_fixer_midnight_start">他們掌握著整個世界的祕密. 這是那些頭領, 眼線, 以及爪牙的特權以及絕對的權力.</text>
-  <text id="ordeal_fixer_midnight_end">沒有人能夠站在他們眼前. 只要他們存在的一天, 巢的故事就永無結束的一天.</text>
+  <text id="ordeal_fixer_midnight_start">他們掌握著世界的秘密。那正是首腦、延續與爪牙的特權，也是他們絕對的武力。</text>
+  <text id="ordeal_fixer_midnight_end">無人敢站立於他們面前，只要他們依然存在，巢的故事就永不終結。</text>
 </localize>
