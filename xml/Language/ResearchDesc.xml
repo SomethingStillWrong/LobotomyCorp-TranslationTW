@@ -49,7 +49,7 @@
     <cn>
       <name>TT2协议</name>
       <short>加快游戏速度</short>
-      <current>通过TT2协议能够让时间流逝速度加快&#13;&#10;为原来的1.5-2倍。</current>
+      <current>通过TT2加速协议，最高可以以2倍速&#13;&#10;进行管理。</current>
       <next></next>
     </cn>
     <jp>
@@ -61,7 +61,7 @@
     <cn_tr>
       <name>TT2 協議</name>
       <short>加快遊戲速度</short>
-      <current>透過TT2 加速協議能讓管理的速度提高兩倍.</current>
+      <current>透過 TT2 加速協議加快時間流逝，最多&#13;&#10;能將管理速度提升至原有的 2 倍速。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -117,8 +117,8 @@
     </kr>
     <cn>
       <name>联合指挥</name>
-      <short>允许各个部门之&#13;&#10;间相互协作</short>
-      <current>通过联合指挥培训，能让某个部门的员&#13;&#10;工到另一个部门协助作业。</current>
+      <short>允许跨部门&#13;&#10;工作命令</short>
+      <current>通过联合指挥训练，可以下达部门之间&#13;&#10;的交叉工作命令。</current>
       <next></next>
     </cn>
     <jp>
@@ -129,8 +129,8 @@
     </jp>
     <cn_tr>
       <name>聯合指揮</name>
-      <short>允許各部門之間相互合作</short>
-      <current>通過聯合指揮訓練在各部門間進行指揮.</current>
+      <short>允許指派員工&#13;&#10;跨部門工作</short>
+      <current>透過聯合指揮訓練，實現部門間的交叉&#13;&#10;工作指令。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -185,9 +185,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>召集令</name>
-      <short>将分散的员工召&#13;&#10;集到各自所属的&#13;&#10;部门</short>
-      <current>向员工们发放传呼机，好将没有进行工&#13;&#10;作的员工立刻召集到各自所属的部门当&#13;&#10;中。</current>
+      <name>召集传呼</name>
+      <short>将分散的员工召&#13;&#10;集到各自所属的&#13;&#10;部门主休息室</short>
+      <current>通过向员工发放呼叫器，使其返回所属&#13;&#10;的部门主休息室。</current>
       <next></next>
     </cn>
     <jp>
@@ -197,9 +197,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>集合命令</name>
-      <short>將分散的員工喚回他們的部門中.</short>
-      <current>分發呼叫器給員工以便能將他們喚回部門.</current>
+      <name>召集呼叫</name>
+      <short>將分散的員工召&#13;&#10;集到所屬部門的&#13;&#10;主休息室</short>
+      <current>透過向員工發放傳呼機，使其快速返回&#13;&#10;各自所屬部門的主休息室。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -260,7 +260,7 @@
     <cn>
       <name>G.O可视化</name>
       <short>显示生命值与精&#13;&#10;神值UI</short>
-      <current>将异想体和员工的生物构成数据可视化。</current>
+      <current>将异想体和员工的几何学生体构成信息可视化。</current>
       <next></next>
     </cn>
     <jp>
@@ -271,8 +271,8 @@
     </jp>
     <cn_tr>
       <name>G.O 可視化</name>
-      <short>顯示 HP UI</short>
-      <current>將異常與員工的生物幾何組成資訊可視化.</current>
+      <short>顯示生命值與&#13;&#10;精神值 UI</short>
+      <current>將異想體與員工的幾何生體構成資訊&#13;&#10;可視化。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -329,7 +329,7 @@
     <cn>
       <name>损伤规格化</name>
       <short>显示伤害值UI</short>
-      <current>将异想体和员工造成的伤害可视化。</current>
+      <current>将异想体和职员等造成的伤害可视化。</current>
       <next></next>
     </cn>
     <jp>
@@ -339,9 +339,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>損害規格化</name>
-      <short>顯示所有的傷害數據 UI</short>
-      <current>將異常與員工的傷害可視化.</current>
+      <name>傷害規格化</name>
+      <short>顯示傷害值 UI</short>
+      <current>將異想體與職員等造成的傷害值可視化。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -399,7 +399,7 @@
     <cn>
       <name>异想体应对手册</name>
       <short>减少文职受到的&#13;&#10;恐惧伤害</short>
-      <current>详细的异想体应对手册能够减少异想体&#13;&#10;对文职造成的恐惧伤害。</current>
+      <current>精细的异想体应对手册能够减少文职面&#13;&#10;对异想体造成的恐惧。</current>
       <next></next>
     </cn>
     <jp>
@@ -409,9 +409,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>異常對應手冊</name>
-      <short>減少部門職員的恐懼傷害</short>
-      <current>透過使用異常對應手冊來減少異常對部門職員造成的恐懼傷害.</current>
+      <name>異想體應對手冊</name>
+      <short>減少文職所受的&#13;&#10;恐懼傷害</short>
+      <current>透過精緻的應對手冊，減少文職們面對&#13;&#10;異想體時所產生的恐懼。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -471,9 +471,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>第二型再生反应堆</name>
-      <short>增加生命值恢复&#13;&#10;量</short>
-      <current>强化再生反应堆，从而迅速恢复各部门&#13;&#10;员工的生命值。</current>
+      <name>再生反应堆Mk2</name>
+      <short>增加主休息室的&#13;&#10;生命值恢复量</short>
+      <current>强化再生反应堆，从而加快恢复部门内主&#13;&#10;休息室内闲置职员的生命值。</current>
       <next></next>
     </cn>
     <jp>
@@ -483,9 +483,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>再生反應裝置 Mk2</name>
-      <short>加快健康的恢復</short>
-      <current>加強再生反應裝置, 能夠迅速恢復部門員工的健康.</current>
+      <name>再生反應爐 Mk2</name>
+      <short>增加主休息室的&#13;&#10;生命值恢復量</short>
+      <current>強化再生反應爐，使部門主休息室內閑置&#13;&#10;職員的生命值恢復速度加快。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -540,8 +540,8 @@
     </kr>
     <cn>
       <name>精神污染中和气体</name>
-      <short>增加精神值恢复&#13;&#10;量</short>
-      <current>释放精神污染中和气体，从而迅速恢复&#13;&#10;各部门员工的精神值。</current>
+      <short>增加主休息室的&#13;&#10;精神值恢复量</short>
+      <current>释放精神污染中和气体，从而加快恢复部&#13;&#10;门内主休息室闲置职员的精神值。</current>
       <next></next>
     </cn>
     <jp>
@@ -552,8 +552,8 @@
     </jp>
     <cn_tr>
       <name>精神污染中和氣體</name>
-      <short>加快精神的恢復</short>
-      <current>注入精神污染中和氣體將迅速恢復待命員工的心智.</current>
+      <short>增加主休息室的&#13;&#10;精神值恢復量</short>
+      <current>噴灑精神污染中和氣體，使部門主休息室&#13;&#10;內閑置職員的精神值恢復速度加快。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -608,9 +608,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>改良再生反应堆</name>
-      <short>即使有危险个体&#13;&#10;侵入各部门，再&#13;&#10;生反应堆仍会缓&#13;&#10;慢运转</short>
-      <current>改良后的再生反应堆能够识别友方单位&#13;&#10;和敌方单位，因此不会停止运转。</current>
+      <name>再生反应堆判别式修正</name>
+      <short>即使危险个体侵&#13;&#10;入主休息室，再&#13;&#10;生反应堆仍会缓&#13;&#10;慢运转</short>
+      <current>通过能够辨别敌对单位与友方单位的判定&#13;&#10;公式，使再生反应堆仍会持续为职员提供恢复。</current>
       <next></next>
     </cn>
     <jp>
@@ -620,9 +620,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>再生反應裝置分辨率修正</name>
-      <short>在異常進入時仍能啟動再生反應裝置</short>
-      <current>即使部門中入侵了危險的個體, 再生反應裝置仍會緩慢的執行. 透過分辨敵我, 再生反應裝置會持續的保護員工.</current>
+      <name>再生反應爐判別式修正</name>
+      <short>即使危險個體侵入&#13;&#10;主休息室，再&#13;&#10;生反應爐仍以緩慢速度運作</short>
+      <current>透過區分敵我個體的判別式，使再生爐仍&#13;&#10;能持續為職員提供回復。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -680,8 +680,8 @@
     </kr>
     <cn>
       <name>普及培训手册</name>
-      <short>加快员工晋升速&#13;&#10;度</short>
-      <current>向员工普及培训手册，帮其快速学习。</current>
+      <short>加快员工&#13;&#10;晋升速度</short>
+      <current>向员工普及培训手册，助其快速学习。</current>
       <next></next>
     </cn>
     <jp>
@@ -691,9 +691,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>分發教育手冊</name>
-      <short>加速員工晉升的速度</short>
-      <current>提供教育手冊能夠幫助員工學習的更快.</current>
+      <name>普及培訓手冊</name>
+      <short>加快員工&#13;&#10;成長速度</short>
+      <current>向員工普及培訓手冊，協助員工快速學習。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -748,9 +748,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>加强训练工作</name>
-      <short>提高员工工作后&#13;&#10;的能力数值加成</short>
-      <current>加强员工的职业教育，为各种突发情况&#13;&#10;做好准备。</current>
+      <name>加强职务培训</name>
+      <short>提高文职&#13;&#10;能力数值</short>
+      <current>通过加强文职们的职务培训，使&#13;&#10;其能够应对各种突发情况。</current>
       <next></next>
     </cn>
     <jp>
@@ -760,9 +760,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>加強職業教育</name>
-      <short>增加辦公能力的效率</short>
-      <current>它能強化職員的職業教育, 並準備好面對各種情況.</current>
+      <name>強化職務培訓</name>
+      <short>提升文職&#13;&#10;的能力值</short>
+      <current>強化文職的職務培訓，使其能應對&#13;&#10;各種突發狀況。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -819,7 +819,7 @@
     <cn>
       <name>强化雇用程序</name>
       <short>提高新员工的基&#13;&#10;础能力属性</short>
-      <current>通过强化雇用程序，能提高新晋员工的&#13;&#10;能力。</current>
+      <current>强化雇用程序，能提高新入职员工&#13;&#10;的能力。</current>
       <next></next>
     </cn>
     <jp>
@@ -829,9 +829,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>強化就業程序</name>
-      <short>提高新進職員的工作能力</short>
-      <current>它能提昇就業程序並且強化剛加入的員工.</current>
+      <name>強化雇傭程序</name>
+      <short>提升新員工的&#13;&#10;能力屬性</short>
+      <current>強化雇傭程序，小幅度提升員工入職時的&#13;&#10;能力屬性。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -891,9 +891,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>反物理立场盾</name>
-      <short>反红色伤害立场盾</short>
-      <current>在有限时间内，为员工释放一个能吸收&#13;&#10;红色伤害的立场盾，但无法吸收其他类&#13;&#10;型的伤害。</current>
+      <name>物理干涉防护罩</name>
+      <short>反红色伤害力场盾</short>
+      <current>在有限时间内，为职员释放一个只能&#13;&#10;吸收特定量红色伤害的力场盾。</current>
       <next></next>
     </cn>
     <jp>
@@ -903,9 +903,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>物理干預護盾</name>
-      <short>R 型護盾</short>
-      <current>在一段時間內附上一個能夠吸收 R 類型攻擊的護盾. 對於抵抗其他類型的攻擊並不會有任何效果.</current>
+      <name>物理干涉保護罩</name>
+      <short>反紅色傷害保護罩</short>
+      <current>為職員附加能在一定時間內，只能吸收&#13;&#10;一定量紅色傷害的保護罩。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -960,9 +960,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>反精神立场盾</name>
-      <short>反白色伤害立场盾</short>
-      <current>在有限时间内，为员工释放一个能吸收&#13;&#10;白色伤害的立场盾，但无法吸收其他类&#13;&#10;型的伤害。立场盾能暂时减少员工对外&#13;&#10;界的感知，保护其不受精神攻击。</current>
+      <name>情感创伤防护罩</name>
+      <short>反白色伤害力场盾</short>
+      <current>在有限时间内，为职员释放一个只能吸收特&#13;&#10;定量白色伤害的力场盾。通过暂时迟钝其认知器官，&#13;&#10;使其免受外部的精神伤害。</current>
       <next></next>
     </cn>
     <jp>
@@ -972,9 +972,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>情感創傷護盾</name>
-      <short>W 型護盾</short>
-      <current>在一段時間內附上一個能夠吸收 W 類型攻擊的護盾. 對於抵抗其他類型的攻擊並不會有任何效果. 它能暫時降低目標的知覺, 以保護目標受到來自外界的精神攻擊.</current>
+      <name>精神創傷抑制罩</name>
+      <short>反白色傷害保護罩</short>
+      <current>為職員附加能在一定時間內，只能吸收一定量&#13;&#10;白色傷害的保護罩。透過暫時鈍化職員們的感知器官，&#13;&#10;以使其免受外部的精神傷害。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1029,9 +1029,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>反侵蚀立场盾</name>
-      <short>反黑色伤害立场盾</short>
-      <current>在有限时间内，为员工释放一个能吸收&#13;&#10;黑色伤害的立场盾，但无法吸收其他类&#13;&#10;型的伤害。立场盾能封印人类肉体和精&#13;&#10;神上脆弱的开口，防止侵蚀刺入员工。</current>
+      <name>侵蚀中和罩</name>
+      <short>反黑色伤害力场盾</short>
+      <current>在有限时间内，为职员释放一个只能吸&#13;&#10;收特定量黑色伤害的力场盾。通过从源&#13;&#10;头封锁包含精神层面在内、人类可能脆弱&#13;&#10;的所有孔隙，从而防止侵蚀之刺深入&#13;&#10;渗透。然而，中和罩无法防御来自内部的伤害。</current>
       <next></next>
     </cn>
     <jp>
@@ -1041,9 +1041,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>心靈侵蝕護盾</name>
-      <short>B 型護盾</short>
-      <current>在一段時間內附上一個能夠吸收 B 類型攻擊的護盾. 對於抵抗其他類型的攻擊並不會有任何效果. 它能將人類脆弱的缺口給封住, 以防止目標受到心靈上的侵蝕. 有個缺點是, 它不能抵抗來自內部的傷害.</current>
+      <name>侵蝕中和罩</name>
+      <short>反黑色傷害保護罩</short>
+      <current>為職員附加能在一定時間內，只能吸收&#13;&#10;一定量黑色傷害的保護罩。透過封鎖所&#13;&#10;有包含精神層面在內、人類可能脆弱的&#13;&#10;孔竅，使侵蝕之刺無法深深刻入。但中&#13;&#10;和罩無法防止來自其內部的傷害。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1103,8 +1103,8 @@
     </kr>
     <cn>
       <name>处决弹</name>
-      <short>员工抹杀弹头</short>
-      <current>发射一颗移除不稳定因素的子弹，抹杀&#13;&#10;那些看起来随时都有可能失去理智或不&#13;&#10;受控制的员工。</current>
+      <short>职员处决弹</short>
+      <current>用于消除不稳定因素的处决弹。它会&#13;&#10;激活配发的职员证与E.G.O的处决功能。用它&#13;&#10;清理那些失去控制，或是如同定时炸弹般的职员。</current>
       <next></next>
     </cn>
     <jp>
@@ -1114,9 +1114,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>處決彈頭</name>
-      <short>員工處決彈頭</short>
-      <current>用來去除不穩定因素的彈頭. 它能啟動員工與 E.G.O 的處置功能. 控制一個失去控制的員工如同帶著一顆不穩定的未暴彈.</current>
+      <name>處決彈</name>
+      <short>職員處決彈</short>
+      <current>用於消除不穩定因素的處決彈。這會啟&#13;&#10;動職員證與 E.G.O 中的處決功能，用來&#13;&#10;清理失去控制，或是如同定時炸彈般的職員。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1171,9 +1171,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>逆卡巴拉能量干扰立场</name>
-      <short>异常减速弹头</short>
-      <current>在有限的时间内减少异常的速度，通过&#13;&#10;重载逆卡巴拉能量来降低异常50%的移&#13;&#10;动速度。</current>
+      <name>逆卡巴拉干扰力场</name>
+      <short>机动力降低弹</short>
+      <current>在一定时间内降低敌对单位的机动力。&#13;&#10;通过暂时给逆卡巴拉控制施加负荷，&#13;&#10;使敌对单位移动速度降低50%。</current>
       <next></next>
     </cn>
     <jp>
@@ -1183,9 +1183,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>逆卡巴拉干擾立場</name>
-      <short>機動遲緩彈頭</short>
-      <current>在一段時間內降低異常的移動速度. 它能透過超載時間來達到降低異常的移動速度 50%.</current>
+      <name>逆卡巴拉干擾力場</name>
+      <short>移動能力降低彈</short>
+      <current>在一定時間內降低敵對個體的移動能力。&#13;&#10;透過暫時對逆卡巴拉控制施加負荷，&#13;&#10;使敵對個體的移動速度減少 50%。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1240,9 +1240,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>兔子</name>
-      <short>部署兔子</short>
-      <current>通过与R公司签订的合约，我们可以部&#13;&#10;署兔子来应对紧急情况。兔子会快速清&#13;&#10;理掉所在部门的敌对目标，但在这个过&#13;&#10;程中，员工的生命安全得不到保障。</current>
+      <name>兔子小队</name>
+      <short>呼叫兔子小队</short>
+      <current>通过与R公司签订的合约，我们获得&#13;&#10;兔子小队的支援。兔子小队会快速镇压掉&#13;&#10;部门内的敌对单位，但在这个过程中，职员&#13;&#10;的安全将得不到保障。</current>
       <next></next>
     </cn>
     <jp>
@@ -1253,8 +1253,8 @@
     </jp>
     <cn_tr>
       <name>兔子小隊</name>
-      <short>招喚兔子小隊</short>
-      <current>透過與 R 公司的協議, 我們得到了兔子小隊的援助. 兔子小隊能快速的擊潰部門中具有敵意的目標. 但是在過程中, 員工們的安全也無法得到保障.</current>
+      <short>呼叫兔子小隊</short>
+      <current>透過與 R 公司的合約，我們獲得了&#13;&#10;兔子小隊的支援。兔子小隊會迅速鎮壓部&#13;&#10;門內的敵對個體。但在此過程中，職員的&#13;&#10;安全將無法獲得保障。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1313,9 +1313,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>肉体治疗弹</name>
+      <name>HP-N弹</name>
       <short>生命值恢复弹</short>
-      <current>发射一颗能恢复生命值的子弹。通过与&#13;&#10;K公司签订合约，我们得以使用纳米科&#13;&#10;技制造出的子弹，这种子弹能直接射进&#13;&#10;人体，加快其恢复速度。</current>
+      <current>可以使用能够恢复职员生命值的弹药。&#13;&#10;通过与K公司签订的纳米技术协议所制造&#13;&#10;的HP治疗弹，能够促进肉体的恢复。</current>
       <next></next>
     </cn>
     <jp>
@@ -1325,9 +1325,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>HP-N 彈頭</name>
-      <short>HP 治癒彈頭</short>
-      <current>解鎖治癒 HP 功能的彈頭. 透過奈米科技協議與 K 製作的子彈, 它能夠加速任何人回復的速度.</current>
+      <name>HP-N 彈</name>
+      <short>生命值恢復彈</short>
+      <current>此子彈可以使用恢復職員的生命值。透&#13;&#10;過與 K 公司的奈米技術協議所製造的治&#13;&#10;療彈，能促進肉體的恢復。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1382,9 +1382,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>精神治疗弹</name>
+      <name>SP-E弹</name>
       <short>精神值恢复弹</short>
-      <current>发射一颗能恢复精神值的子弹。通过将&#13;&#10;较少剂量的脑啡肽注射进体内，来治愈&#13;&#10;员工的心智，且不会上瘾。</current>
+      <current>可以使用能够恢复职员精神值的弹药。&#13;&#10;通过在短时间内为职员注射经中和的&#13;&#10;脑啡肽。这种经严格精炼的脑啡肽能够在&#13;&#10;没有成瘾风险的情况下恢复目标的精神。</current>
       <next></next>
     </cn>
     <jp>
@@ -1394,9 +1394,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>SP-E 彈頭</name>
-      <short>SP 治癒彈頭</short>
-      <current>解鎖治癒 SP 功能的彈頭. 在一段時間內對虛弱的員工給上一劑腦內啡, 透過精鍊的腦內啡能夠治癒目標的心智.</current>
+      <name>SP-E 彈</name>
+      <short>精神值恢復彈</short>
+      <current>此彈藥可以恢復職員的精神值。將中和&#13;&#10;後的腦啡肽暫時注入於職員。經嚴格提&#13;&#10;煉的腦啡肽能恢復目標的精神，且不具備中毒或成癮風險。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1451,9 +1451,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>强化肉体，精神治疗弹</name>
+      <name>HP, SP弹精炼</name>
       <short>增加子弹恢复量</short>
-      <current>增加子弹的恢复量，经过研究与改良后&#13;&#10;的子弹能更有效地恢复生命和精神。</current>
+      <current>增加HP、SP弹的恢复量。通过提高恢复&#13;&#10;弹药精炼纯度的研究，来实现更有效的恢复。</current>
       <next></next>
     </cn>
     <jp>
@@ -1463,9 +1463,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>HP, SP 彈頭精製</name>
-      <short>增加彈頭的回復效果</short>
-      <current>增加彈頭給予的回復量. 透過研究來精製這些彈頭讓其效果提高.</current>
+      <name>HP、SP 子彈精製</name>
+      <short>增加子彈恢復量</short>
+      <current>增加 HP、SP 子彈的恢復量。研究以提升&#13;&#10;恢復子彈的精製純度，從而實現出更具成效的恢復。</current>
     </cn_tr>
     <ru>
       <name>Доработанная HP, SP пуля</name>
@@ -1522,9 +1522,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>E.G.O修复</name>
-      <short>员工死亡时，身&#13;&#10;上的E.G.O装备有&#13;&#10;25%的概率不会&#13;&#10;丢失</short>
-      <current>加强E.G.O装备与员工同步分离的稳定&#13;&#10;性，因此E.G.O装备有概率不会损失。</current>
+      <name>E.G.O回收</name>
+      <short>员工死亡时，身&#13;&#10;上的E.G.O装备有&#13;&#10;25%的概率会被&#13;&#10;回收</short>
+      <current>加强E.G.O装备与员工同步分离的稳定&#13;&#10;性，因而降低E.G.O装备的损失率。</current>
       <next></next>
     </cn>
     <jp>
@@ -1534,9 +1534,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>E.G.O 重組</name>
-      <short>當員工死亡時 E.G.O 裝備有 25% 的機率復原</short>
-      <current>加強與員工同步的 E.G.O 分離穩定性, 有一定的機率讓 E.G.O 不會消失.</current>
+      <name>E.G.O 回收</name>
+      <short>員工死亡時，有&#13;&#10;25% 的機率回收&#13;&#10;其身上的 E.G.O 裝備</short>
+      <current>透過強化與職員同步之 E.G.O 的分離&#13;&#10;穩定性，使其降低 E.G.O 裝備的損失。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1593,7 +1593,7 @@
     <cn>
       <name>二次提取</name>
       <short>在每天的异想体&#13;&#10;选择阶段获得一&#13;&#10;次重选机会</short>
-      <current>引入逆向提取技术后，如果每天的异想&#13;&#10;体选择列表中没有您中意的目标，您将获&#13;&#10;得一次重新选择的机会。</current>
+      <current>引入可逆性提取过程，使每天可以进&#13;&#10;行一次异想体的重新选择机会。</current>
       <next></next>
     </cn>
     <jp>
@@ -1603,9 +1603,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>再次提取</name>
-      <short>允許你能再次選取異常一次</short>
-      <current>透過實施逆向提取技術, 能讓你重新選取一個異常.</current>
+      <name>二次提取</name>
+      <short>在每天的異想體&#13;&#10;選擇階段獲得一&#13;&#10;次重選機會</short>
+      <current>透過實施可逆提取技術，每天都有一次&#13;&#10;重新選取異想體的機會。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1662,7 +1662,7 @@
     <cn>
       <name>饰品分化</name>
       <short>提高E.G.O饰品的&#13;&#10;获得率</short>
-      <current>通过刺激异想体的细胞分化，从而提高&#13;&#10;员工获得E.G.O饰品的概率。</current>
+      <current>通过使异想体的选项产生分化，从而提高&#13;&#10;员工获得E.G.O饰品的概率。</current>
       <next></next>
     </cn>
     <jp>
@@ -1672,9 +1672,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>飾品分化 </name>
-      <short>增加獲得 E.G.O 飾品的機率 </short>
-      <current>透過分化異常, 增加了獲得 E.G.O 飾品的機率.</current>
+      <name>飾品分化</name>
+      <short>提高 E.G.O 飾品的&#13;&#10;獲取率</short>
+      <current>透過使異想體的選擇趨於分化，藉此增加&#13;&#10;員工獲得 E.G.O 飾品的機率。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1729,7 +1729,7 @@
       <next></next>
     </kr>
     <cn>
-      <name>守护之美</name>
+      <name>解限：守护美德</name>
       <short>将员工的“勇气”&#13;&#10;属性上限提高到&#13;&#10;120</short>
       <current>使员工的“勇气”属性突破极限记录。</current>
       <next></next>
@@ -1741,9 +1741,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>突破守護美德的極限</name>
-      <short>員工的堅韌極限提高至 120</short>
-      <current>超過紀錄, 堅韌的極限解除了.</current>
+      <name>限界解除：守護美德</name>
+      <short>將員工的「勇氣」&#13;&#10;屬性上限提高至&#13;&#10;120</short>
+      <current>解除「勇氣」屬性的成長限制，讓其超&#13;&#10;越可記錄的極限。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1798,9 +1798,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>统御之美</name>
-      <short>将员工的“谨慎”&#13;&#10;属性上限提高到&#13;&#10;120</short>
-      <current>使员工的“谨慎”属性突破极限记录。</current>
+      <name>解限：统御美德</name>
+      <short>将员工的“智慧”&#13;&#10;属性上限提高到&#13;&#10;120</short>
+      <current>使员工的“智慧”属性突破极限记录。</current>
       <next></next>
     </cn>
     <jp>
@@ -1810,9 +1810,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>解除管理的美德的極限</name>
-      <short>員工的謹慎極限提昇至 120</short>
-      <current>超過紀錄, 謹慎的極限解除了.</current>
+      <name>限界解除：統御美德</name>
+      <short>將員工的「智慧」&#13;&#10;屬性上限提高至&#13;&#10;120</short>
+      <current>解除「智慧」屬性的成長限制，讓其超&#13;&#10;越可記錄的極限。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1867,9 +1867,9 @@
       <next></next>
     </kr>
     <cn>
-      <name>创造之美</name>
-      <short>将员工的“自律”&#13;&#10;属性上限提高到&#13;&#10;120</short>
-      <current>使员工的“自律”属性突破极限记录。</current>
+      <name>解限：创造美德</name>
+      <short>将员工的“节制”&#13;&#10;属性上限提高到&#13;&#10;120</short>
+      <current>使员工的“节制”属性突破极限记录。</current>
       <next></next>
     </cn>
     <jp>
@@ -1879,9 +1879,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>解除創造的美德的極限</name>
-      <short>員工的自律極限提昇至 120</short>
-      <current>突破紀錄, 移除了自律的成長.</current>
+      <name>限界解除：創造美德</name>
+      <short>將員工的「節制」&#13;&#10;屬性上限提高至&#13;&#10;120</short>
+      <current>解除「節制」屬性的成長限制，讓其超&#13;&#10;越可記錄的極限。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1941,8 +1941,8 @@
     </kr>
     <cn>
       <name>综合研究</name>
-      <short>教学用研究项目</short>
-      <current>综合研究整合了控制部的“召集令”，情&#13;&#10;报部的“G.O可视化”及“损伤规格化”这&#13;&#10;三个研究项目。在您完成教学后，这些&#13;&#10;研究项目都会被初始化。</current>
+      <short>培训用研究项目</short>
+      <current>综合研究整合了指挥部的“召集令”，情&#13;&#10;报部的“G.O可视化”及“损伤规格化”这&#13;&#10;三个研究项目。在您完成教学后，这些&#13;&#10;研究项目都会被初始化。其功能需&#13;&#10;完成所属部门的研究才可正式生效。</current>
       <next></next>
     </cn>
     <jp>
@@ -1953,8 +1953,8 @@
     </jp>
     <cn_tr>
       <name>綜合研究</name>
-      <short>臨時用綜合研究</short>
-      <current>此項研究能暫時啟動集合命令, G.O 可視化, 以及損害規格化來協助訓練. 在完成訓練後, 以上研究將復原至初始狀態.</current>
+      <short>培訓臨時用綜合研究</short>
+      <current>在本研究中啟動的召集呼叫、G.O&#13;&#10;可視化、傷害規格化，將在主&#13;&#10;管培訓結束後重設。各項功能隨後需完成對&#13;&#10;應部門的研究才可正式使用。</current>
       <next></next>
     </cn_tr>
     <ru>

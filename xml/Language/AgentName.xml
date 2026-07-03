@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
 	<data id="1" kr="조슈아" en="Joshua" jp="ジョシュア" cn="约书亚" cn_tr="Joshua" ru="Джошуа" vn="Joshua" bg="Джошуа" es="Josué" fr="Joshua" pt_br="Josué" pt_pt="Joshua"/>
 	<data id="2" kr="에밀리아" en="Emilia" jp="エミリア" cn="艾米莉亚" cn_tr="Emilia" ru="Эмилия" vn="Emilia" bg="Емилия" es="Emilia" fr="Emilia" pt_br="Emília" pt_pt="Emilia"/>
@@ -21,11 +21,11 @@
 	<data id="20" kr="쿠퍼" en="Cooper" jp="クーパー" cn="库伯" cn_tr="Cooper" ru="Купер" vn="Cooper" bg="Куупър" es="Cooper" fr="Cooper" pt_br="Cooper" pt_pt="Cooper"/>
 	<data id="21" kr="조이" en="Joy" jp="ジョイ" cn="乔伊" cn_tr="Joy" ru="Джой" vn="Joy" bg="Джой" es="Felicidad" fr="Joy" pt_br="Joice" pt_pt="Joy"/>
 	<data id="22" kr="런던" en="London" jp="ロンドン" cn="伦敦" cn_tr="London" ru="Лондон" vn="London" bg="Лондон" es="Londres" fr="London" pt_br="London" pt_pt="London"/>
-	<data id="23" kr="호세" en="Jose" jp="ホース" cn="霍斯" cn_tr="Hose" ru="Хосэ" vn="Hose" bg="Хосе" es="José" fr="José" pt_br="José" pt_pt="José"/>
+	<data id="23" kr="호세" en="Jose" jp="ホース" cn="何塞" cn_tr="Jose" ru="Хосэ" vn="Hose" bg="Хосе" es="José" fr="José" pt_br="José" pt_pt="José"/>
 	<data id="24" kr="앤써니" en="Anthony" jp="アンソニー" cn="安东尼" cn_tr="Anthony" ru="Энтони" vn="Anthony" bg="Антъни" es="Antonio" fr="Anthony" pt_br="Antônio" pt_pt="Anthony"/>
 	<data id="25" kr="파커" en="Parker" jp="パーカー" cn="帕克" cn_tr="Parker" ru="Паркер" vn="Parker" bg="Паркър" es="Parker" fr="Parker" pt_br="Parker" pt_pt="Parker"/>
 	<data id="26" kr="줄리안" en="Julian" jp="ジュリアン" cn="朱利安" cn_tr="Julian" ru="Джулиан" vn="Julian" bg="Джулиан" es="Julián" fr="Julien" pt_br="Juliano" pt_pt="Julian"/>
-	<data id="27" kr="리아" en="Ria" jp="リア" cn="莱恩" cn_tr="Ria" ru="Рея" vn="Ria" bg="Риа" es="Ria" fr="Lia" pt_br="Ria" pt_pt="Ria"/>
+	<data id="27" kr="리아" en="Ria" jp="リア" cn="莉雅" cn_tr="Ria" ru="Рея" vn="Ria" bg="Риа" es="Ria" fr="Lia" pt_br="Ria" pt_pt="Ria"/>
 	<data id="28" kr="앤젤" en="Angel" jp="エンジェル" cn="安吉尔" cn_tr="Angel" ru="Энджел" vn="Angel" bg="Ейнджъл" es="Ángel" fr="Angèle" pt_br="Angel" pt_pt="Angel"/>
 	<data id="29" kr="존" en="John" jp="ジョン" cn="约翰" cn_tr="John" ru="Джон" vn="John" bg="Джон" es="Juan" fr="John" pt_br="João" pt_pt="John"/>
 	<data id="30" kr="크리스토퍼" en="Christopher" jp="クリストファ" cn="克里斯托弗" cn_tr="Christopher" ru="Кристофер" vn="Christopher" bg="Кристофър" es="Cristóbal" fr="Christopher" pt_br="Cristopher" pt_pt="Christopher"/>
@@ -33,21 +33,21 @@
 	<data id="32" kr="데스티니" en="Destiny" jp="デスティニー" cn="黛丝媞妮" cn_tr="Destiny" ru="Дестней" vn="Destiny" bg="Дестини" es="Destino" fr="Destiny" pt_br="Destiny" pt_pt="Destiny"/>
 	<data id="33" kr="에바" en="Eva" jp="エバ" cn="伊娃" cn_tr="Eva" ru="Ева" vn="Eva" bg="Ева" es="Eve" fr="Eva" pt_br="Eva" pt_pt="Eva"/>
 	<data id="34" kr="브룩" en="Brook" jp="ブルック" cn="布鲁克" cn_tr="Brook" ru="Брук" vn="Brook" bg="Бруук" es="Brooke" fr="Brook" pt_br="Brook" pt_pt="Brook"/>
-	<data id="35" kr="레이" en="Ray" jp="レイ" cn="莱阿" cn_tr="Ray" ru="Рэй" vn="Ray" bg="Рей" es="Ray" fr="Ray" pt_br="Ray" pt_pt="Ray"/>
+	<data id="35" kr="레이" en="Ray" jp="レイ" cn="雷" cn_tr="Ray" ru="Рэй" vn="Ray" bg="Рей" es="Ray" fr="Ray" pt_br="Ray" pt_pt="Ray"/>
 	<data id="36" kr="하루" en="Haru" jp="ハル" cn="哈鲁" cn_tr="Haru" ru="Хару" vn="Haru" bg="Хари" es="Haru" fr="Haru" pt_br="Haru" pt_pt="Haru"/>
 	<data id="37" kr="린" en="Ryn" jp="リン" cn="琳" cn_tr="Ryn" ru="Рин" vn="Ryn" bg="Рин" es="Rina" fr="Lyn" pt_br="Ryn" pt_pt="Ryn"/>
 	<data id="38" kr="노아" en="Noah" jp="ノア" cn="诺亚" cn_tr="Noah" ru="Ноя" vn="Noah" bg="Ной" es="Noah" fr="Noah" pt_br="Noah" pt_pt="Noah"/>
 	<data id="39" kr="엠마" en="Emma" jp="エマ" cn="艾玛" cn_tr="Emma" ru="Эмма" vn="Emma" bg="Ема" es="Ema" fr="Emma" pt_br="Ema" pt_pt="Emma"/>
 	<data id="40" kr="세드릭" en="Cedric" jp="セドリック" cn="塞德里克" cn_tr="Cedric" ru="Кедрик" vn="Cedric" bg="Кедрик" es="Cédric" fr="Cédric" pt_br="Cédric" pt_pt="Cedric"/>
 	<data id="41" kr="메이슨" en="Mason" jp="メイソン" cn="梅森" cn_tr="Mason" ru="Мейсон" vn="Mason" bg="Мейсън" es="Masón" fr="Mason" pt_br="Mason" pt_pt="Mason"/>
-	<data id="42" kr="올리버" en="Oliver" jp="オリバー" cn="土豆" cn_tr="Oliver" ru="Оливер" vn="Oliver" bg="Оливър" es="Oliverio" fr="Oliver" pt_br="Oliveira" pt_pt="Oliver"/>
+	<data id="42" kr="올리버" en="Oliver" jp="オリバー" cn="奥利弗" cn_tr="Oliver" ru="Оливер" vn="Oliver" bg="Оливър" es="Oliverio" fr="Oliver" pt_br="Oliveira" pt_pt="Oliver"/>
 	<data id="43" kr="브라운" en="Brown" jp="ブラウン" cn="布朗" cn_tr="Brown" ru="Браун" vn="Brown" bg="Браун" es="Brown" fr="Brown" pt_br="Brown" pt_pt="Brown"/>
 	<data id="44" kr="오웬" en="Owen" jp="オーウェン" cn="欧文" cn_tr="Owen" ru="Овен" vn="Owen" bg="Оуен" es="Owen" fr="Owen" pt_br="Owen" pt_pt="Owen"/>
-	<data id="45" kr="노아" en="Noa" jp="ノア" cn="诺阿" cn_tr="Noah" ru="Ноя" vn="Noah" bg="Ной" es="Noé" fr="Noé" pt_br="Noé" pt_pt="Noa"/>
-	<data id="46" kr="아담" en="Adam" jp="アダム" cn="艾达" cn_tr="Adam" ru="Адам" vn="Adam" bg="Адам" es="Adán" fr="Adam" pt_br="Adão" pt_pt="Adam"/>
+	<data id="45" kr="노아" en="Noa" jp="ノア" cn="诺阿" cn_tr="Noa" ru="Ноя" vn="Noah" bg="Ной" es="Noé" fr="Noé" pt_br="Noé" pt_pt="Noa"/>
+	<data id="46" kr="아담" en="Adam" jp="アダム" cn="亚当" cn_tr="Adam" ru="Адам" vn="Adam" bg="Адам" es="Adán" fr="Adam" pt_br="Adão" pt_pt="Adam"/>
 	<data id="47" kr="맥스" en="Max" jp="マックス" cn="马克思" cn_tr="Max" ru="Макс" vn="Max" bg="Макс" es="Max" fr="Max" pt_br="Max" pt_pt="Max"/>
 	<data id="48" kr="벨라" en="Bella" jp="ベラ" cn="贝拉" cn_tr="Bella" ru="Белла" vn="Bella" bg="Бела" es="Bella" fr="Belle" pt_br="Bella" pt_pt="Bella"/>
-	<data id="49" kr="파이퍼" en="Piper" jp="パイパー" cn="海" cn_tr="Piper" ru="Пайпер" vn="Piper" bg="Пайпър" es="Piper" fr="Piper" pt_br="Piper" pt_pt="Piper"/>
+	<data id="49" kr="파이퍼" en="Piper" jp="パイパー" cn="派珀" cn_tr="Piper" ru="Пайпер" vn="Piper" bg="Пайпър" es="Piper" fr="Piper" pt_br="Piper" pt_pt="Piper"/>
 	<data id="50" kr="루비" en="Ruby" jp="ルビー" cn="鲁比" cn_tr="Ruby" ru="Руби" vn="Ruby" bg="Руби" es="Ruby" fr="Ruby" pt_br="Rubi" pt_pt="Ruby"/>
 	<data id="51" kr="퀸" en="Quinn" jp="クイン" cn="奎因" cn_tr="Quinn" ru="Куинн" vn="Quinn" bg="Куиин" es="Quinn" fr="Quinn" pt_br="Quinn" pt_pt="Quinn"/>
 	<data id="52" kr="메이블" en="Mabel" jp="メイベル" cn="梅布尔" cn_tr="Mabel" ru="Мейбел" vn="Mabel" bg="Мейбъл" es="Mabel" fr="Mabel" pt_br="Mabel" pt_pt="Mabel"/>
@@ -58,15 +58,15 @@
 	<data id="57" kr="델릴라" en="Delilah" jp="デリラ" cn="黛利拉" cn_tr="Delilah" ru="Делайя" vn="Delilah" bg="Дилайла" es="Dalila" fr="Delilah" pt_br="Dalila" pt_pt="Delilah"/>
 	<data id="58" kr="이자벨" en="Isabel" jp="イザベル" cn="伊莎贝尔" cn_tr="Isabel" ru="Изабель" vn="Isabel" bg="Изабел" es="Isabel" fr="Isabelle" pt_br="Isabel" pt_pt="Isabel"/>
 	<data id="59" kr="맥스웰" en="Maxwell" jp="マクスウェル" cn="麦克斯威尔" cn_tr="Maxwell" ru="Максвелл" vn="Maxwell" bg="Максуел" es="Maxwell" fr="Maxwell" pt_br="Maxwell" pt_pt="Maxwell"/>
-	<data id="60" kr="로즈" en="Rose" jp="ローザ" cn="洛萨" cn_tr="Rose" ru="Роза" vn="Rose" bg="Роуз" es="Rosa" fr="Rose" pt_br="Rosa" pt_pt="Rose"/>
+	<data id="60" kr="로즈" en="Rose" jp="ローザ" cn="萝丝" cn_tr="Rose" ru="Роза" vn="Rose" bg="Роуз" es="Rosa" fr="Rose" pt_br="Rosa" pt_pt="Rose"/>
 	<data id="61" kr="써머" en="Summer" jp="サマー" cn="萨摩" cn_tr="Summer" ru="Саммер" vn="Summer" bg="Съмър" es="Summer" fr="Summer" pt_br="Summer" pt_pt="Summer"/>
-	<data id="62" kr="니콜" en="Nicole" jp="ニコル" cn="尼克尔" cn_tr="Nicole" ru="Николь" vn="Nicole" bg="Никол" es="Nicole" fr="Nicole" pt_br="Nicole" pt_pt="Nicole"/>
+	<data id="62" kr="니콜" en="Nicole" jp="ニコル" cn="妮可" cn_tr="Nicole" ru="Николь" vn="Nicole" bg="Никол" es="Nicole" fr="Nicole" pt_br="Nicole" pt_pt="Nicole"/>
 	<data id="63" kr="조지아" en="Georgia" jp="ジョージア" cn="佐治亚" cn_tr="Georgia" ru="Джоджия" vn="Georgia" bg="Джорджия" es="Georgia" fr="Georgia" pt_br="Georgia" pt_pt="Georgia"/>
 	<data id="64" kr="리버" en="River" jp="リバー" cn="利弗尔" cn_tr="River" ru="Ривер" vn="River" bg="Ривър" es="Rios" fr="River" pt_br="River" pt_pt="River"/>
 	<data id="65" kr="다코타" en="Dakota" jp="ダコタ" cn="达科塔" cn_tr="Dakota" ru="Дакота" vn="Dakota" bg="Дакота" es="Dakota" fr="Dakota" pt_br="Dakota" pt_pt="Dakota"/>
-	<data id="66" kr="봉봉" en="Bong-bong" jp="ボンボン" cn="邦邦" cn_tr="Bongbong" ru="Бонгбонг" vn="Bongbong" bg="Бонгбонг" es="Bombón" fr="Bong-bong" pt_br="Bom-bom" pt_pt="Bong-bong"/>
-	<data id="67" kr="윰윰" en="Yum-yum" jp="ヤムヤム" cn="由美" cn_tr="Yumyum" ru="Юмюм" vn="Yumyum" bg="Йъмьъм" es="Ñam-ñam" fr="Yum-yum" pt_br="Nham-Nham" pt_pt="Yum-yum"/>
-	<data id="68" kr="올리브" en="Olive" jp="オリーブ" cn="奥利弗" cn_tr="Olive" ru="Оливия" vn="Olive" bg="Олийв" es="Olivia" fr="Olivier" pt_br="Olívia" pt_pt="Olive"/>
+	<data id="66" kr="봉봉" en="Bong-bong" jp="ボンボン" cn="邦邦" cn_tr="Bong-bong" ru="Бонгбонг" vn="Bongbong" bg="Бонгбонг" es="Bombón" fr="Bong-bong" pt_br="Bom-bom" pt_pt="Bong-bong"/>
+	<data id="67" kr="윰윰" en="Yum-yum" jp="ヤムヤム" cn="由美" cn_tr="Yum-yum" ru="Юмюм" vn="Yumyum" bg="Йъмьъм" es="Ñam-ñam" fr="Yum-yum" pt_br="Nham-Nham" pt_pt="Yum-yum"/>
+	<data id="68" kr="올리브" en="Olive" jp="オリーブ" cn="奥莉" cn_tr="Olive" ru="Оливия" vn="Olive" bg="Олийв" es="Olivia" fr="Olivier" pt_br="Olívia" pt_pt="Olive"/>
 	<data id="69" kr="그리핀" en="Griffin" jp="グリフィン" cn="格里芬" cn_tr="Griffin" ru="Гриффин" vn="Griffin" bg="Грифин" es="Griffin" fr="Griffin" pt_br="Griffin" pt_pt="Griffin"/>
 	<data id="70" kr="베라" en="Vera" jp="ベラ" cn="维拉" cn_tr="Vera" ru="Вера" vn="Vera" bg="Вера" es="Vera" fr="Vera" pt_br="Vera" pt_pt="Vera"/>
 	<data id="71" kr="녹스" en="Knox" jp="ノックス" cn="诺克斯" cn_tr="Knox" ru="Кнокс" vn="Knox" bg="Нокс" es="Knox" fr="Knox" pt_br="Knox" pt_pt="Knox"/>
@@ -81,7 +81,7 @@
 	<data id="80" kr="에반젤린" en="Evangeline" jp="エヴァンジェリン" cn="伊万杰琳" cn_tr="Evangeline" ru="Евангелина" vn="Evangeline" bg="Еванджелина" es="Evangelina" fr="Evangeline" pt_br="Evangelina" pt_pt="Evangeline"/>
 	<data id="81" kr="덱스터" en="Dexter" jp="デクスター" cn="德克斯特" cn_tr="Dexter" ru="Декстер" vn="Dexter" bg="Декстър" es="Dexter" fr="Dexter" pt_br="Dexter" pt_pt="Dexter"/>
 	<data id="82" kr="피렌체" en="Firenze" jp="フィレンツェ" cn="弗洛伦撒" cn_tr="Firenze" ru="Фиренз" vn="Firenze" bg="Фиренце" es="Florencia" fr="Florence" pt_br="Florência" pt_pt="Firenze"/>
-	<data id="83" kr="가브리엘" en="Gabriella" jp="ガブリエラ" cn="加百列" cn_tr="Gabriella" ru="Габриэлла" vn="Gabriella" bg="Габриела" es="Gabriella" fr="Gabriella" pt_br="Gabriella" pt_pt="Gabriella"/>
+	<data id="83" kr="가브리엘" en="Gabriella" jp="ガブリエラ" cn="加百列拉" cn_tr="Gabriella" ru="Габриэлла" vn="Gabriella" bg="Габриела" es="Gabriella" fr="Gabriella" pt_br="Gabriella" pt_pt="Gabriella"/>
 	<data id="84" kr="알렉스" en="Alex" jp="アレックス" cn="亚历克斯" cn_tr="Alex" ru="Алекс" vn="Alex" bg="Алекс" es="Ale" fr="Alex" pt_br="Alex" pt_pt="Alex"/>
 	<data id="85" kr="니콜라스" en="Nicolas" jp="ニコラス" cn="尼古拉斯" cn_tr="Nicolas" ru="Николас" vn="Nicolas" bg="Николас" es="Nicolás" fr="Nicolas" pt_br="Nicolas" pt_pt="Nicolas"/>
 	<data id="86" kr="티파니" en="Tiffany" jp="ティファニー" cn="蒂凡尼" cn_tr="Tiffany" ru="Тифанни" vn="Tiffany" bg="Тифани" es="Tifanía" fr="Tiffany" pt_br="Tiffany" pt_pt="Tiffany"/>
@@ -91,7 +91,7 @@
 	<data id="90" kr="다프네" en="Daphne" jp="ダフネ" cn="达芙妮" cn_tr="Daphne" ru="Дафни" vn="Daphne" bg="Дафни" es="Dafne" fr="Daphné" pt_br="Dafne" pt_pt="Daphne"/>
 	<data id="91" kr="그레고리" en="Gregory" jp="グレゴリー" cn="格雷戈瑞" cn_tr="Gregory" ru="Грегори" vn="Gregory" bg="Грегъри" es="Gregorio" fr="Gregory" pt_br="Gregório" pt_pt="Gregory"/>
 	<data id="92" kr="제이크" en="Jake" jp="ジェイク" cn="杰克" cn_tr="Jake" ru="Джейк" vn="Jake" bg="Джейк" es="Jake" fr="Jake" pt_br="Jake" pt_pt="Jake"/>
-	<data id="93" kr="핀" en="Finn" jp="フィン" cn="玻璃碴" cn_tr="Finn" ru="Финн" vn="Finn" bg="Фин" es="Finn" fr="Finn" pt_br="Finn" pt_pt="Finn"/>
+	<data id="93" kr="핀" en="Finn" jp="フィン" cn="芬恩" cn_tr="Finn" ru="Финн" vn="Finn" bg="Фин" es="Finn" fr="Finn" pt_br="Finn" pt_pt="Finn"/>
 	<data id="94" kr="프랭크" en="Frank" jp="フランク" cn="弗兰克" cn_tr="Frank" ru="Френк" vn="Frank" bg="Франк" es="Franco" fr="Franck" pt_br="Frank" pt_pt="Frank"/>
 	<data id="95" kr="데이나" en="Dana" jp="ダナ" cn="达纳" cn_tr="Dana" ru="Дана" vn="Dana" bg="Дана" es="Dana" fr="Dana" pt_br="Dana" pt_pt="Dana"/>
 	<data id="96" kr="코트니" en="Courtney" jp="コートニー" cn="考特尼" cn_tr="Courtney" ru="Кортни" vn="Courtney" bg="Кортни" es="Courtney" fr="Courtney" pt_br="Courtney" pt_pt="Courtney"/>
@@ -116,7 +116,7 @@
 	<data id="115" kr="이고리" en="Igoree" jp="イゴリー" cn="伊果瑞" cn_tr="Igoree" ru="Игорь" vn="Igoree" bg="Игор" es="Igoree" fr="Igor" pt_br="Igoree" pt_pt="Igoree"/>
 	<data id="116" kr="바실리" en="Basil" jp="バジル" cn="巴兹尔" cn_tr="Basil" ru="Василий" vn="Basil" bg="Васил" es="Basilio" fr="Basile" pt_br="Basil" pt_pt="Basil"/>
 	<data id="117" kr="빅토르" en="Viktor" jp="ビクター" cn="维克托" cn_tr="Viktor" ru="Виктор" vn="Viktor" bg="Виктор" es="Viktor" fr="Victor" pt_br="Viktor" pt_pt="Viktor"/>
-	<data id="118" kr="아나스타시야" en="Anastasia" jp="アナスタシア" cn="塔西亚" cn_tr="Anastasia" ru="Анастасия" vn="Anastasia" bg="Анастасия" es="Anastasia" fr="Anastasia" pt_br="Anastasia" pt_pt="Anastasia"/>
+	<data id="118" kr="아나스타시야" en="Anastasia" jp="アナスタシア" cn="安娜斯塔西娅" cn_tr="Anastasia" ru="Анастасия" vn="Anastasia" bg="Анастасия" es="Anastasia" fr="Anastasia" pt_br="Anastasia" pt_pt="Anastasia"/>
 	<data id="119" kr="타타냐" en="Tatyana" jp="タチアナ" cn="塔季扬娜" cn_tr="Tatyana" ru="Татьяна" vn="Tatyana" bg="Татяна" es="Tatyana" fr="Tatiana" pt_br="Tatiana" pt_pt="Tatyana"/>
 	<data id="120" kr="유리" en="Yuri" jp="ユリ" cn="尤里" cn_tr="Yuri" ru="Юрий" vn="Yuri" bg="Юри" es="Yuri" fr="Yuri" pt_br="Yuri" pt_pt="Yuri"/>
 	<data id="121" kr="예프게니" en="Evgeni" jp="エフゲニ" cn="叶甫根尼" cn_tr="Evgeni" ru="Евгений" vn="Evgeni" bg="Евгени" es="Evgeni" fr="Evgeni" pt_br="Evgeni" pt_pt="Evgeni"/>
@@ -126,7 +126,7 @@
 	<data id="125" kr="아세라" en="Asera" jp="アセラ" cn="艾西拉" cn_tr="Asera" ru="Азера" vn="Asera" bg="Асера" es="Asera" fr="Azera" pt_br="Asera" pt_pt="Asera"/>
 	<data id="126" kr="미카엘라" en="Micaela" jp="ミカエラ" cn="米凯拉" cn_tr="Micaela" ru="Микаэлла" vn="Micaela" bg="Микаела" es="Micaela" fr="Michaela" pt_br="Micaela" pt_pt="Micaela"/>
 	<data id="127" kr="에덴" en="Eden" jp="エデン" cn="伊登" cn_tr="Eden" ru="Эден" vn="Eden" bg="Ийдън" es="Edén" fr="Eden" pt_br="Éden" pt_pt="Eden"/>
-	<data id="128" kr="윤후" en="Yoon-hoo" jp="ユンフー" cn="阿米巴" cn_tr="Yoonhoo" ru="Йонху" vn="Yoonhoo" bg="Юнуу" es="Yuju" fr="Yoon-hoo" pt_br="Yuju" pt_pt="Yoon-hoo"/>
+	<data id="128" kr="윤후" en="Yoon-hoo" jp="ユンフー" cn="伊侯" cn_tr="Yoon-hoo" ru="Йонху" vn="Yoonhoo" bg="Юнуу" es="Yuju" fr="Yoon-hoo" pt_br="Yuju" pt_pt="Yoon-hoo"/>
 	<data id="129" kr="하나" en="Hana" jp="ハナ" cn="哈纳" cn_tr="Hana" ru="Хана" vn="Hana" bg="Хана" es="Hana" fr="Hana" pt_br="Hana" pt_pt="Hana"/>
 	<data id="130" kr="유진" en="Eugene" jp="ユージーン" cn="尤金" cn_tr="Eugene" ru="Евгения" vn="Eugene" bg="Юджийн" es="Eugene" fr="Eugène" pt_br="Eugênio" pt_pt="Eugene"/>
 	<data id="131" kr="나래" en="Narae" jp="ナラエ" cn="奈里尔" cn_tr="Narae" ru="Нарае" vn="Narae" bg="Нарае" es="Narae" fr="Narae" pt_br="Narae" pt_pt="Narae"/>
@@ -137,15 +137,15 @@
 	<data id="136" kr="코르비니아노" en="Corbinian" jp="コービン" cn="科比尼亚" cn_tr="Corbinian" ru="Корбиниан" vn="Corbinian" bg="Корбиниан" es="Corbiniano" fr="Corbinian" pt_br="Corbiniano" pt_pt="Corbinian"/>
 	<data id="137" kr="제미니아노" en="Geminiano" jp="ジェミニアーノ" cn="赫米尼亚诺" cn_tr="Geminiano" ru="Геминиано" vn="Geminiano" bg="Джеминиано" es="Geminiano" fr="Geminiano" pt_br="Geminiano" pt_pt="Geminiano"/>
 	<data id="138" kr="마리넬" en="Marinel" jp="マリネル" cn="马力涅尔" cn_tr="Marinel" ru="Маринел" vn="Marinel" bg="Маринел" es="Marinel" fr="Marinel" pt_br="Marinel" pt_pt="Marinel"/>
-	<data id="139" kr="파울리누스" en="Paulinus" jp="パウリヌス" cn="保林斯" cn_tr="Paulinus" ru="Поулинус" vn="Paulinus" bg="Паулинус" es="Paulino" fr="Paulinus" pt_br="Paulinho" pt_pt="Paulinus"/>
+	<data id="139" kr="파울리누스" en="Paulinus" jp="パウリヌス" cn="保利努斯" cn_tr="Paulinus" ru="Поулинус" vn="Paulinus" bg="Паулинус" es="Paulino" fr="Paulinus" pt_br="Paulinho" pt_pt="Paulinus"/>
 	<data id="140" kr="로베르투스" en="Robertus" jp="ロバート" cn="罗伯特斯" cn_tr="Robertus" ru="Робертус" vn="Robertus" bg="Робертос" es="Robertus" fr="Robert" pt_br="Roberto" pt_pt="Robertus"/>
-	<data id="141" kr="오노리오" en="Onorio" jp="オノリオ" cn="若里奥" cn_tr="Onorio" ru="Онорио" vn="Onorio" bg="Онорио" es="Honorio" fr="Honorio" pt_br="Honorio" pt_pt="Onorio"/>
+	<data id="141" kr="오노리오" en="Onorio" jp="オノリオ" cn="奥诺里奥" cn_tr="Onorio" ru="Онорио" vn="Onorio" bg="Онорио" es="Honorio" fr="Honorio" pt_br="Honorio" pt_pt="Onorio"/>
 	<data id="142" kr="갈리나" en="Galina" jp="ガリナ" cn="格林娜" cn_tr="Galina" ru="Галина" vn="Galina" bg="Галина" es="Galina" fr="Galina" pt_br="Galina" pt_pt="Galina"/>
 	<data id="143" kr="타샤" en="Tasha" jp="タシャ" cn="塔莎" cn_tr="Tasha" ru="Таша" vn="Tasha" bg="Таша" es="Tasha" fr="Tasha" pt_br="Tasha" pt_pt="Tasha"/>
 	<data id="144" kr="푸세이" en="Poussey" jp="パウシー" cn="帕西" cn_tr="Poussey" ru="Поусси" vn="Poussey" bg="Поуси" es="Poussey" fr="Poussey" pt_br="Poussey" pt_pt="Poussey"/>
 	<data id="145" kr="곤잘레스" en="Gonzales" jp="ゴンザレス" cn="萨冈雷斯" cn_tr="Gonzales" ru="Гонзалес" vn="Gonzales" bg="Гонзалес" es="Gonzales" fr="Gonzales" pt_br="Gonzales" pt_pt="Gonzales"/>
 	<data id="146" kr="마리차" en="Maritza" jp="マリツァ" cn="马里察" cn_tr="Maritza" ru="Маритза" vn="Maritza" bg="Марица" es="Maritza" fr="Maritza" pt_br="Maritza" pt_pt="Maritza"/>
-	<data id="147" kr="메이" en="Mei" jp="メイ" cn="秋葵" cn_tr="Mei" ru="Мэй" vn="Mei" bg="Мей" es="Mei" fr="Mei" pt_br="Mei" pt_pt="Mei"/>
+	<data id="147" kr="메이" en="Mei" jp="メイ" cn="梅" cn_tr="Mei" ru="Мэй" vn="Mei" bg="Мей" es="Mei" fr="Mei" pt_br="Mei" pt_pt="Mei"/>
 	<data id="148" kr="유이" en="Yui" jp="ユイ" cn="优伊" cn_tr="Yui" ru="Йюи" vn="Yui" bg="Юи" es="Yui" fr="Yui" pt_br="Yui" pt_pt="Yui"/>
 	<data id="149" kr="미카" en="Mika" jp="ミカ" cn="米卡" cn_tr="Mika" ru="Мика" vn="Mika" bg="Мика" es="Mika" fr="Mika" pt_br="Mika" pt_pt="Mika"/>
 	<data id="150" kr="칸나" en="Khanna" jp="カンナ" cn="康纳" cn_tr="Khanna" ru="Канна" vn="Khanna" bg="Кана" es="Khanna" fr="Khanna" pt_br="Khanna" pt_pt="Khanna"/>
@@ -155,7 +155,7 @@
 	<data id="154" kr="아라" en="Ara" jp="アラ" cn="艾拉" cn_tr="Ara" ru="Ара" vn="Ara" bg="Ара" es="Ara" fr="Ara" pt_br="Ara" pt_pt="Ara"/>
 	<data id="155" kr="지니" en="Genie" jp="ジーニー" cn="杰尼" cn_tr="Genie" ru="Джинни" vn="Genie" bg="Джийни" es="Genie" fr="Eugénie" pt_br="Genie" pt_pt="Genie"/>
 	<data id="156" kr="라미레즈" en="Ramirez" jp="ラミレス" cn="拉米瑞斯" cn_tr="Ramirez" ru="Рамирез" vn="Ramirez" bg="Рамирез" es="Ramírez" fr="Ramírez" pt_br="Ramires" pt_pt="Ramírez"/>
-	<data id="157" kr="벨라스케즈" en="Velasquez" jp="ベラスケス" cn="维拉斯奎斯" cn_tr="Velasquez" ru="Веласкез" vn="Velasquez" bg="Веласкес" es="Velásquez" fr="Velásquez" pt_br="Velásquez" pt_pt="Velásquez"/>
+	<data id="157" kr="벨라스케즈" en="Velasquez" jp="ベラスケス" cn="贝拉斯凯斯" cn_tr="Velasquez" ru="Веласкез" vn="Velasquez" bg="Веласкес" es="Velásquez" fr="Velásquez" pt_br="Velásquez" pt_pt="Velásquez"/>
 	<data id="158" kr="산체스" en="Sanchez" jp="サンチェス" cn="桑切斯" cn_tr="Sanchez" ru="Санчез" vn="Sanchez" bg="Санчез" es="Sanchez" fr="Sanchez" pt_br="Sancho" pt_pt="Sanchez"/>
 	<data id="159" kr="멜렌데즈" en="Melendez" jp="メレンデス" cn="梅伦德斯" cn_tr="Melendez" ru="Мелендез" vn="Melendez" bg="Мелендез" es="Meléndez" fr="Meléndez" pt_br="Meléndez" pt_pt="Meléndez"/>
 	<data id="160" kr="구스타프손" en="Gustafsson" jp="グスタフソン" cn="古斯塔夫松" cn_tr="Gustafsson" ru="Густавсон" vn="Gustafsson" bg="Густафсон" es="Gustafsson" fr="Gustafsson" pt_br="Gustafsson" pt_pt="Gustafsson"/>
