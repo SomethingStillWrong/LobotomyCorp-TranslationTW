@@ -1,227 +1,265 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
 
-  <text id="misson_1">完成 3 次工作</text>
-  <text id="misson_2">完成 4 次工作並得到優良或是更好結果</text>
-  <text id="misson_103">在逆卡巴拉計數器熔燬的房間內完成 8 次工作</text>
-  <text id="misson_104">消滅黃昏危機</text>
+  <text id="misson_1">完成 3 次對異想體的工作</text>
+  <text id="misson_2">完成 4 次結果為優的工作</text>
+  <text id="misson_103">處理 8 次收容單元的逆卡巴拉熔燬</text>
+  <text id="misson_104">鎮壓「薄暮」考驗</text>
   <text id="misson_105"></text>
 
-  <text id="misson_3">完成 4 次工作</text>
+  <text id="misson_3">完成 4 次本能工作</text>
   <text id="misson_4">完成 5 次洞察工作</text>
-  <text id="misson_5">完成 6 次溝通工作</text>
-  <text id="misson_404">完成 1 次作業並且無不良的工作表現</text>
+  <text id="misson_5">完成 6 次依戀工作</text>
+  <text id="misson_404">在不出現結果為差的工作的情況下通過一天</text>
   <text id="misson_405"></text>
 
-  <text id="misson_6">完成作業且無人死亡</text>
-  <text id="misson_7">完成作業且無人恐慌</text>
-  <text id="misson_203">完成作業且無人死亡與恐慌</text>
-  <text id="misson_204">完成作業並且且每個在部門只佈署 3 名員工</text>
+  <text id="misson_6">避免員工死亡並通過一天</text>
+  <text id="misson_7">避免員工陷入恐慌並通過一天</text>
+  <text id="misson_203">避免員工死亡或陷入恐慌並通過一天</text>
+  <text id="misson_204">至多在各部門部署 3 名員工並通過一天</text>
   <text id="misson_205"></text>
 
-  <text id="misson_8">在完成當天的作業後晉升 2 位員工</text>
-  <text id="misson_9">在完成當天的作業後讓一位員工升級到等級 4</text>
-  <text id="misson_10">鎮壓 4 種不同的異常</text>
-  <text id="misson_304">在擁有 5 名或更多的等級 5 員工下完成作業</text>
+  <text id="misson_8">在一天結束時晉升 2 名員工</text>
+  <text id="misson_9">在一天結束時將 1 名員工晉升至 4 級或以上</text>
+  <text id="misson_10">一天內鎮壓 4 只不同的異想體</text>
+  <text id="misson_304">至少部署 5 名 5 級員工並通過一天</text>
   <text id="misson_305"></text>
 
-  <text id="misson_11">解除 8 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_12">解除 7 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_13">解除 6 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_504">在沒有任何收容室的逆卡巴拉計數器熔燬的狀況下完成作業</text>
+  <text id="misson_11">在逆卡巴拉熔毀等級達到 8 級前通過一天</text>
+  <text id="misson_12">在逆卡巴拉熔毀等級達到 7 級前通過一天</text>
+  <text id="misson_13">在逆卡巴拉熔毀等級達到 6 級前通過一天</text>
+  <text id="misson_504">完全處理所有收容單元的逆卡巴拉熔毀並通過一天</text>
   <text id="misson_505"></text>
 
-  <text id="misson_14">鎮壓 HE 級以下的異常 5 次</text>
-  <text id="misson_15">鎮壓 WAW 級以下的異常 5 次</text>
-  <text id="misson_703">鎮壓不同的 ALEPH 級異常 3 次</text>
-  <text id="misson_704">消滅午夜危機</text>
+  <text id="misson_14">一天內鎮壓 5 只 HE 級或以下的異想體（可重複）</text>
+  <text id="misson_15">一天內鎮壓 5 只 WAW 級的異想體（可重複）</text>
+  <text id="misson_703">一天內鎮壓 3 只不同的 ALEPH 級異想體</text>
+  <text id="misson_704">鎮壓「午夜」考驗</text>
   <text id="misson_705"></text>
 
-  <text id="misson_16">在時限內完成作業</text>
-  <text id="misson_17">在時限內完成作業</text>
-  <text id="misson_18">在時限內完成作業</text>
-  <text id="misson_804">在時限內完成作業</text>
+
+  <text id="misson_16">在時限內通過一天</text>
+  <text id="misson_17">在時限內通過一天</text>
+  <text id="misson_18">在時限內通過一天</text>
+  <text id="misson_804">在時限內通過一天</text>
   <text id="misson_805"></text>
 
-  <text id="misson_901">提取 5 個以上的 E.G.O (高於 HE 等級)</text>
-  <text id="misson_902">獲得 4 個以上的 E.G.O 飾品</text>
-  <text id="misson_903">獲得 8 個以上的 ALEPH 等級 E.G.O</text>
-  <text id="misson_904">讓設施裡所有的異常觀察等級達到最高</text>
+  <text id="misson_901">提取至少 5 件 HE 級或更高級的 E.G.O</text>
+  <text id="misson_902">在有至少 1 名帶有 4 件 E.G.O 飾品的員工時通過一天</text>
+  <text id="misson_903">至少擁有 8 件 ALEPH 級 E.G.O</text>
+  <text id="misson_904">在結束管理時將設施內全異想體圖鑑提至最高觀察等級</text>
   <text id="misson_905"></text>
 
-  <text id="misson_1001">在 3 位堅韌超過 100 的員工下完成作業</text>
-  <text id="misson_1002">讓 5 個以上的員工謹慎超過 100</text>
-  <text id="misson_1003">讓 8 個以上的員工自律超過 100</text>
-  <text id="misson_1004">讓 10 個以上的員工正義超過 100</text>
+  <text id="misson_1001">至少部署 3 名勇氣高於 100 的員工並通過一天</text>
+  <text id="misson_1002">至少部署 5 名智慧高於 100 的員工並通過一天</text>
+  <text id="misson_1003">至少部署 8 名節制高於 100 的員工並通過一天</text>
+  <text id="misson_1004">至少部署 10 名正義高於 100 的員工並通過一天</text>
   <text id="misson_1005"></text>
   
-  <text id="misson_title_1">你做得到的!</text>
-  <text id="misson_title_2">永遠忠誠</text>
-  <text id="misson_title_103">鎮壓熔燬</text>
-  <text id="misson_title_104">黃昏的時刻</text>
-  <text id="misson_title_105">壓制 Malkut 的核心</text>
+  <text id="misson_title_1">您做得到的！</text>
+  <text id="misson_title_2">忠實於各自的角色</text>
+  <text id="misson_title_103">抑制熔毀</text>
+  <text id="misson_title_104">朦朧時刻</text>
+  <text id="misson_title_105">抑制 Malkuth 的核心</text>
 
-  <text id="misson_title_3">毒蛇 Yesod</text>
-  <text id="misson_title_4">我們的道路</text>
-  <text id="misson_title_5">模糊的現實</text>
-  <text id="misson_title_404">完美的邊界</text>
-  <text id="misson_title_405">壓制 Yesod 的核心</text>
+  <text id="misson_title_3">「毒蛇」Yesod</text>
+  <text id="misson_title_4">朝向的道路</text>
+  <text id="misson_title_5">它為什麼不腐爛？</text>
+  <text id="misson_title_404">完美的境界</text>
+  <text id="misson_title_405">抑制 Yesod 的核心</text>
   
-  <text id="misson_title_6">昏睡</text>
-  <text id="misson_title_7">啤酒販賣機</text>
-  <text id="misson_title_203">無濟於事</text>
-  <text id="misson_title_204">效率高超</text>
-  <text id="misson_title_205">壓制 Netzach 的核心</text>
+  <text id="misson_title_6">無力的空間</text>
+  <text id="misson_title_7">不如設立台啤酒販賣機</text>
+  <text id="misson_title_203">不可能的事</text>
+  <text id="misson_title_204">保持效率</text>
+  <text id="misson_title_205">抑制 Netzach 的核心</text>
   
-  <text id="misson_title_8">我想幫忙</text>
-  <text id="misson_title_9">不被需要的善良</text>
-  <text id="misson_title_10">我想當個好人</text>
-  <text id="misson_title_304">領導訓練</text>
-  <text id="misson_title_305">壓制 Hod 的核心</text>
+  <text id="misson_title_8">如果能幫上忙</text>
+  <text id="misson_title_9">愚昧的好意</text>
+  <text id="misson_title_10">我只想成為好人</text>
+  <text id="misson_title_304">示範培訓</text>
+  <text id="misson_title_305">抑制 Hod 的核心</text>
 
-  <text id="misson_title_11">證明能力 1</text>
-  <text id="misson_title_12">證明能力 2</text>
-  <text id="misson_title_13">證明能力 3</text>
-  <text id="misson_title_504">證明能力 4</text>
-  <text id="misson_title_505">壓制 Tiphereth 的核心</text>
+  <text id="misson_title_11">證明你的能力 1</text>
+  <text id="misson_title_12">證明你的能力 2</text>
+  <text id="misson_title_13">證明你的能力 3</text>
+  <text id="misson_title_504">證明你的能力 4</text>
+  <text id="misson_title_505">抑制 Tiphereth 的核心</text>
   
   <text id="misson_title_14">痛苦的目的 1</text>
   <text id="misson_title_15">痛苦的目的 2</text>
-  <text id="misson_title_703">證明實力</text>
+  <text id="misson_title_703">力量的證明</text>
   <text id="misson_title_704">我們的工作</text>
-  <text id="misson_title_705">壓制 Geburah 的核心</text>
+  <text id="misson_title_705">抑制 Gebura 的核心</text>
 
-  <text id="misson_title_16">一天的最後 1</text>
-  <text id="misson_title_17">一天的最後 2</text>
-  <text id="misson_title_18">一天的最後 3</text>
-  <text id="misson_title_804">一天的最後 4</text>
-  <text id="misson_title_805">壓制 Chesed 的核心</text>
+  <text id="misson_title_16">為了日後的事 1</text>
+  <text id="misson_title_17">為了日後的事 2</text>
+  <text id="misson_title_18">為了日後的事 3</text>
+  <text id="misson_title_804">為了日後的事 4</text>
+  <text id="misson_title_805">抑制 Chesed 的核心</text>
   
-  <text id="misson_title_901">提取樣品 </text>
-  <text id="misson_title_902">自我意識的元件 </text>
-  <text id="misson_title_903">自我意識的外殼 </text>
-  <text id="misson_title_904">幻覺消散</text>
-  <text id="misson_title_905">壓制 Binah 的核心</text>
+  <text id="misson_title_901">收集提取的樣本</text>
+  <text id="misson_title_902">自我的附件</text>
+  <text id="misson_title_903">自我的外殼</text>
+  <text id="misson_title_904">異想解放</text>
+  <text id="misson_title_905">抑制 Binah 的核心</text>
   
-  <text id="misson_title_1001">耐心的美德</text>
-  <text id="misson_title_1002">管理的美德 </text>
-  <text id="misson_title_1003">創造的美德 </text>
-  <text id="misson_title_1004">靈魂的美德 </text>
-  <text id="misson_title_1005">壓制 Hokma 的核心</text>
+  <text id="misson_title_1001">守護美德</text>
+  <text id="misson_title_1002">統御美德</text>
+  <text id="misson_title_1003">創造美德</text>
+  <text id="misson_title_1004">靈魂美德</text>
+  <text id="misson_title_1005">抑制 Hokma 的核心</text>
   
 <!-- 추가된 미션 내용-->
-  <text id="misson_short_1">工作完成</text>
-  <text id="misson_short_2">工作表現良好</text>
-  <text id="misson_short_103">在逆卡巴拉計數器熔燬的房間內工作</text>
-  <text id="misson_short_104">消滅黃昏危機</text>
-  <text id="misson_short_105">壓制 Malkut 的核心</text>
+  <text id="misson_short_1">完成的工作數</text>
+  <text id="misson_short_2">完成結果為優的工作數</text>
+  <text id="misson_short_103">已處理的收容單元逆卡巴拉熔燬數</text>
+  <text id="misson_short_104">已鎮壓「薄暮」考驗</text>
+  <text id="misson_short_105">抑制 Malkuth 的核心</text>
 
-  <text id="misson_short_3">直覺工作完成</text>
-  <text id="misson_short_4">洞察工作完成</text>
-  <text id="misson_short_5">溝通工作完成</text>
-  <text id="misson_short_404">完成 1 次作業並且無不良的工作表現</text>
-  <text id="misson_short_405">壓制 Yesod 的核心</text>
+  <text id="misson_short_3">完成的本能工作數</text>
+  <text id="misson_short_4">完成的洞察工作數</text>
+  <text id="misson_short_5">完成的依戀工作數</text>
+  <text id="misson_short_404">當日結束時無結果為差的工作</text>
+  <text id="misson_short_405">抑制 Yesod 的核心</text>
 
-  <text id="misson_short_6">完工且無人死亡</text>
-  <text id="misson_short_7">完工且無人恐慌</text>
-  <text id="misson_short_203">無人死亡與恐慌</text>
-  <text id="misson_short_204">在每個部門中只部屬 3 名員工</text>
-  <text id="misson_short_205">壓制 Netzach 的核心</text>
+  <text id="misson_short_6">當日結束時無員工死亡</text>
+  <text id="misson_short_7">當日結束時無員工陷入恐慌</text>
+  <text id="misson_short_203">當日結束時無員工死亡或陷入恐慌</text>
+  <text id="misson_short_204">各部門部署不多於 3 名員工並完成當日管理</text>
+  <text id="misson_short_205">抑制Netzach的核心</text>
 
-  <text id="misson_short_8">晉升員工</text>
-  <text id="misson_short_9">晉升超過等級 3 的員工</text>
-  <text id="misson_short_10">鎮壓異常.</text>
-  <text id="misson_short_304">在擁有 5 名或更多的等級 5 員工下完成 1 次作業</text>
-  <text id="misson_short_305">壓制 Hod 的核心</text>
+  <text id="misson_short_8">當日結束時晉升的員工數</text>
+  <text id="misson_short_9">當日結束時晉升的 4 級及以上員工數</text>
+  <text id="misson_short_10">已鎮壓的不同異想體數</text>
+  <text id="misson_short_304">已部署的 5 級員工數</text>
+  <text id="misson_short_305">抑制 Hod 的核心</text>
 
-  <text id="misson_short_11">解除 8 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_short_12">解除 7 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_short_13">解除 6 次或更多的逆卡巴拉計數器過載反應</text>
-  <text id="misson_short_504">在沒有任何收容室的逆卡巴拉計數器熔燬的狀況下完成作業</text>
-  <text id="misson_short_505">壓制 Tiphereth 的核心</text>
+  <text id="misson_short_11">逆卡巴拉熔毀等級</text>
+  <text id="misson_short_12">逆卡巴拉熔毀等級</text>
+  <text id="misson_short_13">逆卡巴拉熔毀等級</text>
+  <text id="misson_short_504">完全處理所有收容單元的逆卡巴拉熔燬</text>
+  <text id="misson_short_505">抑制 Tiphereth 的核心</text>
 
-  <text id="misson_short_14">鎮壓 HE 級以下的異常</text>
-  <text id="misson_short_15">鎮壓 WAW 級的異常</text>
-  <text id="misson_short_703">鎮壓不同的 ALEPH 級異常</text>
-  <text id="misson_short_704">消滅午夜危機</text>
-  <text id="misson_short_705">壓制 Geburah 的核心</text>
+  <text id="misson_short_14">已鎮壓 HE 級及以下的異想體數</text>
+  <text id="misson_short_15">已鎮壓 WAW 級的異想體數</text>
+  <text id="misson_short_703">已鎮壓不同的 ALEPH 級異想體數</text>
+  <text id="misson_short_704">已鎮壓「午夜」考驗</text>
+  <text id="misson_short_705">抑制 Geburah 的核心</text>
 
-  <text id="misson_short_16">在時限內完成作業</text>
-  <text id="misson_short_17">在時限內完成作業</text>
-  <text id="misson_short_18">在時限內完成作業</text>
-  <text id="misson_short_804">在時限內完成作業</text>
-  <text id="misson_short_805">壓制 Chesed 的核心</text>
+  <text id="misson_short_16">在時限內結束管理</text>
+  <text id="misson_short_17">在時限內結束管理</text>
+  <text id="misson_short_18">在時限內結束管理</text>
+  <text id="misson_short_804">在時限內結束管理</text>
+  <text id="misson_short_805">抑制 Chesed 的核心</text>
 
-  <text id="misson_short_901">提取 HE 級或更高級的 E.G.O</text>
-  <text id="misson_short_902">獲得 4 個以上的 E.G.O 飾品.</text>
-  <text id="misson_short_903">獲得 8 個以上的 ALEPH 級 E.G.O</text>
-  <text id="misson_short_904">讓設施裡所有的異常觀察等級達到最高</text>
-  <text id="misson_short_905">壓制 Binah 的核心</text>
+  <text id="misson_short_901">已提取 HE 級或更高級的 E.G.O 數</text>
+  <text id="misson_short_902">已擁有 4 件 E.G.O 飾品的員工數</text>
+  <text id="misson_short_903">已擁有的 ALEPH 級 E.G.O 數</text>
+  <text id="misson_short_904">在結束管理時將設施內全異想體圖鑑提至最高觀察等級</text>
+  <text id="misson_short_905">抑制 Binah 的核心</text>
 
-  <text id="misson_short_1001">在 3 位堅韌超過 100 的員工下完成作業</text>
-  <text id="misson_short_1002">在 5 位謹慎超過 100 的員工下完成作業</text>
-  <text id="misson_short_1003">在 8 位自律超過 100 的員工下完成作業 </text>
-  <text id="misson_short_1004">在 10 位正義超過 100 的員工下完成作業</text>
-  <text id="misson_short_1005">壓制 Hokma 的核心</text>
+  <text id="misson_short_1001">已部署的勇氣超過 100 的員工數</text>
+  <text id="misson_short_1002">已部署的智慧超過 100 的員工數</text>
+  <text id="misson_short_1003">已部署的節制超過 100 的員工數</text>
+  <text id="misson_short_1004">已部署的正義超過 100 的員工數</text>
+  <text id="misson_short_1005">抑制 Hokma 的核心</text>
 
-  <text id="misson_diag_1">管理者! 管理的基礎就是照顧好那些異常. 我們將異常管理好並且取得能源. 這點在基礎上是最重要的, 所以請務必銘記在心! </text>
-  <text id="misson_diag_2">工作的結果比工作本身還要來的重要! 我們在快樂的異常身上能取得更多的能量! 讓那些異常感到舒適並且取得能源. 這是你唯一要想的事!</text>
-  <text id="misson_diag_103">如你所知, 這個設施並不穩定. 只有在工作開始前釋放力量去壓制那些異常, 我們才能夠在收容單位中控制那些異常. 不過, 隨著時間的推移, 那些壓制異常的力量越來越不穩定, 異常也變得越來越狂暴.</text>
-  <text id="misson_diag_104">在設施中壓制的力量逐漸變弱, 且那些異常開始變得激動後, 那些抓狂到無法不去正視的的異常被稱呼為試煉. 就像現在... 你能在黃昏來臨時壓制一個試煉並且確保那些員工嗎? 我很快就會去幫你了.</text>
-  <text id="misson_diag_105">頭目戰</text>
+  <text id="misson_diag_1">主管！管理的核心在於對異想體進行工作。&#13;&#10;基本上，我們是透過管理異想體來收集能源的。&#13;&#10;這是最基礎也最重要的任務，請務必成功！</text>
+  <text id="misson_diag_2">除了單純的管理之外，對異想體工作的成果也至關重要！&#13;&#10;異想體的心情越好，能收集到的腦啡肽方塊就越多！&#13;&#10;讓異想體心情愉快地收集能源——您只需要記住這一點，過程如何並不重要！</text>
+  <text id="misson_diag_103">正如主管所知，這裡的設施並不那麼穩定。&#13;&#10;之所以能將異想體固定在收容單元內，也只是因為在工作開始前&#13;&#10;暫時解除了抑制牠們的力量。但隨著時間流逝，抑制力會變得越來越不穩定，&#13;&#10;難免會有幾個收容單元發生熔毀。</text>
+  <text id="misson_diag_104">當設施的抑制力減弱、異想體開始動盪時，&#13;&#10;設施內就會出現被稱為「考驗」的、無法被固定的異想體，並開始四處肆虐。&#13;&#10;就像現在這樣……您能鎮壓在「薄暮」時刻出現的考驗，讓職員們安心嗎？&#13;&#10;我隨後也會去處理。</text>
+  <text id="misson_diag_105">抑制 Malkuth 的核心</text>
 
-  <text id="misson_diag_3">我們的資訊小組需要不停取得異常的訊息. 首先, 我們需要那些直覺工作的資料. 直覺工作的內容是照顧那些異常的原始慾望.</text>
-  <text id="misson_diag_4">洞察工作是間接的管理那些異常. 我們需要找出他們喜歡與討厭的收容單位環境與相應的管理方式. </text>
-  <text id="misson_diag_5">透過溝通工作, 我們能與異常建立連結. 有社交慾望的異常總是會展露出他們的不滿, 即使是在吃飽或是收容單位打掃後. </text>
-  <text id="misson_diag_404">我們所能盡力的只有在它們脾氣變差之前將它們照顧好. 如果適當的管理這些異常便能夠照顧到它們. 所以請務必在任何方面都仔細的照顧它們. 依我所知, 這就是最好的方法.</text>
-  <text id="misson_diag_405">頭目戰</text>
+  <text id="misson_diag_3">我們情報部持續需要關於異想體的情報。&#13;&#10;首先需要的是關於「本能工作」的資料。所謂「本能工作」，&#13;&#10;就是直接應對異想體所擁有的原始慾望的工作。</text>
+  <text id="misson_diag_4">「洞察工作」則是間接地管理異想體。&#13;&#10;必須掌握異想體在收容單元這個環境中，&#13;&#10;對哪些事物感到滿意或不滿，&#13;&#10;並根據這些情報來進行管理。</text>
+  <text id="misson_diag_5">「依戀工作」是與異想體建立某種連結。&#13;&#10;具有社交需求的異想體，無論再怎麼餵飽牠、&#13;&#10;把收容單元打掃得多乾淨，一旦被孤立，&#13;&#10;牠還是難免會表達不滿。</text>
+  <text id="misson_diag_404">最好的辦法，就是在一切演變成混亂之前結束工作。&#13;&#10;如果能以最好的結果管理所有異想體，一切都會迎刃而解。&#13;&#10;這是必須達成的目標。據我所知，這個方法是最完美的。</text>
+  <text id="misson_diag_405">抑制 Yesod 的核心</text>
 
-  <text id="misson_diag_6">無論如何, 保全小組負責所有員工的安全. 員工們的安全... 你應該自己來試試, 管理者. 看看讓這裡保持安全有多困難.</text>
-  <text id="misson_diag_7">在讓這些員工能活著之後, 維持他們的理智也是很重要的. 或許這會花費他們的餘生去處理這段創傷. 所以在這個部份保持他們的理智比讓他們活著還要難上許多.</text>
-  <text id="misson_diag_203">無法置信除了在把你的工作幹好以外還能在物理與心理的方面都能不讓員工死掉... 如果你真的這麼厲害, 為什麼你現在才踏入這裡? 是因為你還沒受到指派嗎? 那麼再讓我給你個任務吧.</text>
-  <text id="misson_diag_204">為了防止更多人死亡, 我們需要派遣更多的員工過去. 你知道的, 讓損害極小化.</text>
-  <text id="misson_diag_205">頭目戰</text>
+  <text id="misson_diag_6">總之，安全部負責職員的安全。&#13;&#10;職員的安全啊……主管您最好也親身體會一下，&#13;&#10;在這個空間裡，「保證安全」這件事是多麼困難。</text>
+  <text id="misson_diag_7">對職員來說，除了單純的生存，保持精神穩定更為重要。&#13;&#10;如果活著卻不像活著，帶著半永久性的後遺症度過餘生……&#13;&#10;在這種地方維持住精神，恐怕比讓他們不要死去還要艱難。</text>
+  <text id="misson_diag_203">竟然能讓無人死亡、無人發瘋的情況持續下去，&#13;&#10;真是了不起……既然擁有這麼強大的能力，至今卻沒有這麼做，&#13;&#10;是因為這本來就不是指派給您的任務嗎？那麼，&#13;&#10;這次我也給您指派一個任務吧。</text>
+  <text id="misson_diag_204">為了防止更多人死亡，我在想，&#13;&#10;如果最初部署的員工數量就很少，結果會如何呢？&#13;&#10;我想試著把損失降到最低。</text>
+  <text id="misson_diag_205">抑制 Netzach 的核心</text>
 
-  <text id="misson_diag_8">我們是訓練小組. 我們製作必要的訓練手冊給員工並訓練他們如何應對. 但比起任何手冊, 更好的是實際的經驗. 我確信在你的手下他們會變得更加厲害.</text>
-  <text id="misson_diag_9">如你所知, 這裡的員工能根據自己的優點獲得晉升. 如果你能擁有更多的老手, 這會讓你的工作更輕鬆. </text>
-  <text id="misson_diag_10">我嘗試過利用各種手冊以及訓練, 但還是比不上實際的經驗! 我相信這些員工在克服這些難關之後能夠變得更加厲害. 儘管一路上的犧牲...</text>
-  <text id="misson_diag_304">感謝你厲害的領導能力, 我們現在擁有更多厲害的員工了. 如果我們能夠透過展現你完美的管理能力以及鎮壓技巧給其他員工看到, 這會比那些文書或是影像來的有效... 我很抱歉, 我一直聽到一些聲音...</text>
-  <text id="misson_diag_305">頭目戰</text>
+  <text id="misson_diag_8">我們是培訓部。我們制定職員所需的手冊，並進行相應的培訓。&#13;&#10;但單靠手冊是行不通的，關鍵在於實戰經驗。&#13;&#10;如果主管能好好指導職員，他們也許能成為更優秀的人吧？</text>
+  <text id="misson_diag_9">主管也知道，員工會被賦予不同的等級。&#13;&#10;晉升與否完全取決於他們所擁有的能力。您可以這麼想：&#13;&#10;資深員工越多，主管可靠的夥伴也就越多。</text>
+  <text id="misson_diag_10">在制定手冊和進行培訓之後，我發現&#13;&#10;到頭來，最重要的還是實戰。實戰！就是實戰，&#13;&#10;主管。員工只要能克服逆境，就能培養出能力。&#13;&#10;儘管在這個過程中，可能會出現犧牲……</text>
+  <text id="misson_diag_304">多虧了主管優秀的指導，似乎培養出了許多有能力的員工。&#13;&#10;如果能夠透過他們，向其他職員展示主管完美的管理與鎮壓能力，&#13;&#10;那效果一定比文書或影片更好……抱歉，我總能聽到奇怪的聲音……</text>
+  <text id="misson_diag_305">抑制 Hod 的核心</text>
 
-  <text id="misson_diag_11">中央指揮組在特殊的地點管控著那些異常. 當異常逐漸變得不太穩定時, 你能透過逆卡巴拉計數器上的數據看到. 我們有自己的極限, 所以請在毫無狀況下完成這些工作.</text>
-  <text id="misson_diag_12">為了避免計數器過載, 你必須盡可能以更高效率的方式來減少工作的額度. 如果沒有, 異常與其他的危機就會開始爆走.</text>
-  <text id="misson_diag_13">根據 Sephirah 的手冊, 一位有能力的管理者能展現出驚人的工作效率. 你覺得你能勝任嗎?</text>
-  <text id="misson_diag_504">Tiphereth 的狀況不太好, 所以我要忙上好一陣子了. 好吧, 就這樣了. 在經過那些收容單位的時候保持注意. 如果你能辦到, 我會承認你的能力的.</text>
-  <text id="misson_diag_505">頭目戰</text>
+  <text id="misson_diag_11">中央總部正在想方設法，要把異想體固定在特定的場所。&#13;&#10;隨著時間推移，異想體會變得越來越不穩定。&#13;&#10;至今為止您所看到的逆卡巴拉熔毀計量表，就是將這種情況視覺化的產物。&#13;&#10;我們也有極限，請順利完成工作。</text>
+  <text id="misson_diag_12">為了防止熔毀，必須透過最高效率的指令來減少工作次數。&#13;&#10;否則的話，不只是異想體，就連考驗也會氾濫成災</text>
+  <text id="misson_diag_13">翻開 Sephirah 手冊，裡面記載著能力出眾的主管們&#13;&#10;所留下驚人的工作效率紀錄。這一次，您能夠超越那個紀錄嗎？</text>
+  <text id="misson_diag_504">Tiphereth 變成這樣，看來暫時會變得更忙了。&#13;&#10;好，現在是最後一項了。把發生熔毀的收容單元一個不漏地全部處理掉。&#13;&#10;如果你能做到這一點，我就認可你的能力。</text>
+  <text id="misson_diag_505">抑制 Tiphereth 的核心</text>
 
-  <text id="misson_diag_14">如果你想在這裡待的更久, 你必須習慣去鎮壓那些怪物. 殺掉它們就跟你在呼吸沒兩樣. 而且, 我喜歡看到它們受苦.</text>
-  <text id="misson_diag_15">即使它們看起來非常危險也不要被嚇到. 預防就是關鍵. 把它們擊倒並摧毀他們, 這就是我們要做的. 現在, 把你面前的 WAW 級異常擊倒. </text>
-  <text id="misson_diag_703">如果你已經做到這些了, 你知道接下來該做什麼嗎? ALEPH 級異常在這裡是最危險也是最可恨的存在. 但怪獸就是怪獸. 我們本就該甩開的東西...</text>
-  <text id="misson_diag_704">我們搞定了我們該做的工作. 因為我只知道該怎麼處理這些東西. 我沒辦法忍受別人搶走我的舞台. 來去跟那些怪物談談. 我們受夠了.</text>
-  <text id="misson_diag_705">頭目戰</text>
+  <text id="misson_diag_14">如果你想在這裡多撐一天，就必須習慣鎮壓那群畜生異想體。&#13;&#10;要像呼吸一樣，像機器一樣地殺掉牠們。&#13;&#10;而且，我想看著那些傢伙受苦的樣子。</text>
+  <text id="misson_diag_15">即使面對稍微危險一點的傢伙，也絕對不能退縮。&#13;&#10;只能全部撕碎、砸個稀巴爛。無論如何，你就在我面前，&#13;&#10;親手把那些 WAW 級的傢伙解決給我看。</text>
+  <text id="misson_diag_703">既然都已經走到這一步了，你應該很清楚接下來該做什麼吧？&#13;&#10;ALEPH 級的異想體，是這裡最危險、也是最令人憎恨的傢伙。&#13;&#10;不過也就那樣了，怪物終究只是怪物。&#13;&#10;那是我們必須消滅的存在……</text>
+  <text id="misson_diag_704">我們的事情，由我們自己處理。因為只有我最清楚&#13;&#10;該如何對付這群傢伙。我不允許其他東西搶走我的舞台。讓那些傢伙好好看看，&#13;&#10;光靠我們就足夠了。</text>
+  <text id="misson_diag_705">抑制 Geburah 的核心</text>
   
-  <text id="misson_diag_16">福利小組總是很忙. 為了想要休息, 他們非常努力的工作, 但最好的方式還是盡快的完成這些工作. 這確保了每個人能更加精密和冷靜的工作.</text>
-  <text id="misson_diag_17">比我預料的要好. 何不讓我們提高標準? 我期望能跟上次一樣好.</text>
-  <text id="misson_diag_18">預防意外與善後是我們的工作. 趕緊把工作完成意味著我們能有更多的時間去善後一切.</text>
-  <text id="misson_diag_804">我很抱歉. 我想到了過去. 我的要求還是一如既往. 請讓我問你一個對你來說會有些困難的問題. 是的. 我猜我只能像往常一樣待在原地.</text>
-  <text id="misson_diag_805">頭目戰</text>
+  <text id="misson_diag_16">福利部總是忙忙碌碌。職員們在悠閒中激烈地工作著。&#13;&#10;但最保險的方法還是儘快完成工作，這樣才能更穩妥、&#13;&#10;更從容地推動工作前進。</text>
+  <text id="misson_diag_17">呼。要不要試著逐漸提高門檻呢？&#13;&#10;我期待能像上次一樣得到好結果。</text>
+  <text id="misson_diag_18">預防事故和收拾殘局，向來是我們的責任。&#13;&#10;越快結束工作，留給我們善後的時間也就越多。</text>
+  <text id="misson_diag_804">……抱歉，剛才想起了些往事。我的請求總是一樣的。&#13;&#10;配合主管的能力，請再幫我做些稍微難一點的事情吧。&#13;&#10;是啊，我似乎總是只能停留在原地。</text>
+  <text id="misson_diag_805">抑制 Chesed 的核心</text>
 
-  <text id="misson_diag_901">讓我們在幹些別的前先把 E.G.O 給提取出來吧. E.G.O 的本質跟異常本身並沒有太大地不同. 他們都是從幻覺中昇華至物理層面的. 骨頭歸骨頭, 血液歸血液...</text>
-  <text id="misson_diag_902">你可以從字面上理解飾品這個詞. 它比 E.G.O 還要弱, 但它仍是它們自我意識的一部分. 注意了, 獲取別人的自我意識可能會稀釋掉你自己的. </text>
-  <text id="misson_diag_903">E.G.O 是借用了某人自我意識的力量. 員工在穿上這些名為 E.G.O 的外殼後會得到巨大的力量以及強健的軀體. 像是殷紅迷霧的人能奪取它的力量並將之佔為己有, 但我們的員工卻無法作到. 心智越弱, 就越想躲藏在某人的外殼下.</text>
-  <text id="misson_diag_904">如你所知, 異常及危機都是人類內心的具象化. 這讓它們具備了過去, 現在, 以及未來的可能性. 它們是神秘且不穩定的. 然而, 我們人類從不停止去挖掘真相. 不只是異常, 我們想去知曉並理解一切的一切. </text>
-  <text id="misson_diag_905">壓制 Binah 的核心</text>
+  <text id="misson_diag_901">在做各項工作之前，先從提取 E.G.O 開始吧。&#13;&#10;E.G.O 與異想體的本質可以說是如出一轍。歸根結底，&#13;&#10;都是以異想為根基，被提取到物理階段的產物。&#13;&#10;真是以骨還骨，以血還血……</text>
+  <text id="misson_diag_902">從異想體那裡獲得的禮品，正如其名，是「飾品」。&#13;&#10;雖然比 E.G.O 微弱，但那是被賦予了與牠們相關的自我碎片。&#13;&#10;不過，必須隨時保持警惕。被賦予越多自我的碎片，&#13;&#10;就意味著你自身的色彩會變得越黯淡。</text>
+  <text id="misson_diag_903">E.G.O 就是借用他人自我的力量。因此，當員工透過披上 E.G.O 這層外殼時，&#13;&#10;就能獲得超越常人的力量與肉體。雖然像「殷紅迷霧」那樣的少數超越了這一點，完全將其化為自身的力量，&#13;&#10;但我們的員工並非如此。心靈與自我越是脆弱的人，就越會想要依賴、&#13;&#10;躲進他人製造的自我外殼之中</text>
+  <text id="misson_diag_904">異想體與考驗，正如你所知，它們都是從人類內心深處流出、並獲得實體的存在。&#13;&#10;因此，它們是蘊含著過去、現在乃至未來所有可能性的存在。正因如此，它們是未知的、&#13;&#10;不穩定的。但我們人類這種存在，為了去理解，無論何時都會挖掘到底。沒錯，&#13;&#10;這不僅限於異想體。我們渴望挖掘並理解所有的存在。</text>
+  <text id="misson_diag_905">抑制 Binah 的核心</text>
   
-  <text id="misson_diag_1001">這裡所有的員工都基於 4 種特質成長著, 這些成長會在實際中反應出來. 我想著極限的底限到底在哪? 首先, 堅韌來自強壯的身體與本能的慾望. 沒有人知道這些慾望會變成保護每個人的力量或是滿足自己渴望的武器.</text>
-  <text id="misson_diag_1002">什麼叫做理性? 我們透過理性的眼光來看待並分析. 然而, 它的效率因人而異. 粗陋的理性會蒙蔽你, 過度的理性會成為一把利刃刺傷你. 我們必須以穩重的理性來看待這個世界以及人類.</text>
-  <text id="misson_diag_1003">所有的人類都帶著欲望誕生. 對你來說最重要的是該如何掌控他們. 這不只是你的問題. 你的欲望大大的影響了你該如何對待這個世界以及當中的人們. 聽到你只想聽到的, 以及看見你只想看見的. 而人類真正需要的是掌控那些在自身, 他人, 以及這個世界之間的欲望. 如果這有可能, 我們將能創造出偉大的東西.</text>
-  <text id="misson_diag_1004">你相信靈魂的存在嗎? 我是相信的. 我也相信靈魂本身就是某人存在的原因. 那麼, 真的有完美無瑕的靈魂嗎? 我覺得沒有. 然而, 還是能無窮接近完美的. 那個過程是無盡的痛苦浪潮. 在如此痛苦付出的最後, 我們期望我們能夠對這個世界的一切做出正確的判斷. </text>
-  <text id="misson_diag_1005">壓制 Hokma 的核心</text>
+  <text id="misson_diag_1001">員工們在這裡透過四種美德而成長，而這種成長會直接應用到現實中。而其極限究竟會在哪裡呢？&#13;&#10;首先，「勇氣」源於強健的肉體與本能的欲望。那份欲望，究竟會成為守護眾人的守護之力，&#13;&#10;還是會成為僅為自身欲望服務的武器，誰都無法預料。</text>
+  <text id="misson_diag_1002">「理性」是什麼呢？我們用理性的雙眼觀察並分析事物與存在。但其中存在著程度上的差異。&#13;&#10;淺薄的理性會讓人無法衡量自身的處境與分寸，過度的理性則會成為刺向自己的利刃。&#13;&#10;我們必須以徹底的理性觀察世界，同時，也要以自身心靈的形態去觀看這個世界與人們。</text>
+  <text id="misson_diag_1003">只要是人類，就必然會產生無法自拔的欲望。重要的是如何應對那份欲望。&#13;&#10;這不僅僅是個人問題，因為當我們根據自身欲望去對待世界與他人時，難免會產生重大的影響。&#13;&#10;只看想看的，只聽想聽的。對人類而言，難道不需要在自身、他人與世界之間，妥善地協調彼此的欲望嗎？&#13;&#10;如果能做到這一點，我們就能在這個世界上創造出許多事物。</text>
+  <text id="misson_diag_1004">您相信靈魂的存在嗎？我深信不疑。而且我相信，被賦予靈魂本身就是存在的意義。&#13;&#10;那麼，是否存在完美無瑕的靈魂呢？我認為不存在完美無瑕的靈魂，只能無止境地趨近於它。&#13;&#10;而那個過程是無盡痛苦的持續，也是靈魂的目標。我期待在那份努力的盡頭，&#13;&#10;我們能對這個世界上被賦予的存在，做出正確的價值判斷。</text>
+  <text id="misson_diag_1005">抑制 Hokma 的核心</text>
+
+  <!--
+	<text id="misson_1">完成 3 次對異想體的工作</text>
+	<text id="misson_2">完成 2 次結果為優的工作</text>
+	<text id="misson_3">完成 3 次本能工作</text>
+	<text id="misson_4">完成 4 次洞察工作</text>
+	<text id="misson_5">完成 5 次依戀工作</text>
+	<text id="misson_6">避免員工死亡並通過一天</text>
+	<text id="misson_7">避免員工陷入恐慌並通過一天</text>
+	<text id="misson_8">在一天結束時晉升 2 名員工</text>
+	<text id="misson_9">在一天結束時將 1 名員工晉升至 4 級或以上</text>
+	<text id="misson_10">一天內鎮壓 4 只不同的異想體</text>
+	<text id="misson_11">指派 3 級員工完成 5 次對 WAW 級或以上的異想體的工作</text>
+	<text id="misson_12">一天內無異想體出逃</text>
+	<text id="misson_13">在無員工死亡或陷入恐慌的情況下鎮壓 3 次 HE 級或以上的異想體</text>
+	<text id="misson_14">成功鎮壓 1 次 WAW 級或以上的異想體</text>
+	<text id="misson_15">指派 3 級員工完成 5 次對 WAW 級或以上的異想體的工作，且不能出現員工死亡或陷入恐慌。</text>
+	<text id="misson_16">在無員工死亡或陷入恐慌的情況下完成 2 天的管理</text>
+  -->
+  <!--
+  <text id="misson_title_1">充滿熱情的 Malkuth</text>
+  <text id="misson_title_2">那人去了哪裡？</text>
+  <text id="misson_title_3">冷血的 Yesod</text>
+  <text id="misson_title_4">毒蛇</text>
+  <text id="misson_title_5">孤獨的人</text>
+  <text id="misson_title_6">我的名字，好煩啊</text>
+  <text id="misson_title_7">啤酒販賣機安裝怎麼樣了？</text>
+  <text id="misson_title_8">希望能成為好朋友。</text>
+  <text id="misson_title_9">説聲謝謝，行嗎？</text>
+  <text id="misson_title_10">不要討厭我</text>
+  <text id="misson_title_11">Tiphereth 和 Tiphereth</text>
+  <text id="misson_title_12">一生的本業</text>
+  <text id="misson_title_13">紅髮的 Geburah</text>
+  <text id="misson_title_14">不必如此親切</text>
+  <text id="misson_title_15">在咖啡冷卻前</text>
+  <text id="misson_title_16">慈悲的 Chesed</text>
+-->
 
   <!--for tutorial-->
-  <text id="misson_title_0">經理教育</text>
-  <text id="misson_0">完成異常工作 3 次</text>
-  <text id="misson_diag_0">經理教育</text>
-  <text id="misson_short_0">完成工作</text>
+  <text id="misson_title_0">主管培訓</text>
+  <text id="misson_0">對異想體工作 3 次</text>
+  <text id="misson_diag_0">主管培訓</text>
+  <text id="misson_short_0">完成的工作數</text>
 
 </localize>

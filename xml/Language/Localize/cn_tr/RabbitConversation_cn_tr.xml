@@ -1,109 +1,110 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <localize>
   <!--UI-->
-	<text id="Rabbit_Isolate_Prefix">無法</text>
-	<text id="Rabbit_Isolate_Postfix">工作</text>
-	<text id="Rabbit_SefiraSlot_Enemy">敵對單位數</text>
-	<text id="Rabbit_SefiraSlot_Select">指定淨化</text>
-	<text id="Rabbit_SefiraSlot_Agent">員工數</text>
-	<text id="Rabbit_SefiraSlot_Officer">文職數</text>
-	<text id="Rabbit_SefiraSlot_LowLevel">開放程度低</text>
-	<text id="Rabbit_Info_CallbeDept">可呼叫的部門</text>
-	<text id="Rabbit_Info_Cost">呼叫費用</text>
-	<text id="Rabbit_Info_CostCalc">目前{0}%的能源</text>
+  <text id="Rabbit_Isolate_Prefix">無法</text>
+  <text id="Rabbit_Isolate_Postfix">工作</text>
+  <text id="Rabbit_SefiraSlot_Enemy">敵對單位數量</text>
+  <text id="Rabbit_SefiraSlot_Select">指定淨化</text>
+  <text id="Rabbit_SefiraSlot_Agent">員工數量</text>
+  <text id="Rabbit_SefiraSlot_Officer">文職數量</text>
+  <text id="Rabbit_SefiraSlot_LowLevel">開放程度過低</text>
+  <text id="Rabbit_Info_CallbeDept">可呼叫的部門</text>
+  <text id="Rabbit_Info_Cost">呼叫費用</text>
+  <text id="Rabbit_Info_CostCalc">目前能源的 {0}%</text>
 
-	<text id="Rabbit_Confirm">允許呼叫</text>
+  <text id="Rabbit_Confirm">允許呼叫</text>
   
-	<text id="Rabbit_Manual_Title">- 兔子小隊使用説明書 -</text>
-	<text id="Rabbit_Manual_Day">1.每天能呼叫一次兔子小隊。</text>
-	<text id="Rabbit_Manual_MaxSefira">2.每次最多可以同時在4個部門內呼叫兔子小隊.</text>
-	<text id="Rabbit_Manual_MaxCount">3.每次最多能呼叫32隻兔子.</text>
-	<text id="Rabbit_Manual_Cost">4.每在一個部門呼叫兔子，就要消耗目前所收集能源的25%。</text>
-	<text id="Rabbit_Manual_Command">5.在呼叫兔子小隊後，其對應部門指揮權將暫時由兔子小隊控制。</text>
-	<text id="Rabbit_Manual_Clear">6.當部門內沒有可被兔子攻擊的單位時，兔子會自動離開該部門。</text>
-	<text id="Rabbit_Manual_Caution">※注意</text>
-	<text id="Rabbit_Manual_Panic">- 呼叫兔子的部門將被封鎖, 在部門內的職員會立刻陷入恐慌.</text>
-	<text id="Rabbit_Manual_Closed">- 偶然進入封鎖區域內的外部職員也將無法離開。</text>
+  <text id="Rabbit_Manual_Title">- 兔子小隊使用説明書 -</text>
+  <text id="Rabbit_Manual_Day">1. 每天最多可呼叫一次兔子小隊。</text>
+  <text id="Rabbit_Manual_MaxSefira">2. 每次最多可同時在 4 個部門內呼叫兔子小隊。</text>
+  <text id="Rabbit_Manual_MaxCount">3. 每次最多可呼叫 32 名兔子。</text>
+  <text id="Rabbit_Manual_Cost">4. 每在一個部門呼叫兔子，即消耗當日已收集能源的 25%。</text>
+  <text id="Rabbit_Manual_Command">5. 呼叫兔子小隊後，對應部門的指揮權將暫時移交給兔子小隊。</text>
+  <text id="Rabbit_Manual_Clear">6. 當部門內已無可攻擊目標時，兔子小隊將自動撤離該部門。</text>
+  <text id="Rabbit_Manual_Caution">※注意</text>
+  <text id="Rabbit_Manual_Panic">- 呼叫兔子的部門將被封鎖，該部門內的職員會立即陷入恐慌。</text>
+  <text id="Rabbit_Manual_Closed">- 誤入封鎖區域的外部職員也將無法離開。</text>
 
-    <!--Captain-->
-	<text id="Rabbit_Captain_Start_0">交給兔子們吧~</text>
-	<text id="Rabbit_Captain_Start_1">兔子來吃草了~</text>
-	<text id="Rabbit_Captain_Start_2">蹦蹦跳跳~是時候啃些新鮮的青草了~</text>
-	<text id="Rabbit_Captain_Start_Geburah">讓兔子們都給我豎起耳朵聽好。那邊那傢伙就是「殷紅迷霧」。</text>
-	<text id="Rabbit_Captain_Start_Binah">那傢伙不是真正的調律者，對吧？如果是的話，記住，這可和合約內容不同。</text>
+  <!--Captain-->
+  <text id="Rabbit_Captain_Start_0">交給兔子們吧~</text>
+  <text id="Rabbit_Captain_Start_1">兔子來吃草了~</text>
+  <text id="Rabbit_Captain_Start_2">蹦蹦跳跳~是時候啃些新鮮的青草了~</text>
+  <text id="Rabbit_Captain_Start_Geburah">叫那些兔子都給我豎起耳朵聽好。那邊那傢伙就是「殷紅迷霧」。</text>
+  <text id="Rabbit_Captain_Start_Binah">那傢伙不是真正的調律者，對吧？如果是的話，記住，這可和合約內容不同。</text>
 
-	<text id="Rabbit_Captain_Half_0">半數兔子已回歸草原。</text>
-	<text id="Rabbit_Captain_Half_1">居然折損了一半。這地方的怪物果然挺難纏。</text>
-	<text id="Rabbit_Captain_Half_2">不過死個半數什麼的，兔子們都有心理準備啦~也就和郊區偵查或廢墟淨化任務同等水平吧。</text>
-	<text id="Rabbit_Captain_Half_Geburah">兔子折損一半。看來你寶刀未老啊？</text>
-	<text id="Rabbit_Captain_Half_Binah">看來確實不是真正的調律者呢。不過好像還在用著奇點的力量？</text>
+  <text id="Rabbit_Captain_Half_0">半數兔子已回歸草原。</text>
+  <text id="Rabbit_Captain_Half_1">居然折損了一半。這地方的怪物果然很難纏。</text>
+  <text id="Rabbit_Captain_Half_2">不過折損個半數嘛，兔子們都有心理準備啦~也就跟郊區偵查或廢墟淨化任務差不多的程度吧。</text>
+  <text id="Rabbit_Captain_Half_Geburah">兔子折損一半。看來你寶刀未老啊？</text>
+  <text id="Rabbit_Captain_Half_Binah">看來確實不是真正的調律者呢。不過好像還在運用奇點的力量？</text>
 
-	<text id="Rabbit_Captain_Almost_0">80%的兔子都沒了。果然還是接郊區的任務比這裡的委託更划算得來。</text></text>
-	<text id="Rabbit_Captain_Almost_1">80%的兔子陣亡。是哪個瘋子會想把那種怪物關在都市裡面，而不是丟在郊區外啊？</text>
-	<text id="Rabbit_Captain_Almost_Geburah">80%的兔子都掛了。真難搞。那傢伙真是個怪物。不過還是不如從前啦。</text>
-	<text id="Rabbit_Captain_Almost_Binah">這妖靈與鑰匙的力量……雖然劣化了……但仍很麻煩！</text>
+  <text id="Rabbit_Captain_Almost_0">80% 的兔子都沒了。果然還是接郊區的任務比這裡的委託更划算。</text>
+  <text id="Rabbit_Captain_Almost_1">80% 的兔子陣亡。是哪個瘋子會把這種怪物關在都市裡，而不是丟到郊區去？</text>
+  <text id="Rabbit_Captain_Almost_Geburah">80% 的兔子都掛了。真難搞。那傢伙簡直是怪物。不過還是不如從前啦。</text>
+  <text id="Rabbit_Captain_Almost_Binah">這妖靈與密鑰的力量……雖然劣化了……還是很棘手！</text>
 
-	<text id="Rabbit_Captain_Eliminated_0">兔子隊全滅。呵，以後好自為之吧。</text>
-	<text id="Rabbit_Captain_Eliminated_1">所有兔子已回歸草原。任務失敗。</text>
-	<text id="Rabbit_Captain_Eliminated_2">兔子全滅。與其負責這地方，還不如去郊區或廢墟勘探呢。</text>
-	<text id="Rabbit_Captain_Eliminated_Geburah">殷紅迷霧……總有一天我要親自把你撕成碎片……</text>
-	<text id="Rabbit_Captain_Eliminated_Binah">你叫我們來的時候就料到會這樣了吧？兔子撤退。</text>
+  <text id="Rabbit_Captain_Eliminated_0">兔子隊全滅。呵，以後好自為之吧。</text>
+  <text id="Rabbit_Captain_Eliminated_1">所有兔子已回歸草原。任務失敗。</text>
+  <text id="Rabbit_Captain_Eliminated_2">兔子全滅。與其負責這種地方，還不如去郊區或廢墟探勘呢。</text>
+  <text id="Rabbit_Captain_Eliminated_Geburah">殷紅迷霧……總有一天我要親手將你撕成碎片……</text>
+  <text id="Rabbit_Captain_Eliminated_Binah">你叫我們來的時候就已經料到會這樣了吧？兔子撤退。</text>
 
-	<text id="Rabbit_Captain_End_0">真是滿意的一餐。</text>
-	<text id="Rabbit_Captain_End_1">下次有草的時候，再叫我們吧。</text>
-	<text id="Rabbit_Captain_End_2">情況允許的話，我還真想親自參與呢。</text>
-	<text id="Rabbit_Captain_End_3">任務完成。我們會忘記在此地發生的一切。</text>
-	<text id="Rabbit_Captain_End_Geburah">托那奇怪身體的福，力量是比過去強了，但完全看不到以前那份老練啊。</text>
-	<text id="Rabbit_Captain_End_Binah">真沒想到，我們有擊敗調律者的一天。</text>
+  <text id="Rabbit_Captain_End_0">真是滿意的一餐。</text>
+  <text id="Rabbit_Captain_End_1">下次有草的時候，再叫我們吧。</text>
+  <text id="Rabbit_Captain_End_2">情況允許的話，我還真想親自下場呢。</text>
+  <text id="Rabbit_Captain_End_3">任務完成。我們會忘記在此地發生的一切。</text>
+  <text id="Rabbit_Captain_End_Geburah">託你那奇怪身體的福，力量是比以前強了，但完全看不到過去那份老練啊。</text>
+  <text id="Rabbit_Captain_End_Binah">真沒想到，我們也有擊敗調律者的一天。</text>
   
   <!--Rabbit Units
       
       Rabbit_Unit_{State : one or more}_{Index}
   -->
-	<text id="Rabbit_Unit_Name">兔子</text>
+  <text id="Rabbit_Unit_Name">兔子</text>
 
-	<text id="Rabbit_Unit_Start_0">兔子來吃草了。</text>
-	<text id="Rabbit_Unit_Start_1">任務開始。</text>
-	<text id="Rabbit_Unit_Start_2">整平這片土地。</text>
-	<text id="Rabbit_Unit_Start_3">啃食殆盡。</text>
+  <text id="Rabbit_Unit_Start_0">兔子來吃草了。</text>
+  <text id="Rabbit_Unit_Start_1">任務開始。</text>
+  <text id="Rabbit_Unit_Start_2">把這片地整平。</text>
+  <text id="Rabbit_Unit_Start_3">啃食殆盡。</text>
 
-	<text id="Rabbit_Unit_Encounter_Officer_0">運氣真背的傢伙們。</text>
-	<text id="Rabbit_Unit_Encounter_Officer_1">你們被拋棄了。</text>
-	<text id="Rabbit_Unit_Encounter_Officer_2">淨化。</text>
+  <text id="Rabbit_Unit_Encounter_Officer_0">運氣真背的傢伙們。</text>
+  <text id="Rabbit_Unit_Encounter_Officer_1">你們被拋棄了。</text>
+  <text id="Rabbit_Unit_Encounter_Officer_2">淨化。</text>
 
-	<text id="Rabbit_Unit_Encounter_Agent_0">就算拿著像樣的武器。對兔子來說也不過是草料。</text>
-	<text id="Rabbit_Unit_Encounter_Agent_1">你們和我們本質上就不同。</text>
-	<text id="Rabbit_Unit_Encounter_Agent_2">武器看起來倒還湊合。</text>
-	<text id="Rabbit_Unit_Encounter_Agent_3">抹滅。</text>
-	<text id="Rabbit_Unit_Encounter_Agent_4">裝備不錯。</text>
+  <text id="Rabbit_Unit_Encounter_Agent_0">就算拿著像樣的武器，對兔子來說也不過是草料。</text>
+  <text id="Rabbit_Unit_Encounter_Agent_1">你們和我們本質上就不同。</text>
+  <text id="Rabbit_Unit_Encounter_Agent_2">武器看起來還湊合。</text>
+  <text id="Rabbit_Unit_Encounter_Agent_3">抹滅。</text>
+  <text id="Rabbit_Unit_Encounter_Agent_4">裝備不錯。</text>
 
-	<text id="Rabbit_Unit_Encounter_Creature_TETH_0">危險度：低。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_TETH_1">立即清除。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_TETH_2">連熱身都算不上</text>
+  <text id="Rabbit_Unit_Encounter_Creature_TETH_0">危險度：低。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_TETH_1">立即清除。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_TETH_2">連熱身都算不上。</text>
 
-	<text id="Rabbit_Unit_Encounter_Creature_HE_0">危險度：中。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_HE_1">就像是後巷內那些東西的等級。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_HE_2">真是奇特的怪物。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_HE_3">這種怪物廢墟裡要多少有多少。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_HE_4">正好活動下筋骨。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_HE_0">危險度：中。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_HE_1">就跟後巷裡那些東西差不多等級。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_HE_2">真是奇特的怪物。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_HE_3">這種怪物廢墟裡要多少有多少。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_HE_4">正好活動一下筋骨。</text>
 
-	<text id="Rabbit_Unit_Encounter_Creature_WAW_0">危險度：高。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_WAW_1">好久沒對付這麼危險的目標了。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_WAW_2">是把郊區的東西關在這裡了嗎？</text>
-	<text id="Rabbit_Unit_Encounter_Creature_WAW_3">為什麼不把這些傢伙用在翼的戰爭上？</text>
-	<text id="Rabbit_Unit_Encounter_Creature_WAW_4">這地方也是個瘋人院。</text>
-	
-	<text id="Rabbit_Unit_Encounter_Creature_ALEPH_0">危險度：極高。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_ALEPH_1">這地方到底是幹什麼的？</text>
-	<text id="Rabbit_Unit_Encounter_Creature_ALEPH_2">這光靠兔子似乎解決不了啊。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_ALEPH_3">連郊區外的存在都利用，真是瘋狂的想法。</text>
-	<text id="Rabbit_Unit_Encounter_Creature_ALEPH_4">我還以為這種傢伙只存在於廢墟深層</text>
+  <text id="Rabbit_Unit_Encounter_Creature_WAW_0">危險度：高。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_WAW_1">好久沒對付這麼危險的目標了。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_WAW_2">這是把郊區的東西關在這裡了嗎？</text>
+  <text id="Rabbit_Unit_Encounter_Creature_WAW_3">為什麼不把這些傢伙用在翼的戰爭上？</text>
+  <text id="Rabbit_Unit_Encounter_Creature_WAW_4">這地方也是個瘋人院。</text>
+  
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_0">危險度：極高。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_1">這地方到底是幹什麼的？</text>
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_2">這光靠兔子似乎解決不了啊。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_3">連郊區之外的存在都拿來利用，真是瘋狂的想法。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_4">我還以為這種傢伙只存在於廢墟深層。</text>
 
-	<text id="Rabbit_Unit_Panic_0">精神污染達最大值，執行自動處決。</text>
-	<text id="Rabbit_Unit_Panic_1">正在透過自動處決清除危險因素。</text>
+  <text id="Rabbit_Unit_Panic_0">精神污染已達最大值，執行自動處決。</text>
+  <text id="Rabbit_Unit_Panic_1">正在透過自動處決排除危險因素。</text>
 
-	<text id="Rabbit_Unit_SectorClear_0">任務完成。</text>
-	<text id="Rabbit_Unit_SectorClear_1">回去了。</text>
-	<text id="Rabbit_Unit_SectorClear_2">無草可啃了。</text>
-	<text id="Rabbit_Unit_SectorClear_3">真是粗陋的一餐。</text>
+  <text id="Rabbit_Unit_SectorClear_0">任務完成。</text>
+  <text id="Rabbit_Unit_SectorClear_1">回去了。</text>
+  <text id="Rabbit_Unit_SectorClear_2">沒草可啃了。</text>
+  <text id="Rabbit_Unit_SectorClear_3">真是粗陋的一餐。</text>
+
 </localize>
