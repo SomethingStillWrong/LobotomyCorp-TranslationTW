@@ -14,7 +14,7 @@
 
    script="OutterGodNoon"
     >
-
+    
     <narration action="move">
       #0 직원이 작업을 시작하러 $0의 방에 들어갑니다.
     </narration>
@@ -47,7 +47,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/NoData</portrait>
 
       <name openLevel ="0">
-        녹빛 여명
+        紫色的正午
       </name>
 
       <attackType openLevel ="1">

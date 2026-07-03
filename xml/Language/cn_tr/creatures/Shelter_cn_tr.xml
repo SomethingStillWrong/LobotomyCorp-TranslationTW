@@ -12,7 +12,7 @@
   <info id="300006">
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內。
     </narration>
 
   </info>
@@ -23,55 +23,55 @@
       <portrait openLevel ="1">Sprites/Unit/creature/Shelter</portrait>
 
       <name openLevel ="1">
-        三月二十七日的避難所
+        3月27日的防空洞
       </name>
 
       <riskLevel openLevel ="1">
         HE
       </riskLevel>
       <openText>
-        使它如同字面上所述, "地球上最安全的地方."
+        它正成為字面意義上的「世界上最安全的地方」。
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一個能完全隔絕外界的庇護所, 包括光線.}
+      {這是一個能隔絕所有外界環境（包括光線）的防空洞。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {庇護所還記得那一天.}
+      {防空洞依然封存著那一天的記憶。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {P 公司希望在地球上建造一座最安全的地方. 因此, 在裡面放置了許多可以長久保存的物資, 能讓任何人在裡面存活非常長的一段時間.}
+      {P公司曾想打造世界上最安全的地方。如其誌向所示，防空洞內部儲備了大量永久口糧，若只想撐過困境，足以在其中停留漫長歲月。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       <!-- 여기 번역 고치기 -->
       [
-      {感謝這個庇護所, 被選中的難民在充滿鮮血與哀號的大海中被隔離開來.}
+      {得益於此，被選中的避難者得以與無休止的慘叫及血肉之海隔絕。}
       ]
     </desc>
 
     <desc id="5" openLevel="4">
       [
-      {但是, 儘管庇護所的裡面極為安全, 不過外面卻變得越加的絕望. 使它如同字面上所述, "地球上最安全的地方."}
+      {然而，內部絕對安全的防空洞，卻將外部的現實調節成了更深的絕望。它正成為字面意義上的「世界上最安全的地方」。}
       ]
     </desc>
 
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="1">進入 $0 的目標會免疫所有類型的傷害. (然而, O-09-91 造成的傷害並不受影響.) 同時, 在他們進入$0 後 HP 以及 SP 會緩慢的恢復.</specialTip>
-      <specialTip openLevel="2" key="2">如果目標在受到追捕時進入 $0 , 追捕者將察覺不到他們的蹤跡.</specialTip>
-      <specialTip openLevel="3" key="3">如果目標停留在 $0 超過 30 秒, 設施內異常的逆卡巴拉計數器將會歸零. 這個現象會接連的發生在其他的收容單位上, 直到目標離開 $0 後.</specialTip>
+      <specialTip openLevel="1" key="1">進入$0的員工將免疫所有類型的傷害（由O-09-91造成的伤害除外），同時員工生命值與精神值會開始持續少量恢復。</specialTip>
+      <specialTip openLevel="2" key="2">如果有員工在被其他異想體追击时进入$0 ，追击員工的異想體將會無法識別到其員工。</specialTip>
+      <specialTip openLevel="3" key="3">如果有員工在$0內停留超過30秒，設施內的異想體的逆卡巴拉計數器將會歸零。在員工離開$0前，該現象會週期性地重複發生。</specialTip>
     </specialTipSize>
 
 

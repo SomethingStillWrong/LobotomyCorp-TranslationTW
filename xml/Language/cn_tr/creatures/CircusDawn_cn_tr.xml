@@ -9,8 +9,8 @@
               
               observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
   -->
-  <info id ="200005">
-
+  <info id="200005">
+    
     <narration action="move">
       #0 직원이 작업을 시작하러 $0의 방에 들어갑니다.
     </narration>
@@ -43,7 +43,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/NoData</portrait>
 
       <name openLevel ="0">
-        녹빛 여명
+        血色的黎明
       </name>
 
       <riskLevel openLevel ="1">

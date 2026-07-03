@@ -12,7 +12,7 @@
   <info id="300105">
 
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
@@ -22,7 +22,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/YouMusHappy</portrait>
 
       <name openLevel ="1">
-        你一定會快樂
+        你必須要幸福
       </name>
 
       <riskLevel openLevel ="1">
@@ -30,48 +30,48 @@
       </riskLevel>
 
       <openText>
-     許多人在接受了這種手術後已經獲得了休息並恢復了健康.
+        許多人在這台機器中接受手術後，得到了充分休息，變得更加健康。
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {為了進行神秘手術的老舊機械. }
+      {一台用途不明的老舊手術機器，處處可見歲月留下的痕跡。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {這個機械被設計來抬起顱骨並安全且有效的破壞神經組織.}
+      {機器的機關在頭骨內翻攪，其設計旨在安全且有效地破壞神經組織。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {許多人在接受了這種手術後已經獲得了休息並恢復了健康.}
+      {許多人在這台機器中接受手術後，得到了充分休息，變得更加健康。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       [
-      {你喜歡你的城市嗎? 回答是的人, 他們被治癒了. 回答不的人, 他們就不怎麼幸運了.}
+      {當被問及「你愛你的城市嗎？」時，回答「是」者，被視為病情好轉；回答「不是」者，則無法出院。}
       ]
     </desc>
 
     <desc id="5" openLevel="4">
       [
-      {你使用機械的時間越長, 員工恢復的就越多. 你使用它的時間越常, 問題改變的速度就越快.}
+      {機器使用得越久，員工的狀態越佳。與此同時，使用時間越長，提問的頻率也隨之加快。}
       ]
     </desc>
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">員工使用這台機器後會增加他所有的能力.</specialTip>
-      <specialTip openLevel="2" key="2">員工使用它的時間越久, 增加的能力就越多</specialTip>
-      <specialTip openLevel="2" key="3">請確認只有在機器的頂部顯示 YES 的時候停止使用這台機器.如果在 NO 的時候停止, 所有狀態將會下降得比提昇的還多.</specialTip>
-      <specialTip openLevel="2" key="4">提昇的狀態會在隔一天恢復到正常. 然而, 狀態提昇總和超過 200 的員工在隔一天會整個消失.</specialTip>
-      <specialTip openLevel="2" key="5">&lt;警告&gt; 使用該目標超過 n 次的員工, 被確認到立刻在當場爆炸了.</specialTip>
+      <specialTip openLevel="1" key="1">使用該機器的員工，其所有能力數值皆會獲得提升。</specialTip>
+      <specialTip openLevel="2" key="2">使用時間越長，能力值提升的幅度越高。</specialTip>
+      <specialTip openLevel="2" key="3">請確認在機器頂端顯示「YES」的狀態下結束使用。若在「NO」狀態下結束，所有能力值將下降，降幅等同於先前提升的總和。</specialTip>
+      <specialTip openLevel="2" key="4">提升的能力值將於次日復原。然而，曾因該對象效果累計提升超過200點能力值的員工，於當日結束時死亡。</specialTip>
+      <specialTip openLevel="2" key="5">&lt;注意&gt;：我們發現，有員工在使用該異想體五次後，當場爆炸。</specialTip>
     </specialTipSize>
 
 

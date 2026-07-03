@@ -12,7 +12,7 @@
   <info id="300102">
 
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
@@ -22,7 +22,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/HellTrian</portrait>
 
       <name openLevel ="1">
-        地獄特快車
+        地獄特快
       </name>
 
       <riskLevel openLevel ="1">
@@ -30,43 +30,43 @@
       </riskLevel>
 
       <openText>
-        當時候到了, 就像一輛火車快要到站一樣, 它吹響了它的喇叭.
+        時間一到，列車便會伴隨著洪亮的汽笛聲駛過。
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {站務員賣著一張抵達不了終點的列車車票. 沒有任何的時刻表, 只有幾道令人毛骨悚然的燈光在那閃爍.}
+      {沈默寡言的售票者售賣著一列終點站不明的列車車票。售票點處並沒有告知抵達時間的鐘表，只有指示燈在閃爍。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {#1 以及 #2 的燈亮了. 你的腦袋清醒了.&#13;&#10;#3 的燈亮了. 你的腦袋清醒了, 而且傷口也癒合了.}
+      {第一盞與第二盞燈亮起。職員們的神智變得清晰。&#13;&#10;第三盞燈亮起。職員們的神智更加清晰，傷口也得到治愈。} 
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {#4 的燈亮了. 你能聽見了在遠方的火車吹響著喇叭. 所有在部門裡的員工狀態全都改善了.}
+      {第四盞燈亮起。汽笛聲從遠處開始傳來，所有部門的職員的狀態都得到好轉。}
       ]
     </desc>
 
     <desc id="4" openLevel="2">
       [
-      {當時候到了, 就像一輛火車快要到站一樣, 它吹響了它的喇叭. 它穿過了那無盡了隧道, 帶走那些尚存一息的員工.}
+      {時間一到，列車便會伴隨著洪亮的汽笛聲駛過。而後，它將載著那些未能及時後退一步的員工，再次徑直駛向那無盡的隧道之中。}
       ]
     </desc>
 
 
     <specialTipSize size="7">
-      <specialTip openLevel="1" key="1">每過 30 秒, 收票處的燈就會亮起一盞. 車站總共會亮起四次. 當員工收到車票後, 燈泡就會重置.</specialTip>
-      <specialTip openLevel="2" key="2">當在 1 個燈亮時收到一張車票, 該員工將會恢復 HP 及 SP.</specialTip>
-      <specialTip openLevel="2" key="3">當在 2 個燈亮時收到一張車票, 該員工將會恢復 HP 及 SP.</specialTip>
-      <specialTip openLevel="2" key="4">當在 3 個燈亮時收到一張車票, 所有與該員工同個部門的員工將會恢復 HP 及 SP.</specialTip>
-      <specialTip openLevel="2" key="5">當在 4 個燈亮時收到一張車票, 所有在設施內的員工將會恢復 HP 及 SP.</specialTip>
-      <specialTip openLevel="2" key="6">當第 4 個燈光亮起後又再透過異常工作亮起一次燈, 列車將會發動穿過整個設施並對所有在路徑上的員工造成 B 傷害. 在發動後, 所有的燈光就會重置.</specialTip>
+      <specialTip openLevel="1" key="1">售票處的燈每30秒會點亮一盞。最多可點亮4盞，若有員工在售票處取得車票，則點亮的燈泡將會熄滅。</specialTip>
+      <specialTip openLevel="2" key="2">取得車票時，若點亮的燈數為1盞，將會小幅恢復領取車票的員工生命值與精神值。</specialTip>
+      <specialTip openLevel="2" key="3">取得車票時，若點亮的燈數為2盞，將會恢復領取車票的員工生命值與精神值。</specialTip>
+      <specialTip openLevel="2" key="4">取得車票時，若點亮的燈數為3盞，將會恢復該員工所屬部門的全體員工的生命值與精神值。</specialTip>
+      <specialTip openLevel="2" key="5">取得車票時，若點亮的燈數為4盞，將會恢復設施內全體員工的的生命值與精神值。</specialTip>
+      <specialTip openLevel="2" key="6">當點亮的燈數已達4盞時，若沒有員工在30秒內取票，一列列車將貫穿設施駛過，並對路徑上的所有單位造成黑色傷害。之後所有點亮的燈都會熄滅。</specialTip>
     </specialTipSize>
 
 
