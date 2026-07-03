@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day12_angela_1">對於 Sephiroth 你有什麼評論?</text>
-	<text id="day12_angela_2">你不覺得他們少了某些東西嗎?</text>
-	<text id="day12_angela_3">無視他們說的話是你的自由,</text>
-	<text id="day12_angela_4">但是請善待他們. </text>
-	<text id="day12_angela_5">如果我們想要改善部門的關係的話我們必須先做點什麼.</text>
-	<text id="day12_angela_6">我從來沒跟他們有過認真的對話.</text>
-	<text id="day12_angela_7">他們面對我時並不好受, 因為我是個更加優越的存在.</text>
-	<text id="day12_angela_8" anim="Glad1">他們無能為力只能偷偷的忌妒我.</text>
-	<text id="day12_angela_9">畢竟, 我是公司裡最先進的 AI.</text>
+	<text id="day12_angela_1">您如何看待那些 Sephiroth 呢？</text>
+	<text id="day12_angela_2">是否隱約覺得，他們似乎有些不足？</text>
+	<text id="day12_angela_3">是否把他們的話當作耳邊風，自然是主管您的自由。</text>
+	<text id="day12_angela_4">但是，還請您友善對待他們。</text>
+	<text id="day12_angela_5">或許，這能說是為了促進部門發展，所必要的付出吧。</text>
+	<text id="day12_angela_6">我從未與他們深入交談過。</text>
+	<text id="day12_angela_7">畢竟，我是比他們更高階的存在，他們自然難以輕易靠近我。</text>
+	<text id="day12_angela_8" anim="Glad1">就算他們私下嫉妒我，那也是無可奈何的事。</text>
+	<text id="day12_angela_9">誰讓「最優秀的 AI 是我」這個事實永遠不會改變呢。</text>
 </localize>

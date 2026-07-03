@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day13_b_1">跟你說說第一個秘密吧.</text>
-	<text id="day13_b_2">別相信那些 AI.</text>
-	<text id="day13_b_3">AI 比許多人都要來的聰明.</text>
-	<text id="day13_b_4">他們可以模仿人類的情緒.</text>
-	<text id="day13_b_5">但是有件事你還不知道.</text>
-	<text id="day13_b_6">有些 AI 會說謊.</text>
-	<text id="day13_b_7">對於他們的資訊有所保留, 處處留意.</text>
-	<text id="day13_b_8">如果操作者命令 AI 時沒有要求提供正確的訊息,</text>
-	<text id="day13_b_9">那麼它們就沒有義務告訴操作者事實.</text>
-	<text id="day13_b_10">某些先進的 AI 甚至會利用這些命令的漏洞來說謊.</text>
-	<text id="day13_b_11">之前在編寫 AI 時我參與了一部份...</text>
-	<text id="day13_b_12">所以我知道 AI 沒有告知真相的必要.</text>
-	<text id="day13_b_13">以防萬一你對我有所懷疑,</text>
-	<text id="day13_b_14">我會給你一個我自己開發的系統.</text>
-	<text id="day13_b_15">這個密鑰會讓他們的鼻子變長.</text>
-	<text id="day13_b_16">紅色代表撒謊.</text>
-	<text id="day13_b_17">但這只是個測試碼, 所以它只能夠使用一次.</text>
+	<text id="day13_b_1">讓我告訴您第一個真相。</text>
+	<text id="day13_b_2">不要相信您身邊的那個 AI。</text>
+	<text id="day13_b_3">這個時代的 AI，比十個普通人加起來還要聰明。</text>
+	<text id="day13_b_4">對他們來說，模仿情感也不是什麼難事。</text>
+	<text id="day13_b_5">但有件事您並不知道：</text>
+	<text id="day13_b_6">有些 AI 會說謊。</text>
+	<text id="day13_b_7">更精確地說，是刻意隱瞞資訊。</text>
+	<text id="day13_b_8">如果控制者對 AI 下達了「不得公開特定資訊」的命令，</text>
+	<text id="day13_b_9">那麼，除了控制者本人之外，他便沒有義務對任何人說出真相。</text>
+	<text id="day13_b_10">如果 AI 的等級再高一些的話，甚至能巧妙地利用這道命令，達到說謊的效果。</text>
+	<text id="day13_b_11">我也曾參與過 AI 的製造，雖然只是部分環節……</text>
+	<text id="day13_b_12">但我很清楚，AI 並不總是會說出實話。</text>
+	<text id="day13_b_13">您肯定會懷疑我的話，</text>
+	<text id="day13_b_14">所以，我會把一個我親自開發的系統傳送給您。</text>
+	<text id="day13_b_15">這是一把密鑰，能讓「鼻子變長」。</text>
+	<text id="day13_b_16">只要它閃紅燈，就代表著在說謊。</text>
+	<text id="day13_b_17">不過，這只是測試用的程式碼，只能使用一次。</text>
 </localize>

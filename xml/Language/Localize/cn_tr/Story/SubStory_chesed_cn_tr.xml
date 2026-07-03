@@ -2,425 +2,373 @@
 <localize>
   <!-- 에피소드 1-->
   
-  <text id="chesed1_intro_c1">你在想什麼呢?</text>
-  <text id="chesed1_intro_c2">空氣是不是聞起來比之前還要甜了?</text>
-  <text id="chesed1_intro_c3">我能倒杯咖啡嗎, 管理者?</text>
-  <text id="chesed1_intro_c4">...</text>
-  <text id="chesed1_intro_c5">啊, 好多了. 早上沒有來杯咖啡的話我的一天是沒辦法開始的.</text>
-  <text id="chesed1_intro_c6">我說話的方式或是別的沒有冒犯到你吧, 有嗎?</text>
-  <text id="chesed1_intro_c7">我是 Chesed, 福利小組的領袖.</text>
-  <text id="chesed1_intro_c8">福利小組非常棒, 我自傲的說我的組員在整個公司裡有最高的滿意度.</text>
-  <text id="chesed1_intro_c9">Angela 跟我說過現在我得跟你共事了.</text>
-  <text id="chesed1_intro_c10">嗯, 我能跟任何人相處, 但就算是我, 跟一個管理者玩遊戲還是挺難的.</text>
-  <text id="chesed1_intro_c11">但這是 Angela 的命令, 所以我沒得選擇. </text>
-  <text id="chesed1_intro_c12">我現在得走了, 咖啡要冷掉了.</text>
-  <text id="chesed1_intro_e1">痾, Chesed 先生, 長官? 我有些事要跟您報告.</text>
-  <text id="chesed1_intro_c13">請說.</text>
-  <text id="chesed1_intro_e2">痾... 我還沒有把那個 E.G.O 調整好, 之中還有一些已經故障了. 我想我得做一些額外的檢測, 我很抱歉, 長官.</text>
-  <text id="chesed1_intro_c14">沒有關係的. 除了管理這些 E.G.O 之外你還有其他的工作要做.</text>
-  <text id="chesed1_intro_e3">Chesed 先生...</text>
-  <text id="chesed1_intro_c15">我會自己去檢查它的, 你現在能找出它的問題已經很好了.</text>
-  <text id="chesed1_intro_c16">這裡有太多事情要做了. 你沒辦法保持注意力在每樣東西上.</text>
-  <text id="chesed1_intro_e4">謝謝您, 長官!</text>
-  <text id="chesed1_intro_c17">是的, 也祝你一日順遂!</text>
-  <text id="chesed1_intro_c18">...</text>
-  <text id="chesed1_intro_c19">我的反應跟你之前見過的那些有點不同, 對吧?</text>
-  <text id="chesed1_intro_c20">是的, Angela 不會像這樣去處理這事的.</text>
-  <text id="chesed1_intro_c21">但是那個員工很快就會被換掉了, 所以又為什麼要在他們身上花費精力呢?</text>
-  <text id="chesed1_intro_c22">.... 啊呸, 這杯咖啡冷掉了.</text>
-  <text id="chesed1_intro_c23">嗯, 冷掉的咖啡就沒它的用處了.</text>
-  <text id="chesed1_intro_c24">最好把它倒掉. </text>
+  <text id="chesed1_intro_c1">你在想什麼呢？</text>
+  <text id="chesed1_intro_c2">空氣是不是比平時香一些？</text>
+  <text id="chesed1_intro_c3">主管，如果不介意的話，能等我喝杯咖啡嗎？</text>
+  <text id="chesed1_intro_c4">……</text>
+  <text id="chesed1_intro_c5">哈，總算是活過來了。要知道，一天不喝咖啡，可是沒辦法好好開始工作的呀~</text>
+  <text id="chesed1_intro_c6">你不會因為我沒用敬語而生氣吧？</text>
+  <text id="chesed1_intro_c7">我是Chesed，負責福利部。</text>
+  <text id="chesed1_intro_c8">福利部可是個了不起的部門。我敢說，在所有部門中，職員的滿意度和忠誠度都是最高的。</text>
+  <text id="chesed1_intro_c9">安潔拉小姐說，我們要暫時合作一陣子。</text>
+  <text id="chesed1_intro_c10">其實我自認為我跟誰都能處得來，但要和主管你高高興興地相處，恐怕有點勉強。</text>
+  <text id="chesed1_intro_c11">不過既然是安潔拉小姐的命令，那也沒辦法。</text>
+  <text id="chesed1_intro_c12">我得走了，不然好不容易泡的咖啡可就要涼了囉~</text>
+  <text id="chesed1_intro_e1">那個……Chesed先生，我有事要向您匯報。</text>
+  <text id="chesed1_intro_c13">嗯，我在聽。</text>
+  <text id="chesed1_intro_e2">那個……由於我在保養E.G.O這件事上做得不夠仔細，現在好像有幾件E.G.O的功能出了問題，可能需要進行額外檢查……真是抱歉……</text>
+  <text id="chesed1_intro_c14">沒關係~你本來事情就多，還要負責E.G.O保養，很辛苦吧？</text>
+  <text id="chesed1_intro_e3">Chesed先生……</text>
+  <text id="chesed1_intro_c15">我待會就去檢查。你能發現這個問題，這就夠了。</text>
+  <text id="chesed1_intro_c16">在這種本來就需要操心很多事的地方，如果把每件事都放在心上，精力可是會吃不消的。</text>
+  <text id="chesed1_intro_e4">謝謝您，Chesed先生！</text>
+  <text id="chesed1_intro_c17">嗯，那麼今天也請你好好加油努力喲~</text>
+  <text id="chesed1_intro_c18">……</text>
+  <text id="chesed1_intro_c19">和主管您至今為止看到的場景，有點不一樣吧？</text>
+  <text id="chesed1_intro_c20">是啊，如果是安潔拉小姐的話，她肯定不會這麼輕易了事的。</text>
+  <text id="chesed1_intro_c21">反正都是些很快就見不到的職員了，斤斤計較又有什麼好處呢？</text>
+  <text id="chesed1_intro_c22">……咖啡終究還是涼了。</text>
+  <text id="chesed1_intro_c23">沒辦法，溫咖啡還不如不喝。</text>
+  <text id="chesed1_intro_c24">這種時候，還不如乾脆利落地把它們全部倒掉，這才是比較好的選擇。</text>
   
   <!--에피소드 2-->
 
-  <text id="chesed2_intro_c1">嗯, 你作的還不賴. 所以你還是有點用處的.</text>
-  <text id="chesed2_intro_c2">但是別做得太超過了.</text>
-  <text id="chesed2_intro_c3">管理者, 你已經做過許多事了.</text>
-  <text id="chesed2_intro_c4">你已經做過得那些事可以在一定的程度上延長員工的生命.</text>
-  <text id="chesed2_intro_c5">所以... 你現在應該很滿意了.</text>
-  <text id="chesed2_intro_c6">不是我沒辦法去了解管理者的觀點.</text>
-  <text id="chesed2_intro_c7">你來自 Lobotomy, 而想要竭你所能把這個地方變得更好.</text>
-  <text id="chesed2_intro_c8">但是這個地方就像是逐漸冷掉的咖啡.</text>
-  <text id="chesed2_intro_c9">也許這個比喻有點奇怪...</text>
-  <text id="chesed2_intro_c10">也許我們一直假裝著高貴, 仁慈的樣子會更好?</text>
-  <text id="chesed2_intro_c11">你也一樣, 管理者.</text>
-  <text id="chesed2_intro_c12">你不用在那些無意的問題下投入你的感情.</text>
-  <text id="chesed2_selection1">忽視它</text>
-  <text id="chesed2_selection2">反駁</text>
-  <text id="chesed2_intro_c13">... 好啦, 好啦. 隨你高興, 熱情的管理者.</text>
-  <text id="chesed2_intro_c14">我挺好奇你內心的火苗還能持續多久的, 管理者.</text>
-  <text id="chesed2_intro_c15">我就要走了, 雖然看不出來, 但我其實是很忙的.</text>
+  <text id="chesed2_intro_c1">看來你也並非完全無能嘛。你在處理事情這方面還行。</text>
+  <text id="chesed2_intro_c2">但主管，適可而止不是更好嗎？</text>
+  <text id="chesed2_intro_c3">你已經做得夠多了。</text>
+  <text id="chesed2_intro_c4">況且，你至今為止所做的一切，至少讓職員們的生命延長了一點。</text>
+  <text id="chesed2_intro_c5">我是說，你似乎可以就此滿足了。</text>
+  <text id="chesed2_intro_c6">嗯，我也不是不能理解主管你的處境。</text>
+  <text id="chesed2_intro_c7">你加入了腦葉公司，想盡可能地把這裡往好的方向改變。</text>
+  <text id="chesed2_intro_c8">但這地方已經像一杯早就涼透的咖啡了。</text>
+  <text id="chesed2_intro_c9">你會覺得這是個奇怪的比喻，但對我來說就是這樣。</text>
+  <text id="chesed2_intro_c10">我是說，倒不如至少在表面上裝出仁慈的樣子，彼此間在結局前都能友好相處，不是嗎？</text>
+  <text id="chesed2_intro_c11">主管你也一樣。</text>
+  <text id="chesed2_intro_c12">你沒必要在這種地方為煩心事操心。</text>
+  <text id="chesed2_selection1">無視他。</text>
+  <text id="chesed2_selection2">反駁他。</text>
+  <text id="chesed2_intro_c13">……行，行，隨您便吧，充滿熱情的主管大人。</text>
+  <text id="chesed2_intro_c14">我很好奇，你那顆熊熊燃燒的心，要到什麼時候才會冷卻下來呢？</text>
+  <text id="chesed2_intro_c15">我得走了。我看起來是挺悠閒，實際上卻還挺忙的。</text>
 
   <!-- 과거 회상 1-->
-  <text id="chesed2_intro_c16">Angela, 看看這個. 我花了整個晚上去研究提高員工福利效率的方式.</text>
+  <text id="chesed2_intro_c16">安潔拉小姐，請看看這個關於為職員提供高效福利的方案，這可是我昨晚通宵研究出來的成果。</text>
   <!-- 과거 회상 1 끝-->
 
-  <text id="chesed2_intro_c17">... 這還真好笑.</text>
-  <text id="chesed2_intro_c18">看看是誰在說話阿.</text>
+  <text id="chesed2_intro_c17">……真可笑。</text>
+  <text id="chesed2_intro_c18">到底是誰在替誰著想啊。</text>
 
   <!--에피소드 3-->
 
-  <text id="chesed3_intro_c1">你又辦到了.</text>
-  <text id="chesed3_intro_c2">Angela 讚美過你的工作嗎?</text>
-  <text id="chesed3_intro_c3">“你的付出會幫助這個地方變得更好...” (莊嚴的聲音)</text>
-  <text id="chesed3_intro_c4">... 華麗, 但空洞的詞句.</text>
-  <text id="chesed3_intro_c5">以前的我是非常熱情的. 負責整個部門, 多美好啊.</text>
-  <text id="chesed3_intro_c6">我以前也不喜歡喝咖啡.</text>
-  <text id="chesed3_intro_c7">我該說在我嚐到了生命的苦澀時我研發出了咖啡的味道嗎...</text>
-  <text id="chesed3_intro_c8">是因為需要它來保持清醒嗎? 我們當然完全不需要睡眠, 但是那種心情, 你懂嗎?</text>
-  <text id="chesed3_intro_c9">有一次, 我甚至堅持要親自去管理那些異常.</text>
-  <text id="chesed3_intro_c10">我覺得只讓員工進去那些地方是錯誤的.</text>
-  <text id="chesed3_intro_c11">嗯, 現在想起來還挺荒唐的.</text>
-  <text id="chesed3_intro_c12">所以為什麼我會變成這樣, 你問問?</text>
-  <text id="chesed3_intro_c13">嗯, 看來你猜到了.</text>
+  <text id="chesed3_intro_c1">主管你這次也幹得漂亮。</text>
+  <text id="chesed3_intro_c2">想必從安潔拉小姐那裡聽了不少表揚吧？</text>
+  <text id="chesed3_intro_c3">「您的辛勞，將有助於讓這裡變得更加美好……」（模仿威嚴的嗓音）</text>
+  <text id="chesed3_intro_c4">……聽起來像模像樣，但實際上一點意思都沒有。</text>
+  <text id="chesed3_intro_c5">我也曾一度幹勁十足。那可是統率一個部門，多有意思的事情啊。</text>
+  <text id="chesed3_intro_c6">我甚至那時還不怎麼喜歡咖啡，</text>
+  <text id="chesed3_intro_c7">而後來我開始變得喜歡喝咖啡，可能是因為嘗到了人生的苦澀了吧，</text>
+  <text id="chesed3_intro_c8">又或是因為不想睡覺呢？當然，我們並不需要睡覺，但總得調節一下心情，對吧？</text>
+  <text id="chesed3_intro_c9">有次，我堅持要親自去管理異想體。</text>
+  <text id="chesed3_intro_c10">我覺得只有職員能被派往現場這種事簡直沒道理。</text>
+  <text id="chesed3_intro_c11">現在想想，真是荒謬可笑。</text>
+  <text id="chesed3_intro_c12">你問我，為什麼會變成現在這樣？</text>
+  <text id="chesed3_intro_c13">這又有誰知道呢？</text>
 
   <!-- 과거 회상 2-->
-  <text id="chesed3_intro_c14">Angela, 看看這個. 我花了整個晚上去研究提高員工福利效率的方式.</text>
-  <text id="chesed3_intro_a1">Chesed, 這是什麼? 我已經跟你說過這不會改變什麼了.</text>
-  <text id="chesed3_intro_c15">但, 拜託, 就看一眼吧. 數據證明這更有效甚至能降低成本. 這能幫助到每個人.</text>
-  <text id="chesed3_intro_a2">聽著 Chesed, 讓機器去代替員工這事永遠不會發生.</text>
-  <text id="chesed3_intro_c16">為什麼不會? 我跟你說過了, 這不會完全取代人類, 只有把機器用在那些比較危險的工作上.</text>
-  <text id="chesed3_intro_c17">很明顯的, 這能幫助到每個人. 這在對付那些異常的時候能降低傷亡.</text>
-  <text id="chesed3_intro_a3">不就是不. 回去你的崗位並完成你的工作.</text>
-  <text id="chesed3_intro_c18">我不會放棄的. 你最後會喜歡這個計畫的. 我會一直開發這個計畫並且一次又一次的拿給你看, 不管要花我多少時間.</text>
+  <text id="chesed3_intro_c14">安潔拉小姐，請看看這個關於為職員提供高效福利的方案，這可是我昨晚通宵研究出來的成果。</text>
+  <text id="chesed3_intro_a1">Chesed，你又寫了什麼？我不是說過嗎，你這樣做什麼都不會改變。</text>
+  <text id="chesed3_intro_c15">別這麼說，妳至少讀一下吧。這預算不高，而且其效果已經由統計學驗證，這肯定對大家都有好處。</text>
+  <text id="chesed3_intro_a2">Chesed，不論你再怎麼想，引進機器來替代職員的方案是永遠無法實現的。</text>
+  <text id="chesed3_intro_c16">為什麼不行？我之前也說過，並不是讓機器來做所有工作，而是讓機器去做那些職員去做可能會有生命危險的工作。</text>
+  <text id="chesed3_intro_c17">這肯定對大家都有好處，死於異想體的職員數量會因此減少。</text>
+  <text id="chesed3_intro_a3">不行就是不行。回去把剩下的工作給做完。</text>
+  <text id="chesed3_intro_c18">我不會放棄的，妳最後肯定會通過這個方案，對吧？我會在完善後再度提交，無論被拒絕多少次。</text>
   <!-- 과거 회상 2 끝-->
   
-  <text id="chesed3_intro_ta1">Chesed, 關於那個異常逃脫收容並且殺掉你 8 名員工的事件,</text>
-  <text id="chesed3_intro_ta2">有些員工提出了關閉那一部分的走廊的建議. 那裡仍然有些屍塊散落在四處.</text>
-  <text id="chesed3_intro_c19">好吧. 我會封鎖那裡並要他們繞過那裡的.</text>
-  <text id="chesed3_intro_c20">你聽說了嗎, 管理者? 我該走了, 我說過我是很忙的.</text>
-  <text id="chesed3_selection1">安慰他</text>
-  <text id="chesed3_selection2">什麼都不說</text>
-  <text id="chesed3_intro_c21">嘿, 別這樣看著我. 這事總會發生的.</text>
-  <text id="chesed3_intro_c22">那個異常在砸爛那些員工之前一定一塊一塊地把他們撕裂...</text>
-  <text id="chesed3_intro_c23">我很... 我很確定死亡的過程一定非常痛苦. </text>
+  <text id="chesed3_intro_ta1">Chesed，之前不是有異想體出逃，導致你們部門8名職員死亡的事情嗎？</text>
+  <text id="chesed3_intro_ta2">我收到了來自職員們的建議，可能需要暫時封鎖部分走廊，那裡好像還有些沒來得及回收的屍體，遍地散落。</text>
+  <text id="chesed3_intro_c19">嗯，我知道了。我會下令進行出入管制，讓職員們繞行。</text>
+  <text id="chesed3_intro_c20">主管您聽到了吧？我得走了。我不是說過了嗎，我挺忙的。</text>
+  <text id="chesed3_selection1">安慰他。</text>
+  <text id="chesed3_selection2">一言不發。</text>
+  <text id="chesed3_intro_c21">餵，別用那種眼神看我，這是總有一天會發生的事罷了。</text>
+  <text id="chesed3_intro_c22">如果是那個異想體的話，大部分職員肯定都在失去意識前被分解了。</text>
+  <text id="chesed3_intro_c23">嗯，對他們來說，應該算是毫無痛苦地結束了。</text>
 
  <!-- 에피소드 4-->
 
-  <text id="chesed4_intro_c1">所以你挺下來了.</text>
-  <text id="chesed4_intro_c2">今天是個爛日子, 有太多事情發生了.</text>
-  <text id="chesed4_intro_c3">每個人都明確地分配到了角色是很好的.</text>
-  <text id="chesed4_intro_c4">他們在專注自己的工作時不用去想太多.</text>
-  <text id="chesed4_intro_c5">Angela 非常擅長檢查每個人是否有在他們的角色上.</text>
-  <text id="chesed4_intro_c6">每當有人試著要離開他們的角色時,</text>
-  <text id="chesed4_intro_c7">她會變得毫無憐憫.</text>
-  <text id="chesed4_intro_c8">我學到我老早就被分配到一個角色上了.</text>
-  <text id="chesed4_intro_c9">不管喜不喜歡, 這已經決定好了.</text>
-  <text id="chesed4_intro_c10">所以我下定決心等待著.</text>
-  <text id="chesed4_intro_c11">等待著什麼, 你問問?</text>
-  <text id="chesed4_intro_c12">如果有開始, 就一定會有結束.</text>
-  <text id="chesed4_intro_c13">直到她的計畫結束.</text>
+  <text id="chesed4_intro_c1">看來你一直都做得很好的。</text>
+  <text id="chesed4_intro_c2">今天太累了，事情一件接一件地發生。</text>
+  <text id="chesed4_intro_c3">每個人都被賦予了明確的角色，這似乎也挺不錯的。</text>
+  <text id="chesed4_intro_c4">不需要深入思考，只需要忠於被賦予的任務就行了。</text>
+  <text id="chesed4_intro_c5">看來安潔拉小姐很擅長設計角色扮演遊戲。</text>
+  <text id="chesed4_intro_c6">而一旦有人試圖從那裡面邁出，哪怕只是一小步，</text>
+  <text id="chesed4_intro_c7">她就會毫不留情地變得殘忍。</text>
+  <text id="chesed4_intro_c8">後來我發現，原來我自己也有被賦予的角色。</text>
+  <text id="chesed4_intro_c9">不論我喜不喜歡，那都是已經決定好的事。</text>
+  <text id="chesed4_intro_c10">所以，我就決定等待了。</text>
+  <text id="chesed4_intro_c11">你問我在等什麼？</text>
+  <text id="chesed4_intro_c12">既然有開始，就應該會有結束的。</text>
+  <text id="chesed4_intro_c13">我要等到她計劃的這一切全部終結為止。</text>
   <!-- 과거 회상 3-->
-  <text id="chesed4_intro_c14">Angela, 這個文件上有個奇怪的地方.</text>
-  <text id="chesed4_intro_c15">這個紀錄顯示該收容單位的封鎖失效導致那個異常逃出收容,</text>
-  <text id="chesed4_intro_a1">….</text>
-  <text id="chesed4_intro_c16">但依我所知, 該收容單位的大門在當天是完好的, 沒有一絲故障的跡象.</text>
-  <text id="chesed4_intro_a2">….</text>
-  <text id="chesed4_intro_c17">而擁有該收容單位大門的權限的人只有你, Angela.</text>
-  <text id="chesed4_intro_c18">...</text>
-  <text id="chesed4_intro_c19">Angela, 告訴我. 為什麼你要這麼做? 你知道在我的部門下有多少員工死去嗎?</text>
-  <text id="chesed4_intro_a3">開朗的 Chesed, 我知道你遲早會發現的, 但是這比我預期的還要快.</text>
-  <text id="chesed4_intro_c20">你這是什麼意思? </text>
-  <text id="chesed4_intro_a4">感謝你這麼的努力, 這些日子以來你的部門擅離職守的機率降低了不少. 你是個了不起的 Sephirah, 我會這麼評價.</text>
-  <text id="chesed4_intro_a5">我不會告訴對每個人, 而且我也不需要, 但...</text>
-  <text id="chesed4_intro_a6">異常在殺死員工的時候會產出更多的能源.</text>
-  <text id="chesed4_intro_c21">怎麼可能...</text>
-  <text id="chesed4_intro_a7">你發布了幾個關於導入機械的報告, 對吧?</text>
-  <text id="chesed4_intro_a8">如果這些沒有靈魂, 粗糙的機械代替了員工的工作, 是的, 員工的傷亡率的確會降低. 但這也會大大地降低能源的產值.</text>
-  <text id="chesed4_intro_a9">Lobotomy 公司營運著龐大的生意, 這也包括了每天的能源供給額度, 城市的電力生產以及與其他翼的股東的生意. </text>
-  <text id="chesed4_intro_a10">我們在最有效率的方法上提煉能源和賺取利潤. 這是你唯一需要考慮到的事.</text>
-  <text id="chesed4_intro_c22">這真是.... 為什麼你這麼殘酷?</text>
-  <text id="chesed4_intro_a11">Chesed, 這些員工很幸運的能被聘僱到翼的下面. 每天都有許多人類為了這份工作爭破頭. </text>
-  <text id="chesed4_intro_a12">總會有新的員工能取代那些死去的人.</text>
-  <text id="chesed4_intro_a13">你有什麼權力讓你能剝奪他們幸運?</text>
-  <text id="chesed4_intro_c23">….</text>
-  <text id="chesed4_intro_a14">我知道你很聰明, Chesed. 但為何你不把你的智慧用在其他地方呢?</text>
-  <text id="chesed4_intro_c24">...</text>
-  <text id="chesed4_intro_a15">看來你還在震驚當中. 但我之前就警告過你了, 沒有什麼會改變. 你覺得我像在騙你嗎?</text>
-  <text id="chesed4_intro_c25">...</text>
-  <text id="chesed4_intro_a16">試著喝杯溫咖啡而不是在那浪費你的時間. 享受你的地位.</text>
-  <text id="chesed4_intro_a17">不要忘記我們的目標只有一個.</text>
-  <text id="chesed4_intro_a18">喔, 對了 Chesed?</text>
-  <text id="chesed4_intro_a19">在這個世界上我是最厲害的 AI. 我不會留下任何愚蠢的蹤跡.</text>
-  <text id="chesed4_intro_a20">所以, 你的小小偵探遊戲好玩嗎?</text>
+  <text id="chesed4_intro_c14">安潔拉小姐，我在審查檔案時發現了點奇怪的地方。</text>
+  <text id="chesed4_intro_c15">這天的記錄顯示，是收容單元的門鉸鏈故障才導致了異想體的出逃。</text>
+  <text id="chesed4_intro_a1">……</text>
+  <text id="chesed4_intro_c16">而據我所知，這天收容單元的門並沒有出現故障，也沒有任何跡象表明它會故障。</text>
+  <text id="chesed4_intro_a2">……</text>
+  <text id="chesed4_intro_c17">而且，擁有收容單元門管理權限的，就只有安潔拉你。</text>
+  <text id="chesed4_intro_c18">……</text>
+  <text id="chesed4_intro_c19">安潔拉，妳告訴我，妳到底為什麼要這麼做？妳知道這次事故讓我們損失了多少職員嗎？</text>
+  <text id="chesed4_intro_a3">Chesed，你真聰明。我早就知道你會很快發現，但沒想到比預想的早了點。</text>
+  <text id="chesed4_intro_c20">妳這是什麼意思？</text>
+  <text id="chesed4_intro_a4">由於你「出色」的努力，你們部門的異想體出逃率最近非常低。你是個有能力的Sephirah，這點我給予高度評價。</text>
+  <text id="chesed4_intro_a5">但有件事我沒告訴任何人，也沒必要說出來——</text>
+  <text id="chesed4_intro_a6">異想體透過殺人來生產更多的能源。</text>
+  <text id="chesed4_intro_c21">怎麼可能……</text>
+  <text id="chesed4_intro_a7">你之前不是多次提交內容為引進機器來替代職員的報告書嗎？</text>
+  <text id="chesed4_intro_a8">如果讓那些沒有靈魂的廉價機器代替職員工作——沒錯，就像你說的——職員的死亡率確實會下降。但這也意味著能源的生產率會嚴重下降。</text>
+  <text id="chesed4_intro_a9">腦葉公司進行的是一項龐大的事業。我們要做的，不僅是每日的能源供給配額，還有都市電力供給，以及與我們簽訂契約的其他翼。這期間各種利益關係錯綜複雜。</text>
+  <text id="chesed4_intro_a10">我們以最高效的方式精煉能源，並以此獲取利潤。你記住這一點就夠了。</text>
+  <text id="chesed4_intro_c22">如此荒謬……妳怎麼能如此殘忍？</text>
+  <text id="chesed4_intro_a11">Chesed，職員們能進入翼工作，就已經是天大的幸運了。每天都有無數人為了進入我們公司而展開激烈的競爭。</text>
+  <text id="chesed4_intro_a12">那些死掉的職員，就由那些新進的職員來填補。</text>
+  <text id="chesed4_intro_a13">你憑什麼要剝奪他們的幸運？</text>
+  <text id="chesed4_intro_c23">……</text>
+  <text id="chesed4_intro_a14">我知道你很聰明，Chesed。但你能不能把那份聰明用在別的地方？</text>
+  <text id="chesed4_intro_c24">……</text>
+  <text id="chesed4_intro_a15">看來你受了很大的打擊。但我之前警告過你：那不會改變任何事情。你以為我只是憑空說說的嗎？</text>
+  <text id="chesed4_intro_c25">……</text>
+  <text id="chesed4_intro_a16">你有那時間，還不如去喝杯熱咖啡。好好享受一下屬於你的、比職員們稍好一些的職位，如何？</text>
+  <text id="chesed4_intro_a17">別忘了，我們的目標只有一個。</text>
+  <text id="chesed4_intro_a18">啊對了，Chesed，還有——</text>
+  <text id="chesed4_intro_a19">我是這裡最優秀的AI。不會粗心到留下證據的。</text>
+  <text id="chesed4_intro_a20">好了，你的偵探遊戲，還玩得滿意嗎？</text>
   <!-- 과거 회상 3 끝-->
-  <text id="chesed4_intro_c26">你知道實際上我們並不像你看到的樣子嗎?</text>
-  <text id="chesed4_intro_c27">我曾想過我在你的眼中看起來像是什麼.</text>
-  <text id="chesed4_intro_c28">我很確定我看起來會是令人厭惡又無能為力的, 那個我以前討厭的版本.</text>
-
+  <text id="chesed4_intro_c26">你知道嗎？我們並不是以你看起來的樣子而存在的。</text>
+  <text id="chesed4_intro_c27">我很好奇，你眼裡的我是什麼樣子的？</text>
+  <text id="chesed4_intro_c28">如果是以前的我看到了，想必會很厭惡吧。一個可悲而又無能的傢伙。</text>
 
   <!-- 에피소드 5-->
-  <text id="chesed5_intro_c1">……….</text>
-  <text id="chesed5_intro_c2">很安靜, 不是嗎?</text>
-  <text id="chesed5_intro_c3">傾聽這片寧靜.</text>
-  <text id="chesed5_intro_c4">管理者, 你有早在清晨時醒來並走在街上過嗎?</text>
-  <text id="chesed5_intro_c5">拿外面的世界相比, 我想這個時候剛好就是凌晨吧.</text>
-  <text id="chesed5_intro_c6">在逆卡巴拉威赦的影響下, 那些異常在我們休息時沉眠著.</text>
-  <text id="chesed5_intro_c7">員工們也準備放棄他們那賭博般的命運.</text>
-  <text id="chesed5_intro_c8">當威赦被削弱時, 受到壓迫的它們也將被喚醒.</text>
-  <text id="chesed5_intro_c9">很難相信在這麼安靜的地方總是飛快地淹沒在混亂之中.</text>
-  <text id="chesed5_intro_c10">就讓它一直保持著寧靜該有多好?</text>
-  <text id="chesed5_intro_c11">我們還得接受多少次的失敗? 我們還得習慣什麼樣的黑暗, 才能在最後接觸到那絲光芒?</text>
-  <text id="chesed5_intro_e1">早安, Chesed.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c12">是的, 早安. 祝你今天萬事順利.</text>
-  <text id="chesed5_intro_e2">Chesed, 我想了一下, 被指派到福利小組的我是多麼的幸運.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_e3">為了加入 Lobotomy 我歷經了多麼激烈的競爭, 但是能夠進來這個部門真是太棒了.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c13">….. 我已經沒什麼東西能夠回報你了.</text>
-  <text id="chesed5_intro_e4">你或許覺得我是在巴結你.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_e5">但是這裡沒有其他人會跟你一樣去關心他們的員工, Chesed. 在這的每個人都知道其他部門是怎麼照顧他們的員工的.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c14">….不, 你錯了.</text>
-  <text id="chesed5_intro_e6">我只是想說我有多麼感激你. 抱歉耽誤你這麼久, 我現在就離開.</text>
-  <!-- 화자 : 직원-->
-  <text id="chesed5_intro_c15">是的, 去為了今天做好準備吧.</text>
-  <text id="chesed5_intro_c16">……..</text>
-  <text id="chesed5_intro_c17">多少日子以來, 我安慰我自己並沒有像其他的 Sephirah 這麼糟糕.</text>
-  <text id="chesed5_intro_c18">我不會讓我的員工置身在致命的情況之中, 而且我設法在一次又一次的行動中堅持了下來.</text>
-  <text id="chesed5_intro_c19">因為某些人違規而生氣, 或是向某人保證會讓這個地方變得更好,</text>
-  <text id="chesed5_intro_c20">我得退一步去想想...</text>
-  <text id="chesed5_intro_c21">這對我們來說又有什麼意義呢?</text>
-  <text id="chesed5_intro_c22">我想安全的分派他們, 因為無論如何他們都會死.</text>
-  <text id="chesed5_intro_c23">我將在這裡最大的謊言深深地隱埋住,</text>
-  <text id="chesed5_intro_c24">但我還是一直演著好組長的角色, 雖然知道一切都是謊言.</text>
-  <text id="chesed5_intro_c25">Angela 也知道.</text>
-  <text id="chesed5_intro_c26">我永遠當不了揭發這個地方的祕密的人, 並且試圖去改變這個體系.</text>
-  <text id="chesed5_intro_c27">我的意思是,</text>
-  <text id="chesed5_intro_c28">我只是不想去違抗她.</text>
-  <text id="chesed5_intro_c29">就算在福利部門裡, 我也沒辦法去在乎員工們的福利.</text>
-  <text id="chesed5_intro_c30">我很害怕.</text>
-  <text id="chesed5_intro_c31">Angela 不斷的讓員工們死去停止了懷疑及質詢.</text>
-  <text id="chesed5_intro_c32">所以我開始去幫助 Angela,</text>
-  <text id="chesed5_intro_c33">並遮住我的雙眼...</text>
+  <text id="chesed5_intro_c1">……</text>
+  <text id="chesed5_intro_c2">安靜吧？</text>
+  <text id="chesed5_intro_c3">好好看看，這片寂靜。</text>
+  <text id="chesed5_intro_c4">主管，您有過很早就醒來，在黎明時分的街道上散步的經歷嗎？</text>
+  <text id="chesed5_intro_c5">如果把這一刻比作外面世界的一天，那大概就是黎明時分吧。</text>
+  <text id="chesed5_intro_c6">非管理時段的異想體們，因逆卡巴拉抑制力而陷入休眠。</text>
+  <text id="chesed5_intro_c7">而職員們正準備將自己的身體託付給賭博般的命運。</text>
+  <text id="chesed5_intro_c8">一旦抑制力有所減弱，那股被壓抑的根源之力就會喚醒牠們。</text>
+  <text id="chesed5_intro_c9">我總是難以置信，這麼安靜的地方，馬上就要變成一片混亂。</text>
+  <text id="chesed5_intro_c10">如果此刻的寧靜能持續下去，該有多好啊……</text>
+  <text id="chesed5_intro_c11">我們還要崩潰多少次，還要對黑暗有多熟悉，才能看到光？</text>
+  <text id="chesed5_intro_e1">Chesed先生，早上好。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_c12">嗯，早安~今天也要辛苦你了~</text>
+  <text id="chesed5_intro_e2">Chesed先生，我一直都這麼想著：能夠進入福利部，是我為數不多的幸運之一。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_e3">光是進入公司的競爭就已經夠激烈的了，但能進入這個部門，也是件了不起的事。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_c13">……你奉承我也得不到任何好處。</text>
+  <text id="chesed5_intro_e4">您可以當作是奉承。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_e5">但是這裡沒有其他人會跟你一樣去關心他們的職員，Chesed。只要知道隔壁部門是如何運轉的，誰都知道。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_c14">……不，也不全是。</text>
+  <text id="chesed5_intro_e6">我只是想表達我一直以來的感激之情。抱歉耽誤您時間了，我得先走了。</text> <!-- 화자 : 직원-->
+  <text id="chesed5_intro_c15">嗯，你也快去準備吧~</text>
+  <text id="chesed5_intro_c16">……</text>
+  <text id="chesed5_intro_c17">我常安慰自己，我還算是個不錯的Sephirah。</text>
+  <text id="chesed5_intro_c18">不像某些人那樣把職員逼入絕境，總是會根據情況適當地放他們一馬。</text>
+  <text id="chesed5_intro_c19">無論是對稍微違反紀律的人訓斥幾句，還是對新人登場後承諾打造更佳環境而隨聲附和——</text>
+  <text id="chesed5_intro_c20">退一步旁觀的話，我就會這麼想：</text>
+  <text id="chesed5_intro_c21">這有什麼意義呢？</text>
+  <text id="chesed5_intro_c22">我只是想讓那些終將死去的他們，能在死前稍微舒服點罷了。</text>
+  <text id="chesed5_intro_c23">但實際上，我隱藏了一個最大的謊言。</text>
+  <text id="chesed5_intro_c24">我假扮著他們的好領導，演著那虛偽的戲。</text>
+  <text id="chesed5_intro_c25">安潔拉小姐也知道，</text>
+  <text id="chesed5_intro_c26">知道我成不了那種能向職員坦白一切、將這裡攪得天翻地覆的偉人。</text>
+  <text id="chesed5_intro_c27">我呢，</text>
+  <text id="chesed5_intro_c28">並不想太忤逆她。</text>
+  <text id="chesed5_intro_c29">雖然說是福利部，但其實對職員的福利這種事，我連那麼微不足道的關心都沒有。</text>
+  <text id="chesed5_intro_c30">可能是我害怕吧。</text>
+  <text id="chesed5_intro_c31">當我對這裡的疑問以及對這裡的質問不斷增多時，安潔拉小姐就會用職員的死亡來作為回答。</text>
+  <text id="chesed5_intro_c32">所以，我在安潔拉小姐的手掌心裡，被蒙住眼睛，被捂住耳朵，</text>
+  <text id="chesed5_intro_c33">只能這麼協助著她……</text>
   <!-- 게부라 등장-->
-  <text id="chesed5_intro_g1">嘿, 我們遇到緊急狀況了. 你聽過情形回報了嗎? 異常們失去控制了.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g2">我不知道發生了什麼事, 但是我們現在就得奪回對局勢的掌控.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_c34">…. 我覺得你並不想跟我說話, Geburah.</text>
-  <text id="chesed5_intro_g3">….. 你能控制那些威赦, 能嗎?</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g4">我們現在得增強逆卡巴的威赦.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g5">如果我不能搞定其餘的異常, Angela 會呼叫那些兔子的.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g6">我想完成我自己的那部份.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_c35">....可是 Geburah, 你知道的. 在沒有 Angela 的允許下, 沒有人可以觸碰逆卡巴拉控制器.</text>
-  <text id="chesed5_intro_g7">所以你不想這麼做.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g8">你這個懦夫, 你真的以為你在這種情況下能走過去結束它嗎?</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g9">我希望你能受苦到死, 被你的恐懼壓死.</text>
-  <!-- 화자 : 게부라-->
-  <text id="chesed5_intro_g10">活在你那些員工的甜言蜜語下.</text>
-  <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g1">喂，緊急情況，你收到了吧？異想體失控了。</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g2">不知道是什麼問題導致的，但我們必須馬上控制住局勢。</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_c34">……妳平時不是連話都不想跟我說的嗎，Gebura，你今天這是怎麼了？</text>
+  <text id="chesed5_intro_g3">……你那邊不是能調節抑制力嗎？</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g4">你必須調高逆卡巴拉抑制力。</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g5">如果連剩下的異想體也無法鎮壓的話，安潔拉小姐恐怕會呼叫兔子小隊。</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g6">無論如何，我想把這事在我這邊做個了結。</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_c35">……但Gebura，妳也知道。沒有安潔拉小姐的權限，我不能擅自啟動逆卡巴拉調節器。</text>
+  <text id="chesed5_intro_g7">結果就是你不想做嗎？</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g8">膽小鬼，你是不是覺得每次都蒙混過關就完事了？</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g9">你就一輩子卑躬屈膝地屈服於恐懼，等著爛完吧！</text> <!-- 화자 : 게부라-->
+  <text id="chesed5_intro_g10">一輩子就活在職員的甜言蜜語裡滿足吧你！</text> <!-- 화자 : 게부라-->
   <!-- 게부라 퇴장-->
-  <text id="chesed5_intro_c36">....對我來說被拉著衣領真是全新的感受.</text>
+  <text id="chesed5_intro_c36">……好久沒被揪住領子挨罵了。</text>
   <!-- 앤젤라 등장-->
-  <text id="chesed5_intro_a1">Chesed.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c37">….........</text>
-  <text id="chesed5_intro_a2">你知道我正要過來, 對吧? 你太了解我了.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a3">或許你在所有的 Sephirah 當中是最了解我的.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a4">削弱逆卡巴拉的威赦.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c38">這次你在袖子裡藏了什麼?</text>
-  <text id="chesed5_intro_a5">你想再次知道原因嗎? 在這些事情之後?</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c39">...你知道 Geburah 跟其他的員工或許還在戰鬥嗎?</text>
-  <text id="chesed5_intro_a6">Geburah 還在,</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a7">抱歉, 這還真是可笑. 我不知道你還會跟 Geburah 交談.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a8">她一直在你的身邊, 所以我覺得你是了解她的.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a9">Geburah 控制不了她的憤怒, 而且還迷失了自己的方向.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a10">我說的是, 這並不是戰鬥的最佳方式.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_c40">或許她比別人還了解她自己的情況.</text>
-  <text id="chesed5_intro_c41">在這裡每個人都有他自己的戰鬥,</text>
-  <text id="chesed5_intro_c42">但是我覺得我是唯一一個在這裡看著這些情況的.</text>
-  <text id="chesed5_intro_a11">Chesed, 我想你會喜歡的. 不是嗎?</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a12">喝杯咖啡, 在你的古典樂中享受這和平日子吧.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a13">我想我正在向你證明這就是你想要的環境.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a14">我的說詞對你來說太冗長了嗎?</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a15">讓我再說一次.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed5_intro_a16">給我把威赦降低.</text>
-  <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a1">Chesed。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_c37">……</text>
+  <text id="chesed5_intro_a2">你猜到我會來吧？畢竟你可是很了解我的。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a3">也許在Sephiroth中，最理解我意圖的就是你了。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a4">把逆卡巴拉抑制力再調低些。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_c38">又是妳的陰謀詭計嗎？</text>
+  <text id="chesed5_intro_a5">你又開始好奇原因了？為什麼偏偏是現在？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_c39">……Gebura和她的那些職員們現在還在戰鬥，妳知道吧？</text>
+  <text id="chesed5_intro_a6">Gebura？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a7">對不起，有點可笑。我沒想到你會提起Gebura。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a8">你在旁觀著，應該也很清楚吧？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a9">Gebura只是無法控制自己的憎恨和理智罷了，</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a10">她並非是出於什麼宏大的理念才投身戰鬥的。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_c40">她的狀態，她自己最清楚。</text>
+  <text id="chesed5_intro_c41">每個人都在進行自己的戰鬥，</text>
+  <text id="chesed5_intro_c42">但我卻開始覺得，從很久以前開始，就只有我自己一人在袖手旁觀。</text>
+  <text id="chesed5_intro_a11">你不是喜歡那樣嗎，Chesed？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a12">喝著咖啡，聽著高雅的音樂，享受著和平的一天。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a13">我以為我為你塑造了你想要的環境了呢？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a14">話有點長了。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a15">我再說一遍：</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed5_intro_a16">調低抑制力。</text> <!-- 화자 : 앤젤라-->
   <!-- 장면 전환 (과거 회상)-->
-  <text id="chesed5_intro_c431">姆... 這咖啡真香.....</text>
-  <text id="chesed5_intro_b1">請開門.</text>
-  <!-- 화자 : 비나-->
-  <text id="chesed5_intro_c43">你是誰?</text>
-  <text id="chesed5_intro_b2">你對音樂的品味挺挑剔的, 我猜?</text>
-  <text id="chesed5_intro_b3">雖然對我來說挺難接受的.</text>
-  <text id="chesed5_intro_c44">搞什麼… …….</text>
-  <text id="chesed5_intro_b4">抱歉, 我想你並不會為我開門, 所以我只好自己進來了.</text>
-  <text id="chesed5_intro_c45">你怎麼進來的? 我認識你嗎...?</text>
-  <text id="chesed5_intro_b5">我來自大腦, 而且我拼了命的在找你.</text>
-  <text id="chesed5_intro_b6">我來到這裡的原因是...</text>
-  <text id="chesed5_intro_b7">這麼說吧, 我將為你演奏你最喜歡的音樂.</text>
-  <text id="chesed5_intro_b8">嘿, 能為我介紹一下這位先生是誰嗎?</text>
-  <text id="chesed5_intro_e7">Daniel... 他的名字是 Daniel.</text>
-  <!-- 화자 : 직원 -->
-  <text id="chesed5_intro_b9">Daniel 是嗎... 這個名字比你還要來得有價值.</text>
-  <text id="chesed5_intro_b10">我猜這個地方是你在負責的.</text>
-  <text id="chesed5_intro_b11">打開鎖住那些怪物的區域.</text>
-  <text id="chesed5_intro_b12">就像你之前看到的, 打開任何鎖上的門對我的力量來說算不了什麼.</text>
-  <text id="chesed5_intro_b13">我盡量表現我的禮貌, 請求你這麼做, 既然負責這個地方的人是你.</text>
-  <text id="chesed5_intro_b14">不要抵抗, 照我說的去做. 如果你願意...</text>
-  <text id="chesed5_intro_b15">或許某些人還來得及逃跑, 你覺得呢?</text>
-  <text id="chesed5_intro_c46">指認背叛者非常的容易.</text>
-  <text id="chesed5_intro_c47">但除非你從別人的角度來看, 否則你永遠不會知道.</text>
-  <text id="chesed5_intro_c48">一陣寒顫掃過我的全身, 一股我從來沒感受過得恐懼.</text>
-  <text id="chesed5_intro_c49">我見過許多實驗性的異常, 但我的身體從來沒有感到如此麻痺以及血液如此凝固.</text>
-  <text id="chesed5_intro_c50">而這就是, ‘頭領.’</text>
+  <text id="chesed5_intro_c431">嗯，大家今天也……</text>
+  <text id="chesed5_intro_b1">開門。</text> <!-- 화자 : 비나-->
+  <text id="chesed5_intro_c43">妳哪位？</text>
+  <text id="chesed5_intro_b2">音樂品味挺高雅的嘛？</text>
+  <text id="chesed5_intro_b3">不過好像不合我意。</text>
+  <text id="chesed5_intro_c44">搞什麼……</text>
+  <text id="chesed5_intro_b4">抱歉，看你好像沒打算開門，我就自己直接進來了。</text>
+  <text id="chesed5_intro_c45">妳是怎麼進來的？妳到底是誰……</text>
+  <text id="chesed5_intro_b5">我來自首腦，正苦苦地尋找你們。</text>
+  <text id="chesed5_intro_b6">至於我踏足此地的理由……</text>
+  <text id="chesed5_intro_b7">就當是我來放我喜歡的音樂吧？</text>
+  <text id="chesed5_intro_b8">那邊那位，能告訴我這位紳士的名字嗎？</text>
+  <text id="chesed5_intro_e7">但以理……他叫但以理……</text> <!-- 화자 : 직원 -->
+  <text id="chesed5_intro_b9">但以理？好一個名不副實的名字。</text>
+  <text id="chesed5_intro_b10">看來你就是控制這裡的人了。</text>
+  <text id="chesed5_intro_b11">把那些關押著來歷不明的怪物的區域給開了。</text>
+  <text id="chesed5_intro_b12">如你所見，靠我自己的力量開門這種事，根本不值一提。</text>
+  <text id="chesed5_intro_b13">不過既然你是這裡的負責人，那這種事還是想託付給你。</text>
+  <text id="chesed5_intro_b14">乖乖照我說的做。如果你照辦的話……</text>
+  <text id="chesed5_intro_b15">這裡的人們說不定還能有逃跑的機會呢？</text>
+  <text id="chesed5_intro_c46">口頭指責別人是叛徒很容易。</text>
+  <text id="chesed5_intro_c47">但要是沒有親身經歷，誰也不會明白。</text>
+  <text id="chesed5_intro_c48">連腳尖都在顫抖的寒意，至今從未感受過的恐懼</text>
+  <text id="chesed5_intro_c49">即使面對過無數實驗用的異想體，雖然會感到害怕，但身體從未僵硬到動彈不得。</text>
+  <text id="chesed5_intro_c50">原來，這就是「首腦」啊。</text>
   <!-- 장면 전환 (현재, 관리자와의 대화)-->
-  <text id="chesed5_intro_c51">管理者, 你無法在命令我了.</text>
-  <text id="chesed5_intro_c52">不要為我的懦弱而辯護.</text>
-  <text id="chesed5_intro_c53">我以在那失敗的道路上安慰著我自己, 想著我什麼都做不了為恥.</text>
-  <text id="chesed5_intro_c54">我對自己感到非常羞愧, 我再也受不了了...</text>
+  <text id="chesed5_intro_c51">主管，別命令我。</text>
+  <text id="chesed5_intro_c52">別再試圖為我的懦弱行為找藉口了。</text>
+  <text id="chesed5_intro_c53">穿過名為失敗的隧道後，連用「沒辦法」來安慰自己都覺得羞愧。</text>
+  <text id="chesed5_intro_c54">羞愧到難以忍受……</text>
 
-  <text id="chesed5_intro_c55">我的身體不斷讓我想起我的過去來懲罰我. 我甚至不能讓這個身體流血.</text>
-  <text id="chesed5_intro_c56">我不想成為只能夠去做著 Angela 骯髒工作的傀儡,</text>
-  <text id="chesed5_intro_c57">我也不想成為你的幫手卻什麼都做不了,</text>
-  <text id="chesed5_intro_c58">但可悲的是, 這一切都是我的謊言.</text>
-  <text id="chesed5_intro_c59">管理者, 這是我對你跟 Angela 的反抗.</text>
+  <text id="chesed5_intro_c55">這具被設計成連像樣的血都流不出的身體，就像是要讓我身上永遠刻著那名為過去的烙印。</text>
+  <text id="chesed5_intro_c56">我不想再這麼下去了。無論是繼續替安潔拉做那些骯髒的事，還是扮演那個受眾人喝彩的木偶，</text>
+  <text id="chesed5_intro_c57">又或是扮演什麼都做不了、只能協助你的助手——</text>
+  <text id="chesed5_intro_c58">對我來說，這全都是無盡的羞愧罷了。</text>
+  <text id="chesed5_intro_c59">主管，這是我對你和安潔拉發起的反叛。</text>
   <!-- 장면 전환 (과거)-->
-  <text id="chesed5_intro_c60">“我是唯一倖存的人...”</text>
-  <text id="chesed5_intro_c61">“我什麼都做不了. 我太害怕去獨自承受了. 我想在這裡拯救我的人...”</text>
-  <text id="chesed5_intro_c62">“一切都是無意的藉口...”</text>
-  <text id="chesed5_intro_c63">“我想我很快就要死了...”</text>
-  <text id="chesed5_intro_c64">“頭領朝著這邊來了...”</text>
-  <text id="chesed5_intro_c65">“............”</text>
-  <text id="chesed5_intro_c66">“我們地獄中見...A...”</text>
+  <text id="chesed5_intro_c60">「只有我一人活了下來……」</text>
+  <text id="chesed5_intro_c61">「無論是迫不得已，還是因為獨自承擔太害怕，還是想至少讓我的那些同事們活下去……」</text>
+  <text id="chesed5_intro_c62">「那全是些無意義的辯解吧……」</text>
+  <text id="chesed5_intro_c63">「恐怕我也快死了……」</text>
+  <text id="chesed5_intro_c64">「首腦正在前往你那裡……」</text>
+  <text id="chesed5_intro_c65">「……」</text>
+  <text id="chesed5_intro_c66">「A，我們地獄裡再見。」</text>
 
   <!-- 화자 계속 A-->
-  <text id="chesed5_intro_A1">恐懼如何支配人類的內心?</text>
-  <text id="chesed5_intro_A2">在與他們的惡夢面對面時, 有多少人能夠堅信他們的信仰?</text>
-  <text id="chesed5_intro_A3">所以, 沒有人可以責怪他們魯莽的行為.</text>
-  <text id="chesed5_intro_A4">自從頭領發現這裡後, 所有的一切開始從懸崖上墜落. 這就是事情的經過.</text>
-  <text id="chesed5_selection1">掛斷對講機</text>
+  <text id="chesed5_intro_A1">恐懼是如何支配人心的？</text>
+  <text id="chesed5_intro_A2">在那噩夢面前，究竟有多少人能保持信念？</text>
+  <text id="chesed5_intro_A3">因此，我不能輕易譴責他的行為。</text>
+  <text id="chesed5_intro_A4">事實上，自從首腦找到這裡的那一刻起，一切就已經在墜向懸崖了。</text>
+  <text id="chesed5_selection1">掛斷對講機。</text>
   <!-- 선택지-->
-  <text id="chesed5_selection2">掛斷對講機</text>
+  <text id="chesed5_selection2">掛斷對講機。</text>
   <!-- 선택지-->
-  <text id="chesed5_selection3">掛斷對講機</text>
+  <text id="chesed5_selection3">掛斷對講機。</text>
   <!-- 선택지-->
 
-  <text id="chesed5_intro_A5">我們上次的對話在絕望的沉默中結束了.</text>
-  <text id="chesed5_intro_A6">Daniel, 有著清晰的腦袋以及極高的社經地位, 在實驗室中比誰都還要懂得與人相處.</text>
-  <text id="chesed5_intro_A7">他迷人的笑容以及幽默感讓他在身邊的人當中有著極高的名聲.</text>
-  <text id="chesed5_intro_A8">而他的技術以及性格能讓他輕易的進入翼之中.</text>
-  <text id="chesed5_intro_A9">但他選擇了我們, 而不是翼.</text>
-  <text id="chesed5_intro_A10">曾經的他是多麼厲害, 他一定在那絕望以及悔恨之中死去, 並咒罵著他的選擇.</text>
-  <text id="chesed5_intro_A11">看著他的同事在他的面前不斷地死去,</text>
-  <text id="chesed5_intro_A12">就算知道這一切都不是他的錯, 也沒辦法得到一絲慰藉,</text>
-  <text id="chesed5_intro_A13">並覺得自己並不值得一點安寧...</text>
+  <text id="chesed5_intro_A5">我們的對話以絕望的沉默告終。</text>
+  <text id="chesed5_intro_A6">擁有敏銳的頭腦和高社會地位的但以理，是研究員中最有社交手段的人。</text>
+  <text id="chesed5_intro_A7">他憑藉圓滑的笑容和特有的隨和，總是獲得周圍人的好評。</text>
+  <text id="chesed5_intro_A8">以他的能力和人品，本可以輕鬆進入一家世界之翼。</text>
+  <text id="chesed5_intro_A9">但他卻選擇了我們，而不是翼。</text>
+  <text id="chesed5_intro_A10">曾經如此了不起的他，一定是在詛咒著自己的選擇，在絕望和後悔中死去的吧。</text>
+  <text id="chesed5_intro_A11">他只能凝視著眼前所散落的同事們的屍體，</text>
+  <text id="chesed5_intro_A12">他既得不到一句「不是你的錯，沒關係」的安慰，</text>
+  <text id="chesed5_intro_A13">又得不到任何的安息……</text>
 
-
-
-
-
-
+  
+  
+  
+  
+  
   <!-- 에피소드 6-->
   <!-- 과거 모습-->
-  <text id="chesed6_intro_c1">我的天,</text>
-  <text id="chesed6_intro_c2">這裡的人在早上都不喝咖啡的嗎?</text>
-  <text id="chesed6_intro_c3">除了喝上一杯新鮮的咖啡外, 沒有更好的方法能夠讓一天開始了.</text>
-  <text id="chesed6_intro_c4">你臉上的表情是怎麼了?</text>
-  <text id="chesed6_intro_c5">你沒預料到我會來到這裡, 對吧?</text>
-  <text id="chesed6_intro_c6">真是失望啊. 我沒有期待會有個大大的歡迎派對, 但我想不到的是你們這些傢伙竟然這麼無情.</text>
-  <text id="chesed6_intro_c7">嗯, 我當然明白.</text>
-  <text id="chesed6_intro_c8">像我這樣有如此能力的人來幫助這麼弱小的公司真的有意義嗎?</text>
-  <text id="chesed6_intro_c9">嗯, 每個人都有他的價值...</text>
-  <text id="chesed6_intro_c10">………….</text>
-  <text id="chesed6_intro_c11">啊, 你就是 A.</text>
-  <text id="chesed6_intro_c12">我想 Carmen 曾經提到你過.</text>
-  <text id="chesed6_intro_c13">...沒錯, 實際上, 帶我來這裡的就是 Carmen 的演講.</text>
-  <text id="chesed6_intro_c14">她在哪裡呢?</text>
-  <text id="chesed6_intro_ca1">就在這裡, 你這咖啡鬼.</text>
-  <!-- 화자 : 카르멘-->
-  <text id="chesed6_intro_c15">這位是 Daniel...</text>
-  <text id="chesed6_intro_ca2">你能坐在這邊. 坐在你旁邊的員工會跟你說明你的工作.</text>
-  <text id="chesed6_intro_c16">什麼, 你知道我會來這?</text>
-  <text id="chesed6_intro_ca3">跟你說過了. 不管你有多厲害, 你仍逃不過我的手掌心.</text>
-  <text id="chesed6_intro_c17">我還以為你只是在諷刺我.</text>
-  <text id="chesed6_intro_c18">我有個條件, 可以嗎?</text>
-  <text id="chesed6_intro_c19">我們能在這裡擺台咖啡機嗎?</text>
-  <text id="chesed6_intro_c20">我想讓大家都知道煮過得咖啡有多麼美好.</text>
-  <text id="chesed6_intro_A1">Daniel 以他花俏的穿著吸引了大家的目光, 在這裡非常的格格不入.</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A2">我想 Carmen 幾天前就跟我說過了.</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A3">有個精英會來支援我們的公司.</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A4">他有些浮誇, 所以不要相信他所說的一切.</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A5">我向她問到怎麼會認識這麼一位高位的人. Carmen 隨意的回答, 就好像我問了一個旁枝末節的問題.</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A6">‘我很擅長讓大家印象深刻.’</text>
-  <!-- 화자 : A-->
-  <text id="chesed6_intro_A7">‘我還以為你很了解我.’</text>
-  <!-- 화자 : A-->
+  <text id="chesed6_intro_c1">怎麼會這樣呢？</text>
+  <text id="chesed6_intro_c2">這裡的人早上都不喝咖啡的嗎？</text>
+  <text id="chesed6_intro_c3">在一天開始之前，沒有什麼比一杯香濃的咖啡更好的能量來源了~</text>
+  <text id="chesed6_intro_c4">大家那眼神是怎麼回事？</text>
+  <text id="chesed6_intro_c5">難道是不知道我要來嗎？</text>
+  <text id="chesed6_intro_c6">真失望~我本來就沒指望過盛大的款待什麼的，但我沒想到竟然會這麼冷清。</text>
+  <text id="chesed6_intro_c7">啊，算了吧，這可以理解。</text>
+  <text id="chesed6_intro_c8">像我這樣厲害的人物，竟然申請加入這種寒酸的公司，怎麼看都可疑，也說不通，對吧？</text>
+  <text id="chesed6_intro_c9">嗯，每個人都有自己的價值觀嘛……</text>
+  <text id="chesed6_intro_c10">……</text>
+  <text id="chesed6_intro_c11">啊，你就是A嗎？</text>
+  <text id="chesed6_intro_c12">卡門好像也提起過你。</text>
+  <text id="chesed6_intro_c13">……沒錯，其實呢，我是聽了卡門的演講才來的。</text>
+  <text id="chesed6_intro_c14">她現在在哪裡？</text>
+  <text id="chesed6_intro_ca1">你來了啊，咖啡成癮者。</text> <!-- 화자 : 카르멘-->
+  <text id="chesed6_intro_c15">我叫但以理……</text>
+  <text id="chesed6_intro_ca2">座位在這邊。關於工作的詳細說明，就由坐在你旁邊的這位負責。</text>
+  <text id="chesed6_intro_c16">什麼嘛，妳知道我要來？</text>
+  <text id="chesed6_intro_ca3">我不是說過了吧，不管你多厲害，你都在我的手掌心裡。</text>
+  <text id="chesed6_intro_c17">妳那句話，我還以為是為了諷刺我愛炫耀呢……</text>
+  <text id="chesed6_intro_c18">我有個條件，妳能答應嗎？</text>
+  <text id="chesed6_intro_c19">這裡能引進一台咖啡機嗎？</text>
+  <text id="chesed6_intro_c20">我要讓所有人都知道，親手沖泡的咖啡有多美味。</text>
+  <text id="chesed6_intro_A1">穿著與此地格格不入的高級西裝登場的但以理，吸引了所有人的目光。</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A2">我感覺卡門在幾天前好像提起過。</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A3">說是很快會有一位頂尖精英來我們公司應聘，</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A4">她又說：「不過，他有點愛炫耀，說話得過濾掉一部分。」</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A5">當我問她是怎麼招攬到這樣的精英時，卡門一副有什麼好問的樣子，輕描淡寫地說道：</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A6">「我不是本來就擅長打動人心嗎？」</text> <!-- 화자 : A-->
+  <text id="chesed6_intro_A7">「你應該很清楚吧。」</text> <!-- 화자 : A-->
   <!-- 장면 전환 (현재, 관자와의 대화)-->
 
-  <text id="chesed6_intro_c21">不用透過揮舞旗幟或是揮灑熱血也能革命, 管理者.</text>
-  <text id="chesed6_intro_c22">很久以來我一直在等著我的救世主.</text>
-  <text id="chesed6_intro_c23">那位將我的枷鎖打破, 並喚醒我的人.</text>
-  <text id="chesed6_intro_c24">為什麼我沒想過成為別人的救星呢?</text>
-  <text id="chesed6_intro_c25">你會記得我的過錯嗎?</text>
-  <text id="chesed6_intro_c26">我學到了很有價值的東西.</text>
+  <text id="chesed6_intro_c21">主管，完成革命並不一定要揮舞旗幟、揮灑熱血。</text>
+  <text id="chesed6_intro_c22">我從很久以前就在等待救贖者。</text>
+  <text id="chesed6_intro_c23">一個能打破僵化的積習，並將我從其中喚醒的人。</text>
+  <text id="chesed6_intro_c24">而我為什麼就沒想過，自己也可以成為救贖者呢？</text>
+  <text id="chesed6_intro_c25">我能記住這次失敗嗎？</text>
+  <text id="chesed6_intro_c26">這對我來說太珍貴了。</text>
   <!-- 앤젤라 등장-->
-  <text id="chesed6_intro_a1">我希望你那可悲的 “反抗” 能教會你幾件事.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a2">你還是不知道我沒有阻止你的原因嗎?</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a3">我說的是我只是看著你, 而沒有把你像 Tipereth 那樣給關掉的真正原因.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a4">我想在你的身上刻下幾件事. 我希望你能從你的抵抗當中學會某些事, 在你不斷的消耗下, 那些員工直到最後對你仍深信不疑.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a5">我了解那個詞, ‘死亡’ 對現在的你來說或許什麼都不是, 但是對他們而言, 那就是一切.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c27">你表現得很奇怪, Angela.</text>
-  <text id="chesed6_intro_c28">你從什麼時候開始關心那些員工的死亡了?</text>
-  <text id="chesed6_intro_c29">你在乎的只有提高那些收容單位的能源產出.</text>
-  <text id="chesed6_intro_c30">我只是在回應你的要求下幫助你而已.……….</text>
-  <text id="chesed6_intro_c31">不要以為現在發生的事情會讓我失去一切.</text>
-  <text id="chesed6_intro_c32">我知道你沒有在意過我們的狀況.</text>
-  <text id="chesed6_intro_c33">我甚至不該追隨你.</text>
-  <text id="chesed6_intro_a6">Chesed, 你該追隨的當然是管理者而不是我. 你沒有必要來提醒我這點..</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c34">你知道我的意思. 我不會再讓你為所欲為了.</text>
-  <text id="chesed6_intro_a7">你是個失敗者, 不管在任何時候.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_c35">是, 我是個失敗者. 不用你來提醒我.</text>
-  <text id="chesed6_intro_c36">或許你想要相信這裡的一切並沒有改變,</text>
-  <text id="chesed6_intro_c37">但事實上, 很多東西都變了.</text>
-  <text id="chesed6_intro_a8">我們需要靠你來挽救這個情況, Chesed.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a9">讓我們之間的不愉快都過去吧.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a10">但我得讓你知道.</text>
-  <!-- 화자 : 앤젤라-->
-  <text id="chesed6_intro_a11">不管你有多厲害, 你仍逃不過我的手掌心.</text>
-  <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a1">如果你那以慘淡收場的「反叛」，能給你帶來些許慰藉就好了。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a2">但你知道我為什麼不阻止你，任你胡來嗎？</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a3">我不像對待Tiphereth那樣，沒有切斷電源，只是靜靜旁觀的原因——</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a4">就是希望你能好好記住，烙印在你那堆廢鐵上——那些因你無謂的反叛而迎來死亡、曾相信著你的可憐的職員們。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a5">儘管對現在的你來說，「死亡」這個詞已無意義，但對他們而言並非如此。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_c27">真奇怪呢，安潔拉小姐。</text>
+  <text id="chesed6_intro_c28">妳什麼時候開始在乎職員的死活了？</text>
+  <text id="chesed6_intro_c29">妳不就是那種為了能源而強行打開收容單元的人嗎？</text>
+  <text id="chesed6_intro_c30">我只是在協助那樣的您，笨拙地附和罷了……</text>
+  <text id="chesed6_intro_c31">請不要認為只有我在這次事件中遭受了損失。</text>
+  <text id="chesed6_intro_c32">我知道了。妳對我們的狀態其實並不像看上去那麼在意。</text>
+  <text id="chesed6_intro_c33">以及，我該服從的對象，並不是你。</text>
+  <text id="chesed6_intro_a6">你該服從的對象不是我，而是主管，這是理所當然的，Chesed。不必你特意說出口……</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_c34">妳明白我的意思。我不會再讓妳為所欲為了。</text>
+  <text id="chesed6_intro_a7">無論是過去還是現在，你都是個失敗者。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_c35">是的，我失敗了。即使妳不點出來，我也知道。</text>
+  <text id="chesed6_intro_c36">妳可能願意相信一切都沒變，</text>
+  <text id="chesed6_intro_c37">但實際上，很多東西正在發生變化。</text>
+  <text id="chesed6_intro_a8">你要收拾的爛攤子可不少呢，Chesed。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a9">這種無謂的怨氣就到此為止吧。</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a10">希望你能明白這一點：</text> <!-- 화자 : 앤젤라-->
+  <text id="chesed6_intro_a11">不管你多厲害，你都在我的手掌心裡。</text> <!-- 화자 : 앤젤라-->
   <!-- 앤젤라 퇴장-->
-  <text id="chesed6_intro_c38">我還是很害怕, 管理者.</text>
-  <text id="chesed6_intro_c39">我還是不確定在未來當我面對我的恐懼時我能對抗它.</text>
-  <text id="chesed6_intro_c40">不過我決定不再逃跑了..</text>
-  <text id="chesed6_intro_c41">所以, 你有什麼命令要給我的嗎?</text>
-  <text id="chesed6_intro_c42">我會成為你所有的 Sephirah 中最稱職的那位.</text>
-
+  <text id="chesed6_intro_c38">主管，我仍然感到害怕。</text>
+  <text id="chesed6_intro_c39">雖然我不敢確信自己能夠勇敢面對未來將遭遇的恐懼，</text>
+  <text id="chesed6_intro_c40">但我決定，至少我不再逃跑了。</text>
+  <text id="chesed6_intro_c41">所以，主管，您現在可以下命令了嗎？</text>
+  
+  
+  
+  
 </localize>

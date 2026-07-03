@@ -2,18 +2,18 @@
 <localize>
 
  
-  <!--::Comment:: day15 start -->
+  <!-- day15 start -->
 
 
 
-  <text id="day15_angela_1">管理者, 你有聽過這個新聞嗎?</text>
-  <text id="day15_angela_2">他們說有人在工具室裡發現了一隻老鼠, 位於禁區之中.</text>
-  <text id="day15_angela_3">這是個很嚴重的問題.</text>
-  <text id="day15_angela_4">殺掉老鼠並不是什麼大問題, 但是它們的排泄物還有其他殘留物會對系統造成損害.</text>
-  <text id="day15_angela_5">這就是其中一個原因為什麼公司如此重視保全.</text>
-  <text id="day15_angela_6">請幫幫我.</text>
-  <text id="day15_angela_7">這次我會親自處理...</text>
-  <text id="day15_angela_8">但管理者, 如果你發現了老鼠, 請直接通知我.</text> <!--::Comment:: 이때 cg 나와야함.-->
+  <text id="day15_angela_1">主管，您從職員那裡聽說了嗎？</text>
+  <text id="day15_angela_2">據說，有隻老鼠偷偷溜進了公司嚴格管控的設施區域。</text>
+  <text id="day15_angela_3">這可能會演變成一個相當棘手的問題。</text>
+  <text id="day15_angela_4">雖然處理掉老鼠本身並不困難，但牠留下的排泄物和啃咬痕跡，反而更難收拾。</text>
+  <text id="day15_angela_5">而這，也是我們公司對安全管控特別嚴格的原因之一。</text>
+  <text id="day15_angela_6">不過，請您記住：</text>
+  <text id="day15_angela_7">這一次，我會親自處理。</text>
+  <text id="day15_angela_8">但若是主管您發現了偷偷潛入的老鼠，還請務必立刻通知我。</text>
 
   
  

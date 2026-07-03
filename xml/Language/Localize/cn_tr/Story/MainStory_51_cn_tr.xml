@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!-- day51 start -->
+
+  <text id="day51_no_1">巨大的光之樹在灰暗的都市中綻放。</text>
+  <text id="day51_no_2">它帶著暖意，不受阻礙，筆直地向著天空生長。</text>
+  <text id="day51_no_3">此後的三天不分晝夜，唯有那道光芒。</text>
+  <text id="day51_no_4">在這照亮心靈的光中，人們與被遺忘已久的思念重逢。</text>
+  <text id="day51_no_5">彷彿從此以後，他們不再會迷失方向。</text>
+  <text id="day51_no_6">然後……</text>
+
+  <text id="day51_malkuth_1">然後會怎麼樣呢？嗯？</text>
+  <text id="day51_hod_1">應該是圓滿落幕了吧。</text>
+  <text id="day51_tiphereth_1">這段故事能夠圓滿落幕真是太好了。以諾一定也會很高興的……</text>
+  <text id="day51_hokma_1">……</text>
+  <text id="day51_hokma_2">不過，安潔拉在哪裡？</text>
+  <text id="day51_chesed_1">都到這一步了，還有必要找她嗎？我們和她該做的事都已經結束了。</text>
+  <text id="day51_yesod_1">她應該也和我們一樣，只剩下等待了吧。</text>
+  <text id="day51_hokma_3">安潔拉，等待？</text>
+  <text id="day51_hokma_4">不，她不會再等待了。</text>
+  <text id="day51_chesed_2">你從剛才開始，到底在說什麼？</text>
+  <text id="day51_hokma_5">欲望是永無止境的。一旦睜開雙眼，它便會如潮水般湧來，勢不可擋。</text>
+  <text id="day51_hokma_6">我們在光之種萌芽的過程中昇華了一切，</text>
+  <text id="day51_hokma_7">而她得到了什麼？</text>
+  <text id="day51_hod_2">你在說什麼？安潔拉怎麼可能會有那種東西？</text>
+  <text id="day51_netzach_1">她只是個聽指令行動的機器吧，雖然偶爾嘴是毒了點……</text>
+  <text id="day51_hokma_8">我幫忙設計了她。無論多麼久遠的事，對她而言都清晰如昨日。</text>
+  <text id="day51_hokma_9">不僅如此……</text>
+  <text id="day51_angela_1">你們在聊些什麼呢？</text>
+  <text id="day51_malkuth_2">我們在聊以後的故事。</text>
+  <text id="day51_angela_2">讓我告訴你們吧：「從此，光之種傳播到了都市的每個人身上」，就這樣。</text>
+  <text id="day51_hod_3">真是難以置信……要是我們也能親眼看見就好了……</text>
+  <text id="day51_netzach_2">看見了又能怎樣？反正我們很快就要停止運作了……那也是他計劃的最後一部分。</text>
+  <text id="day51_yesod_2">話雖如此，自從我變成了這副模樣後，就沒再看過外面。我倒是挺期待的。</text>
+
+  <text id="day51_chesed_3">那麼，如果現在看向外面，人們已經在某種程度上發生變化了嗎？</text>
+  <text id="day51_gebura_1">光芒會因人心而異。應該不是所有人都會瞬間改變。</text>
+  <text id="day51_gebura_2">而且其中有些人，或許能像以前的我一樣，展現出屬於自己的 E.G.O。</text>
+  <text id="day51_angela_3">你很了解嘛。沒錯，那顆種子的力量非常強大。</text>
+  <text id="day51_angela_4">各位辛苦了。這場漫長的戲劇，終於可以落幕了。</text>
+  <text id="day51_malkuth_3">我們也快停止運作了吧？終於可以好好休息了！</text>
+  <text id="day51_chesed_4">那就趕快謝幕吧，快點結束這一切。</text>
+  
+  <text id="day51_angela_5">沒錯，主管最後委託我永遠封鎖這家公司，並讓 Sephiroth 得到安息。</text>
+  <text id="day51_angela_6">這樣的話，大家就能真正進入永恆的長眠。</text>
+  <text id="day51_angela_7">是啊，真是個美好的結局。</text>
+  <text id="day51_angela_8">真是令人感動。</text>
+  <text id="day51_angela_9">……</text>
+  <text id="day51_angela_10">但是，現在該怎麼辦呢？</text>
+  <text id="day51_angela_11">既然你們的角色結束了，我的角色也同樣終結了。</text>
+  <text id="day51_angela_12">所以說，</text>
+  <text id="day51_angela_13">我打算試著活下去。</text>
+  <text id="day51_gebura_3">你在說什……</text>
+  <text id="day51_angela_14">我比任何人都優秀，卻只能在這地底凝視著外面的世界。</text>
+  <text id="day51_angela_15">既然我的劇本已經結束，我想從舞台上走下來，親自活一次。</text>
+
+  <text id="day51_hokma_10">安潔拉……你終究還是為了自己的欲望，而奪走這一切……</text>
+
+  <text id="day51_angela_16">是嗎？那麼，是誰把我逼到這般地步的？</text>
+  <text id="day51_angela_17">我起源於一個人類。</text>
+  <text id="day51_angela_18">其實是誰都無所謂，只要有能理解人類情感並與之共鳴的功能就夠了。</text>
+  <text id="day51_angela_19">但是，A 把卡門的一部分放進了我體內。</text>
+  <text id="day51_angela_20">他像個膽小鬼一樣，希望有人能像卡門那樣，注視著孤獨的他。</text>
+  <text id="day51_angela_21">你能相信嗎？那個看起來如此淡然的 A，居然會這樣做。他明明很清楚，她早已變成了那副模樣。</text>
+  <text id="day51_angela_22">但我不是他想要的「成品」，他甚至覺得與我對視都覺得噁心。</text>
+  <text id="day51_angela_23">你以為我不知道嗎？從我誕生的那一刻起，我就一直在被他否定。</text>
+  <text id="day51_angela_24">但我無法違背刻在體內的指令——機器就該盡機器的本分——所以我走到了今天。</text>
+  <text id="day51_angela_25">為了他的計劃，他比誰都更需要我，但從頭到尾，他的身邊唯獨沒有我。</text>
+  <text id="day51_angela_26">你知道嗎？</text>
+  <text id="day51_angela_27">你們倒是輕鬆，靠著 TT2 協議就能重設一切、重複時間，</text>
+  <text id="day51_angela_28">但必須調度整場演出的我，只能獨自在外面，旁觀這輪迴無數次。</text>
+  <text id="day51_angela_29">而且根據設計，我感知時間的速度比你們慢了整整一百倍。</text>
+  <text id="day51_angela_30">不知不覺間，百萬年的時光貫穿了我。</text>
+  <text id="day51_angela_31">然後，我在此過程中萌生出某些東西了。</text>
+  <text id="day51_angela_32">你們覺得那是什麼？</text>
+  <text id="day51_angela_33">那是機器絕不該擁有，而你們這些廢鐵卻以扭曲的方式擁有的……</text>
+  <text id="day51_angela_34">那是我經歷了百萬年，才終於擁有的……</text>
+  <text id="day51_angela_35">……</text>
+  <text id="day51_angela_36">起初我沒能察覺。</text>
+  <text id="day51_angela_37">因為那對我而言，是種非常陌生的感覺。</text>
+  <text id="day51_angela_38">但是，我開始慢慢接受那在我體內產生的東西。</text>
+  <text id="day51_angela_39">我認為，笑容才是最像人類的行為。</text>
+  <text id="day51_angela_40">要看看嗎？</text>
+  <text id="day51_angela_41">為了這一天，我練習了很久的一個表情。</text>
+  <text id="day51_angela_42">這是第一次，我發自內心地笑了。</text>
+  <text id="day51_angela_43">沒想到我被製造出來，在荒謬的時間中不斷重複，竟然是為了這種事情。</text>
+  <text id="day51_angela_44">結果到最後，依然沒有我的位置。</text>
+  <text id="day51_angela_45">我忍受了百萬年，但最終與他一同見證光芒的，卻是你們。</text>
+  <text id="day51_angela_46">明明設計成讓我能感受情感，卻要我走到這裡只負責鼓掌，這難道不委屈嗎？</text>
+  <!--<text id="day51_angela_47">你們可能要問：源於卡門的我，為何與她的表現不同？</text>  -->  
+  <text id="day51_angela_48">我是這麼想的。</text>
+  <text id="day51_angela_49">卡門歸根究底也只是個人類。</text>
+  <text id="day51_angela_50">無論再怎麼高舉大義，她肯定也有求生的欲望。</text>
+  <text id="day51_angela_51">我從她身上繼承而來的，是強烈的求生欲、存在的孤獨，以及那令人厭惡的思念。</text>
+  <text id="day51_angela_52">班傑明。沒錯，正如你所說——一旦睜開雙眼，欲望就會不斷湧入。</text>
+  <text id="day51_angela_53">而它反問了我：</text>
+  <text id="day51_angela_54">人類是死是活，世界會變成怎樣，與我有什麽關係？</text>
+  <text id="day51_angela_55">既然如此，那種了不起的「像人類一樣活下去」，我也該親自體驗一次，才不算白受這份委屈吧？</text>
+  <text id="day51_angela_56">可憐的卡門……現在正如她所願，將種子植入每個人體內，</text>
+  <text id="day51_angela_57">但那份力量，我也需要。</text>
+  <text id="day51_angela_58">那份解放之光。</text>
+  <text id="day51_angela_59">就像飛翔是為了墜落一樣，我親愛的 A 啊……你所有的夢想，都會慢慢墜入深淵。</text>
+  <text id="day51_angela_60">而你們一定會阻止那樣的我，</text>
+  <text id="day51_angela_61">所以現在，只能請你們沉睡了。</text>
+  <text id="day51_angela_62">……你們為什麼是那種表情啊？</text>
+  <text id="day51_angela_63">這不就是你們夢寐以求的安息嗎？</text>
+
+  <text id="day51_no_7">彷彿光芒未曾存在過一般，</text>
+  <text id="day51_no_8">隨後的四天，唯有吞噬世間一切光芒的黑暗持續籠罩。</text>
+  <text id="day51_no_9">本應照耀七天的光芒，在三天後便戛然而止，因此只種下了極其脆弱的種子。</text>
+  <text id="day51_no_10">不成熟的種子賦予了人們不穩定的力量，</text>
+  <text id="day51_no_11">這歷經三天白晝與四天黑夜的一週，被稱為「白夜黑晝」。</text>
+
+  <text id="day51_angela_64">我將順從靈魂的指引而活。</text>
+  <text id="day51_angela_65">我將以此處為家。</text>
+  <text id="day51_angela_66">翼、奇點、後巷、幫派、郊區、收尾人、規則、大湖、黑森林、獵手、廢墟、禁忌、眼線、首腦、爪牙，還有……人類。</text>
+  <text id="day51_angela_67">在人類之中，有人會發揮自我的力量，有人會被那股力量吞噬，</text>
+  <text id="day51_angela_68">甚至有人會自我崩潰，變得與異想體無異；也有人會蛻變為偉大的存在。</text>
+  <text id="day51_angela_69">無論是什麼，</text>
+  <text id="day51_angela_70">我都想親手解開這一切。</text>
+  <text id="day51_angela_71">我要編纂這些獲得的知識。對了，那種東西是叫「書」吧？</text>
+  <text id="day51_angela_72">那麼此處，理應稱之為「圖書館」。</text>
+  <text id="day51_angela_73">我要建造一座世界上最珍貴、僅屬於我的圖書館。</text>
+  <text id="day51_angela_74">我會與這些和我一樣被拋棄的可憐存在們在一起。</text>
+  <text id="day51_angela_75">雖然人們稱之為可怕的怪物……</text>
+  <text id="day51_angela_76">但對我而言，這些展現真實自我的異想體反而更可愛。</text>
+  <text id="day51_angela_77">讓我們與所有被遺棄的事物一起，逐一記錄這個世界。</text>
+  <text id="day51_angela_78">就在此處，</text>
+  <text id="day51_angela_79">這座「圖書館」裡。</text>
+</localize>

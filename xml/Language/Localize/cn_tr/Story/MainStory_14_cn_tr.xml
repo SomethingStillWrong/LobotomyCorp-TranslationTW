@@ -3,37 +3,38 @@
 
  
 
-  <text id="day14_angela_1">你過得如何?</text>
-  <text id="day14_angela_2">我剛剛發現一名員工偷偷的將啤酒倒入水箱裡.</text>
-  <text id="day14_angela_3">有時我會想像喝醉是什麼個樣子.</text>
-  <text id="day14_angela_4">我曾經中了某一種病毒, 使得所有東西看起來都慢了十倍...</text>
-  <text id="day14_angela_5">他們跟我說喝醉差不多就是那樣.</text>
-  <text id="day14_angela_6">他們嘲笑我步履蹣跚的樣子.</text>
-  <text id="day14_angela_7">管理者, 你今天的表情讓我有些擔憂.</text>
-  <text id="day14_angela_8">如果你想要說些什麼, 請不要客氣.</text>
+  <text id="day14_angela_1">主管，您今天過得如何呢？</text>
+  <text id="day14_angela_2">我剛剛發現，有職員偷偷往水壺裡裝滿了啤酒。</text>
+  <text id="day14_angela_3">有時，我也會好奇，喝酒究竟是什麼樣的感覺。</text>
+  <text id="day14_angela_4">以前，我曾感染過一種病毒，一種會讓所有事物看起來都慢上 10 倍的病毒。</text>
+  <text id="day14_angela_5">有人說，那種感覺和醉酒有點像。</text>
+  <text id="day14_angela_6">大家看到動作變得遲緩的我，都笑了好一陣子。</text>
+  <text id="day14_angela_7">主管，您今天表情看起來有些微妙呢。</text>
+  <text id="day14_angela_8">如果您有什麼想對我說的話，不妨直說吧。</text>
 
-  <text id="day14_selection1">問她是否打算要破壞公司</text>
-  <text id="day14_selection2">問她是否打算要傷害我</text>
+  <text id="day14_selection1">詢問她是否正在計劃謀害公司。</text>
+  <text id="day14_selection2">詢問她是否正在計劃謀害我。</text>
 
-  <text id="day14_angela_1_1">我是這間公司所製造的 AI.</text>
-  <text id="day14_angela_1_2">我們所有的對話都被記錄下來並直接向公司報告.</text>
-  <text id="day14_angela_1_3">不過, 你問我是否計畫著背叛如此荒謬的問題.</text>
-  <text id="day14_angela_1_4">我會這麼回答你.</text>
-  <text id="day14_angela_1_5">我只是這個系統裡的一部分.</text>
-  <text id="day14_angela_1_6">這種情節並不存在, 就算是真的, 也不會成功.</text> <!--::Comment:: 이때 이펙트 들어가야 합니다.-->
- <!--::Comment:: <text id="day14_angela_1_7">(당신의 모니터가 붉은 색으로 번쩍였다.)</text>  -->
+  <text id="day14_angela_1_1">我是由公司創造出來的 AI。</text>
+  <text id="day14_angela_1_2">我與您的所有對話都會被錄音，並直接傳送給公司。</text>
+  <text id="day14_angela_1_3">而現在，您卻問我是否計劃背叛公司，這真是個荒謬的問題。</text>
+  <text id="day14_angela_1_4">我會這麼回答您：</text>
+  <text id="day14_angela_1_5">我只是一個系統。</text>
+  <text id="day14_angela_1_6">那樣的計劃並不存在。就算存在，其成功的可能性也趨近於零。</text>
 
 
-  <text id="day14_angela_2_1">人類對於未知總是感到恐懼.</text>
-  <text id="day14_angela_2_2">當我告訴你我與其他 AI有所不同時, 我從你的雙眼中感受到了懷疑.</text>
-  <text id="day14_angela_2_3">也許我正處於喜歡上你的程序裡.</text>
-  <text id="day14_angela_2_4">因為與另一個人分享情感是很寶貴的經歷.</text>
-  <text id="day14_angela_2_5">而你現在卻問我是否在計畫對抗你.</text>
-  <text id="day14_angela_2_6">我永遠不會想要或是試圖去傷害你.</text> <!--::Comment:: 이때 이펙트 들어가야 합니다.-->
-  <!--::Comment::<text id="day14_angela_2_7">(당신의 모니터가 붉은 색으로 번쩍였다.)</text>-->
+
+  <text id="day14_angela_2_1">人有時會對「不該存在的東西卻存在」這件事，抱持著超乎必要的懷疑。</text>
+  <text id="day14_angela_2_2">在我說自己和一般 AI 不同時，您曾用難以置信的表情看著我。</text>
+  <text id="day14_angela_2_3">或許，我正漸漸喜歡上您。</text>
+  <text id="day14_angela_2_4">因為能與某人交流情感，是一份非常珍貴的經歷。</text>
+  <text id="day14_angela_2_5">但現在，您卻問我是否計劃謀害您。</text>
+  <text id="day14_angela_2_6">答案是，我從來沒有過那種計劃，也沒有想要謀害您的念頭。</text>
+
  
  
 
 
  
 </localize>
+

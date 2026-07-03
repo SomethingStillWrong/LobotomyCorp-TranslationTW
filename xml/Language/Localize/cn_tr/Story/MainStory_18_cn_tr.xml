@@ -2,19 +2,19 @@
 <localize>
 
  
-  <!--::Comment:: day18 start -->
+  <!-- day18 start -->
 
 
 
-  <text id="day18_b_1">這是最後一個真相了.</text>
-  <text id="day18_b_2">你必須要知道的真相.</text>
-  <text id="day18_b_3">....我明白這個真相讓人揪心.</text>
-  <text id="day18_b_4">對我而言也是.</text>
-  <text id="day18_b_5">就像是花了許多年堆好一座沙保後只為了去摧毀它.</text>
-  <text id="day18_b_6">這是過去的傷疤, 否認了過去一切的努力.</text>
-  <text id="day18_b_7">但我想把事情導正, 無論什麼代價.</text>
-  <text id="day18_b_8">最後的真相是...</text> <!--::Comment:: 이때 지직거리는 이펙트 필요하다-->
-  <text id="day18_b_9">(雜訊)</text>
+  <text id="day18_b_1">這是最後的真相，</text>
+  <text id="day18_b_2">也是您必須知道的事實。</text>
+  <text id="day18_b_3">……知道真相之後，或許會讓人承受不住。</text>
+  <text id="day18_b_4">我也一樣，感到痛苦。</text>
+  <text id="day18_b_5">就像親手推倒自己花了漫長歲月、傾注一切才堆起來的沙堡。</text>
+  <text id="day18_b_6">那已經不只是痛苦了，更像是過去所有痛苦的歲月，全都變得毫無意義。</text>
+  <text id="day18_b_7">即便如此，我還是想親手修正這一切。</text>
+  <text id="day18_b_8">最後的真相是——</text>
+  <text id="day18_b_9">（聲音中斷）</text>
 
  
   

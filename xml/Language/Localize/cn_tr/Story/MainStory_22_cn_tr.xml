@@ -5,31 +5,31 @@
   <!-- day22 start -->
 
 
-  <text id="day22_a"> &lt;i&gt;致新任的管理者:&lt;/i&gt;&#13;&#10;&#13;&#10; 我聽說你對於公司而言是多麼的有價值. 請務必與你的助理, Angela保持這優良的成績. 你在這裡是見不到我的. 但我相信我們很快就會見面了. Lobotomy 公司永遠不會忘記你的奉獻與付出.&#13;&#10;&#13;&#10; &lt;i&gt;來自 A 的問候, Lobotomy 公司的 CEO.&lt;/i&gt;</text>
+  <text id="day22_a"> &lt;i&gt;致新任主管：&lt;/i&gt;&#13;&#10;&#13;&#10;聽聞您是為本公司繁榮做出卓越貢獻的人才。期盼您能與優秀的助手安潔拉一同，為無盡的發展持續努力。此刻您或許無法在此尋見我的蹤跡，但我確信，我們相見之日已不再遙遠。&#13;&#10;&#13;&#10;&lt;i&gt;腦葉公司絕不會忘記您的奉獻與努力。腦葉公司代表人 A 敬上。&lt;/i&gt;</text>
 
-  <text id="day22_a_1">致新任的管理者: </text>
-  <text id="day22_a_2">我聽說你對於公司而言是多麼的有價值. </text>
-  <text id="day22_a_3">請務必與你的助理, Angela保持這優良的成績. </text>
-  <text id="day22_a_4">你在這裡是見不到我的. 但我相信我們很快就會見面了. </text>
-  <text id="day22_a_5">Lobotomy 公司永遠不會忘記你的奉獻與付出.</text>
-  <text id="day22_a_6">來自 A 的問候, Lobotomy 公司的 CEO. </text>
+  <text id="day22_a_1">致新任主管：</text>
+  <text id="day22_a_2">聽聞您是為本公司繁榮做出卓越貢獻的人才。</text>
+  <text id="day22_a_3">期盼您能與優秀的助手安潔拉一同，為無盡的發展持續努力。</text>
+  <text id="day22_a_4">此刻您或許無法在此尋見我的蹤跡，但我確信，我們相見之日已不再遙遠。</text>
+  <text id="day22_a_5">腦葉公司絕不會忘記您的奉獻與努力。</text>
+  <text id="day22_a_6">期待與您相見。腦葉公司代表人 A 敬上</text>
   
-  <text id="day22_angela_1">看來你收到了 A 親自寫的信?</text>
-  <text id="day22_angela_2">或許你被認可了?</text>
-  <text id="day22_angela_3">A 正在一段漫長的旅途當中.</text>
-  <text id="day22_angela_4">在所有旅途的最後, 那終點站將會是家門, 也就是這個地方.</text>
-  <text id="day22_angela_5_r1">有時, 我會想像我自己也在一段旅途之中.</text>
-  <text id="day22_angela_5_r2">你曾經到哪裡旅行過嗎?</text>
-  <text id="day22_angela_5_r3">如果我能走出這個螢幕的話, 這會是我首先想要做的事.</text>
-  <text id="day22_angela_5_r4">或許人類的生命本身就是一段旅途?</text>
-  <text id="day22_angela_6_r1">在你從沒看過的世界中累積回憶.</text>
-  <text id="day22_angela_6_r2">事實上, 他們說準備一段旅行在現今是一種奢侈. </text>
-  <text id="day22_angela_6_r3">我會盡可能的走著, 追尋各種風景並拍下數以百萬的照片.</text>
-  <text id="day22_angela_6_r4">或許這是在你的旅途當中的某一刻?</text>
-  <text id="day22_angela_7">寒冬仍在, 但我們明白寒冬終將結束.</text>
-  <text id="day22_angela_8_r1">你能看見在那雪地裡萌發的花朵嗎?</text>
-  <text id="day22_angela_8_r2">這個冬天比以往來的還要嚴峻. </text>
-  <text id="day22_angela_8_r3">但冬天的結束並不一定意味著春天即將到來.</text>
+  <text id="day22_angela_1">看來您收到了 A 親自為您撰寫的信件。</text>
+  <text id="day22_angela_2">這是否意味著，您終於獲得了認可？</text>
+  <text id="day22_angela_3">A 正行於一段遙遠的旅途。</text>
+  <text id="day22_angela_4">正如旅途的終點是歸家，想必不久後他便會回到此地。</text>
+  <text id="day22_angela_5_r1">有時，我也會不自覺地想像自己踏上旅途。</text>
+  <text id="day22_angela_5_r2">您曾有過旅行嗎？</text>
+  <text id="day22_angela_5_r3">倘若我能步出螢幕之外，最想做的第一件事，便是去旅行。</text>
+  <text id="day22_angela_5_r4">說到底，人類的人生，或許本就是一場漫長的旅行吧？</text>
+  <text id="day22_angela_6_r1">我曾幻想，自己凝望著從未見過的新世界，一步步累積回憶。</text>
+  <text id="day22_angela_6_r2">然而，在這個時代，籌備一場旅行，竟被視為一種奢侈。</text>
+  <text id="day22_angela_6_r3">如果是我，我會盡可能用雙腳行走，用雙眼如拍照般，捕捉沿途所有的風景。</text>
+  <text id="day22_angela_6_r4">即便是此時此刻，對您而言，難道不也是一種旅行嗎？</text>
+  <text id="day22_angela_7">天氣依舊寒冷，但我已能感知到，冬季即將終結的時刻再度來臨。</text>
+  <text id="day22_angela_8_r1">您是否也看見，那些曾被積雪覆蓋的花朵，正逐漸抬起了頭？</text>
+  <text id="day22_angela_8_r2">今年冬天格外漫長，也格外寒冷。</text>
+  <text id="day22_angela_8_r3">然而，冬季的結束，並不意味著春天必定會來臨。</text>
  
  
  

@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day7_angela_1">能源產量正在增加.</text>
-	<text id="day7_angela_2">你比你自認的更有能力.</text>
-	<text id="day7_angela_3">高層正在關注你.</text>
-	<text id="day7_angela_4">創始者也在其中.</text>
-	<text id="day7_angela_5">你對創始者有任何了解嗎?</text>
-	<text id="day7_angela_6">他是個有遠見的人.</text>
-	<text id="day7_angela_7">一個開拓者與冒險家.</text>
-	<text id="day7_angela_8">也許創始者想要私下與你會面.</text>
-	<text id="day7_angela_9">如果真的發生了, 你能讓你的夢想成真.</text>
-	<text id="day7_angela_10">我? 當然, 我很敬佩他.</text>
-	<text id="day7_angela_11">公平而言, 他是我的創造者.</text>
-	<text id="day7_angela_12">他也非常神秘.</text>
-	<text id="day7_angela_13">只有少數人了解他.</text>
-	<text id="day7_angela_14">事實上, 了解一個人是很困難的.</text>
-	<text id="day7_angela_15">終有一日我能完全的了解你嗎?</text>
+	<text id="day7_angela_1">能源產出率正在穩定地增長。</text>
+	<text id="day7_angela_2">這足以證明，您具備了超乎自身預期的卓越能力。</text>
+	<text id="day7_angela_3">腦葉公司的高層們也正開始對您投以關注。</text>
+	<text id="day7_angela_4">其中，就包括我曾向您提過的「A」。</text>
+	<text id="day7_angela_5">您對 A 有所了解嗎？</text>
+	<text id="day7_angela_6">A 是我們的先驅者，</text>
+	<text id="day7_angela_7">也是在無人踏足之地首次播下種子的農夫。</text>
+	<text id="day7_angela_8">雖說您與 A 的會面或許還要再過一陣子，</text>
+	<text id="day7_angela_9">但屆時，您所渴望的一切或許都能成真。</text>
+	<text id="day7_angela_10">我啊？我當然非常尊敬他。</text>
+	<text id="day7_angela_11">嚴謹地說，我之所以能誕生於世，也是拜 A 所賜。</text>
+	<text id="day7_angela_12">但他是個難以理解的人。</text>
+	<text id="day7_angela_13">恐怕世上沒幾個普通人能真正理解他。</text>
+	<text id="day7_angela_14">事實上，撇開 A 不談，想要理解他人本就是件難事。</text>
+	<text id="day7_angela_15">我也能有完全理解您的那一天嗎？</text>
 </localize>

@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day2_angela_1">直面恐懼，創造未來。</text>
-	<text id="day2_angela_2">這是腦葉公司創始人A所作的句子。</text>
-	<text id="day2_angela_3">您喜歡這句話的哪部分呢？</text>
-	<text id="day2_selection1">直面恐懼</text>
-	<text id="day2_selection2">創造未來</text>
-	<text id="day2_angela_1_1">我們是世界上首批發現「異想體」的人類。</text>
-	<text id="day2_angela_1_2">當然，我不包含在內。因為我並不完全屬於人類。</text> 
+	<text id="day2_angela_1">「直面恐懼，創造未來。」</text>
+	<text id="day2_angela_2">這是腦葉公司的創始人、在此地被稱為「A」的人所撰寫的格言。</text>
+	<text id="day2_angela_3">若必須從中二選一，您更中意哪一個句節呢？</text>
+	<text id="day2_selection1">直面恐懼。</text>
+	<text id="day2_selection2">創造未來。</text>
+	<text id="day2_angela_1_1">我們是世界上首批發現「異想體」存在的人類。</text>
+	<text id="day2_angela_1_2">當然，我不包括在內，因為我並非完全屬於人類。</text> 
 	<text id="day2_angela_1_3">我該怎麼解釋呢？</text>
-	<text id="day2_angela_1_4">我們像是一批開拓之人，發現了一片新的未知土地。</text>
-	<text id="day2_angela_1_5">但這旅程還沒完。</text>
-	<text id="day2_angela_1_6">異想體到處都是。但發現其本質，發現其異常之處的，是我們。</text>
-	<text id="day2_angela_1_7">這是我們第一次看到他們。</text>
-	<text id="day2_angela_1_8">這即為直面恐懼。</text>
-	<text id="day2_angela_1_9">因為異想體正是恐懼本身。</text>
-	<text id="day2_angela_2_1">無論我們是否願意，我們都朝著未來走去。</text>
-	<text id="day2_angela_2_2">要麼坦然接受，</text>
-	<text id="day2_angela_2_3">要麼重新創造，就兩種方法。</text>
-	<text id="day2_angela_2_4">腦葉公司是家創新型公司。</text> 
-	<text id="day2_angela_2_5">能夠提取能量，這真是驚人。</text>
+	<text id="day2_angela_1_4">我們就像是最早的開拓者，發現了一片全新的未知領域。</text>
+	<text id="day2_angela_1_5">但這趟旅程尚未結束。</text>
+	<text id="day2_angela_1_6">異想體無處不在，但率先洞察其本質、發現其異樣之處的，是我們。</text>
+	<text id="day2_angela_1_7">這是人類初次與牠們對視。</text>
+	<text id="day2_angela_1_8">這便是直面恐懼。</text>
+	<text id="day2_angela_1_9">因為異想體本身，即是恐懼的化身。</text>
+	<text id="day2_angela_2_1">無論我們願意與否，未來正不斷向我們步步逼近。</text>
+	<text id="day2_angela_2_2">要麼乾脆坦然接受，</text>
+	<text id="day2_angela_2_3">要麼親手開創——僅此兩種方式。</text>
+	<text id="day2_angela_2_4">腦葉公司是一家創新型公司。</text> 
+	<text id="day2_angela_2_5">我們竟能從中提取能源，這確實是極其……</text>
 	<text id="day2_angela_2_6">啊，如果我能更豐富地表達情感就好了。</text>
-	<text id="day2_angela_2_7">這就是技術。</text>
-	<text id="day2_angela_2_8">我們的新技術將拯救人類。</text>
-	<text id="day2_angela_2_9">同時也將改變，並創造出新的未來。</text>
-</localize>
+	<text id="day2_angela_2_7">而這，就是技術的力量。</text>
+	<text id="day2_angela_2_8">我們的這項新技術，將會拯救全人類。</text>
+	<text id="day2_angela_2_9">同時也將改變未來，將其重新開創。</text>
 
+</localize>
