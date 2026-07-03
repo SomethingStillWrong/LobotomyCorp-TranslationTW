@@ -8,7 +8,7 @@
   <!-- 도구형 환상체 -->
   <skill id="5" name="請求" called="特別請求"/>
   
-  <skill id="6" name="懺悔" called="懺悔"/>
+  <skill id="6" name="告解" called="告解"/>
 
   <!-- 연주 -->
   <skill id="7" name="演奏" called="演奏曲目"/>
