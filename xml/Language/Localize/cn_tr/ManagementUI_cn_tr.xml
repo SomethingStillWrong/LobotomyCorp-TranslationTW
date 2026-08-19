@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <localize>
-  <text id="UI_Yes">確認</text>
+  <text id="UI_Yes">確定</text>
   <text id="UI_No">取消</text>
   
   <text id="DefenseType_None">一般</text>
@@ -18,18 +18,18 @@
   <text id="CreatureInfo_DescButton">記錄</text>
   <text id="CreatureInfo_Stat">基礎情報</text>
   <text id="CreatureInfo_Escape">出逃情報</text>
-  <text id="CreatureInfo_CumlativeText">獨立 PE-Box 儲量</text>
+  <text id="CreatureInfo_CumlativeText">獨立PE-Box儲量</text>
   <text id="CreatureInfo_CareTakingSlot">管理須知</text>
   <text id="CreatureInfo_WorkSlot">工作喜好</text>
   <text id="CreatureInfo_Defense">防禦類型</text>
   <text id="CreatureInfo_Defense_OnlyText">傷害抗性</text>
   <text id="CreatureInfo_AttackInWork">工作傷害</text>
-  <text id="CreatureInfo_MaxCube">最大 E-Box 產量</text>
+  <text id="CreatureInfo_MaxCube">最大E-Box產量</text>
   <text id="CreatureInfo_FeelingRange">工作結果</text>
   <text id="CreatureInfo_ObserveBounus_Prob">工作成功率</text>
   <text id="CreatureInfo_ObserveBounus_Speed">工作速度</text>
-  <text id="CreatureInfo_NotEscape">該異想體&#13;&#10;不會出逃</text>
-  <text id="CreatureInfo_NoCost">PE-Box 不足</text>
+  <text id="CreatureInfo_NotEscape">此異想體&#13;&#10;不會出逃</text>
+  <text id="CreatureInfo_NoCost">PE-Box不足</text>
   <text id="CreatureInfo_NoRemain">已達最大值</text>
   <text id="CreatureInfo_Cost">PE-Box</text>
   <text id="CreatureInfo_Prob">獲取率</text>
@@ -52,7 +52,7 @@
   <text id="CreatureInfoKit_CumlativeUseCount">累計使用次數</text>
 
   <text id="CreatureInfoKit_Type">工具型異想體類型</text>
-  <text id="CreatureInfoKit_Equip">携帶型</text>
+  <text id="CreatureInfoKit_Equip">攜帶型</text>
   <text id="CreatureInfoKit_Channel">持續使用型</text>
   <text id="CreatureInfoKit_Oneshot">單次使用型</text>
 
@@ -69,18 +69,18 @@
   <text id="AgentState_Dead">死亡</text>
   <text id="AgentState_Panic">恐慌</text>
   <text id="AgentState_Uncon">無法控制</text>
-  <text id="AgentState_Working">工作中</text>
-  <text id="AgentState_Suppressing">鎮壓中</text>
-  <text id="AgentState_Moving">移動中</text>
-  <text id="AgentState_Cancel">取消指令</text>
+  <text id="AgentState_Working">正在工作</text>
+  <text id="AgentState_Suppressing">正在鎮壓</text>
+  <text id="AgentState_Moving">正在移動</text>
+  <text id="AgentState_Cancel">取消命令</text>
   <text id="AgentState_OrderManagement">指派員工進行工作</text>
-  <text id="AgentState_OrderSuppress">鎮壓指令</text>
+  <text id="AgentState_OrderSuppress">鎮壓命令</text>
   <text id="AgentState_UnknownPosition">鎮壓位置未知</text>
   <text id="AgentState_MovementPrefix">移動速度</text>
   
 <!-- 여기서부터 은경이가 만든 UI-->
-  <text id="GameState_AllDead">所有員工均已死亡</text>
-  <text id="GameState_NeedMax">需重設工作次數</text>
+  <text id="GameState_AllDead">所有員工皆已死亡</text>
+  <text id="GameState_NeedMax">需要重設工作次數</text>
   <text id="GameState_NeedMax2">需部門所有異想體工作計量表達到最大</text>
   <text id="GameState_GoBack">重新開始這一天</text>
   <text id="GameState_Finish">結束管理</text>
@@ -98,18 +98,18 @@
   <text id="AgentStat_AttackSpeed">攻擊速度</text>
   <text id="AgentStat_MovementSpeed">移動速度</text>
 
-  <text id="Inventory">E.G.O 清單</text>
+  <text id="Inventory">E.G.O清單</text>
   <text id="Inventory_WeaponGrade">等級</text>
   <text id="Inventory_EquipAction">裝備</text>
   <text id="Inventory_UnEquipAction">解鎖</text>
   <text id="Inventory_Condition">要求</text>
-  <text id="Inventory_WeaponTitle">E.G.O 武器</text>
-  <text id="Inventory_GiftTitle">E.G.O 飾品</text>
-  <text id="Inventory_ArmorTitle">E.G.O 護甲</text>
+  <text id="Inventory_WeaponTitle">E.G.O武器</text>
+  <text id="Inventory_GiftTitle">E.G.O飾品</text>
+  <text id="Inventory_ArmorTitle">E.G.O護甲</text>
 
-  <text id="Inventory_NoWeapon">無對應 E.G.O 武器</text>
-  <text id="Inventory_NoGift">無對應 E.G.O 飾品</text>
-  <text id="Inventory_NoArmor">無對應 E.G.O 護甲</text>
+  <text id="Inventory_NoWeapon">無對應E.G.O武器</text>
+  <text id="Inventory_NoGift">無對應E.G.O飾品</text>
+  <text id="Inventory_NoArmor">無對應E.G.O護甲</text>
 
   <text id="Inventory_Level">等級</text>
   <text id="Inventory_Face">外觀</text>
@@ -134,17 +134,17 @@
   <text id="CannotCalculate">未知</text>
 
   <text id="Encounter_0">從容</text>
-  <text id="Encounter_1">冷静</text>
+  <text id="Encounter_1">冷靜</text>
   <text id="Encounter_2">緊張</text>
   <text id="Encounter_3">恐懼</text>
-  <text id="Encounter_4">绝望</text>
+  <text id="Encounter_4">絕望</text>
   <text id="Encounter_5">不堪忍受</text>
   <text id="Encounter_6">敬畏</text>
 
   <text id="Rwork">本能</text>
   <text id="Wwork">洞察</text>
   <text id="Bwork">依戀</text>
-  <text id="Pwork">壓迫</text>
+  <text id="Pwork">壓制</text>
   <text id="Swork">委託</text>
   <text id="Vwork">犧牲</text>
   
@@ -166,8 +166,8 @@
 
   <text id="NeedAgent">需要部署員工</text>
   <text id="ManagementStart">開始管理</text>
-  <text id="NeedCost">LOB 點數不足</text>
-  <text id="Hire">雇傭</text>
+  <text id="NeedCost">LOB點數不足</text>
+  <text id="Hire">僱用</text>
 
   <!-- 09.02 업데이트에 넣은 UI. 번역 새로 맡겨야 함. -->
   <text id="Escape_Manual">主管手冊</text>
@@ -176,7 +176,7 @@
   <text id="Escape_Checkpoint">返回記憶儲存庫</text>
   <text id="Escape_Exit">退出遊戲</text>
 
-  <text id="Escape_Checkpoint_Confirm">已解鎖的圖鑑及 E.G.O 裝備將會保存。&#13;&#10;是否返回最近的記憶儲存庫 ($0) 嗎？</text>
+  <text id="Escape_Checkpoint_Confirm">目前圖鑑及E.G.O裝備狀態將被儲存。&#13;&#10;是否返回最近的記憶儲存庫($0)？</text>
   
   <text id="Escape_MasterVolume">主音量</text>
   <text id="Escape_MusicVolume">音樂音量</text>
@@ -206,7 +206,7 @@
   <text id="ui_High">高</text>
   <text id="ui_Highest">極高</text>
 
-  <text id="GameState_Emergency">對仍有出逃異想體實施的 LOB 懲罰</text>
+  <text id="GameState_Emergency">對仍有出逃異想體實施的LOB懲罰</text>
   <text id="CreatureInfo_PrevNeed">需要先解鎖前置管理須知</text>
 
   <text id="ResultWindow_Rank">評級</text>
@@ -221,7 +221,7 @@
 
   <text id="MouseFocusMove">移動員工至此區域</text>
 
-  <text id="Inventory_CannotEquippable">無法裝備</text>
+  <text id="Inventory_CannotEquippable">不可裝備</text>
   <text id="Inventory_Equippable">可裝備</text>
 
   <text id="Inventory_NoRequire">無</text>
@@ -241,24 +241,24 @@
   <text id="Qliphoth_Overload">逆卡巴拉熔毀</text>
   <text id="Qliphoth_Level">級警報</text>
 
-  <text id="MissionCondition">[解鎖下一個任務的條件]</text>
-  <text id="MissionConditionOpenLevel">- 部門開放進度需達到 {0}</text>
-  <text id="MissionConditionOpenLevel_new">- {0} 所在部門的開放進度需達到 {1}</text> 
-  <text id="MissionConditionOtherOpenLevel">- 完成 {0} 指派的第 {1} 個任務</text> <!-- {0} : sefira, {1} : level-->
+  <text id="MissionCondition">[解鎖下一任務的條件]</text>
+  <text id="MissionConditionOpenLevel">- 部門的開放進度需要達到{0}</text>
+  <text id="MissionConditionOpenLevel_new">- {0}所在部門的開放進度需要達到{1}</text> 
+  <text id="MissionConditionOtherOpenLevel">- 完成{0}指派的第{1}個任務</text> <!-- {0} : sefira, {1} : level-->
 
-  <text id="SefiraBossCondition_lastday">- 無法在最後一天抑制 Sephirah 的核心</text>
-  <text id="SefiraBossCondition_checkpoint">- 無法在「記憶覆蓋日」抑制 Sephirah 的核心</text> 
-  <text id="SefiraBossCondition_day">- Day {1} 後才可抑制此 Sephirah 的核心</text><!-- {0} : day, {1} : day-1 -->
-  <text id="SefiraBossCondition_mission">- 完成 {0} 指派的第 {1} 個任務</text>
-  <text id="SefiraBossCondition_up">- 需要先抑制 Asiyah（上層）所有 Sephiroth 的核心</text>
-  <text id="SefiraBossCondition_middle">- 需要先抑制 Briah（中層）所有 Sephiroth 的核心</text>
-  <text id="SefiraBossCondition">[Sephirah 核心抑制的條件]</text>
+  <text id="SefiraBossCondition_lastday">- 無法在最後一天抑制Sephirah的核心</text>
+  <text id="SefiraBossCondition_checkpoint">- 無法在「記憶覆蓋日」抑制Sephirah的核心</text> 
+  <text id="SefiraBossCondition_day">- Day {1}後才可抑制此Sephirah的核心</text><!-- {0} : day, {1} : day-1 -->
+  <text id="SefiraBossCondition_mission">- 完成{0}指派的第{1}個任務</text>
+  <text id="SefiraBossCondition_up">- 需要先抑制ASIYAH（上層）所有Sephiroth的核心</text>
+  <text id="SefiraBossCondition_middle">- 需要先抑制BRIAH（中層）所有Sephiroth的核心</text>
+  <text id="SefiraBossCondition">[Sephirah核心抑制的條件]</text>
   <text id="SefiraBossSessionStart">抑制核心</text>
-  <text id="SefiraBoss_Button_Normal">抑制 Sephirah 的核心</text>
+  <text id="SefiraBoss_Button_Normal">抑制Sephirah的核心</text>
   <text id="SefiraBoss_Button_Cannot">條件未滿足</text>
 
 
-  <text id="AgentState_Cancel_Fail">無法取消指令</text>
+  <text id="AgentState_Cancel_Fail">無法取消命令</text>
 
   <text id="AgentStat_WorkTime">花費時間</text>
 
@@ -266,15 +266,15 @@
 
   <text id="ManualTitle">主管手冊</text>
 
-  <text id="RabbitProtocolMoveFocus">無法下達指令</text>
+  <text id="RabbitProtocolMoveFocus">無法下達命令</text>
   <text id="CreatureSelect_ReExtract">二次提取</text>
   <text id="Arbiter">調律者</text>
 
   <text id="Cwork">告解</text>
 
   <!-- for tutorial -->
-  <text id="Tutorial_NextTutorial">您想繼續下一個教程嗎？</text>
-  <text id="Tutorial_Escape">您想要結束教程嗎？</text>
+  <text id="Tutorial_NextTutorial">您想要繼續下一場培訓嗎？</text>
+  <text id="Tutorial_Escape">您想要結束培訓嗎？</text>
 
   <text id="Tutorial_menu1">1. 異想體管理</text>
   <text id="Tutorial_menu2">2. 部署員工</text>
@@ -285,21 +285,21 @@
 
   <text id="StoryView_Title">劇情回想</text>
   <text id="StoryView_Day">每日記錄</text>
-  <text id="StoryView_Sefira">Sephiroth 對話</text>
+  <text id="StoryView_Sefira">Sephiroth對話</text>
   <text id="StoryView_Ending">結局</text>
   <text id="StoryView_Seed">光之種</text>
 
-  <text id="Codex_Title">異想體圖鑑</text>
+  <text id="Codex_Title">異想體觀察圖鑑</text>
   
   <text id="Title_Tutorial">主管培訓</text>
   <text id="Title_FirstDay">新的開始</text>
   <text id="Title_Continue">繼續管理</text>
   <text id="Title_Challenge">挑戰模式</text>
   <text id="Title_Language">語言選擇</text>
-  <text id="Title_Exit">退出游戲</text>
+  <text id="Title_Exit">退出遊戲</text>
   <text id="Title_Story">劇情</text>
   <text id="Title_Codex">圖鑑</text>
-  <text id="Title_Option">游戲設定</text>
+  <text id="Title_Option">遊戲設定</text>
 
   <text id="Title_Yes">是</text>
   <text id="Title_No">否</text>
@@ -313,12 +313,12 @@
   <text id="Option_Display">視窗顯示方式</text>
   <text id="Option_Display_Fullscreen">全螢幕</text>
   <text id="Option_Display_Window">視窗化</text>
-  <text id="Option_Display_WindowWithoutFrame">無邊框視窗化</text>
+  <text id="Option_Display_WindowWithoutFrame">無邊框視窗</text>
 
-  <text id="Option_Tooltip">顯示 UI 提示框作用</text>
+  <text id="Option_Tooltip">顯示UI作用提示框</text>
 
-  <text id="Option_Dlc">允許收容贊助者異想體</text>
-  <text id="Option_Dlc_Overlay">*停用選項時，這些異想體不會在遊戲中出現。已收容的贊助者異想體將被替換為同級別的現有異想體，其 E.G.O 亦將從清單中移除。重新開啟選項後，贊助者異想體會再次顯示於異想體選擇畫面，且先前的觀察等級將完整保留。（註：已製造的 E.G.O 不會恢復。）</text>
+  <text id="Option_Dlc">啟用贊助者異想體</text>
+  <text id="Option_Dlc_Overlay">* 停用選項時，這些異想體不會在遊戲中出現。已收容的贊助者異想體將被替代為同等級的非贊助者異想體，其E.G.O也將從清單中移除。重新開啟選項後，這些異想體會再次顯示於異想體選擇畫面，且先前的觀察等級將完整保留，但已製造的E.G.O不會恢復。</text>
 
   <text id="Option_Texture">紋理品質</text>
   <text id="Option_Texture_High">高</text>
@@ -331,9 +331,9 @@
   <text id="Option_Sound">音訊設定</text>
   <text id="Option_Video">視訊設定</text>
 
-  <text id="Escape_Option">游戲設定</text>
+  <text id="Escape_Option">遊戲設定</text>
 
-  <text id="Intro_MainText">依據南韓游戲 GRAC 分級標準&#13;&#10;本遊戲適合年滿 15 歲以上人群遊玩</text>
+  <text id="Intro_MainText">依據韓國遊戲物管理委員會評級&#13;&#10;本遊戲適合年滿15歲以上人群遊玩</text>
   <text id="Intro_Violence">暴力</text>
   <text id="Intro_Horror">恐怖</text>
   <text id="Intro_Drug">毒品</text>
@@ -342,7 +342,7 @@
   <text id="Iwork">演奏</text>
   <text id="ProtectionWork">保衛</text>
 
-  <text id="CreatureInfo_challange">挑戰模式中無法獲得觀察等級所來的加成。</text>
+  <text id="CreatureInfo_challange">在挑戰模式中，無法獲得觀察等級所帶來的加成。</text>
 
   <text id="Gift_Hat">頭部</text>
   <text id="Gift_Eye">眼睛</text>
@@ -362,7 +362,7 @@
   <text id="StorySkip">跳過&gt;&gt;</text>
   <text id="StoryDay">Day</text>
   <text id="Deploy_Manual">主管手冊</text>
-  <text id="Deploy_LOB">LOB 點數</text>
+  <text id="Deploy_LOB">LOB點數</text>
 
   <text id="Bullet_Slow">減速</text>
   <text id="Bullet_Execution">處決</text>
