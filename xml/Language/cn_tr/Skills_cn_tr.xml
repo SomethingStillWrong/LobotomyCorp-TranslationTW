@@ -3,10 +3,10 @@
   <skill id="1" name="本能" called="本能工作"/>
   <skill id="2" name="洞察" called="洞察工作"/>
   <skill id="3" name="依戀" called="依戀工作"/>
-  <skill id="4" name="壓迫" called="壓迫工作"/>
+  <skill id="4" name="壓制" called="壓制工作"/>
   
   <!-- 도구형 환상체 -->
-  <skill id="5" name="請求" called="特別請求"/>
+  <skill id="5" name="使用" called="使用工具"/>
   
   <skill id="6" name="告解" called="告解"/>
 
