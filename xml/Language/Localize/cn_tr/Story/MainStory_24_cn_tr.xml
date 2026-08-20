@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day24_angela_1">您知道那張凌亂的辦公桌上，放著一株仙人掌嗎？</text>
-	<text id="day24_angela_2">看來是某位想與您親近的職員留下的。</text>
-	<text id="day24_angela_3">說說我的看法吧——我其實不太欣賞仙人掌。</text>
+	<text id="day24_angela_1">您知道嗎？那張凌亂的辦公桌上，放著一株仙人掌。</text>
+	<text id="day24_angela_2">看來，是某位想與您親近的職員留下的。</text>
+	<text id="day24_angela_3">說說我的看法吧，我其實不太欣賞仙人掌。</text>
 	<text id="day24_angela_4">人們栽培植物的理由有千百種，</text>
 	<text id="day24_angela_5">但它既無觀賞價值，渾身儘是醜陋的刺，也無法採集珍貴的汁液。</text>
 	<text id="day24_angela_6">我甚至從未見過它結出花苞。</text>
-	<text id="day24_angela_7">按理說，若環境合適，它終究會開花。</text>
+	<text id="day24_angela_7">按理說，如果環境合適的話，它終究會開花。</text>
 	<text id="day24_angela_8">但它的根，似乎始終紮在那片貧瘠的土壤裡。</text>
 	<text id="day24_angela_9">您說……仙人掌，也能開花嗎？</text>
 	<text id="day24_selection1">它會開花的。</text>
@@ -16,5 +16,5 @@
 	<text id="day24_angela_1_3">儘管此地連陽光都吝於施捨，但若您堅持的話。</text>
 	<text id="day24_angela_2_1">話說回來，您為何還將它留在辦公桌上？</text>
 	<text id="day24_angela_2_2">是顧念贈送者的心意嗎？</text>
-	<text id="day24_angela_2_3">不過還請當心。若是不慎與別的東西混在一起，它的刺，說不定會扎傷您。</text>
+	<text id="day24_angela_2_3">不過還請當心。若不慎與別的東西混在一起，它的刺，說不定會扎傷您。</text>
 </localize>
