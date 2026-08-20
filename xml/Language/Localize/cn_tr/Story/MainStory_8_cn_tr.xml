@@ -5,17 +5,17 @@
   <!-- day8 start -->
 
 
-  <text id="day8_angela_1">主管，假設有這麼個情況……</text>
+  <text id="day8_angela_1">假設有這麼個情況……</text>
   <text id="day8_angela_2">此時此刻，您正需要從異想體身上獲取能源，以補足今日最後的配額，</text>
   <text id="day8_angela_3">而同一時間內，有名職員正身陷重大危險之中，</text>
   <text id="day8_angela_4">在這種情況下，您會如何選擇呢？</text>
-  <text id="day8_angela_5">這是個再基礎不過的問題，相信您一定能給出正確答案。</text>
+  <text id="day8_angela_5">這是個再基礎不過的問題，您一定能答對。</text>
 
   <text id="day8_selection1">生產能源。</text>
   <text id="day8_selection2">拯救職員。</text>
 
   <text id="day8_angela_1_1">雖然並非我完全期待的回答，</text>
-  <text id="day8_angela_1_2">但也算接近正確答案了。</text>
+  <text id="day8_angela_1_2">但算是接近正確答案了。</text>
   <text id="day8_angela_1_3">真正的正確答案是：「在這種情況發生之前，預先將能源蒐集完畢」。</text>
   <text id="day8_angela_1_4">腦葉公司是一家非常龐大的公司，能源生產理應比其他事情都更值得重視。</text>
   <text id="day8_angela_1_5">看來，您確實有把我的話聽進去呢。</text>
@@ -23,14 +23,14 @@
 
   <text id="day8_angela_2_1">雖然這些基本原則簡單到不值得反覆強調，</text>
   <text id="day8_angela_2_2">但主管的首要職責是生產能源，</text>
-  <text id="day8_angela_2_3">而非扮演照料職員的守護者。</text>
+  <text id="day8_angela_2_3">而非扮演照料職員，或是照料他們的守護者那般角色。</text>
   <text id="day8_angela_2_4">雖然我與您相識不久，但未曾料想到，您竟是如此富有「博愛」的人。</text>
   <text id="day8_angela_2_5">腦葉公司是一家非常龐大的公司，能源生產理應比其他事情都更值得重視。</text>
   <text id="day8_angela_2_6">我原以為，這是個簡單的問題，但對您來說，似乎並非如此。</text>
   <text id="day8_angela_2_7">如果我是人類的話，</text>
-  <text id="day8_angela_2_8">大概會說：「我對您感到失望。」之類的話吧。</text>
+  <text id="day8_angela_2_8">大概會說「我很失望。」之類的話吧。</text>
   <text id="day8_angela_2_9">不過，還請放心，</text>
   <text id="day8_angela_2_10">我不會說出那種話的。</text>
-  <text id="day8_angela_2_11">畢竟，這就是 AI 的優點。</text>
+  <text id="day8_angela_2_11">這就是AI的優點。</text>
   
 </localize>
