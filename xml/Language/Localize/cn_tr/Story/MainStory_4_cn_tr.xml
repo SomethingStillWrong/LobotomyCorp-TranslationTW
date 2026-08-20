@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<text id="day4_angela_1">您是否在當下的工作中感受到了成就感？</text>
-	<text id="day4_angela_2">如果沒有，那麼，接下來的消息或許會改變您的想法：</text>
-	<text id="day4_angela_3">自您入職腦葉公司以來，公司的能源產量至少提高了 13%。</text>
-	<text id="day4_angela_4">13%，雖然您現在可能對此還沒有實感，但這是一個驚人的數字。</text>
+	<text id="day4_angela_2">如果沒有，那接下來的消息將會改變您的想法：</text>
+	<text id="day4_angela_3">自您入職腦葉公司以來，公司的能源數值至少提高了13%。</text>
+	<text id="day4_angela_4">13%，雖然您現在可能還無法估量，但這是一個驚人的數字。</text>
 	<text id="day4_angela_5">您有何感想？</text>
 	<text id="day4_selection1">我很高興。</text>
 	<text id="day4_selection2">不太清楚。</text>
@@ -14,7 +14,7 @@
 	<text id="day4_angela_1_5">但只要您感到高興就好。</text>
 	<text id="day4_angela_1_6">我還記得，您初次來到這裡時的表情。</text>
 	<text id="day4_angela_1_7">您有些退縮，</text>
-	<text id="day4_angela_1_8">神情緊繃，臉上不見一絲笑容。</text>
+	<text id="day4_angela_1_8">臉上不見一絲笑容。</text>
 	<text id="day4_angela_1_9">甚至對我處處防備。</text>
 	<text id="day4_angela_1_10">現在，您大可感到高興。</text>
 	<text id="day4_angela_2_1">為什麼？</text>
@@ -24,9 +24,9 @@
 	<text id="day4_angela_2_5">當然，這只是一種比喻。儘管並非物理意義上的「小跑過來」，但無論如何，我沒預料到您的反應竟會如此無味。</text>
 	<text id="day4_angela_2_6">您再高興一些，也並無不妥。</text>
 	<text id="day4_angela_3_1">另外，今天是個特別的日子。</text>
-	<text id="day4_angela_3_2">您注意到桌前這瓶剛開啟的香檳了嗎？讓我們舉杯吧！</text>
+	<text id="day4_angela_3_2">桌前應該有一瓶剛開的香檳，我們來乾杯吧？</text>
 	<text id="day4_angela_3_3">噢，這並非什麼重大的紀念日，既不是誰的生日，又不是公司的成立日。</text>
-	<text id="day4_angela_3_4">就在昨天，您失去了自上任以來的第一名職員。</text>
+	<text id="day4_angela_3_4">就在最近，您造成了自上任以來的第一名職員的死亡。</text>
 	<text id="day4_angela_3_5">事實上，在未來漫長的日子裡，這不過是將要發生的眾多事件中的一樁小事。但我擔心您受到意外的打擊，所以特別來提前告知您。</text>
 	<text id="day4_angela_3_6">從踏入公司的那一刻起，他們就已做好了覺悟。公司將隨著職員的犧牲而發展——如果您能這樣理解，一切就會簡單得多。</text>
 	<text id="day4_angela_3_7">或許，他們在生命的最後一刻，也為自己感到自豪。</text> 
