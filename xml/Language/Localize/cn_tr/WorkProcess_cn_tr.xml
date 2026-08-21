@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <localize>
-  <text id="WorkProcess_start_0">確認工作開始序列中</text>
+  <text id="WorkProcess_start_0">正在確認工作開始序列</text>
   
   <text id="WorkProcess_R_0">檢查生命體徵</text>
   <text id="WorkProcess_R_1">檢查營養需求變化</text>
   <text id="WorkProcess_R_2">啟動營養供應序列</text>
-  <text id="WorkProcess_R_3">分配 37% 的 Cogito</text>
+  <text id="WorkProcess_R_3">分配37%的Cogito</text>
   <text id="WorkProcess_R_4">檢查鎮咳作用率</text>
   <text id="WorkProcess_R_5">調節水分攝取度</text>
   <text id="WorkProcess_R_6">檢查表皮強度</text>
@@ -15,7 +15,7 @@
   <text id="WorkProcess_R_10">分析無機狀態回歸率</text>
   <text id="WorkProcess_R_11">分析有機狀態持續率</text>
   <text id="WorkProcess_R_12">確認先天特質</text>
-  <text id="WorkProcess_R_13">協助個體儲存現象</text>
+  <text id="WorkProcess_R_13">協助個體保存現象</text>
   <text id="WorkProcess_R_14">應用習性學觀點</text>
   <text id="WorkProcess_R_15">消除本能消耗程序</text>
   <text id="WorkProcess_R_16">抑制身體固有反應</text>
@@ -24,7 +24,7 @@
   <text id="WorkProcess_R_19">附加經典條件反射</text>
   <text id="WorkProcess_R_20">附加工具條件反射</text>
   <text id="WorkProcess_R_21">測試條件刺激</text>
-  <text id="WorkProcess_R_22">強化中和刺激</text>
+  <text id="WorkProcess_R_22">強化中性刺激</text>
   <text id="WorkProcess_R_23">嘗試緩解生理需求</text>
   <text id="WorkProcess_R_24">誘導生理滿足度增加</text>
   <text id="WorkProcess_R_25">附加工具性條件</text>
@@ -89,7 +89,7 @@
   <text id="WorkProcess_P_3">封印觀念</text>
   <text id="WorkProcess_P_4">抑制神經衰弱</text>
   <text id="WorkProcess_P_5">抑制回歸</text>
-  <text id="WorkProcess_P_6">進行二次壓迫</text>
+  <text id="WorkProcess_P_6">進行二次壓制</text>
   <text id="WorkProcess_P_7">進行慾望消除程序</text>
   <text id="WorkProcess_P_8">驅逐衝動行為</text>
   <text id="WorkProcess_P_9">抑制本能</text>
@@ -107,8 +107,8 @@
   <text id="WorkProcess_P_21">分解概念複合體</text>
   <text id="WorkProcess_P_22">驅逐觀念表徵</text>
   <text id="WorkProcess_P_23">破壞重複回歸連鎖</text>
-  <text id="WorkProcess_P_24">分化利比多</text>
+  <text id="WorkProcess_P_24">分化力比多</text>
   <text id="WorkProcess_P_25">加速單點迴歸</text>
   
-  <text id="WorkProcess_end_0">正常運行工作結束演算法</text>
+  <text id="WorkProcess_end_0">工作結束演算法正常運行</text>
 </localize>
