@@ -3,23 +3,23 @@
 
   <text id="boss_seed">光之種萌發</text>
 
-  <text id="boss_recive_mission_up_txt">偵測到因 Sephirah 崩潰產生的逆卡巴拉具象化</text>
-  <text id="boss_recive_mission_down_txt">需要對 Sephirah 的核心進行抑制</text>
+  <text id="boss_recive_mission_up_txt">偵測到因Sephirah崩潰產生的逆卡巴拉具象化</text>
+  <text id="boss_recive_mission_down_txt">需要對Sephirah的核心進行抑制</text>
 
-  <text id="boss_tutorial_0">若未完成該 Sephirah 的所有任務與劇情，此處的「抑制核心」按鈕將不會顯示。</text>
+  <text id="boss_tutorial_0">若未完成該Sephirah的所有任務與劇情，此處的「抑制核心」按鈕將不會顯示。</text>
   <text id="boss_tutorial_1">若取得核心抑制任務但未滿足條件時，此處會顯示「條件未滿足」按鈕。滿足下述條件後，即可開啟抑制按鈕。</text>
   <text id="boss_tutorial_2">滿足所有條件後，左上角的「條件未滿足」會轉變為可按下的抑制按鈕。</text>
-  <text id="boss_tutorial_3">按下抑制按鈕後，將無法指派對應部門內的員工，同時會顯示抑制核心的完成條件及負面效果。</text>
-  <text id="boss_tutorial_4">按下抑制按鈕後，原先的「開始管理」按鈕將變為「抑制核心」。</text>
+  <text id="boss_tutorial_3">按下抑制按鈕後，將無法指派對應部門內的員工，同時會顯示核心抑制的完成條件及負面效果。</text>
+  <text id="boss_tutorial_4">原先的「開始管理」按鈕將會變為「抑制核心」。</text>
 
   <text id="boss_common_clear">完全同步</text>
   <text id="boss_common_qliphoth">該部門不再受一般逆卡巴拉熔毀影響</text>
   
   <!--Malkut-->
-  <text id="boss_malkut_clear">逆卡巴拉熔毀達到 6 級 + 滿足今日所需能源配額</text>
+  <text id="boss_malkut_clear">逆卡巴拉熔毀達到6級+滿足今日能源配額指標</text>
   <text id="boss_malkut_condition">偵測到工作指令系統出現異常</text>
 
-  <text id="boss_malkut_reward_0">每日結束管理時，增加所獲得的 LOB 點數</text>
+  <text id="boss_malkut_reward_0">每日結束管理時，增加所獲得的LOB點數</text>
   <text id="boss_malkut_reward_1">提升員工的移動速度</text>
 
   <text id="boss_malkut_default_0">這就是所謂的「失控狀況」啊，主管。</text>
@@ -29,10 +29,10 @@
   <text id="boss_malkut_overload1_0">我明明可以做到的。</text>
   <text id="boss_malkut_overload1_1">我只是想幫上忙而已。</text>
 
-  <text id="boss_malkut_overload2_0">我早就知道，那項實驗的管理權與我無關，所以才如此焦躁不安。</text>
+  <text id="boss_malkut_overload2_0">我早就知道，那項實驗不在我的管轄範圍內，所以反而更焦躁。</text>
   <text id="boss_malkut_overload2_1">請你好好體會這份可怕的無力感。</text>
 
-  <text id="boss_malkut_overload3_0">主管，你看著吧。我會努力控制住的。</text>
+  <text id="boss_malkut_overload3_0">主管，請看著吧，我會試著控制這個情況的。</text>
   <text id="boss_malkut_overload3_1">我還有很多事要做，你看這本筆記本，都已經破舊成這樣了……</text>
 
   <text id="boss_malkut_overload4_0">你聽不見那個聲音嗎？就是那蠢蠢欲動的聲音，像是在掙扎著說不能就這樣沉睡下去。</text>
@@ -46,26 +46,26 @@
 
 
   <!--Yesod-->
-  <text id="boss_yesod_clear">逆卡巴拉熔毀等級達到 6 級 + 滿足今日所需能源配額</text>
+  <text id="boss_yesod_clear">逆卡巴拉熔毀等級達到6級+滿足今日能源配額指標</text>
   <text id="boss_yesod_condition">偵測到情報確認程式出現異常</text>
 
-  <text id="boss_yesod_reward_0">完成對異想體的工作時，對應的獨立 PE-Box 產量增加 25%</text>
+  <text id="boss_yesod_reward_0">完成對異想體的工作時，對應的獨立PE-Box產量提高25%</text>
 
-  <text id="boss_yesod_default_0">我一直在看些什麼？</text>
-  <text id="boss_yesod_default_1">不見前方的黑暗，不可言喻的孤獨。</text>
+  <text id="boss_yesod_default_0">我究竟一直在看些什麼？</text>
+  <text id="boss_yesod_default_1">不見前方的黑暗，無法言說的孤獨。</text>
   <text id="boss_yesod_default_2">我們連任何事物，都無法真正看清。</text>
 
   <text id="boss_yesod_overload1_0">我們究竟做錯了什麼？</text>
-  <text id="boss_yesod_overload1_1">難道我們連絕望的權利都沒有嗎？</text>
+  <text id="boss_yesod_overload1_1">難道我們連絕望的價值都沒有嗎？</text>
 
   <text id="boss_yesod_overload2_0">老實說，我不想再看見更多的死亡了。</text>
-  <text id="boss_yesod_overload2_1">我們創造了不該存在於這世上的怪物，這份罪孽絕不可饒恕。</text>
+  <text id="boss_yesod_overload2_1">我們誕生了不該存在於這世上的怪物。這份罪孽絕不可饒恕。</text>
 
   <text id="boss_yesod_overload3_0">你可知道，你草草略過的每一行情報，背後都是靠某些人的犧牲換來的？</text>
-  <text id="boss_yesod_overload3_1">我負責情報部——一個取得情報後，依照指令將其抹消的部門，真是令人無比自豪。</text>
+  <text id="boss_yesod_overload3_1">我負責情報部，一個取得情報後，依照指令將其抹消的部門，真是令人無比自豪。</text>
 
   <text id="boss_yesod_overload4_0">連管理須知都記不牢的你，根本沒有資格擔任主管。</text>
-  <text id="boss_yesod_overload4_1">你難道看不見我這腐爛流膿的血肉嗎？</text>
+  <text id="boss_yesod_overload4_1">你難道看不見我腐爛流膿的血肉嗎？</text>
 
   <text id="boss_yesod_overload5_0">原來，從很久以前，我就一直在絕望中。</text>
   <text id="boss_yesod_overload5_1">我總是裝作若無其事，但實際上，我比誰都難受。我的內心，早已一點一滴地死去。</text>
@@ -76,10 +76,10 @@
 
 
   <!--Netzach-->
-  <text id="boss_netzach_clear">逆卡巴拉熔毀等級達到 6 級 + 滿足今日所需能源配額</text>
+  <text id="boss_netzach_clear">逆卡巴拉熔毀等級達到6級+滿足今日能源配額指標</text>
   <text id="boss_netzach_condition">偵測到員工的恢復進程出現異常</text>
 
-  <text id="boss_netzach_reward_0">再生反應爐能恢復非休息室內所有職員的生命值與精神值（效率為 50%）</text>
+  <text id="boss_netzach_reward_0">再生反應爐能恢復非休息室內所有職員的生命值與精神值（效率為50%）</text>
 
   <text id="boss_netzach_default_0">在這裡，沒人是安全的。你覺得自己會是例外嗎？</text>
   <text id="boss_netzach_default_1">就算延長那本不願迎來的死亡，到頭來又有什麼意義。</text>
@@ -105,10 +105,10 @@
 
 
   <!--Hod-->
-  <text id="boss_hod_clear">逆卡巴拉熔毀等級達到 6 級 + 滿足今日所需能源配額</text>
+  <text id="boss_hod_clear">逆卡巴拉熔毀等級達到6級+滿足今日能源配額指標</text>
   <text id="boss_hod_condition">偵測到員工的能力值出現異常</text>
 
-  <text id="boss_hod_reward_0">新員工的初始美德等級均為 3 級</text>
+  <text id="boss_hod_reward_0">新員工的初始美德等級皆為3級</text>
 
   <text id="boss_hod_default_0">我們一起來拍個新進職員培訓用的影片吧！</text>
   <text id="boss_hod_default_1">請各位好好表現！很多職員會反覆觀看，甚至當作參考！</text>
@@ -120,7 +120,7 @@
   <text id="boss_hod_overload2_0">為什麼他們就是不明白我的好意呢？</text>
   <text id="boss_hod_overload2_1">明明只有我在擔心他們的安危，為什麼他們反而討厭我？</text>
 
-  <text id="boss_hod_overload3_0">主管主管，您沒生氣吧？您別這樣，我可是個好 Sephirah。</text>
+  <text id="boss_hod_overload3_0">主管主管，您沒生氣吧？您別這樣，我可是個好Sephirah。</text>
   <text id="boss_hod_overload3_1">我這麼努力，就是為了讓職員們能多活下來幾個，可卻沒人因此感謝我。</text>
 
   <text id="boss_hod_overload4_0">職員們都很痛苦。你看，要是沒了我，這裡根本無法正常運轉。</text>
@@ -129,32 +129,32 @@
   <text id="boss_hod_overload5_0">請原諒我，主管。你要是做不到的話，那還不如忘掉這一切。</text>
   <text id="boss_hod_overload5_1">要不是我，你們早就全滅了！所有人都是如此！</text>
 
-  <text id="boss_hod_finish_0">也許，我從一開始就不是個好人……</text>
+  <text id="boss_hod_finish_0">也許，我從一開始，就不是個好人……</text>
 
 
-  <text id="boss_hod_story_finish">臻于至善的希望</text>
+  <text id="boss_hod_story_finish">臻於至善的希望</text>
 
 
   <!--Tiphereth-->
-  <text id="boss_tipererth1_clear">逆卡巴拉熔毀等級達到 10 級</text>
+  <text id="boss_tipererth1_clear">逆卡巴拉熔毀等級達到10級</text>
   <text id="boss_tipererth1_condition">偵測到大量的逆卡巴拉熔毀</text>
 
-  <text id="boss_tipererth1_reward_0">子彈數量增加 30% 並啟用蒼色傷害護盾</text>
+  <text id="boss_tipererth1_reward_0">子彈數量提高30%，啟用蒼色傷害護盾</text>
 
-  <text id="boss_tipererth1_default_0">所有收容單元都在我的掌控之下。</text>
-  <text id="boss_tipererth1_default_1">這首由 Tiphereth 所作的挽歌，是獻給 Tiphereth 的。</text>
+  <text id="boss_tipererth1_default_0">所有的收容單元，都在我的掌控之下。</text>
+  <text id="boss_tipererth1_default_1">這首由Tiphereth所作的挽歌，是獻給Tiphereth的。</text>
   <text id="boss_tipererth1_default_2">願這段旋律與歌聲，能稍微撫慰我們的靈魂。</text>
 
-  <text id="boss_tipererth1_overload1_0">我們雖是兩人，但終究是同一人。你能明白這其中的意義吧？</text>
+  <text id="boss_tipererth1_overload1_0">我們雖是兩人，但終究是同一人。能明白這其中的意義吧？</text>
 
 
   <text id="boss_tipererth1_overload2_0">中央總部非常龐大，即便有兩具身體，也還是忙不過來。</text>
 
 
-  <text id="boss_tipererth1_overload3_0">又到了更換的時候了嗎？那麼，照例去倉庫吧……</text>
+  <text id="boss_tipererth1_overload3_0">又到了更換的時候了嗎？那去倉庫吧……</text>
 
 
-  <text id="boss_tipererth1_overload4_0">Tiphereth 真的得到他想要的東西了嗎？還是說，Tiphereth……你從一開始到底想要什麼？</text>
+  <text id="boss_tipererth1_overload4_0">Tiphereth真的得到他想要的東西了嗎？還是說，Tiphereth……你從一開始，到底想要什麼？</text>
 
 
   <text id="boss_tipererth1_overload5_0">別用那種眼神盯著我，也別對著我寂寞地微笑。畢竟，是我拋棄了你。</text>
@@ -166,10 +166,10 @@
   <text id="boss_tipererth1_overload7_0">如果連你的耳中也響起了這首挽歌……</text>
 
 
-  <text id="boss_tipererth1_overload8_0">等 Tiphereth 回來時，我要讓他看看，我已經成長得這麼堅強了……</text>
+  <text id="boss_tipererth1_overload8_0">等Tiphereth回來時，我要讓他看看，我已經成長得這麼堅強了……</text>
 
 
-  <text id="boss_tipererth1_overload9_0">你不是說過，接下來只會有幸福的事發生嗎……</text>
+  <text id="boss_tipererth1_overload9_0">你不說過，接下來只會有幸福的事發生嗎……</text>
 
 
   <text id="boss_tipererth1_finish_0">這一切，都是值得的嗎？</text>
@@ -178,10 +178,10 @@
 
 
   <!--chesed-->
-  <text id="boss_chesed_clear">逆卡巴拉熔毀等級達到 8 級 + 滿足今日所需能源配額</text>
+  <text id="boss_chesed_clear">逆卡巴拉熔毀等級達到8級+滿足今日能源配額指標</text>
   <text id="boss_chesed_condition">偵測到職員所受傷害出現異常</text>
 
-  <text id="boss_chesed_reward_0">職員在死亡或陷入恐慌前，有 25% 機率得到恢復（每名職員每日僅限一次）</text>
+  <text id="boss_chesed_reward_0">職員在死亡或陷入恐慌前，有25%機率得到恢復（每名職員每日僅限1次）</text>
 
   <text id="boss_chesed_default_0">今天真是格外善變啊~</text>
   <text id="boss_chesed_default_1">讓我的職員們安息吧。</text>
@@ -190,16 +190,16 @@
   <text id="boss_chesed_overload1_0">下雨了。那是職員們的眼淚。這場雨，恐怕永遠都不會停了。</text>
 
 
-  <text id="boss_chesed_overload2_0">冷掉的咖啡就該倒掉，我們需要重新換上新的。</text>
+  <text id="boss_chesed_overload2_0">冷掉的咖啡就該倒掉，我們需要重新換上新一杯。</text>
 
 
-  <text id="boss_chesed_overload3_0">我身上還有所謂的良心嗎？</text>
+  <text id="boss_chesed_overload3_0">我的身上，還有所謂的良心嗎？</text>
 
 
-  <text id="boss_chesed_overload4_0">主管，你可真讓人羨慕，竟然能把羞恥忘得一乾二淨。</text>
+  <text id="boss_chesed_overload4_0">主管，你可真讓人羨慕，竟能把羞恥忘得一乾二淨。</text>
 
 
-  <text id="boss_chesed_overload5_0">等安潔拉到來時，我會服從她的安排，並犯下罪行……我甚至都找不到能遮掩我羞恥的無花果葉。</text>
+  <text id="boss_chesed_overload5_0">等安潔拉到來時，我會服從她的安排，並犯下罪行……我甚至都找不到，能遮掩羞恥的無花果葉。</text>
 
 
   <text id="boss_chesed_overload6_0">就算現在想要懺悔，也已為時已晚。</text>
@@ -214,19 +214,19 @@
 
 
   <!--gebura-->
-  <text id="boss_geburah_clear">無效化 Gebura 的核心</text>
+  <text id="boss_geburah_clear">無效化Gebura的核心</text>
   <text id="boss_geburah_condition">殷紅迷霧已然歸來</text>
-  <text id="boss_geburah_reward_0">使用獨立 PE-Box 製作 E.G.O 的可製作上限增加 1 件（最高為 5 件）</text>
+  <text id="boss_geburah_reward_0">使用獨立PE-Box製作E.G.O的可製作上限增加1件（最高為5件）</text>
   <text id="boss_geburah_default_0">我要把這裡，還有所有像這樣的地方，全部毀掉。</text>
   <text id="boss_geburah_default_1">什麼都沒能守護住的我，如今還剩下什麼？</text>
   <text id="boss_geburah_default_2">就憑你這種弱者，也想來阻止我？</text>
-  <text id="boss_geburah_default_3">讓我來讓你見識見識，什麼才叫 E.G.O 的真用法。</text>
-  <text id="boss_geburah_overload1_0">我，殷紅迷霧，從那片痛苦之中歸來。</text>
+  <text id="boss_geburah_default_3">我來讓你見識見識，什麼才叫E.G.O的真用法。</text>
+  <text id="boss_geburah_overload1_0">我，從痛苦中走了出來的殷紅迷霧，回來了。</text>
   <text id="boss_geburah_overload1_1">我已不再是從前那個脆弱的我。肢體斷了可以更換，身軀碎了也能修復。</text>
   <text id="boss_geburah_overload2_0">有些東西，就算經歷漫長的沖刷，也從未褪色。</text>
-  <text id="boss_geburah_overload2_1">那毒藥般的仇恨，既會吞噬我，也會喚醒我。</text>
+  <text id="boss_geburah_overload2_1">那毒藥般的仇恨將我吞噬殆盡，卻也讓我再次睜開雙眼。</text>
   <text id="boss_geburah_overload3_0">有些東西，就算身處凜冽的寒冷，也從未冷卻。</text>
-  <text id="boss_geburah_overload3_1">殺人的怪物不可饒恕，而我從天而降，只為懲戒。</text>
+  <text id="boss_geburah_overload3_1">怪物總是殺人，那罪惡沒有盡頭，而我的降臨，是為了懲戒。</text>
   <text id="boss_geburah_overload4_0">要走的路漫長而又遙遠，但我怒火未熄，依然向前狂奔。</text>
   <text id="boss_geburah_finish_0">啊，要破碎了……但就算化成了灰，我也絕不會放開手中的武器……</text>
   <text id="boss_geburah_story_finish">守護他人的膽魄</text>
@@ -243,10 +243,10 @@
   <text id="boss_geburah_battle_7">重頭再來！</text>
   <text id="boss_geburah_battle_8">寂靜樂章！</text>
   <text id="boss_geburah_battle_9">柔和連奏！</text>
-  <text id="boss_geburah_battle_10">拜托了，伙伴！</text>
+  <text id="boss_geburah_battle_10">拜托了，夥伴！</text>
   <text id="boss_geburah_battle_11">只剩血霧！</text>
   <text id="boss_geburah_battle_12">還不夠！</text>
-  <text id="boss_geburah_battle_13">顯出你的真能力吧！</text>
+  <text id="boss_geburah_battle_13">我也不是毫無準備！</text>
   <text id="boss_geburah_battle_14">暗哂！</text>
   <text id="boss_geburah_battle_15">吞噬！</text>
   <text id="boss_geburah_battle_16">正義裁決！</text>
@@ -268,9 +268,9 @@
 
  <!-- Binah-->
 
-  <text id="boss_binah_clear">無效化 Binah 的核心</text> 
+  <text id="boss_binah_clear">無效化Binah的核心</text> 
   <text id="boss_binah_condition">調律者已然蘇醒</text>
-  <text id="boss_binah_reward_0">即使員工死亡，身上的 E.G.O 裝備也不會損壞丟失</text>
+  <text id="boss_binah_reward_0">即使員工死亡，身上的E.G.O裝備也不會損壞丟失</text>
   <text id="boss_binah_default_0">這一次，你能憑藉自己的力量阻止我嗎？</text>
   <text id="boss_binah_default_1">這一次，試著不依靠她的力量來阻止我。</text>
   <text id="boss_binah_default_2">昔日的感覺又回來了。</text>
@@ -287,13 +287,13 @@
 
 
   <text id="boss_binah_battle_0">散開。</text>
-  <text id="boss_binah_battle_1">來，妖靈。</text>
+  <text id="boss_binah_battle_1">妖靈。</text>
   <text id="boss_binah_battle_2">分析，壓縮，展開。</text>
   <text id="boss_binah_battle_3">別站在我眼前。</text>
   <text id="boss_binah_battle_4">涌起。</text>
   <text id="boss_binah_battle_5">塌落。</text>
   <text id="boss_binah_battle_6">共鳴。</text>
-  <text id="boss_binah_battle_7">密鑰，冷凝。</text>
+  <text id="boss_binah_battle_7">鑰匙，凝聚。</text>
   <text id="boss_binah_battle_8">集中。</text>
   <text id="boss_binah_battle_9">開啟。</text>
   <text id="boss_binah_battle_10">汎濫。</text>
@@ -303,9 +303,9 @@
   <text id="boss_binah_battle_14">共沉淪於此。</text>
   <text id="boss_binah_battle_15">困。</text>
   <text id="boss_binah_battle_16">你未能讓我彎腰屈服。</text>
-  <text id="boss_binah_battle_17">退。</text>
+  <text id="boss_binah_battle_17">淡去。</text>
   <text id="boss_binah_battle_18">你的機會，就此錯過。</text>
-  <text id="boss_binah_battle_19">浪潮再次升起。</text>
+  <text id="boss_binah_battle_19">浪潮再次翻騰。</text>
   <text id="boss_binah_battle_20">獨自一人，無法阻擋此流。</text>
   <text id="boss_binah_battle_21">不錯。</text>
   <text id="boss_binah_battle_22">幼稚。</text>
@@ -319,11 +319,11 @@
 
   <!-- hokma-->
 
-  <text id="boss_chokhmah_clear">完成 10 級逆卡巴拉熔毀 + 滿足今日所需能源配額</text>
+  <text id="boss_chokhmah_clear">完成10級逆卡巴拉熔毀+滿足今日能源配額指標</text>
   <text id="boss_chokhmah_condition">滴答……滴答……偵測到時間流逝出現異常。</text>
 
-  <text id="boss_chokhmah_reward_0">員工的所有能力值基礎增長上限提高至 130。</text>
-  <text id="boss_chokhmah_reward_1">僱用員工時，可直接將美德等級訓練至 EX 級。</text>
+  <text id="boss_chokhmah_reward_0">員工的所有能力值基礎增長上限提高至130。</text>
+  <text id="boss_chokhmah_reward_1">僱用員工時，可直接將美德等級訓練至EX級。</text>
 
   <text id="boss_chokhmah_default_0">我們非得改變不可嗎？</text>
   <text id="boss_chokhmah_default_1">所有喜愛您的人，不都正齊聚於此嗎？</text>
@@ -354,26 +354,26 @@
 
   <!--Kether Boss Session-->
   <text id="boss_kether_clear_0">證明</text>
-  <text id="boss_kether_condition_0">鎮壓「白色的午夜」+ 滿足今日所需能源配額</text>
+  <text id="boss_kether_condition_0">鎮壓「白色的午夜」+滿足今日能源配額指標</text>
   <text id="boss_kether_clear_1">倦怠與等待</text>
-  <text id="boss_kether_condition_1">完成 6 級逆卡巴拉熔毀等級 + 滿足今日所需能源配額</text>
+  <text id="boss_kether_condition_1">完成6級逆卡巴拉熔毀等級+滿足今日能源配額指標</text>
   <text id="boss_kether_clear_2">後悔與贖罪</text>
-  <text id="boss_kether_condition_2">逆卡巴拉熔毀等級達到 10 級，或鎮壓「殷紅迷霧」</text>
+  <text id="boss_kether_condition_2">逆卡巴拉熔毀等級達到10級，或鎮壓「殷紅迷霧」</text>
   <text id="boss_kether_clear_3">自由與救贖</text>
-  <text id="boss_kether_condition_3">逆卡巴拉熔毀等級達到 10 級 + 滿足今日所需能源配額，或鎮壓「調律者」</text> 
+  <text id="boss_kether_condition_3">逆卡巴拉熔毀等級達到10級+滿足今日能源配額指標，或鎮壓「調律者」</text> 
   <text id="boss_kether_clear_4">光之樹</text>
-  <text id="boss_kether_condition_4">滿足今日所需能源配額</text>
+  <text id="boss_kether_condition_4">滿足今日能源配額指標</text>
 
 
   <!-- 47일 케테르 (아벨) -->
-  <text id="boss_kether_overload1_E1_0">我們當初連該往何處去都不知道。事到如今，你還以為能有所改變嗎？絕無可能。</text>
+  <text id="boss_kether_overload1_E1_0">我們當初連該往何處去都不知道。事到如今，你還以為能變好嗎？不可能。</text>
   <text id="boss_kether_overload1_E1_1">一個人連站都站不穩，又談何前行呢？</text>
   <text id="boss_kether_overload1_E1_2">記住以利亞的結局，記住她無法站立、只能在地上爬行的模樣……</text>
   <text id="boss_kether_overload1_E1_3">即便在此刻，回頭才是對所有人最好的選擇。誰知道呢，或許我們這不可饒恕的罪孽，也能因此減輕分毫？</text>
 
-  <text id="boss_kether_overload2_E1_0">即使身邊的人接連倒下，也得若無其事地為明天做準備。我們的心，早已被絕望浸透。</text>
-  <text id="boss_kether_overload2_E1_1">壓抑的感覺會引發幻痛，讓身體產生彷彿有蟲子在爬的錯覺。</text>
-  <text id="boss_kether_overload2_E1_2">我們別無選擇，來時的路早已渺茫。然而一旦崩潰，一切便如高塔崩塌，四分五裂。</text>
+  <text id="boss_kether_overload2_E1_0">即使身邊的人接連倒下，也得若無其事地為明天做準備。我們的心，正被絕望淹沒。</text>
+  <text id="boss_kether_overload2_E1_1">必須忍耐的心會引發幻痛，讓身體產生彷彿有蟲子在爬的錯覺。</text>
+  <text id="boss_kether_overload2_E1_2">我們必須做到。因為來時的路已太過遙遠。然而一旦崩潰，一切便如高塔般開始瓦解。</text>
   <text id="boss_kether_overload2_E1_3">只能執著於規則，不容許自己有一絲悲傷。除此之外，別無他法。你也是這麼想的，對吧？</text>
 
 
@@ -381,7 +381,7 @@
   <text id="boss_kether_overload3_E1_1">我們曾以為是希望的一切，最後全都化為絕望，向我們逼近。</text>
   <text id="boss_kether_overload3_E1_2">這裡又怎麼可能變得更好呢？剩下的只會是每況愈下。</text>
 
-  <text id="boss_kether_overload4_E1_0">只有我活了下來。為了活下去，我苟延殘喘。我曾以為，只要想盡辦法能活下去就行——多麼愚蠢。</text>
+  <text id="boss_kether_overload4_E1_0">只有我活了下來。為了活下去，我苟延殘喘。我曾以為，只要能活下去就行。多麼愚蠢。</text>
   <text id="boss_kether_overload4_E1_1">或許，我們的靈魂早已死去。就像卡門曾經深深痛惜的那些「靈魂已死之人」。</text>
   <text id="boss_kether_overload4_E1_2">繼續留在這裡也毫無意義。拜託你，到此為止吧。</text>
   <text id="boss_kether_overload4_E1_3">你曾告訴喬凡尼，說能救回卡門。但請仔細想想：當你引領他走向長眠時，你的心真的是真誠的嗎？</text>
@@ -399,7 +399,7 @@
   <text id="boss_kether_overload1_E2_2">不要害怕沉淪，心甘情願地接受吧。讓我們一起浸入卡門之中。</text>
 
   <text id="boss_kether_overload2_E2_0">別再抱有任何期待了。就算是為了那些毫無希望地死去的職員們也罷。</text>
-  <text id="boss_kether_overload2_E2_1">如果存在本身就是悲傷，那麼治癒這疾病的方法就只有一種：閉上雙眼，從此不再睜開。</text>
+  <text id="boss_kether_overload2_E2_1">如果存在本身太悲傷的話，治癒這疾病的方法就只有一種：閉上雙眼，從此不再睜開。</text>
   <text id="boss_kether_overload2_E2_2">我們緊緊握著她手中給予的溫暖，卻親手毀掉了一切。</text>
   <text id="boss_kether_overload2_E2_3">你說說看，我們所做的這些，到底有什麼了不起的意義？</text>
 
@@ -410,19 +410,19 @@
   <text id="boss_kether_overload3_E2_4">為什麼偏偏是我，被獨自遺棄在這個世界上，落到這種下場？</text>
 
   <text id="boss_kether_overload4_E2_0">是啊，她時常仰望的那片天空中，所有的道路都通向絕望。</text>
-  <text id="boss_kether_overload4_E2_1">慾望盡是空虛，全是徒勞。你聽不見嗎？門已關上，再也不會開啟。</text>
+  <text id="boss_kether_overload4_E2_1">慾望盡是空虛，全是徒勞。你聽不見嗎？門正在關上。再也不會開啟。</text>
   <text id="boss_kether_overload4_E2_2">我的生命就此結束也無所謂。無法戰勝的人，等待他的就只有烙印。</text>
   <text id="boss_kether_overload4_E2_3">我的職責本是守護職員和同事們，但我卻連一個人都沒能守護好。</text>
 
   <text id="boss_kether_overload5_E2_0">那天的風景、空氣、痛苦……就算想把它們抹去，它們還是會再次浮現。告訴我，到底該怎麼做才能擺脫它們？</text>
-  <text id="boss_kether_overload5_E2_1">我們憑著如此多的犧牲，才能走到今天。但我們，真的配得上這樣的存在嗎？</text>
+  <text id="boss_kether_overload5_E2_1">我們真的連這樣都有存在的價值嗎？以所有的犧牲為代價？</text>
   <text id="boss_kether_overload5_E2_2">讓我們靜靜地安睡吧……與經歷了漫長孤獨的卡門一起，沉入河中，隨波而去……</text>
 
 
   <text id="boss_kether_overload1_E3_0">到目前為止，你所走的路盡是荊棘。就像那不見盡頭的苦行之路。</text>
-  <text id="boss_kether_overload1_E3_1">於是，一個不再依附於任何傷痛、後悔，甚至是瑣碎記憶的形象，就此顯現。</text>
-  <text id="boss_kether_overload1_E3_2">人們每天流著困苦的眼淚，仰望觸不可及的希望活著。我們既然有力量，為什麼不樂意拯救他們？</text>
-  <text id="boss_kether_overload1_E3_3">就像遠古時代那樣：如果沒有人建造方舟，人類早已滅絕。如果沒有救世主，他們只會在永恆的煩悶中度過一生。</text>
+  <text id="boss_kether_overload1_E3_1">於是，我顯露出不再依附於任何傷痛、後悔，甚至是瑣碎記憶的模樣。</text>
+  <text id="boss_kether_overload1_E3_2">人們每天流著困境的眼淚，望著那觸不可及的希望，繼續活下去。我們既然有力量，為什麼不樂意拯救他們？</text>
+  <text id="boss_kether_overload1_E3_3">就像遠古時代，如果沒有人建造方舟，人類早就滅絕了。如果沒有救世主，他們只會在永恆的苦惱中度過一生。</text>
 
   <text id="boss_kether_overload2_E3_0">既然擁有這樣的權能，我們就應該行使它。</text>
   <text id="boss_kether_overload2_E3_1">你知道我們為了到達這裡，付出了多少犧牲嗎？而你現在竟然想讓這一切回歸虛無？加入我吧！</text>
@@ -448,10 +448,10 @@
   <text id="boss_kether_default_E4_0">來吧，我們就像往常一樣開始工作吧。</text>
 
   <!--반전-->
-  <text id="boss_kether_default_E4_1">可能會有點暈眩，但請忍耐一下，你所做的一切都是值得的。</text>
+  <text id="boss_kether_default_E4_1">可能會有點暈眩。但這是值得的，所以請暫時忍耐一下。</text>
   <text id="boss_kether_default_E4_2">我希望今天沒有人受苦，也沒有人死去。</text>
-  <text id="boss_kether_default_E4_3">我很抱歉，到最後還是要你繼續管理異想體。但請再堅持一下，終點就在眼前。</text>
-  <text id="boss_kether_default_E4_4">我們曾有太多無法承受的事。而你選擇把這無數痛苦吞下，在不知不覺中，你走到了今天。</text>
+  <text id="boss_kether_default_E4_3">很抱歉讓你一直管理到最後。但真的所剩不多了。</text>
+  <text id="boss_kether_default_E4_4">有過許多無法承受的事。不斷忍耐無數試煉，不知不覺間便走到了今天。</text>
   <text id="boss_kether_default_E4_5">能夠走到這裡的你，一定能做到的。讓我們平靜地迎接今天吧。</text>
 
   <!--상승-->
@@ -465,9 +465,9 @@
   <text id="boss_kether_default_E4_10">我們會讓人們能像人一樣活著。而在那之後，我們能做的，就只有靜靜地看著了。</text>
 
   <!--기둥-->
-  <text id="boss_kether_default_E4_11">你這 50 天來收集的所有能源，都是為了這一刻——為了照亮世界的這一刻。</text>
+  <text id="boss_kether_default_E4_11">你這50天來收集的所有能源，都是為了這一刻，為了照亮世界的這一刻。</text>
   <text id="boss_kether_default_E4_12">讓我們把這些在永恆的時間中所尋的答案，傳遞給所有人吧。</text>
-  <text id="boss_kether_default_E4_13">現在，該是我們退場的時候了。就算你我化作光芒消散，我們也一定不會被遺忘。</text>
+  <text id="boss_kether_default_E4_13">現在，該是我們退場的時候了。就算你和我化為光芒消散，也不會被遺忘。</text>
 
-  <text id="boss_kether_story_finish">思考的自我</text>
+  <text id="boss_kether_story_finish">我，思</text>
 </localize>
