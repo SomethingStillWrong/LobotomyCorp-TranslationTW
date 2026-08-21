@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
 	<text id="day48_abram_1">……</text>
-	<text id="day48_abram_2">還記得那些我們仍能感受到陽光溫暖的日子嗎？</text>
-	<text id="day48_abram_3">如今的我們已經變得過於冰冷，冰冷到無法留住那份溫暖。</text>
-	<text id="day48_abram_4">不，或許從一開始，那樣的溫暖就不屬於我們。</text>
+	<text id="day48_abram_2">還記得我們仍記得陽光溫暖的那段時光嗎？</text>
+	<text id="day48_abram_3">如今的我們已變得過於冰冷，冰冷到無法留住那份溫暖。</text>
+	<text id="day48_abram_4">不，從一開始，那樣的溫暖就不適合我們。</text>
 	<text id="day48_abram_5">你也感覺到了吧？</text>
-	<text id="day48_abram_6">一來到這裡，你就呼吸到了那股令人懷念的空氣。</text>
+	<text id="day48_abram_6">你一來到這裡，不就正感受著懷念的空氣嗎？</text>
 	<text id="day48_abram_7">……</text>
-	<text id="day48_abram_8">關於此地，有一個關於兩扇門的故事。</text>
+	<text id="day48_abram_8">關於此地，有關於兩扇門的故事。</text>
 	<text id="day48_abram_9">但願其永不開啟，卻又不得不開啟的門。</text>
+
     <text id="day48_carmen_1">是我，你在裡面嗎？</text>
 	<text id="day48_carmen_2">我能進去一下嗎？</text>
+
     <text id="day48_abram_12">我不想聽。</text>
-	<text id="day48_abram_13">我想假裝不在房間裡……</text>
-	<text id="day48_abram_14">因為我已經猜到她要說什麼了。</text>
+	<text id="day48_abram_13">我想假裝不在房間裡躲起來……</text>
+	<text id="day48_abram_14">因為我已經猜到了。</text>
 	<text id="day48_abram_15">她有時候會產生極端到近乎魯莽的想法。</text>
 	<text id="day48_abram_16">每到這時候，我都會感到害怕……</text>
-	<text id="day48_selection1">開啟那扇門</text>
+
+	<text id="day48_selection1">開門。</text>
+
     <text id="day48_abram_17">一開門，我們的目光便對上了。</text>
     <text id="day48_abram_18">她那雙不得不接受殘酷現實的眼睛，變得更加通紅。</text>
 	<text id="day48_abram_21">她走進你的研究室，小心翼翼地卻又堅定地傾訴了自己的假設。</text>
-	<text id="day48_abram_22">我想說這計劃荒唐至極，但一如往常，你被說服了，</text>
+	<text id="day48_abram_22">我想說這計劃很荒唐，但一如往常，你被說服了，</text>
 	<text id="day48_abram_23">不得不承認只有這個辦法。</text>
     <text id="day48_abram_23_1">我們之所以無法壓抑怒火，</text>
 	<text id="day48_abram_24">是因為她如此平靜地述說，彷彿事不關己，如此冷酷。</text>
     <text id="day48_abram_25">也因為不得不接受這事實的我們，也是如此可憎。</text>
+
 	<text id="day48_people_1">到這個階段已經無法再有任何進展了。</text>
 	<text id="day48_people_2">但總會有辦法的。</text>
 	<text id="day48_people_3">不還有卡門女士在嘛！</text>
@@ -34,29 +39,36 @@
     <text id="day48_people_7">卡門她……</text>
     <text id="day48_people_8">如果是卡門……</text>
     <text id="day48_people_9">卡門……</text>
-    <text id="day48_tipheretha_1">當初死的應該是你啊……</text>
+
+    <text id="day48_tipheretha_1">當初死的，應該是妳啊……</text>
+
 	<text id="day48_abram_26">毫無進展的研究、人們逐漸耗盡的期待與眼神……</text>
 	<text id="day48_abram_27">我們被逼到了懸崖邊，寸步難行。</text>
 	<text id="day48_abram_28">但在以諾停止呼吸的那天，我明白了。</text>
     <text id="day48_abram_28_1">道路始終就在眼前。</text>
-    <text id="day48_abram_28_2">一旦窺視到懸崖之下，</text>
+    <text id="day48_abram_28_2">一旦看到懸崖之下，</text>
     <text id="day48_abram_28_3">那就再也無法抬起頭了。</text>
+
+
+
 	<text id="day48_abram_29">我們的呼喚得不到任何回應，</text>
 	<text id="day48_abram_30">只傳來了陣陣水聲……</text>
 	<text id="day48_abram_31">我發瘋似地強行轉動門把，</text>
 	<text id="day48_abram_32">內心卻寧願它永遠不要被開啟……</text>
 	<text id="day48_abram_33">我祈求了無數次。</text>
-	<text id="day48_selection2">開啟那扇門</text>
+
+	<text id="day48_selection2">開門。</text>
+
     <text id="day48_abram_33_1">開了門後，我們對上了她緊閉的雙眼。</text>
-    <text id="day48_abram_33_2">而我這雙不得不接受那雙眼再也不會睜開的事實的眼睛，也同樣通紅。</text>
-	<text id="day48_abram_34">為了不讓我們背上罪惡感這種痛苦的情感，</text>
+    <text id="day48_abram_33_2">而我這雙不得不接受那雙眼再也不會睜開的事實的眼睛，也同樣紅了。</text>
+	<text id="day48_abram_34">為了不讓我們背上罪惡感這種費心的情感，</text>
 	<text id="day48_abram_35">她自己走進了浴缸。</text>
 	<text id="day48_abram_36">我們不是看得很清楚嗎？</text>
 	<text id="day48_abram_37">雖然她流了很多血，意識模糊，但她確實還活著。</text>
-	<text id="day48_abram_38">但我們卻用自己的手，將她剖開，讓她長眠於地下。</text>
+	<text id="day48_abram_38">但我們卻用自己的手，翻弄著她，讓她長眠於地下。</text>
 	<text id="day48_abram_39">……</text>
 	<text id="day48_abram_40">她為何如此殘酷？而我們又為何必須變得同樣殘酷？</text>
-	<text id="day48_abram_41">在見證以死亡澆灌的成功並舉杯慶祝的夜晚，我們提出了這個沒有答案的問題。</text>
+	<text id="day48_abram_41">在見證以死亡綻放的成功並舉杯慶祝的夜晚，我們提出了這個沒有答案的問題。</text>
 	<text id="day48_abram_42">但是，</text>
 	<text id="day48_abram_43">我找到了現在還能贖罪的方法……</text>
 	<text id="day48_abram_44">你來對地方了。</text>
@@ -64,14 +76,15 @@
 	<text id="day48_abram_46">別擔心，這點動靜不會吵醒她的。</text>
 	<text id="day48_abram_47">我們又能否重逢？</text>
 	<text id="day48_abram_48">這樣吧。</text>
-	<text id="day48_abram_49">我們去問問從最初就一直注視著你的她吧。</text>
+	<text id="day48_abram_49">我們去問問，從最初就一直注視著你的她吧。</text>
 	<text id="day48_carmen_3">……</text>
 	<text id="day48_carmen_4">我要坦白。我的心靈比大家想像的要脆弱得多。</text>
 	<text id="day48_carmen_5">雖然在人前總是自信滿滿地說：「一切都會順利的，請跟我來」，</text>
 	<text id="day48_carmen_6">但即使在說這些話的當下，我也沒有把握。</text>
+
 	<text id="day48_carmen_7">如果在這個過程中，有人感到痛苦、難受，</text>
 	<text id="day48_carmen_8">我肯定會變得軟弱，最終憎恨自己。這點我很清楚。</text>
-	<text id="day48_carmen_9">所以我拜託你。</text>
+	<text id="day48_carmen_9">所以，我拜託你。</text>
 <!--  음악 전환 -->
     <text id="day48_carmen_10">無論我變成什麼樣子，你都必須實現我的意志。</text>
 	<text id="day48_carmen_11">人類是心靈脆弱的存在。一旦出現裂痕就很容易崩潰。我也一樣。但是，</text>
@@ -89,17 +102,18 @@
 	<text id="day48_carmen_22">癢嗎？但要忍住。</text>
 	<text id="day48_carmen_23">然後，</text>
 	<text id="day48_carmen_24">永遠消逝吧。</text>
+
     <text id="day48_abram_50">……</text>
 	<text id="day48_abram_51">是啊，只剩下我了。</text>
 	<text id="day48_abram_52">能實現她理想的幫手，</text>
 	<text id="day48_abram_53">必須堅持到最後的人，</text>
 	<text id="day48_abram_54">只剩我了……</text>
-	<text id="day48_abram_55">但你沒告訴我，這會是一條如此殘酷的荊棘之路啊……</text>
+	<text id="day48_abram_55">但妳沒告訴我，這會是條如此殘酷的荊棘之路啊……</text>
 	<text id="day48_abram_56">……</text>
 	<text id="day48_abram_57">這就是用卡門的犧牲製成的水桶。</text>
 	<text id="day48_abram_58">水桶是此地的終點，也是起點。</text>
 	<text id="day48_abram_59">Cogito在此不斷地生產，讓生與死噴湧而出。</text>
-	<text id="day48_abram_60">看到鮮血溢出的浴缸時，我們以為一切都結束了。</text>
+	<text id="day48_abram_60">看到溢出的浴缸時，我們以為一切都結束了。</text>
 	<text id="day48_abram_61">但是，</text>
 	<text id="day48_abram_62">這是多麼錯誤的想法啊。</text>
 	<text id="day48_abram_63">她還「這樣」活著。</text>
@@ -109,9 +123,9 @@
 	<text id="day48_abram_67">為了成為翼，為了不被剝奪翼的資格，我們做了什麼，你都還記得吧？</text>
     <text id="day48_abram_67_1">起初確實感到噁心。</text>
     <text id="day48_abram_67_2">但重複兩次、三次之後，我們有了什麼變化？</text>
-    <text id="day48_abram_67_3">我們不是完美地執行了和其他翼別無二致的行為嗎？不，不對。我們反而以自己獨特的形式變得更加殘酷。</text>
-    <text id="day48_abram_67_4">為了實現理想必須獻祭人命——</text>
-    <text id="day48_abram_67_5">這個故事必須持續下去，</text>
+    <text id="day48_abram_67_3">我們不是完美地執行了和其他翼別無二致的勾當嗎？</text>
+    <text id="day48_abram_67_4">不，不對。我們反而以自己獨特的形式變得更加殘酷。</text>
+    <text id="day48_abram_67_5">為了實現理想必須獻祭人命，這個故事必須持續下去，</text>
     <text id="day48_abram_67_6">對外必須顯得我們專注於能源生產。</text>
     <text id="day48_abram_67_7">但我們自己最清楚。</text>
     <text id="day48_abram_67_8">面對無數次死亡卻連眼都不眨一下，真的只是演戲而已嗎？</text>
@@ -125,12 +139,12 @@
 	<text id="day48_abram_69">事到如今，那種事還重要嗎？</text>
 	<text id="day48_abram_70">不。</text>
 	<text id="day48_abram_71">我們的存在本身就是錯誤。</text>
-	<text id="day48_abram_72">所以，你和我所剩的只有贖罪。</text>
-	<text id="day48_tipheretha_2">你也知道。</text>
+	<text id="day48_abram_72">所以你和我所剩的，只有贖罪。</text>
+	<text id="day48_tipheretha_2">您也知道的吧。</text>
 	<text id="day48_tipheretha_3">我們並非毫無意義地承受了所有這些痛苦。</text>
-	<text id="day48_tipheretha_4">Tiphereth從很久以前就知道這個事實了。</text>
-	<text id="day48_tipheretha_5">所以他總是走得比我更前面。</text>
-	<text id="day48_tipheretha_6">我突然發現，你和Tiphereth都準確地注視著某個方向。</text>
+	<text id="day48_tipheretha_4">從很久以前，Tiphereth就知道這個事實了。</text>
+	<text id="day48_tipheretha_5">所以，他總是走得比我更前面。</text>
+	<text id="day48_tipheretha_6">我突然發現，您和Tiphereth都準確地注視著某個方向。</text>
 	<text id="day48_tipheretha_7">我好像因為不願意承認只有自己落後，所以一直在鬧脾氣。</text>
 	<text id="day48_tipheretha_8">好歹是中央總部的Sephirah，怎麼能只有我落後呢？</text>
 	<text id="day48_tipheretha_9">我說現在也要抱有期待，就是因為這個理由。</text>
@@ -139,32 +153,28 @@
 	<text id="day48_selection3">存在意義的期待</text>
 	<text id="day48_selection6">……</text>
 	<text id="day48_abram_77">即使有了期待，最終也會再次墜落谷底。</text>
-	<text id="day48_abram_78">你知道嗎？只有需要陽光的植物才需要光合作用。</text>
+	<text id="day48_abram_78">你知道嗎？光合作用，是對需要陽光的植物才必要的東西。</text>
 	<text id="day48_abram_79">對於像你和我這樣的人來說，它根本就沒有用……</text>
 	<text id="day48_abram_80">你看了剛才的場景還不明白嗎？把卡門逼向死亡的是我們啊……</text>
+
+
     <text id="day48_gebura_1">明明連明確的理由都想不起來，我卻總是怒火中燒。</text>
     <text id="day48_gebura_2">感覺自己遺漏了什麼重要的東西，卻不知道那是什麼。</text>
-    <text id="day48_gebura_3">如你所見，我用不好的方式宣洩了那份憤怒。</text>
-    <text id="day48_gebura_4">但毫無目的就爆發的怒氣，從未消失。</text>
-    <text id="day48_gebura_5">如果不是你阻止了我，它會越來越劇烈，最終將我吞噬。</text>
+    <text id="day48_gebura_3">如您所見，我用不好的方向宣泄了那份憤怒。</text>
+    <text id="day48_gebura_4">但毫無目的地表露的瘋狂，從未消失。</text>
+    <text id="day48_gebura_5">如果不是您阻止了我，它會越來越劇烈，最終將我吞噬。</text>
     <text id="day48_gebura_6">聽著，我們無法回到最初了。</text>
     <text id="day48_gebura_7">情況已經改變得太多了。</text>
-    <text id="day48_gebura_8">但多虧你阻止了我，我至少守住了和她的約定。</text>
-<!-- 수정-->
-    <text id="day48_gebura_9">你也該想起來了。</text>
-<!-- 수정-->
-    <text id="day48_gebura_10">比起讓你沉浸在罪惡感中痛苦，她更希望你能守護好剩下的東西。</text>
-<!-- 수정-->
+    <text id="day48_gebura_8">但因為您阻止了我，我至少守住了和她的約定。</text>	<!-- 수정-->
+    <text id="day48_gebura_9">您也該想起來了。</text>	<!-- 수정-->
+    <text id="day48_gebura_10">比起讓您沉浸在罪惡感中痛苦，她更希望您能守護好剩下的東西。</text>	<!-- 수정-->
     <text id="day48_selection4">守護他人的膽魄</text>
+
     <text id="day48_abram_81">……</text>
-    <text id="day48_abram_82">是啊，她將最後的願望託付給了我。</text>
-<!-- 수정-->
-    <text id="day48_abram_83">但我們遠比卡門的期待要不堪得多，</text>
-<!-- 수정-->
-    <text id="day48_abram_84">唯一信任我們的人已經消失了。</text>
-<!-- 수정-->
-    <text id="day48_abram_85">周圍早已空無一人。</text>
-<!-- 수정-->  
+    <text id="day48_abram_82">是啊，她將最後的託付給了我。</text>	<!-- 수정-->
+    <text id="day48_abram_83">我們是遠比卡門的期待更加不堪的人，</text>	<!-- 수정-->
+    <text id="day48_abram_84">唯一信任我們的人已經消失了。</text>	<!-- 수정-->
+    <text id="day48_abram_85">周圍早已空無一物。</text>	<!-- 수정-->  
     <text id="day48_chesed_1">主管，您知道我為什麼拒絕所有翼的邀請，選擇入職這家小公司嗎？</text>
 	<text id="day48_chesed_2">當然了，聽了卡門的演講產生好奇是沒錯。</text>
 	<text id="day48_chesed_3">但真正讓我決定的原因是，</text>
@@ -173,49 +183,54 @@
 	<text id="day48_chesed_6">不僅如此，主管。</text>
 	<text id="day48_chesed_7">卡門直到最後一刻都相信著您，</text>
 	<text id="day48_chesed_8">留下來的人們也相信著您。</text>
-	<text id="day48_chesed_9">你認為我為什麼會決定堅持到最後？</text>
-    <text id="day48_chesed_10">看看您的周圍吧。</text> 
-<!-- 수정-->
-    <text id="day48_chesed_11">所有因您而聚集而來的人，都在等著呢。</text>
- <!-- 수정-->
+	<text id="day48_chesed_9">你認為，我為什麼會留到最後？</text>
+    <text id="day48_chesed_10">看看您的周圍吧。</text>	<!-- 수정-->
+    <text id="day48_chesed_11">所有因您而聚集而來的人，都在等著呢。</text>	<!-- 수정-->
+
+
     <text id="day48_selection5">願意託付的信任</text>
+
+
 	<text id="day48_abram_92">你為何能如此確信？</text>
 	<text id="day48_abram_93">卡門不生不死地存在於此，</text>
-	<text id="day48_abram_94">你怎敢面對她，說要走向充滿未知的明天？</text>
+	<text id="day48_abram_94">你怎敢拋下她，說要走向充滿未知的明天？</text>
 	<text id="day48_abram_95">我們必須被永恆的刑罰所囚禁。</text>
 	<text id="day48_abram_96">而你卻說要邁向明天？要從這後悔與贖罪中解脫？</text>
 	<text id="day48_abram_97">這前面，有一道故事中未曾提及的最後之門。</text>
 	<text id="day48_abram_98">我無法開啟它。</text>
     <text id="day48_abram_99">那是對沉溺於後悔之人永不開啟的門。</text>
-    <text id="day48_abram_100">你覺得你能開啟它嗎？</text>
-    <text id="day48_selection7">開啟那扇門。</text>
+    <text id="day48_abram_100">你覺得，你能開啟它嗎？</text>
+
+    <text id="day48_selection7">開門。</text>
+
     <text id="day48_angela_1">……</text>
-    <text id="day48_angela_2">為什麼我只能看到黑暗？</text>
-    <text id="day48_angela_3">為什麼到最後的最後，我的聲音都無法傳入您的耳中？</text>
+    <text id="day48_angela_2">為什麼我一直只能看到黑暗？</text>
+    <text id="day48_angela_3">為什麼總是在最後，我的聲音都無法傳入您的耳中？</text>
     <text id="day48_angela_4"></text>
-    <text id="day48_abramFail_1">……我曾想，若是你找到了答案，或許會有所改變。</text>
-	<text id="day48_abramFail_2">但你還是失敗了。</text>
-	<text id="day48_abramFail_3">也就是說，失敗對我們來說是無法避免的。</text>
+
+    <text id="day48_abramFail_1">……是啊，就算是你，又能給我什麼答案呢。</text>
+	<text id="day48_abramFail_2">你也接受了我們失敗的事實啊。</text>
+	<text id="day48_abramFail_3">也就是說，對我們而言，失敗是無法避免的。</text>
 	<text id="day48_abramFail_4">但你看，</text>
 	<text id="day48_abramFail_5">失敗的我們，還是做到了一件事。</text>
 	<text id="day48_abramFail_6">卡門，</text>
 	<text id="day48_abramFail_7">我們能夠再次看見她了。雖然我們不能像從前那樣，在陽光普照的草地上打個盹，</text>
 	<text id="day48_abramFail_8">但至少她活著，還在看著我們。</text>
 	<text id="day48_abramFail_9">她會理解我們的。</text>
-	<text id="day48_abramFail_10">她會安慰我們說：「即使無法走到最後，但你也走到了現在。真是辛苦你了。」</text>
+	<text id="day48_abramFail_10">她會安慰我們說：「雖然沒能走到最後，但你們辛苦了，現在一起永遠休息吧。」</text>
 	<text id="day48_abramFail_11">現在，我們可以一同享受永恆的安息吧。</text>
 	<text id="day48_abramFail_12">我應該一開始就聽班傑明的話……</text>
 	<text id="day48_abramFail_13">我最大的遺憾與業障，就是不知道該在何時停下來。</text>
 	<text id="day48_abramFail_15">……</text>
-	<text id="day48_abramFail_16">卡門本身就是陽光，就算我們永遠在地下也不算什麼。</text>
+	<text id="day48_abramFail_16">卡門本身就是陽光，所以永遠在地下也無所謂。</text>
 	<text id="day48_abramFail_17">敬告全體職員，此廣播為預先錄製內容。我們在此恭賀你們從腦葉公司光榮退休。</text>
-	<text id="day48_abramFail_18">讓我們一起沉淪吧，卡門。</text>
-	<text id="day48_abramFail_19">雖然我的聲音你應該聽不見了，</text>
+	<text id="day48_abramFail_18">下沉吧，卡門。</text>
+	<text id="day48_abramFail_19">雖然妳應該聽不見我的聲音了，</text>
 	<text id="day48_abramFail_20">但那不重要。</text>
-	<text id="day48_abramFail_21">我再也不會開啟任何一扇門了……</text>
-	<text id="day48_abramFail_22">如果有一天能再睜開眼睛，我希望那時還能和你在一起。</text>
+	<text id="day48_abramFail_21">我不會再試圖開啟任何門了……</text>
+	<text id="day48_abramFail_22">如果有一天能再睜開眼睛，我希望那時，還能和妳在一起。</text>
 	<text id="day48_abramFail_23">各位職員辛苦了。我們對職員的努力與忠誠表示崇高的敬意……</text>
-	<text id="day48_selection8">關上那扇門</text>
+	<text id="day48_selection8">關門。</text>
   <text id="day48_abramFail_24">……晚安。</text>
 
 </localize>

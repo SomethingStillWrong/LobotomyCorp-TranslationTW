@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
 	<text id="day50_ayin_1">你已經見過自己的鏡像了吧？</text>
-	<text id="day50_ayin_2">他們的明日已然停滯，所以他們苦苦勸說、懇求你在此止步。</text>
-	<text id="day50_ayin_3">但你捨棄了與他們殘存的昨日。</text>
+	<text id="day50_ayin_2">他們的明日已然停止，因此才苦苦勸說、懇求你在此止步。</text>
+	<text id="day50_ayin_3">但你，捨棄了與他們殘存的昨日。</text>
 	<text id="day50_ayin_4">因此，我們才能在今日相見。</text>
 	<text id="day50_ayin_5">你能毫不猶豫地來到這裡，說明你已經明白狀況了。</text>
 	<text id="day50_ayin_6">我呢，</text>
@@ -10,7 +10,7 @@
 	<text id="day50_ayin_7">我們全都遺失了自己的心。</text>
 	<text id="day50_ayin_8">可是，我僅僅是知道而已，卻選擇了視而不見。恐怕不只我，許多人都是如此吧。</text>
 	<text id="day50_ayin_9">……這正是我們與卡門的差異。</text>
-	<text id="day50_ayin_10">她沒有選擇視而不見，而是想要拯救他們，幫助他們尋回丟失的靈魂。</text>
+	<text id="day50_ayin_10">她沒有選擇視而不見，而是想要拯救他們，幫他們尋回丟失的靈魂。</text>
 	<text id="day50_ayin_11">下定崇高決心要拯救人類的是她，</text>
 	<text id="day50_ayin_12">但最終繼承這條道路的，卻是我這種根本不具備那份正義感的人。</text>
 	<text id="day50_ayin_13">這真是諷刺。</text>
@@ -26,8 +26,8 @@
 	<text id="day50_ayin_23">那我甘願背負起所有罪孽前行，無論如何。</text>
 	<text id="day50_ayin_24">我們的角色，僅僅是在人們心中播下種子。</text>
 	<text id="day50_ayin_25">每個人都擁有屬於自己的光。</text>
-	<text id="day50_ayin_26">據說，他們將在那光中創造故事、實現願景，紮下存在的根基。</text>
-	<text id="day50_ayin_27">我們的職責只是播下種子，至於它如何發芽、如何綻放，則取決於人們自己。</text>
+	<text id="day50_ayin_26">據說，他們將在那光中創造故事、實現願望，紮下存在的根基。</text>
+	<text id="day50_ayin_27">我們的職責只是播下種子，至於它如何綻放，則取決於人們自己。</text>
 	<text id="day50_ayin_28">那我們呢？</text>
 	<text id="day50_ayin_29">遺憾的是，我們無法親眼見證那片森林會長成什麼模樣。</text>
 	<text id="day50_ayin_30">而且，我們還有一件事要做，</text>
@@ -35,15 +35,15 @@
   <text id="day50_ayin_30_2">……去管理異想體。</text>
   <text id="day50_ayin_30_3">你一定對此很熟悉了。</text>
   <text id="day50_ayin_30_4">來吧，</text>
-  <text id="day50_ayin_30_5">這將會是你以主管的身份，該做的最後一件事。</text>
+  <text id="day50_ayin_30_5">去進行你身為主管的最後一次上班吧。</text>
   
   
-	<text id="day50_ayin_31">宛如高塔般的巨樹自地底綻放，枝幹攀延而上，開始向世界播撒果實。</text>
-	<text id="day50_ayin_32">經由無限可能性的過程孕育而生的樹木，比任何存在都更接近天空，更為猛烈。</text>
-	<text id="day50_ayin_33">過去與未來、現實與幻象、精神與肉體、空間與時間，它們的邊界正緩緩崩解。</text>
+	<text id="day50_ayin_31">如同高塔一般的樹木從地底綻放，伸展枝幹，開始播撒果實。</text>
+	<text id="day50_ayin_32">經由無限可能性的過程生長的樹木，比任何東西都更接近天空，更為猛烈。</text>
+	<text id="day50_ayin_33">過去與未來、現實與幻想、精神與身體、空間與時間的邊界，正緩緩崩塌。</text>
 	<text id="day50_ayin_34">儘管人們常說其盡頭是虛無，</text>
 	<text id="day50_ayin_35">但我知道，那絕非虛無。</text>
-	<text id="day50_ayin_36">你將成為那無限之光，</text>
+	<text id="day50_ayin_36">你將成為無限之光，</text>
 	<text id="day50_ayin_37">其名為艾因。</text>
 	<text id="day50_ayin_38">請記住我們的名字。</text>
 	<text id="day50_ayin_39">然後……</text>

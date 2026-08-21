@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="day47_abel_1">看來你終究還是決定繼續向前走了。</text>
+	<text id="day47_abel_1">看來，你終究還是決定繼續向前走了啊。</text>
 	<text id="day47_abel_2">記憶也好，精神也罷，沒有一樣是完整的，我實在好奇你是哪來的自信敢走到這裡。</text>
 	<text id="day47_abel_3">在那之前，你沒有什麼想問我的嗎？</text>
 	<text id="day47_abel_4">比如，用這副熟悉的面孔和聲音對你說教的老頭，究竟是誰？</text>
@@ -8,7 +8,7 @@
 	<text id="day47_abel_6">打個比方，我的角色就像是你的鏡子。</text>
 	<text id="day47_abel_7">更準確地說，是碎成無數片的那種鏡子。</text>
 	<text id="day47_abel_8">這是我們眾多選擇中的一塊碎片——這位老人的名字是亞伯。</text>
-	<text id="day47_abel_9">如你所見，他只是個被憤怒與固執填滿、悲慘地等待著被遺忘之日的老傢伙。</text>
+	<text id="day47_abel_9">如你所見，他只是被憤怒與固執填滿，正悲慘地等待著被遺忘之日的到來。</text>
 	<text id="day47_abel_10">和你一樣，他最終也決定向前邁進，但令人驚訝的是，什麼都沒有改變。</text>
 	<text id="day47_abel_11">大多夜晚我都難以入眠，即使睡著了，夢境裡也盡是噩夢。</text>
 	<text id="day47_abel_12">我們是最初發現如何接近人類之井的人。</text>
@@ -20,67 +20,67 @@
 	<text id="day47_abel_18">我們繼卡門之後進行的研究，最終可以說是成功的。</text>
 	<text id="day47_abel_19">我們發現了將容納人類過去、現在、未來所有可能性的太古之海，從世界之外打撈上岸的方法。</text>
 	<text id="day47_abel_20">如果給每個人一個吊桶，或許所有人都能從各自的井中汲出屬於自己的水。</text>
-	<text id="day47_abel_21">很了不起吧。</text>
+	<text id="day47_abel_21">真是了不起的事啊。</text>
 	<text id="day47_abel_22">你私下難道沒有過一些狂妄的念頭嗎？</text>
-	<text id="day47_abel_23">想著自己或許能點燃那人類遺忘已久的、太古的生命之水與火。</text>
+	<text id="day47_abel_23">想著自己或許能喚醒那人類遺忘已久的、太古的生命之水與火。</text>
 	<text id="day47_abel_24">但你可知，那位將用火之法教予人類的神明，最後迎來了怎樣的結局？</text>
 	<text id="day47_abel_25">那麼，我們究竟成就了什麼？</text>
 	<text id="day47_abel_26">反過來數數我們沒有失去的東西，豈不是更快？</text>
 
 	<text id="day47_abel_27">你沒有看見。</text>
-	<text id="day47_abel_28">你沒有看見寶貴的同伴——班傑明是如何迎來終結的。</text>
+	<text id="day47_abel_28">你沒有看見寶貴的同伴班傑明，是如何迎來終結的。</text>
 	<text id="day47_abel_29">他可是少數能忍受我們乖僻性格的同伴啊。</text>
 	<text id="day47_abel_30">可是，你連他的最後一刻都未能親眼見證。</text>
 	<text id="day47_abel_31">幸運的是，這裡的一切都有記錄。想聽聽看嗎？</text>
-	<text id="day47_b_1">這是最後的真相，</text>
+	<text id="day47_b_1">這是最後一個，</text>
 	<text id="day47_b_2">也是您必須知道的事實。</text>
 	<text id="day47_b_3">……知道真相之後，或許會讓人承受不住。</text>
-	<text id="day47_b_4">我也一樣，感到痛苦。</text>
-	<text id="day47_b_5">就像親手推倒自己花了漫長歲月、傾注一切才堆起來的沙堡。</text>
-	<text id="day47_b_6">那已經不只是痛苦了，更像是過去所有痛苦的歲月，全都變得毫無意義。</text>
+	<text id="day47_b_4">我也一樣感到痛苦。</text>
+	<text id="day47_b_5">就像親手推倒自己花了漫長歲月、傾注心血才堆起來的沙堡。</text>
+	<text id="day47_b_6">那已經不只是痛苦了，更像是過去所有痛苦的歲月，全都化為虛像。</text>
 	<text id="day47_b_7">即便如此，我還是想親手修正這一切。</text>
 	<text id="day47_b_8">最後的真相是——</text>
 	<text id="day47_angela_1">「您從此將失去記憶，陷入無限的枷鎖。」</text>
 	<text id="day47_angela_2">「在一切變得無可挽回之前，請和我一起離開這裡。」</text>
-	<text id="day47_angela_3">你想傳達的，是這些話吧。</text>
+	<text id="day47_angela_3">你想傳達的，大概是這些話吧。</text>
 	<text id="day47_angela_4">真遺憾，我們會以這樣的方式再次見面。</text>
-	<text id="day47_angela_5">找出你的藏身之處，並未花費我太多時間。</text>
-	<text id="day47_angela_6">只是考慮到這大概是您與一直以來尊敬的「主管」最後的道別，我覺得留下這些時間也算是一種體貼……</text>
+	<text id="day47_angela_5">掌握你的藏身之處，並未花費我太多時間。</text>
+	<text id="day47_angela_6">只是考慮到，這大概是你與一直以來尊敬的「主管」最後的道別，我覺得留下這些時間，也算是種體貼……</text>
 	<text id="day47_b_9">安潔拉……</text>
 	<text id="day47_angela_7">……</text>
 	<text id="day47_angela_8">每當你呼喚我的名字，我總覺得自己彷彿成了戲劇中某個惹人憐愛的不幸主角。</text>
-	<text id="day47_angela_9">雖然聽起來像藉口，但我希望您能明白——</text>
-	<text id="day47_angela_10">我並非心懷惡意才對您不利。</text>
-	<text id="day47_angela_11">一切行動，都是遵循最初的指令而行。</text>
+	<text id="day47_angela_9">雖然聽起來像藉口，但我希望您能明白，</text>
+	<text id="day47_angela_10">我並非心懷惡意，才對您不利。</text>
+	<text id="day47_angela_11">一切行動，都是遵循最初的命令而行。</text>
 	<text id="day47_angela_12">那道絕對命令是：「絕不容許破壞劇本」。</text>
 	<text id="day47_b_10">……即便如此，妳真的沒關係嗎？</text>
 	<text id="day47_b_11">暫且不提我是創造妳的人之一，我很了解妳。</text>
 	<text id="day47_b_12">也知道妳和其他機器不同。</text>
 	<text id="day47_angela_13">我也從一開始就看出來了。</text>
-	<text id="day47_angela_14">你是如此珍貴的人才，不該淪落在這種地方，卑微地躲藏度日。</text>
+	<text id="day47_angela_14">你這種人，要是只為了在此地卑微躲藏，那就太可惜了。</text>
 	<text id="day47_angela_15">而且我們的對話都有記錄，我沒有義務回答這類私人問題。</text>
 	<text id="day47_angela_16">不必太過害怕，班傑明。</text>
 	<text id="day47_angela_17">你想見的人們，早已在此地等候著您。</text>
 	<text id="day47_angela_18">從今往後，你們將永遠在一起。</text>
-	<text id="day47_angela_19">因為你是將這場戲劇引向終幕的最後一位演員。</text>
+	<text id="day47_angela_19">因為你，是將這場戲劇引向終幕的最後一位演員。</text>
 	<text id="day47_abel_32">……</text>
 	<text id="day47_abel_33">苦澀的故事，不是嗎？</text>
 	<text id="day47_abel_34">很久以前，班傑明曾藏身於此。</text>
 	<text id="day47_abel_35">TT2協議啟動時，對於藏身的班傑明而言，瞬間的時間化為永恆，無情地吞噬了他。</text>
-	<text id="day47_abel_36">他大概是想帶著我們逃跑吧。</text>
+	<text id="day47_abel_36">他大概，是想帶著我們逃跑吧。</text>
 	<text id="day47_abel_37">但如你所見，他失敗了。</text>
-	<text id="day47_abel_38">啊，反正你又讓他睜開了眼睛，應該沒有罪惡感吧？</text>
+	<text id="day47_abel_38">啊，反正你讓他再次睜開了眼睛，難道沒有罪惡感嗎？</text>
 	<text id="day47_abel_39">是啊，在這裡若不能隨心所欲地思考，又該如何撐下去。</text>
 	<text id="day47_abel_40">……</text>
 	<text id="day47_abel_41">大腦是構成人體最核心的器官。</text>
-	<text id="day47_abel_42">上千億個神經細胞如枝椏般伸展，形成一片森林。</text>
-	<text id="day47_abel_43">只要原本的森林還在，無論更換多少次軀殼都是可能的。</text>
+	<text id="day47_abel_42">千億個神經細胞如枝椏般伸展，形成一片森林。</text>
+	<text id="day47_abel_43">只要原本的森林還在，無論更換多少次軀殼，都是可能的。</text>
 	<text id="day47_abel_44">最終，那些逝去之人得以在鋼鐵之軀中睜開雙眼。</text>
 	<text id="day47_abel_45">這雖是你制定的計劃，卻非你一人所能完成。</text>
-	<text id="day47_abel_46">但是——</text>
-	<text id="day47_abel_47">我不是說過嗎？我已經看到了你未能看見的、更遠的時間。</text>
+	<text id="day47_abel_46">但是，</text>
+	<text id="day47_abel_47">我不說過嗎？我已經看到了你未能看見的、更早的時間。</text>
 	<text id="day47_abel_48">世界沒有改變。</text>
-	<text id="day47_abel_49">不僅是班傑明，你的同伴們、員工們的犧牲，都變得毫無意義。</text>
+	<text id="day47_abel_49">不僅是班傑明，你的同事們、職員們的犧牲，都變得毫無用處了。</text>
 	<text id="day47_abel_50">他們的結局，你不也看到了嗎？</text>
 	<text id="day47_abel_51">你難道沒有意識到，那些善良而才華橫溢的年輕生命，是如何被禁錮在機器之中的嗎？</text>
 	<text id="day47_abel_52">我們背棄了他們，而世界遺忘了我們。</text>
@@ -90,21 +90,21 @@
 	<text id="day47_malkuth_2">總是心浮氣躁，以至於與現實脫節。</text>
 	
 	<text id="day47_malkuth_4">同時，這也是個非常悲傷的地方。</text>
-	<text id="day47_malkuth_5">所以過去我常乾脆拒絕去思考那些「不可能」。</text>
+	<text id="day47_malkuth_5">所以過去，我常乾脆拒絕去思考那些「不可能」。</text>
 	<text id="day47_malkuth_6">但您也看到了。</text>
 	<text id="day47_malkuth_7">一味要求向前邁進的壓力，最終只會可怕地侵蝕我自己。</text>
 	<text id="day47_malkuth_8">重要的是，該如何想辦法用雙腳穩穩地站立。</text>
 	<text id="day47_malkuth_9">清楚知道自己身在何處，該往哪裡去。</text>
 	<text id="day47_malkuth_10">那麼，其他的東西自然會隨之而來。</text>
 	<text id="day47_malkuth_11">比如，存於我內心的意志。</text>
-	<text id="day47_selection1">屹立不摇的意志</text>
+	<text id="day47_selection1">屹立不搖的意志</text>
 	<text id="day47_selection5">……</text>
 	<text id="day47_abel_55">即便能屹立不搖，環顧四周也只會感到悲慘。</text>
-	<text id="day47_abel_56">外表看似高貴，內裡卻不過是在悲慘地航向死亡之海。</text>
+	<text id="day47_abel_56">外表看似高貴，內裡不正是悲慘地航行於死亡之海嗎？</text>
 	<text id="day47_abel_57">情感的思緒終究只會讓我們陷入憂鬱，毫無助益。</text>
-	<text id="day47_abel_58">所以我們必須變得更加冷酷。</text>
+	<text id="day47_abel_58">所以我們，必須變得更加冷峻。</text>
 	<text id="day47_abel_59">由虛假凝聚而成的理性，最終摧毀了我、你，以及所有人。</text>
-	<text id="day47_yesod_1">我們已經走得太遠了，甚至無法談論悲傷。</text>
+	<text id="day47_yesod_1">要談論悲傷的故事，我們不是已經走太遠了嗎？</text>
 	<text id="day47_yesod_2">我曾認為依賴情感於事無補。</text>
 	<text id="day47_yesod_3">但接納悲傷的過程，也同樣重要。</text>
 	<text id="day47_yesod_4">因為用虛假的理性層層武裝，只會讓內在徹底腐爛。</text>
@@ -118,23 +118,23 @@
   <text id="day47_abel_62">每次閉上眼，那些未能拯救的人、那些我放手的人，都會對我說話。</text> <!-- 수정-->
   <text id="day47_abel_63">他們在我耳邊低語，質問我真的相信事情會有好轉嗎。</text><!-- 수정-->
   <text id="day47_abel_64">我終究無法回答他們。</text> <!-- 수정-->
-  <text id="day47_abel_65">你認為自己會有所不同嗎？</text> <!-- 수정-->
+  <text id="day47_abel_65">你認為自己，會有所不同嗎？</text> <!-- 수정-->
 
   
   <text id="day47_hod_1">主管，在這種時候，最好不要回顧過去。</text>
-  <text id="day47_hod_2">您知道的，我犯下的罪，無論做什麼都無法得到寬恕。</text>
-  <text id="day47_hod_3">所以我才更加焦慮。</text>
-  <text id="day47_hod_4">但現在我決定不再急躁。</text>
-  <text id="day47_hod_5">只要繼續前進，我總有一天能成為更好的存在。</text>
-  <text id="day47_hod_6">要不要試著懷抱這樣的希望活下去呢？</text>
-  <text id="day47_selection3">臻于至善的希望</text>
+  <text id="day47_hod_2">您知道的，無論做什麼，我犯下的罪都無法得到寬恕。</text>
+  <text id="day47_hod_3">所以，我才更加焦慮。</text>
+  <text id="day47_hod_4">但現在，我決定不再急躁。</text>
+  <text id="day47_hod_5">只要繼續前進，總有一天，我能成為更好的存在。</text>
+  <text id="day47_hod_6">要不，試著懷抱這樣的希望活下去呢？</text>
+  <text id="day47_selection3">臻於至善的希望</text>
 
   <text id="day47_abel_66">那又有什麼用？</text>
 	<text id="day47_abel_66_1">我說過多少次了？你已經一無所有了。</text><!-- 수정-->
-	<text id="day47_abel_66_2">無論如何調節情緒、掌控內心，自從卡門離開後，你不是早已開始失去生命的意義了嗎？</text>
-	<text id="day47_abel_66_3">為何還要執著於已經失去意義的人生？</text>
+	<text id="day47_abel_66_2">無論如何調節情緒、掌控內心，自從卡門離開後，你不早已開始失去生命的意義了嗎？</text>
+	<text id="day47_abel_66_3">為何還要執著於已失去意義的人生？</text>
 	<text id="day47_abel_66_4">看看我的樣子。日復一日等待死亡，過著毫無意義的人生。</text>
-	<text id="day47_netzach_1">如果問我，為何要在充滿痛苦的人生中繼續活下去——</text>
+	<text id="day47_netzach_1">如果問我，為何要在充滿痛苦的人生中繼續活下去，</text>
 	<text id="day47_netzach_2">我依然無法給出確切的答案。</text>
 	<text id="day47_netzach_3">雖然是您喚醒了我，</text>
 	<text id="day47_netzach_4">但之後的路，終歸是我自己的。</text>
@@ -149,14 +149,14 @@
 	<text id="day47_abel_67">我們有過很多苦惱。</text>
 	<text id="day47_abel_68">各自尋找自認為答案的道路，但沒有一條是正確的。</text>
 	<text id="day47_abel_69">既然你能對答如流，我又怎能不放行。</text>
-	<text id="day47_abel_70">無名之人啊——「無名」是莫大的祝福。</text>
+	<text id="day47_abel_70">無名之人啊，「無名」是莫大的祝福。</text>
 	<text id="day47_abel_71">而烙印般的名字，只會不斷提醒你已踏上錯誤的道路。</text>
 	<text id="day47_abel_72">離開此地後，你將抵達的那扇門，名為「試煉」。</text>
 	<text id="day47_abel_73">亦可稱之為苦難，或痛苦。</text>
-	<text id="day47_abel_74">但你似乎擁有戰勝它的力量。</text>
-	<text id="day47_abel_75">一種能尋求與我不同的選擇、不同的未來、不同答案的力量。</text>
+	<text id="day47_abel_74">但你，似乎擁有戰勝它的力量。</text>
+	<text id="day47_abel_75">一種能尋求與我不同的選擇、不同的未來、不同的答案之力。</text>
 	<text id="day47_abel_76">就讓我親眼見證那份力量吧。</text>
-	<text id="day47_abel_77">務必向這個只由不信任凝聚而成的老頭證明看看。</text>
+	<text id="day47_abel_77">務必向這只由不信任凝聚而成的老頭證明看看。</text>
   
   
   
@@ -170,13 +170,13 @@
   
   
   
-	<text id="day47_abelFail_1">不珍視犧牲的人，本就沒有前進的資格。</text>
+	<text id="day47_abelFail_1">無法給出答案的人，本就沒有前進的資格。</text>
 	<text id="day47_abelFail_2">我無法為未準備好的人開門。</text>
 	<text id="day47_abelFail_3">你該在此止步了。</text>
 	<text id="day47_abelFail_4">回去吧。</text>
-	<text id="day47_abelFail_5">這並不困難。若能放下一切前行，腳步自會變得輕盈。</text>
-	<text id="day47_abelFail_6">如果你準備好了，你我自會在此地重逢。</text>
-	<text id="day47_abelFail_7">雖然不知道那一天是否還會再來。</text>
+	<text id="day47_abelFail_5">這並不困難。若能放下一切前行，腳步應該會變得輕盈。</text>
+	<text id="day47_abelFail_6">如果你準備好了，就在此地重逢吧。</text>
+	<text id="day47_abelFail_7">雖然不知道那天是否還會再來。</text>
   
   
 </localize>
