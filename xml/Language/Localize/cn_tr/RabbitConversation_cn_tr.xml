@@ -7,20 +7,20 @@
   <text id="Rabbit_SefiraSlot_Select">指定淨化</text>
   <text id="Rabbit_SefiraSlot_Agent">員工數量</text>
   <text id="Rabbit_SefiraSlot_Officer">文職數量</text>
-  <text id="Rabbit_SefiraSlot_LowLevel">開放程度過低</text>
+  <text id="Rabbit_SefiraSlot_LowLevel">開放度過低</text>
   <text id="Rabbit_Info_CallbeDept">可呼叫的部門</text>
   <text id="Rabbit_Info_Cost">呼叫費用</text>
-  <text id="Rabbit_Info_CostCalc">目前能源的 {0}%</text>
+  <text id="Rabbit_Info_CostCalc">目前能源的{0}%</text>
 
   <text id="Rabbit_Confirm">允許呼叫</text>
   
-  <text id="Rabbit_Manual_Title">- 兔子小隊使用説明書 -</text>
-  <text id="Rabbit_Manual_Day">1. 每天最多可呼叫一次兔子小隊。</text>
-  <text id="Rabbit_Manual_MaxSefira">2. 每次最多可同時在 4 個部門內呼叫兔子小隊。</text>
-  <text id="Rabbit_Manual_MaxCount">3. 每次最多可呼叫 32 名兔子。</text>
-  <text id="Rabbit_Manual_Cost">4. 每在一個部門呼叫兔子，即消耗當日已收集能源的 25%。</text>
-  <text id="Rabbit_Manual_Command">5. 呼叫兔子小隊後，對應部門的指揮權將暫時移交給兔子小隊。</text>
-  <text id="Rabbit_Manual_Clear">6. 當部門內已無可攻擊目標時，兔子小隊將自動撤離該部門。</text>
+  <text id="Rabbit_Manual_Title">-兔子隊使用說明-</text>
+  <text id="Rabbit_Manual_Day">1. 每天最多可呼叫一次兔子隊。</text>
+  <text id="Rabbit_Manual_MaxSefira">2. 每次最多可同時在4個部門內呼叫兔子隊。</text>
+  <text id="Rabbit_Manual_MaxCount">3. 每次最多可呼叫32名兔子。</text>
+  <text id="Rabbit_Manual_Cost">4. 每在一個部門呼叫兔子，即消耗目前已收集能源的25%。</text>
+  <text id="Rabbit_Manual_Command">5. 呼叫兔子隊後，對應部門的指揮權將暫時移交給兔子隊。</text>
+  <text id="Rabbit_Manual_Clear">6. 當部門內已無可攻擊目標時，兔子隊將自動撤離該部門。</text>
   <text id="Rabbit_Manual_Caution">※注意</text>
   <text id="Rabbit_Manual_Panic">- 呼叫兔子的部門將被封鎖，該部門內的職員會立即陷入恐慌。</text>
   <text id="Rabbit_Manual_Closed">- 誤入封鎖區域的外部職員也將無法離開。</text>
@@ -35,25 +35,25 @@
   <text id="Rabbit_Captain_Half_0">半數兔子已回歸草原。</text>
   <text id="Rabbit_Captain_Half_1">居然折損了一半。這地方的怪物果然很難纏。</text>
   <text id="Rabbit_Captain_Half_2">不過折損個半數嘛，兔子們都有心理準備啦~也就跟郊區偵查或廢墟淨化任務差不多的程度吧。</text>
-  <text id="Rabbit_Captain_Half_Geburah">兔子折損一半。看來你寶刀未老啊？</text>
+  <text id="Rabbit_Captain_Half_Geburah">兔子折損一半。看來還挺行的嘛？</text>
   <text id="Rabbit_Captain_Half_Binah">看來確實不是真正的調律者呢。不過好像還在運用奇點的力量？</text>
 
-  <text id="Rabbit_Captain_Almost_0">80% 的兔子都沒了。果然還是接郊區的任務比這裡的委託更划算。</text>
-  <text id="Rabbit_Captain_Almost_1">80% 的兔子陣亡。是哪個瘋子會把這種怪物關在都市裡，而不是丟到郊區去？</text>
-  <text id="Rabbit_Captain_Almost_Geburah">80% 的兔子都掛了。真難搞。那傢伙簡直是怪物。不過還是不如從前啦。</text>
+  <text id="Rabbit_Captain_Almost_0">80%的兔子都沒了。果然還是接郊區的任務比這裡的委託更划算。</text>
+  <text id="Rabbit_Captain_Almost_1">80%的兔子陣亡。是哪個瘋子會把這種怪物關在都市裡，而不是丟到郊區去？</text>
+  <text id="Rabbit_Captain_Almost_Geburah">80%的兔子都掛了。真難搞。那傢伙簡直是怪物。不過還是不如從前啦。</text>
   <text id="Rabbit_Captain_Almost_Binah">這妖靈與密鑰的力量……雖然劣化了……還是很棘手！</text>
 
-  <text id="Rabbit_Captain_Eliminated_0">兔子隊全滅。呵，以後好自為之吧。</text>
+  <text id="Rabbit_Captain_Eliminated_0">兔子小隊全滅。呵，以後好自為之吧。</text>
   <text id="Rabbit_Captain_Eliminated_1">所有兔子已回歸草原。任務失敗。</text>
   <text id="Rabbit_Captain_Eliminated_2">兔子全滅。與其負責這種地方，還不如去郊區或廢墟探勘呢。</text>
-  <text id="Rabbit_Captain_Eliminated_Geburah">殷紅迷霧……總有一天我要親手將你撕成碎片……</text>
-  <text id="Rabbit_Captain_Eliminated_Binah">你叫我們來的時候就已經料到會這樣了吧？兔子撤退。</text>
+  <text id="Rabbit_Captain_Eliminated_Geburah">殷紅迷霧……總有一天，我要親手將妳撕成碎片……</text>
+  <text id="Rabbit_Captain_Eliminated_Binah">你叫我們來的時候，就已經料到會這樣了吧？兔子撤退。</text>
 
   <text id="Rabbit_Captain_End_0">真是滿意的一餐。</text>
   <text id="Rabbit_Captain_End_1">下次有草的時候，再叫我們吧。</text>
   <text id="Rabbit_Captain_End_2">情況允許的話，我還真想親自下場呢。</text>
   <text id="Rabbit_Captain_End_3">任務完成。我們會忘記在此地發生的一切。</text>
-  <text id="Rabbit_Captain_End_Geburah">託你那奇怪身體的福，力量是比以前強了，但完全看不到過去那份老練啊。</text>
+  <text id="Rabbit_Captain_End_Geburah">託那奇怪身體的福，力量是比以前強了，但完全看不到過去那份老練啊。</text>
   <text id="Rabbit_Captain_End_Binah">真沒想到，我們也有擊敗調律者的一天。</text>
   
   <!--Rabbit Units
@@ -97,7 +97,7 @@
   <text id="Rabbit_Unit_Encounter_Creature_ALEPH_1">這地方到底是幹什麼的？</text>
   <text id="Rabbit_Unit_Encounter_Creature_ALEPH_2">這光靠兔子似乎解決不了啊。</text>
   <text id="Rabbit_Unit_Encounter_Creature_ALEPH_3">連郊區之外的存在都拿來利用，真是瘋狂的想法。</text>
-  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_4">我還以為這種傢伙只存在於廢墟深層。</text>
+  <text id="Rabbit_Unit_Encounter_Creature_ALEPH_4">我還以為這種傢伙，只存在於廢墟深層。</text>
 
   <text id="Rabbit_Unit_Panic_0">精神污染已達最大值，執行自動處決。</text>
   <text id="Rabbit_Unit_Panic_1">正在透過自動處決排除危險因素。</text>
