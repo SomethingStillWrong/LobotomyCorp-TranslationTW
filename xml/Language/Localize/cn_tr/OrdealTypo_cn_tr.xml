@@ -1,82 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize>
-  <text id="ordeal_start_reward">重置逆卡巴拉熔毀</text>
-  <text id="orneal_end_reward">取得當日能源配額的 {0}%</text>
+  <text id="ordeal_start_reward">重設逆卡巴拉熔毀</text>
+  <text id="ordeal_end_reward">取得當日能源配額的{0}%</text>
+
 	<text id="ordeal_machine_dawn_type">綠色的黎明</text>
   <text id="ordeal_machine_dawn_name">疑問</text>
   <text id="ordeal_machine_dawn_start">某一天，我產生了疑問：我們從何而來？我們被賦予生命，卻被不負責任地拋棄。</text>
   <text id="ordeal_machine_dawn_end">生命，即是痛苦。</text>
+
   <text id="ordeal_machine_noon_type">綠色的正午</text>
   <text id="ordeal_machine_noon_name">理解的過程</text>
   <text id="ordeal_machine_noon_start">他們也不過是被生活束縛的存在。而我們只能傾瀉絕望與憤怒。</text>
   <text id="ordeal_machine_noon_end">我們將用這雙手，去理解生命與靈魂。</text>
+
   <text id="ordeal_circus_dawn_type">血色的黎明</text>
   <text id="ordeal_circus_dawn_name">起始的歡呼</text>
   <text id="ordeal_circus_dawn_start">讓我們為那如風中殘燭般的生命，點燃更熾烈的火焰吧。</text>
   <text id="ordeal_circus_dawn_end">生命，即是為了奪取慾望。</text>
+
   <text id="ordeal_circus_noon_type">血色的正午</text>
   <text id="ordeal_circus_noon_name">肌膚的和聲</text>
   <text id="ordeal_circus_noon_start">每一次行進，我們共享喜悅。</text>
   <text id="ordeal_circus_noon_end">生命與生命的碰撞，肌膚奏出的和聲，交織出更絢麗的圖景。</text>
+
   <text id="ordeal_outtergod_noon_type">紫色的正午</text>
   <text id="ordeal_outtergod_noon_name">請給我們愛</text>
-  <text id="ordeal_outtergod_noon_start">微弱的聲響傳入我們耳中，我們向它們祈求仁慈與愛。</text>
-  <text id="ordeal_outtergod_noon_end">我們無法理解它們，它們也終將無法理解我們。</text>
+  <text id="ordeal_outtergod_noon_start">微弱的聲響傳入我們耳中，我們向其祈求仁慈與愛。</text>
+  <text id="ordeal_outtergod_noon_end">我們無法理解牠們，牠們也終將無法理解我們。</text>
+
   <text id="ordeal_bug_dawn_type">琥珀色的黎明</text>
   <text id="ordeal_bug_dawn_name">完美的食物</text>
   <text id="ordeal_bug_dawn_start">完美的食物，無暇的替代品。</text>
   <text id="ordeal_bug_dawn_end">為了生存，我們無止境地進食。消耗不可避免，垃圾……</text>
+
   <text id="ordeal_bug_dusk_type">琥珀色的薄暮</text>
   <text id="ordeal_bug_dusk_name">食物鏈</text>
   <text id="ordeal_bug_dusk_start">體會那滋味，是無可避免的過程。</text>
   <text id="ordeal_bug_dusk_end">於是我們得以存活，得以繼續進食。</text>
-  <text id="ordeal_outtergod_dawn_type">紫色的薄暮</text>
+
+  <text id="ordeal_outtergod_dawn_type">紫色的黎明</text>
   <text id="ordeal_outtergod_dawn_name">理解的果實</text>
   <text id="ordeal_outtergod_dawn_start">為了理解那超越理解之物，我們凝視，我們夢見。</text>
   <text id="ordeal_outtergod_dawn_end">我們並非為了理解而努力。我們僅僅是在行動。</text>
+
   <text id="ordeal_machine_midnight_type">綠色的午夜</text>
   <text id="ordeal_machine_midnight_name">終末螺旋</text>
   <text id="ordeal_machine_midnight_start">高塔觸及天際，地面空無一物。</text>
   <text id="ordeal_machine_midnight_end">我們被賦予生命，承受痛苦，卻遭放任——這一切，該由誰來負責？</text>
+
   <text id="ordeal_circus_dusk_type">血色的薄暮</text>
   <text id="ordeal_circus_dusk_name">頂峰的掙扎</text>
   <text id="ordeal_circus_dusk_start">來吧，拋棄破舊的身軀，合而為一，繼續這無盡的紅色行進。</text>
   <text id="ordeal_circus_dusk_end">終有一日，我們會明白，明日，我們將再次相聚。</text>
+
   <text id="ordeal_machine_dusk_type">綠色的薄暮</text>
   <text id="ordeal_machine_dusk_name">該抵達之地</text>
   <text id="ordeal_machine_dusk_start">為了回歸我們來時的地方，我們築起高塔。</text>
   <text id="ordeal_machine_dusk_end">沒有答案。我們從未得到任何渴望之物，只看見生命不斷逝去。</text>
+
   <text id="ordeal_bug_midnight_type">琥珀色的午夜</text>
   <text id="ordeal_bug_midnight_name">永恆的餐點</text>
-  <text id="ordeal_bug_midnight_start">為了被吞噬，我們互相爭鬥。</text>
+  <text id="ordeal_bug_midnight_start">為了互相吞噬，我們彼此爭鬥。</text>
   <text id="ordeal_bug_midnight_end">弱肉強食，故事本就如此。</text>
-  <text id="ordeal_scavenger_noon_type">靛藍色的正午</text>
+
+  <text id="ordeal_scavenger_noon_type">藍色的正午</text>
   <text id="ordeal_scavenger_noon_name">清道夫</text>
   <text id="ordeal_scavenger_noon_start">夜幕籠罩後巷時，他們便會現身。</text>
   <text id="ordeal_scavenger_noon_end">太陽升起時，他們不留任何痕跡。</text>
+
   <text id="ordeal_outtergod_midnight_type">紫色的午夜</text>
   <text id="ordeal_outtergod_midnight_name">上帝的錯覺</text>
   <text id="ordeal_outtergod_midnight_start">我們不斷嘗試接納一切。無論結果如何，我們都想憑自己的頭腦去理解。</text>
   <text id="ordeal_outtergod_midnight_end">為了不使自己崩潰，那些無法理解、無法觸及的事物，絕不能容忍。</text>
+
   <!--해결사 속성별 이름-->
   <text id="ordeal_fixer_red_name">&lt;color=#CD0000&gt;紅色收尾人&lt;/color&gt;</text>
   <text id="ordeal_fixer_white_name">&lt;color=#F5FFFA&gt;白色收尾人&lt;/color&gt;</text>
   <text id="ordeal_fixer_black_name">&lt;color=#030303&gt;黑色收尾人&lt;/color&gt;</text>
   <text id="ordeal_fixer_pale_name">&lt;color=#00FFFF&gt;蒼色收尾人&lt;/color&gt;</text>
+
   <text id="ordeal_fixer_claw_name">爪牙</text>
   <!--해결사 크리쳐 이름은 위에 있음-->
   <text id="ordeal_fixer_dawn_type">白色的黎明</text>
   <text id="ordeal_fixer_dawn_name">委託</text>
   <text id="ordeal_fixer_dawn_start">從瑣碎雜務到調查，乃至雇兇殺人。只要支付相應報酬，他們就會完成任務。</text>
   <text id="ordeal_fixer_dawn_end">他們隸屬於事務所、幫派或翼之下。從瑣碎小事到崇高事業，他們無所不包。</text>
+
   <text id="ordeal_fixer_noon_type">白色的正午</text>
   <text id="ordeal_fixer_noon_name">武器</text>
   <text id="ordeal_fixer_noon_start">他們不斷搜尋。不論是翼的支援、後巷的發明、郊區的戰利品，還是廢墟的遺物……</text>
-  <text id="ordeal_fixer_noon_end">他們只是如往常一樣，習慣性地拿起武器，解決眼前的事物。</text>
+  <text id="ordeal_fixer_noon_end">他們只如往常一樣，習慣性地拿起武器，解決眼前的事物。</text>
+
   <text id="ordeal_fixer_dusk_type">白色的薄暮</text>
   <text id="ordeal_fixer_dusk_name">收尾人</text>
   <text id="ordeal_fixer_dusk_start">被稱為圖書館的光之塔巍然聳立，收尾人被那蘊含生死的秘密吸引也是理所當然的事。</text>
   <text id="ordeal_fixer_dusk_end">書籍獵手……終將穿梭於蒼白司書掌管的圖書館。而收尾人便是他們的前身。</text>
+
   <text id="ordeal_fixer_midnight_type">白色的午夜</text>
   <text id="ordeal_fixer_midnight_name">爪牙</text>
   <text id="ordeal_fixer_midnight_start">他們掌握著世界的秘密。那正是首腦、眼線與爪牙的特權，亦是他們絕對的武力。</text>
