@@ -24,7 +24,7 @@
   <text id="EmployeeUI@Move">移動速度</text>
   <text id="EmployeeUI@Working">正在工作</text>
   <text id="EmployeeUI@ObservationLV">觀察等級</text>
-  <text id="EmployeeUI@AgentInfo">員工情報</text>
+  <text id="EmployeeUI@AgentInfo">員工資訊</text>
   <text id="EmployeeUI@Goal">目標</text>
   <text id="EmployeeUI@Idle">閒置員工</text>
   <text id="Suppress UI@Oppression">鎮壓員工</text>
@@ -235,7 +235,7 @@
   <text id="MissionUI@InProgress">進行中</text>
 
   <text id="Kether@ResearchCheck">確認Keter的研究（未使用）</text>
-  <text id="Kether@func">Kether部門職能（未使用）</text>
+  <text id="Kether@func">Kether部門功能（未使用）</text>
   <text id="Kether@agent">構築部員工名單</text>
   <text id="Kether@Name">構築部</text>
   <text id="Kether@LongDesc">員工、異想體、Sephirah以及設施。這一切的最初意志。為了將我們引向正確之處，所有的命令皆由此處發端，並迴盪開來。根據面對者與聆聽者的意志，無限的可能性將隨之展開。為人類時代的到來做好準備。</text>
