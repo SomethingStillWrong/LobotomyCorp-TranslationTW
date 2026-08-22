@@ -12,7 +12,7 @@
 	<text id="Tooltip_ManagementPart@EGOList">開啟E.G.O清單</text>
 	<text id="Tooltip_ManagementPart@Employment">僱用一名新員工&#13;&#10;至少需要花費1點LOB點數</text>
 	<text id="Tooltip_ManagementPart@Sefira_Function">檢視部門職能</text>
-	<text id="Tooltip_ManagementPart@Sefira_Description">檢視部門描述</text>
+	<text id="Tooltip_ManagementPart@Sefira_Description">檢視部門說明</text>
 	<text id="Tooltip_ManagementPart@Sefira_Research">檢視已取得的部門研究</text>
 	<text id="Tooltip_ManagementPart@Creature_Encyclopedia">檢視該異想體的圖鑑&#13;&#10;尚未完成觀察的異想體會顯示為「?」</text>
 	<text id="Tooltip_ManagementPart@Mission">當天能夠完成的任務&#13;&#10;完成任務後，可以解鎖新的研究</text>

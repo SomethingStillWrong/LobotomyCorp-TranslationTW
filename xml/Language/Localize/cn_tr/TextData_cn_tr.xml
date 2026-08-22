@@ -121,7 +121,7 @@
   <text id="Allocate@CannotEquip">無法裝備</text>
   <text id="Allocate@Equip">裝備</text>
   <text id="Allocate@ConfirmResearch">研究</text>
-  <text id="Allocate@Description">說明</text>
+  <text id="Allocate@Description">描述</text>
   <text id="Allocate@Abnormality">異想體</text>
   <text id="Allocate@Function">部門職能</text>
   <text id="Allocate@Need">需要部署員工</text>
@@ -143,7 +143,7 @@
   <text id="Agent@WorkEff">工作效率</text>
   <text id="Main@AgentSelect">選擇員工</text>
   <text id="Main@CareMethod">管理須知</text>
-  <text id="Main@Description">說明</text>
+  <text id="Main@Description">記錄</text>
   <text id="Main@WorkLog">工作日誌</text>
   <text id="Main@ObserveMax">最大</text>
   <text id="Main@EnergyProduced">能源產量</text>
