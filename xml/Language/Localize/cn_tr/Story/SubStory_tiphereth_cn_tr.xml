@@ -8,32 +8,32 @@
   <text id="tiphereth1_selection1">你們是雙胞胎？</text> <!--선택지-->
   <text id="tiphereth1_selection2">你們名字一樣？</text> <!--선택지-->
   <text id="tiphereth1_intro_ta1_1">當然了，看不出來嗎？我們是雙胞胎，所以名字也一樣。</text> <!-- 선택지 1번을 고른 경우 -->
-  <text id="tiphereth1_intro_tb1_1">不過，如果你說的雙胞胎是指生物學上的雙胞胎，那我們並不是。</text>
+  <text id="tiphereth1_intro_tb1_1">不過，如果您說的雙胞胎是指生物學上的，那我們並不是。</text>
   <text id="tiphereth1_intro_ta1_2">簡單來說，區分我們兩個是沒有意義的。</text>
   <text id="tiphereth1_intro_ta2_1">當然了，看不出來嗎？我們是雙胞胎，所以名字也一樣。</text> <!-- 선택지 2번을 고른 경우-->
-  <text id="tiphereth1_intro_tb2_1">不過，如果你說的雙胞胎是指生物學上的雙胞胎，那我們並不是。</text>
+  <text id="tiphereth1_intro_tb2_1">不過，如果您說的雙胞胎是指生物學上的，那我們並不是。</text>
   <text id="tiphereth1_intro_ta2_2">簡單來說，區分我們兩個是沒有意義的。</text>
   <text id="tiphereth1_intro_ta2">我負責中央總部。中央總部很大，大到就算有兩具身體也可能不夠用。</text>
   <text id="tiphereth1_intro_tb2">我們確實是兩具身體呀。</text>
   <text id="tiphereth1_intro_ta3">嗯，現在這樣算是萬幸了。</text>
   <text id="tiphereth1_intro_ta4">既然主管你到了這裡，那些「異想體是什麼」之類的無聊廢話，應該不需要我再說明了嗎？</text>
-  <text id="tiphereth1_intro_ta5">如果你讓我失望了，就算你是主管，我也不會輕易放過你。</text>
-  <text id="tiphereth1_intro_tb3">但我相信你會做得很好。</text>
-  <text id="tiphereth1_intro_ta6">還有一點要提醒你，最好不要把我們和上層Sephiroth相提並論，他們就是一群蠢貨。</text>
+  <text id="tiphereth1_intro_ta5">如果讓我失望了，就算你是主管，我也不會輕易放過你。</text>
+  <text id="tiphereth1_intro_tb3">但我相信您會做得很好。</text>
+  <text id="tiphereth1_intro_ta6">還有一點要提醒，最好不要把我們和上層Sephiroth相提並論，他們就是一群蠢貨。</text>
   <text id="tiphereth1_intro_tb4">但從技術層面來看，我們並沒有太大差異。</text>
   <text id="tiphereth1_intro_ta7">我的意思是，他們明明沒什麼事做，卻最會裝忙。真不敢相信我們和他們都是Sephiroth。</text>
-  <text id="tiphereth1_intro_ta8">嗯，總之，到了中央總部，真正的故事才剛剛開始。這句話對你是打擊還是鼓勵，我都不在乎。我只在意你能不能做好自己份內的工作。</text>
-  <text id="tiphereth1_intro_tb5">我希望這對你是一種鼓勵。</text>
+  <text id="tiphereth1_intro_ta8">嗯，總之，到了中央總部，真正的故事才剛剛開始。這句話對你是打擊還是鼓勵，我都不在乎。我只在意能不能做好自己份內的工作。</text>
+  <text id="tiphereth1_intro_tb5">我希望這對您是一種鼓勵。</text>
   <text id="tiphereth1_intro_n1">你好，Tiphereth。</text> <!-- 화자 : 네짜흐-->
   <text id="tiphereth1_intro_ta9">……</text>  
   <text id="tiphereth1_intro_tb6">你好，Netzach。</text>
   <text id="tiphereth1_intro_n2">反正都是Tiphereth，我就當收到你們的問候了……這是安全部與中央總部協同訓練的計畫書，請確認一下。</text>
   <text id="tiphereth1_intro_ta10">確認什麼啊？！肯定又是亂寫一通，到頭來還不是得我自己重寫一遍？</text>
   <text id="tiphereth1_intro_tb7">放著就好，Netzach。我審核後再通知你。</text>
-  <text id="tiphereth1_intro_ta11">Tiphereth你就是心太軟，對Netzach那種成癮者根本不用這麼客氣，你這樣遲早會染上和上層一樣的毛病。而且他提交的時間比我規定的期限還晚了兩天！</text>
-  <text id="tiphereth1_intro_tb8">但Netzach只要下定決心做事，其實能做得很好。你明明也知道。</text>
+  <text id="tiphereth1_intro_ta11">Tiphereth你就是心太軟，對Netzach那種成癮者根本不用這麼客氣，這樣遲早會染上和上層一樣的毛病。而且他提交的時間比我規定的期限還晚了兩天！</text>
+  <text id="tiphereth1_intro_tb8">但Netzach只要下定決心做事，其實能做得很好。妳明明也知道。</text>
   <text id="tiphereth1_intro_ta12">結果不是重點。安潔拉小姐對我們Sephiroth太放任了。換作是我，就會毫不猶豫地嚴懲那些在公司裡閒晃的成癮者。</text>
-  <text id="tiphereth1_intro_n3">既然這樣，那你和Yesod應該很聊得來吧？你們兩個可以認真討論一下引入扣分制度，這會很有建設性……</text>
+  <text id="tiphereth1_intro_n3">既然這樣，那妳和Yesod應該很聊得來吧？你們兩個可以認真討論一下引入扣分制度，這會很有建設性……</text>
   <text id="tiphereth1_intro_ta13">哎呀，吵死了！快點滾回你的上層去，那才是你該待的地方。</text>
   <text id="tiphereth1_intro_n4">我正準備走了呢。那我就走了，Tiphereth。</text>
   <text id="tiphereth1_intro_tb9">嗯，再見，Netzach。</text> <!-- 네짜흐 퇴장-->
@@ -41,54 +41,54 @@
   <text id="tiphereth1_intro_tb10">我很喜歡中層的Sephiroth，他們都很有趣，跟他們聊天時總是不知不覺就笑出來。</text>
   <text id="tiphereth1_intro_ta15">我都說過多少次了，不能輕易露出笑容，必須要嚴厲苛刻才行！因為我們是中央總部！</text>
   <text id="tiphereth1_intro_tb11">我知道啦，Tiphereth。話說回來，主管不是還有事嗎？</text>
-  <text id="tiphereth1_intro_ta16">啊，你還在這啊。那好，我給你安排些工作，你可別想著偷懶。</text>
-  <text id="tiphereth1_intro_tb12">主管會做得很好的，就像平常那樣。</text>
+  <text id="tiphereth1_intro_ta16">啊，你還在這啊。那好，我給你安排些工作，可別想著偷懶。</text>
+  <text id="tiphereth1_intro_tb12">主管您會做得很好，就像平常那樣。</text>
   <text id="tiphereth1_intro_ta17">主管也可能會失敗，就像平常那樣。</text>
   
   
   
   <!--에피소드 2-->
 
-  <text id="tiphereth2_intro_ta1">最近職員們的話都比平時多了些。</text>
+  <text id="tiphereth2_intro_ta1">最近職員們的話，都比平時多了些。</text>
   <text id="tiphereth2_intro_tb1">大家都比平時更有幹勁了。這種躁動的氛圍可不常見，連我好像也跟著興奮起來了。</text>
   <text id="tiphereth2_intro_ta2">與其說是興奮，不如說是為了些無聊的事激動罷了。不過就是來了位新主管的消息而已，對我們來說這並不算什麼新鮮事。</text>
   <text id="tiphereth2_intro_tb2">理解一下吧，Tiphereth。這裡是腦葉公司。除了誰死了的消息之外，這地方並不常發生什麼特別的事，而且職員們也需要點話題聊聊吧？</text>
   <text id="tiphereth2_intro_ta3">嗯，如果只是短時間內工作效率能變高，或許可以往好的方向想。但我實在無法理解，為什麼每到這種時候就會變得這麼吵鬧？！</text>
-  <text id="tiphereth2_intro_tb3">但你一開始不是也很激動嗎？</text>
+  <text id="tiphereth2_intro_tb3">但妳一開始不是也很激動嗎？</text>
   <text id="tiphereth2_intro_ta4">那個……！第一次的時候不是很正常嗎？</text>
   <text id="tiphereth2_intro_tb4">即使這不是第一次，也值得我們興奮。</text>
   <text id="tiphereth2_intro_tb5">還記得那時嗎？有個精神污染度達到95%的職員，我們還打賭主管能不能救下他呢。</text>
   <text id="tiphereth2_intro_ta5">啊，當然記得。我賭救不了，你賭救得了，對吧？</text>
   <text id="tiphereth2_intro_tb6">嗯，可惜最後那個職員還是死了。</text>
   <text id="tiphereth2_intro_ta6">我因為贏了賭注太高興，還纏著你說下次也要打同樣的賭呢。雖然結果總是一樣。</text>
-  <text id="tiphereth2_intro_tb7">是啊，但不知從什麼時候起，你不再纏著我了。</text>
+  <text id="tiphereth2_intro_tb7">是啊，但不知從什麼時候起，妳不再纏著我了。</text>
   <text id="tiphereth2_intro_ta7">因為你總是輸的那一方。從某個時候開始，就算贏了我也感覺不到高興了。</text>
   <text id="tiphereth2_intro_tb8">我那時可不是隨便說說的。每次我都懷著「這次總該行了吧」的期待，這一點從未改變。</text>
   <text id="tiphereth2_intro_ta8">真遺憾，始終沒能看到你贏。</text>
   <text id="tiphereth2_intro_tb9">如果給予我們的時間是永恆的，我相信總有一天能看到的。</text>
-  <text id="tiphereth2_intro_tb10">主管你是怎麼想的？</text>
+  <text id="tiphereth2_intro_tb10">主管您怎麼想？</text>
   <text id="tiphereth2_selection1">救得了。</text> <!-- 선택지-->
   <text id="tiphereth2_selection2">救不了。</text> <!-- 선택지-->
   <text id="tiphereth2_intro_tb1_1">我也這麼想。真可惜啊，</text> <!-- 선택지 1번 고른 경우-->
   <text id="tiphereth2_intro_tb1_2">如果能再早點見面就好了……</text>
-  <text id="tiphereth2_intro_tb2_1">就算你這麼回答，我還是希望他能活下來。</text> <!-- 선택지 2번 고른 경우-->
-  <text id="tiphereth2_intro_tb2_2">無論是過去，現在，還是將來。</text>
+  <text id="tiphereth2_intro_tb2_1">就算您這麼回答，我還是希望他能活下來。</text> <!-- 선택지 2번 고른 경우-->
+  <text id="tiphereth2_intro_tb2_2">無論是過去、現在，還是將來。</text>
 
     <!--에피소드 3-->
 
   <text id="tiphereth3_intro_tb1">……</text>
-  <text id="tiphereth3_intro_tb2">如果你是來找Tiphereth的話，她還在開中層會議，還沒回來。</text>
+  <text id="tiphereth3_intro_tb2">如果是來找Tiphereth的話，她還在開中層會議，還沒回來。</text>
   <text id="tiphereth3_intro_tb3">……</text>
-  <text id="tiphereth3_intro_tb4">我也不太會說話，這種時候還挺懷念以前那個話多的主管。</text>
+  <text id="tiphereth3_intro_tb4">我也不太會說話，這種時候，還挺懷念以前那個話多的主管。</text>
   <text id="tiphereth3_intro_tb5">我有件事想問您。</text>
-  <text id="tiphereth3_intro_tb6">您知道我們的體內混雜了某人的記憶和情感這件事嗎？</text>
+  <text id="tiphereth3_intro_tb6">您知道嗎？我們的體內，混雜了某人的記憶和情感這件事。</text>
   <text id="tiphereth3_intro_tb7">您應該也見過好幾次了，我們明明是機器，卻會生氣、高興、遺憾、悲傷。</text>
   <text id="tiphereth3_intro_tb8">甚至各自都有自己的弱點。</text>
   <text id="tiphereth3_intro_tb9">為什麼？我們體內到底被放入了什麼？</text>
   <text id="tiphereth3_intro_tb10">如果被放入了「什麼」，那理由又是什麼呢？為什麼製造者非要疊加這些脆弱的部分，將我們造成不完美的樣子？</text>
   <text id="tiphereth3_intro_tb11">不管我怎麼努力尋找答案，</text>
   <text id="tiphereth3_intro_tb12">就是不知道那究竟是什麼。</text>
-  <text id="tiphereth3_intro_tb13">我想你應該會知道。</text>
+  <text id="tiphereth3_intro_tb13">我想您應該會知道。</text>
   <text id="tiphereth3_intro_tb14">在主管的記憶裡，</text>
   <text id="tiphereth3_intro_tb15">是不是存在著某種「不完美必須存在」的理由？</text>
   <text id="tiphereth3_intro_tb16">如果是這樣的話，那我們雖然是機器，但又不是機器……</text>
@@ -98,23 +98,23 @@
   <text id="tiphereth3_intro_ta3">Tiphereth，太過有趣的談話可不能說。</text>
   <text id="tiphereth3_intro_a1">看來替換的時候到了，週期也越來越短了。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_ta4">但不是隨時都可以重新製作嗎？</text>
-  <text id="tiphereth3_intro_a2">畢竟那也是公司的資產，還是盡量珍惜為好。</text> <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_a2">畢竟那也是公司的財產，還是盡量珍惜為好。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_a3">Tiphereth，在那之前，還是先向主管說明一下來龍去脈比較好。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_ta5">但是，為什麼呢？</text>
   <text id="tiphereth3_intro_a4">我不是說過很多次了嗎，Tiphereth。人的心靈太過脆弱，不足以完全正常地看待與我們相同的事物。</text><!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_ta6">那也不算什麼殘忍的場景吧？既不是職員腦袋被砍掉，又不是身體器官外露。</text>
   <text id="tiphereth3_intro_a5">不僅僅是刺激性的場景，就算只是看到違反常規的景象，人的那顆心靈也容易崩潰。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_ta7">呃……真是方方面面都要費心呢……</text>
-  <text id="tiphereth3_intro_ta8">為什麼主管不用機器來取代呢？每次胡鬧的時候，像Tiphereth這樣替換掉不就好了。</text>
+  <text id="tiphereth3_intro_ta8">為什麼主管不用機器來取代呢？每次亂來的時候，像Tiphereth這樣替代掉，不就好了。</text>
   <text id="tiphereth3_intro_a6">Tiphereth，有些事只有人類才能做到。這裡的創立者也有自己的想法，可能就是因為這樣，他們才會安排主管的吧。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth3_intro_ta9">好吧，那麼……就到「倉庫」去吧。那裡是少數幾個認知濾網會減弱的地方。</text>
   <text id="tiphereth3_intro_tb18">我知道那個地方在哪。</text>
-  <text id="tiphereth3_intro_ta10">Tiphereth，你在說什麼？那裡不是我們工作時常去的地方嗎？</text>
+  <text id="tiphereth3_intro_ta10">Tiphereth，你在說什麼？那不是我們工作時常去的地方嗎？</text>
   <text id="tiphereth3_intro_tb19">我不是那個意思，</text>
   <text id="tiphereth3_intro_tb20">我記得在那個地方，發生過什麼事。</text>
   <text id="tiphereth3_intro_ta11">……</text>
   <text id="tiphereth3_intro_ta12">是嗎？那太好了。</text>
-  <text id="tiphereth3_intro_ta13">這次也多虧你好好幫助我，謝謝了。</text>
+  <text id="tiphereth3_intro_ta13">這次也多虧你好好協助我，謝謝了。</text>
 
   <!-- 에피소드 4-->
 
@@ -122,9 +122,9 @@
   <text id="tiphereth4_intro_a2">您肯定會認為，他們看起來是和您毫無二致的人類的樣子。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a3">會笑也會皺眉，會做出各種表情，或許比我還要生動得多。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a4">但您知道嗎？</text> <!-- 화자 : 앤젤라-->
-  <text id="tiphereth4_intro_a5">如果這個空間裡存在足以讓人誤以為是人類的擬似AI，</text> <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a5">如果這個空間裡，存在足以讓人誤以為是人類的擬似AI，</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a6">那也只有我。</text> <!-- 화자 : 앤젤라-->
-  <text id="tiphereth4_intro_a7">我從一開始介紹時就說過了嗎？</text> <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a7">我從一開始介紹時，就說過了嗎？</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a8">我是這裡最厲害的AI。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a9">在這裡，看透本質一點也不重要。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_intro_a10">因為您現在看到的一切，都是經過嚴重扭曲的景象。</text> <!-- 화자 : 앤젤라-->
@@ -134,45 +134,45 @@
   <text id="tiphereth4_intro_a13">這是Tiphereth。您已經和他見過好幾次面了。</text> <!-- 화자 : 앤젤라-->
   <text id="tiphereth4_selection1">這究竟是不是Tiphereth？</text> <!-- 선택지-->
 
-  <text id="tiphereth4_intro_tta1_1">你在問什麼蠢問題啊？那你以為這是誰？</text> <!-- 선택지 1번 고를 경우-->
-  <text id="tiphereth4_intro_tta2_1">看你這表情像是聽到什麼新消息似的，我們是機器這件事不都反覆說過很多次了嗎？</text> <!-- 선택지 2번 고를 경우-->
-  <text id="tiphereth4_intro_tta2">我每次都看不夠你那種表情。</text>
+  <text id="tiphereth4_intro_tta1_1">在問什麼蠢問題啊？那你以為這是誰？</text> <!-- 선택지 1번 고를 경우-->
+  <text id="tiphereth4_intro_tta2_1">看你這表情，像是聽到什麼新東西似的，我們是機器，不都反覆說過很多次了嗎？</text> <!-- 선택지 2번 고를 경우-->
+  <text id="tiphereth4_intro_tta2">我每次都看不夠你那表情。</text>
   <text id="tiphereth4_intro_tta3">實話告訴你吧。這部分總是很無聊，但你露出那種表情的那片刻，我才覺得有些好笑了。</text>
   <text id="tiphereth4_intro_tta4">你以為只有我才這樣嗎？你至今為止遇到的所有Sephiroth，以及今後將要遇到的Sephiroth，模樣全都和我一樣。</text>
   <text id="tiphereth4_intro_tta5">這都多虧了那了不起的《人工智慧倫理修訂案》。</text>
   <text id="tiphereth4_intro_tta6">而這裡，</text>
   <text id="tiphereth4_intro_tta7">是我們誕生的地方，也是總有一天要回歸的地方。</text>
   <text id="tiphereth4_intro_tta8">也許等一切都結束後，我們會在這裡一邊等待休息，一邊哼唱故鄉的歌謠吧？</text> <!-- 프레셔가 내려와서 티페리트 b를 뭉갠다.-->
-  <text id="tiphereth4_intro_tta9">Tiphereth，希望下一個版本的你能正常運作得久一點。</text>
+  <text id="tiphereth4_intro_tta9">Tiphereth，希望下一個版本的你，能正常運作得久一點。</text>
   <text id="tiphereth4_intro_a14">那麼Tiphereth，一旦準備好，我馬上就把下一個Tiphereth送過去。</text> <!-- 화자 : 앤젤라-->
-  <text id="tiphereth4_intro_tta10">謝謝你，安潔拉小姐。</text>
+  <text id="tiphereth4_intro_tta10">謝謝妳，安潔拉小姐。</text>
   <text id="tiphereth4_intro_mm1">大家都在這啊！在會議室裡沒找到你們，我花了半天時間在找你們呢。</text> <!-- 화자  말쿠트-->
   <text id="tiphereth4_intro_tta11">什麼事，Malkuth？</text>
   <text id="tiphereth4_intro_mm2">嗯，Netzach說有檔案要給Tiphereth，他拜託我來拿！</text> <!-- 화자  말쿠트-->
-  <text id="tiphereth4_intro_tta12">那個還沒準備好，因為我們有更緊急的事要先處理。而且，告訴他自己的事要自己來。</text>
+  <text id="tiphereth4_intro_tta12">那個還沒準備好，因為我們有更緊急的事要先處理。而且告訴他，自己的事要自己來。</text>
   <text id="tiphereth4_intro_mm3">Netzach說他很忙。那我轉告他等合適的時候再來吧！</text> <!-- 화자  말쿠트-->
-  <text id="tiphereth4_intro_tta13">你們上層怎麼一個個都那副德性啊？Netzach一點都不忙！他就是因為嫌麻煩才把事情推給你的！</text>
+  <text id="tiphereth4_intro_tta13">你們上層怎麼一個個都那副德性啊？Netzach一點都不忙！他就是因為嫌麻煩，才把事情推給妳！</text>
   <text id="tiphereth4_intro_mm4">但我很開心啊？</text> <!-- 화자  말쿠트-->
-  <text id="tiphereth4_intro_mm5">啊，現在正在替換Tiphereth啊。週期好像越來越短了，Tiphereth你一定很擔心吧！</text> <!-- 화자  말쿠트-->
-  <text id="tiphereth4_intro_tta14">與其擔心我，不如擔心你的筆記本去！它這麼破破爛爛，馬上就要裂開了。</text>
-  <text id="tiphereth4_intro_mm6">真的嗎？謝謝你的關心，能見到主管您也很開心！</text><!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_mm5">啊，現正在替換Tiphereth啊。週期好像越來越短了，Tiphereth妳一定很擔心吧！</text> <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_tta14">與其擔心我，不如擔心妳的筆記本去！它這麼破破爛爛，馬上就要裂開了。</text>
+  <text id="tiphereth4_intro_mm6">真的嗎？謝謝妳的關心，能見到主管您也很開心！</text><!-- 화자  말쿠트-->
 
     <!-- 장소 이동-->
   <text id="tiphereth4_intro_tb1">……</text> <!-- 교체 된 새로운 티페리트 b-->
   <text id="tiphereth4_intro_tb2">您好，我是Tiphereth。</text>
-  <text id="tiphereth4_intro_ta1">介紹流程就跳過吧，Tiphereth。Netzach轉交的檔案在這裡，該你審核了。</text>
+  <text id="tiphereth4_intro_ta1">那個過程已經略過了，Tiphereth。Netzach轉交的檔案在這裡，該你審核了。</text>
   <text id="tiphereth4_intro_tb3">嗯，知道了。</text>
   <text id="tiphereth4_intro_ta2">……</text>
   <text id="tiphereth4_selection3">Tiphereth好像有話要對我說。</text> <!-- 선택지-->
   <text id="tiphereth4_selection4">Tiphereth現在會怎麼樣？</text> <!-- 선택지-->
   <text id="tiphereth4_intro_ta3_1">故障的機器就算有話要說又能怎樣？</text> <!-- 선택지 1번 고른 경우-->
   <text id="tiphereth4_intro_ta3_2">Tiphereth過載了。</text>
-  <text id="tiphereth4_intro_ta3_3">從第一次製造它的時候起，就總覺得有點問題，</text>
-  <text id="tiphereth4_intro_ta3_4">結果情況卻越來越嚴重。</text>
+  <text id="tiphereth4_intro_ta3_3">從第一次製造他的時候起，就總覺得有點問題，</text>
+  <text id="tiphereth4_intro_ta3_4">結果情況，卻越來越嚴重。</text>
   <text id="tiphereth4_intro_ta3_5">雖然多次替換機器，只保留特定資料並初始化，</text>
   <text id="tiphereth4_intro_ta3_6">但在某個特定時間點，它又會出現同樣的錯誤。</text>
   <text id="tiphereth4_intro_ta4_1">現在會怎麼樣？你在說什麼？</text> <!-- 선택지 2번 고른 경우-->
-  <text id="tiphereth4_intro_ta4_2">啊，你是在說那個報廢的機器嗎？</text>
+  <text id="tiphereth4_intro_ta4_2">啊，是在說那個報廢的機器嗎？</text>
   <text id="tiphereth4_intro_ta4_3">如果它不完全報廢，不知道又會出什麼錯誤。</text>
   <text id="tiphereth4_intro_ta4_4">那對我這邊來說，是會很麻煩的。</text>
   <text id="tiphereth4_intro_ta4_5">負責中央總部的是「我」，但同時又是兩個人。</text>
@@ -199,9 +199,9 @@
   <text id="tiphereth5_intro_tb9">在這裡安逸地停滯不前，不是我誕生的理由。</text>
   <text id="tiphereth5_intro_tb10">也不會成為那樣的理由。</text>
   <text id="tiphereth5_intro_ta7">你總是說些太難懂的話。你為什麼要想那麼多？</text>
-  <text id="tiphereth5_intro_ta8">想太多可能會讓你變得奇怪。</text>
+  <text id="tiphereth5_intro_ta8">想太多的話，可能會讓你變得奇怪。</text>
   <!-- 화면 전환 (시간의 흐름)-->
-  <text id="tiphereth5_intro_tb11">其實啊，麗莎，我好像一直都很悲傷。</text>
+  <text id="tiphereth5_intro_tb11">其實啊，麗薩，我好像一直都很悲傷。</text>
   <text id="tiphereth5_intro_tb12">我從未有一刻熱愛過自己的人生。</text>
   <text id="tiphereth5_intro_tb13">如果下輩子能活在一個幸福的世界裡，那該有多好啊。</text>
   <text id="tiphereth5_intro_ta9">以諾……你覺得很痛嗎？</text>
@@ -213,10 +213,10 @@
   <text id="tiphereth5_intro_a3">今後你們將作為我的助手，在這裡執行驚人的工作。</text>
   <text id="tiphereth5_intro_ta10">為什麼我們的名字是一樣的？</text>
   <text id="tiphereth5_intro_a4">因為區分你們沒有任何意義。</text>
-  <text id="tiphereth5_intro_tb16">你好，很高興見到你，Tiphereth。</text>
+  <text id="tiphereth5_intro_tb16">妳好，很高興見到妳，Tiphereth。</text>
   <!-- 화면 전환 (시간의 흐름)-->
   <text id="tiphereth5_intro_ta11">我好像總是在犯錯，Tiphereth……</text>
-  <text id="tiphereth5_intro_tb17">我不是在幫你嗎？很快，你自己也能做得很好的。</text>
+  <text id="tiphereth5_intro_tb17">我不是在幫妳嗎？很快，妳自己也能做得很好的。</text>
   <!-- 화면 전환 (시간의 흐름)-->
   <text id="tiphereth5_intro_ta12">我們做到了！其他Sephiroth可能都做不到這麼快吧？</text>
   <text id="tiphereth5_intro_ta13">說不定我們是比想像中更合拍的搭檔呢！</text>
@@ -225,15 +225,15 @@
   <text id="tiphereth5_intro_tb19">為什麼呢，我們為什麼「存在」於此。</text>
   <text id="tiphereth5_intro_ta14">為什麼要想那種事？我們是中央總部負責人，有被給定的工作。只要記住那一點不就行了嗎？</text>
   <text id="tiphereth5_intro_tb20">我們和普通的機器不同。</text>
-  <text id="tiphereth5_intro_tb21">就像我會想著你，你會想著我一樣，如果我們會為某件事苦惱、痛苦、並以此存在，那一定是有理由的。</text>
-  <text id="tiphereth5_intro_ta15">但是這種疑問如果被安潔拉小姐知道的話，她肯定會不高興的。</text>
+  <text id="tiphereth5_intro_tb21">就像我會想著妳，妳會想著我一樣，如果我們會為某件事苦惱、痛苦、並以此存在，那一定是有理由的。</text>
+  <text id="tiphereth5_intro_ta15">但這種疑問，要是被安潔拉小姐知道了，她肯定會不高興的。</text>
   <!-- 화면 전환 (시간의 흐름)-->
   <text id="tiphereth5_intro_ta16">安潔拉小姐，Tiphereth今後會怎麼樣？</text>
   <text id="tiphereth5_intro_a5">姑且不論他現在的狀態不正常這點，他那過度的疑問很快就會影響到主管。</text> <!-- 화자: 앤젤라-->
   <text id="tiphereth5_intro_a6">這是絕對不能容忍的事，所以必須重設他。</text> <!-- 화자: 앤젤라-->
-  <text id="tiphereth5_intro_a7">沒什麼大不了的。只是讓你們回到初次睜開眼睛的那天而已。</text> <!-- 화자: 앤젤라-->
-  <text id="tiphereth5_intro_ta17">但是安潔拉小姐，Tiphereth至今為止和我一起度過了那麼多時間……</text>
-  <text id="tiphereth5_intro_a8">這時候的你，真是有小孩子的模樣呢，Tiphereth。那麼，至少去道個別吧。反正很快就會再見的。</text> <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a7">沒什麼大不了的。只是讓你們，回到初次睜開眼睛的那天而已。</text> <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_ta17">但安潔拉小姐，Tiphereth至今為止和我一起度過了那麼多時間……</text>
+  <text id="tiphereth5_intro_a8">這時候真像個小孩子呢，Tiphereth。那至少去打個招呼吧。反正很快就會再見的。</text> <!-- 화자: 앤젤라-->
   <text id="tiphereth5_intro_ta18">Tiphereth，Tiphereth，Tiphereth……</text>
   <text id="tiphereth5_intro_tb22">為什麼哭得這麼傷心，Tiphereth？</text>
   <text id="tiphereth5_intro_ta19">對不起，我什麼都做不到……</text>
@@ -258,8 +258,8 @@
   <text id="tiphereth5_intro_ta36">我會在這裡唱著故鄉的歌謠，對Tiphereth致以無法傳達的哀悼。</text>
   <text id="tiphereth5_intro_ta37">你也一起來嗎？</text>
   <!-- 티페리트 b 등장-->
-  <text id="tiphereth5_intro_tb24">Tiphereth，你在這裡做什麼？</text>
-  <text id="tiphereth5_intro_ta38">嗯，我想起了以前的事。</text>
+  <text id="tiphereth5_intro_tb24">Tiphereth，妳在這裡做什麼？</text>
+  <text id="tiphereth5_intro_ta38">嗯，想起了以前的事。</text>
   <text id="tiphereth5_intro_tb25">想起了以前的什麼事？</text>
   <text id="tiphereth5_intro_ta39">想起我們一起度過的快樂時光。</text>
   <text id="tiphereth5_intro_tb26">是啊，那時真的很快樂。</text>
@@ -268,7 +268,7 @@
   <text id="tiphereth5_intro_ta41">知道了。</text>
   <!-- 화면 전환 (과거회상 잠깐)-->
   <text id="tiphereth5_intro_ta42">就算替換機器並保留主要的記憶，也不代表就能變成以前的Tiphereth啊！</text>
-  <text id="tiphereth5_intro_a9">那重要嗎？Tiphereth會以和從前無異的樣子對你微笑，繼續和你在一起，不是嗎？</text> <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a9">那重要嗎？Tiphereth會以和從前無異的樣子對妳微笑，繼續和妳在一起，不是嗎？</text> <!-- 화자: 앤젤라-->
   <text id="tiphereth5_intro_a10">請把那種消耗性的話吞回去吧，Tiphereth。在這裡，那是毫無用處的談話。</text> <!-- 화자: 앤젤라-->
   <!-- 화면 전환 (시간의 흐름), 다시 현재 (관리자와의 대화)-->
   <text id="tiphereth5_intro_ta43">……</text>
@@ -286,13 +286,13 @@
   <text id="tiphereth5_intro_ta54">到目前為止，你不是滿輕鬆地就答應了其他請求嗎？</text>
   <text id="tiphereth5_intro_ta55">你能……把Tiphereth處理掉嗎？</text>
   <text id="tiphereth5_intro_ta56">安潔拉小姐總是說，這是有理由的，我們是兩個人，兩個人即為一體，但是，</text>
-  <text id="tiphereth5_intro_ta57">對我而言，我早就證明了我自己一人也能負責好中央總部。</text>
-  <text id="tiphereth5_intro_ta58">不如在Tiphereth變得更糟之前，讓他好好安息吧。就像一開始只有我獨自一人那樣。</text>
+  <text id="tiphereth5_intro_ta57">對我而言，我早就證明了，自己一人也能負責好中央總部。</text>
+  <text id="tiphereth5_intro_ta58">不如在Tiphereth變得更糟之前，讓他好好安息吧。就像一開始，只有我獨自一人那樣。</text>
   <text id="tiphereth5_selection1">……</text> <!-- 선택지 한개-->
   <text id="tiphereth5_intro_ta59">你為什麼一句話都不說？！</text>
-  <text id="tiphereth5_intro_ta60">其實安潔拉小姐才不會那麼在乎我們呢！</text>
-  <text id="tiphereth5_intro_ta61">不管Tiphereth是一個還是兩個，剩下那個是變成只會動的廢鐵，還是因為過載變成堆在倉庫裡無數等待融化的廢品！她都漠不關心。</text>
-  <text id="tiphereth5_intro_ta62">但是你不一樣吧，至少你……！</text>
+  <text id="tiphereth5_intro_ta60">其實，安潔拉小姐才不會那麼在乎我們呢！</text>
+  <text id="tiphereth5_intro_ta61">不管Tiphereth是一個還是兩個，剩下的那個是變成只會動的廢鐵，還是因為過載變成堆在倉庫裡，無數等待融化的廢品！她都漠不關心。</text>
+  <text id="tiphereth5_intro_ta62">但你不一樣，至少你……！</text>
   <!-- 화면 전환 (A의 시점)-->
   <text id="tiphereth5_intro_A1">郊區有很多被拋棄的孩子。</text>
   <text id="tiphereth5_intro_A2">都市裡翼與翼之間發生了大大小小的紛爭，而這是其結果之一。</text>
@@ -301,7 +301,7 @@
   <text id="tiphereth5_intro_A5">一名收尾人在郊區徘徊時發現了這兩個孩子。</text>
   <text id="tiphereth5_intro_A6">不難想像，他是抱著什麼樣的心情向我們報告的。</text>
   <text id="tiphereth5_intro_A7">我們也知道他在報告之前，做了很多思想鬥爭。</text>
-  <text id="tiphereth5_intro_A8">卡門叫他把那兩個孩子帶來。</text>
+  <text id="tiphereth5_intro_A8">卡門叫他，把那兩個孩子帶來。</text>
   <text id="tiphereth5_intro_A9">要把郊區的孩子帶進都市，需要相當複雜的程序，但沒人抱怨。</text>
   <text id="tiphereth5_intro_A10">兩個小孩似乎不是兄妹，但卻比有血緣關係的彼此更依賴對方。</text>
   <text id="tiphereth5_intro_A11">女孩總是很膽小，不向我們敞開心扉，</text>
@@ -311,65 +311,65 @@
   <text id="tiphereth5_intro_A15">他對我們請求說，請允許我參與實驗。</text>
   <text id="tiphereth5_intro_A16">對於他的懇求，卡門苦惱了好幾個夜晚，</text>
   <text id="tiphereth5_intro_A17">而最終，我們……</text>
-  <text id="tiphereth5_selection2">批准了實驗。</text> <!-- 선택지-->
-  <text id="tiphereth5_selection3">批准了實驗。</text> <!-- 선택지-->
-  <text id="tiphereth5_selection4">批准了實驗。</text> <!-- 선택지-->
-  <text id="tiphereth5_intro_A18">在我們牽著孩子的手的時候，我們究竟是想去往何方呢。</text>
-  <text id="tiphereth5_intro_ta63">當初死的應該是你啊……</text>
+  <text id="tiphereth5_selection2">允許了實驗。</text> <!-- 선택지-->
+  <text id="tiphereth5_selection3">允許了實驗。</text> <!-- 선택지-->
+  <text id="tiphereth5_selection4">允許了實驗。</text> <!-- 선택지-->
+  <text id="tiphereth5_intro_A18">在我們牽著孩子的手之時，我們究竟是想去往何方呢。</text>
+  <text id="tiphereth5_intro_ta63">當初死的，應該是妳啊……</text>
   <text id="tiphereth5_intro_c1">是啊……我也是……這麼想……</text> <!-- 화자 : 카르멘-->
-  <text id="tiphereth5_intro_A19">或許麗莎那句刻毒的喃喃自語並非真心，但我知道。</text>
+  <text id="tiphereth5_intro_A19">或許麗薩那句刻毒的喃喃自語並非真心，但我知道。</text>
   <text id="tiphereth5_intro_A20">卡門的回答是真心的。</text>
   <text id="tiphereth5_intro_A21">從那天起，卡門悄悄地讓傷口不斷擴大。</text>
 
   <!-- 에피소드 6-->
   <text id="tiphereth6_intro_ta1">以諾，</text>
   <text id="tiphereth6_intro_ta2">你聽說過「巢」嗎？</text>
-  <text id="tiphereth6_intro_ta3">我聽說那裡每天都有慶典。</text>
+  <text id="tiphereth6_intro_ta3">我聽說，那裡每天都有慶典。</text>
   <text id="tiphereth6_intro_ta4">我也想跳舞，以諾。</text>
   <text id="tiphereth6_intro_ta5">我想踏著腳步，將身體託付給幸福。</text>
-  <text id="tiphereth6_intro_tb1">麗莎，如果你仔細看的話，會發現這裡也很美。</text>
+  <text id="tiphereth6_intro_tb1">麗薩，如果妳仔細看的話，會發現這裡也很美。</text>
   <text id="tiphereth6_intro_ta6">但我們能去的地方沒多少。卡門只想一直把我們關起來。</text>
-  <text id="tiphereth6_intro_tb2">卡門是好人。如果你能快點向她敞開心扉，那就太好了。</text>
+  <text id="tiphereth6_intro_tb2">卡門是好人。如果妳能快點向她敞開心扉，那就太好了。</text>
   <text id="tiphereth6_intro_ta7">我不想親近其他人，我只想一直跟你在一起。</text>
-  <text id="tiphereth6_intro_tb3">我不能永遠陪在你身邊。</text>
-  <text id="tiphereth6_intro_tb4">我從很久以前就開始思考一些問題，我想或許能在這裡找到答案……</text>
-  <text id="tiphereth6_intro_tb5">或許我想的那些事太過不切實際，</text>
+  <text id="tiphereth6_intro_tb3">我不能永遠陪在妳身邊。</text>
+  <text id="tiphereth6_intro_tb4">從很久以前，我就開始思考一些問題。我想或許能在這裡找到答案……</text>
+  <text id="tiphereth6_intro_tb5">或許我想的那些事，太過不切實際，</text>
   <text id="tiphereth6_intro_tb6">即使找到了，也可能轉瞬即逝……</text>
   <text id="tiphereth6_intro_tb7">但在追尋答案的過程中，我才能蛻下外殼。</text>
   <text id="tiphereth6_intro_tb8">或許能卸下沉重的身軀，最終展翅飛翔……</text>
-  <text id="tiphereth6_intro_ta8">我有時候完全聽不懂你在說什麼。</text>
+  <text id="tiphereth6_intro_ta8">有時候，我完全聽不懂你在說什麼。</text>
   <text id="tiphereth6_intro_ta9">但不管你要去哪裡，都得帶上我。</text>
   <text id="tiphereth6_intro_tb9">……</text>
   <text id="tiphereth6_intro_ta10">啊，是A先生來了啊。看來是時候該走了。</text>
   <text id="tiphereth6_intro_ta11">太陽落山了，馬上就要變冷了。我們進去吧。</text>
   <text id="tiphereth6_intro_tb10">是啊，很快，寒冷的日子就要來了……</text>
   <text id="tiphereth6_intro_A1">雖然我從未視他們為家人，也未曾感到必須照顧他們的義務，</text> <!-- 화자 : A-->
-  <text id="tiphereth6_intro_A2">但替忙碌的卡門把跑出去玩的孩子帶回來的任務，還是由我承擔了下來。</text> <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A2">但替忙碌的卡門帶回跑出去玩的孩子的任務，還是由我承擔了下來。</text> <!-- 화자 : A-->
   <text id="tiphereth6_intro_A3">我看到了，</text> <!-- 화자 : A-->
   <text id="tiphereth6_intro_A4">看到了朝我跑來的孩子們、</text> <!-- 화자 : A-->
   <text id="tiphereth6_intro_A5">看到了在郊區倖存下來的孩子們、</text> <!-- 화자 : A-->
   <text id="tiphereth6_intro_A6">看到了我們救下的孩子們。</text> <!-- 화자 : A-->
   <!-- 화면 전환 (시간의 흐름), 다시 현재 (관리자와의 대화)-->
 
-  <text id="tiphereth6_intro_ta12">我曾以為我一個人也能做到。</text>
-  <text id="tiphereth6_intro_ta13">我曾想著如果哪天Tiphereth回來了，我想讓他看到我變得可靠的樣子。</text>
+  <text id="tiphereth6_intro_ta12">我曾以為，我一個人也能做到。</text>
+  <text id="tiphereth6_intro_ta13">我曾想著，如果哪天Tiphereth回來了，我想讓他看到，我變得成熟穩重的樣子。</text>
   <text id="tiphereth6_intro_ta14">但這失望似乎沒有盡頭，Tiphereth的情況也沒有好轉。</text>
   <text id="tiphereth6_intro_ta15">我無法忍受那沒有答案的沉默。</text>
-  <text id="tiphereth6_intro_ta16">所以我這樣想了：</text>
+  <text id="tiphereth6_intro_ta16">所以，我這樣想：</text>
   <text id="tiphereth6_intro_ta17">不如，</text>
-  <text id="tiphereth6_intro_ta18">不如，把這早已習慣的厭惡感和自責感，當作從未發生過一樣掩埋掉。</text>
+  <text id="tiphereth6_intro_ta18">把這早已習慣的厭惡感和自責感，當作從未發生過一樣掩埋掉。</text>
   <text id="tiphereth6_intro_ta19">但每次看到Tiphereth那生硬的笑容時，我的心就像被黑色的灰燼覆蓋。</text>
   <text id="tiphereth6_intro_ta20">我知道Tiphereth無法回到過去，</text>
   <text id="tiphereth6_intro_ta21">也知道絕對無法回到那些幸福的日子了。</text>
   <text id="tiphereth6_intro_ta22">但我連好好承受都做不到，甚至想過要拋棄Tiphereth……</text>
   <text id="tiphereth6_intro_ta23">最痛苦的，本應是Tiphereth才對……</text>
   <!-- 티페리트 b 등장-->
-  <text id="tiphereth6_intro_tb11">Tiphereth，你忙完了嗎？</text>
+  <text id="tiphereth6_intro_tb11">Tiphereth，妳忙完了嗎？</text>
   <text id="tiphereth6_intro_ta24">……</text>
   <text id="tiphereth6_intro_tb12">快走吧。時間已經過去很久了，太陽快下山了。</text>
-  <text id="tiphereth6_intro_tb13">快點，麗莎。</text>
+  <text id="tiphereth6_intro_tb13">快點，麗薩。</text>
   <!-- 티페리트 b 퇴장-->
-  <text id="tiphereth6_intro_ta25">是啊，曾幾何時，我的名字是麗莎。</text>
+  <text id="tiphereth6_intro_ta25">是啊，曾幾何時，我的名字是麗薩。</text>
   <text id="tiphereth6_intro_ta26">Tiphereth就算記不起自己以前的名字，也常常會提起我舊時的名字。</text>
   <text id="tiphereth6_intro_ta27">Tiphereth不惜犧牲自己也想要追求的，究竟是什麼呢？</text>
   <text id="tiphereth6_intro_ta28">以及，直到被廢棄都還在持續期待著的，又是什麼呢？</text>
