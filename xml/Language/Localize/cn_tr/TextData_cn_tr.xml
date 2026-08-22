@@ -123,7 +123,7 @@
   <text id="Allocate@ConfirmResearch">研究</text>
   <text id="Allocate@Description">說明</text>
   <text id="Allocate@Abnormality">異想體</text>
-  <text id="Allocate@Function">部門功能</text>
+  <text id="Allocate@Function">部門職能</text>
   <text id="Allocate@Need">需要部署員工</text>
   <text id="Allocate@Research_Help">將提案書拖至此處</text>
   <text id="Agent@Name">名字</text>
@@ -235,7 +235,7 @@
   <text id="MissionUI@InProgress">進行中</text>
 
   <text id="Kether@ResearchCheck">確認Keter的研究（未使用）</text>
-  <text id="Kether@func">Kether部門功能（未使用）</text>
+  <text id="Kether@func">Kether部門職能（未使用）</text>
   <text id="Kether@agent">構築部員工名單</text>
   <text id="Kether@Name">構築部</text>
   <text id="Kether@LongDesc">員工、異想體、Sephirah以及設施。這一切的最初意志。為了將我們引向正確之處，所有的命令皆由此處發端，並迴盪開來。根據面對者與聆聽者的意志，無限的可能性將隨之展開。為人類時代的到來做好準備。</text>

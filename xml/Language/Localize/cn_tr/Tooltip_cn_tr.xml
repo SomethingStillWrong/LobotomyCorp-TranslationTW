@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localize>
    <!-- Default -->
-  <text id="Tooltip@Default">未知。</text>
+  <text id="Tooltip@Default">未知</text>
   
    <!-- Deploy UI -->
 	<text id="Tooltip_ManagementPart@UpFloor">移至上一層</text>
@@ -15,7 +15,7 @@
 	<text id="Tooltip_ManagementPart@Sefira_Description">檢視部門描述</text>
 	<text id="Tooltip_ManagementPart@Sefira_Research">檢視已取得的部門研究</text>
 	<text id="Tooltip_ManagementPart@Creature_Encyclopedia">檢視該異想體的圖鑑&#13;&#10;尚未完成觀察的異想體會顯示為「?」</text>
-	<text id="Tooltip_ManagementPart@Mission">當天能夠完成的任務&#13;&#10;完成任務後可解鎖新的研究</text>
+	<text id="Tooltip_ManagementPart@Mission">當天能夠完成的任務&#13;&#10;完成任務後，可以解鎖新的研究</text>
 	<text id="Tooltip_ManagementPart@Sefira_Boss">開啟此Sephirah的核心抑制戰&#13;&#10;此部門將無法部署員工</text>
 	
   <!-- Agent Information UI -->
@@ -29,12 +29,12 @@
 	<text id="Tooltip_Agent@EquippedArmor_Defence_W">白色傷害抗性：{0}</text>
 	<text id="Tooltip_Agent@EquippedArmor_Defence_B">黑色傷害抗性：{0}</text>
 	<text id="Tooltip_Agent@EquippedArmor_Defence_P">蒼色傷害抗性：{0}</text>
-	<text id="Tooltip_Agent@FortitudeLevel">勇氣等級：{0}&#13;&#10;在完成本能工作後，會提升該屬性對應的能力值。</text>
-	<text id="Tooltip_Agent@PrudenceLevel">智慧等級：{0}&#13;&#10;在完成洞察工作後，會提升該屬性對應的能力值。</text>
-	<text id="Tooltip_Agent@TemperanceLevel">節制等級: {0}&#13;&#10;在完成依戀工作後，會提升該屬性對應的能力值。</text>
+	<text id="Tooltip_Agent@FortitudeLevel">勇氣等級：{0}&#13;&#10;在完成本能工作後，會提升該屬性的對應能力值</text>
+	<text id="Tooltip_Agent@PrudenceLevel">智慧等級：{0}&#13;&#10;在完成洞察工作後，會提升該屬性的對應能力值</text>
+	<text id="Tooltip_Agent@TemperanceLevel">節制等級: {0}&#13;&#10;在完成依戀工作後，會提升該屬性的對應能力值</text>
 	<text id="Tooltip_Agent@WorkProb">提升約{0}%的工作成功率</text>
 	<text id="Tooltip_Agent@WorkSpeed">提升工作速度至原有的0.05×{0}+1倍。</text>
-	<text id="Tooltip_Agent@JusticeLevel">正義等級：{0}&#13;&#10;在完成壓制工作後，會提升該屬性對應的能力值。</text>
+	<text id="Tooltip_Agent@JusticeLevel">正義等級：{0}&#13;&#10;在完成壓制工作後，會提升該屬性的對應能力值</text>
 	<text id="Tooltip_Agent@MoveSpeed">提升移動速度至{0}×0.2個單位</text>
 	<text id="Tooltip_Agent@AttackSpeed">提升攻擊速度至基礎期望的0.8+{0}×5/143倍</text>
 	<text id="Tooltip_Agent@Gift">開啟E.G.O飾品清單</text>
@@ -48,7 +48,7 @@
 	<text id="Tooltip_Agent@LOB_Own">現有的LOB點數</text>
 	<text id="Tooltip_Agent@LOB_Employment">僱用員工需消耗的LOB點數</text>
 	<text id="Tooltip_Agent@LOB_Lack">LOB點數不足</text>
-	<text id="Tooltip_Agent@Upgrade_Value">提升員工的美德等級&#13;&#10;消耗的LOB點數隨提升等級的大小而變</text>
+	<text id="Tooltip_Agent@Upgrade_Value">提升員工的美德等級&#13;&#10;消耗的LOB點數隨提升等級的大小而有變動</text>
 	<text id="Tooltip_Agent@Downgrade_Value">降低員工的美德等級</text>
 	<text id="Tooltip_Agent@Change_Appearance">自訂員工外貌&#13;&#10;需消耗額外1點LOB點數</text>
   
@@ -88,20 +88,20 @@
 	<text id="Tooltip_IsolateRoom@AllAgentsDead">[該部門的所有職員皆已死亡]</text>
   
   <!-- Management Part : Main Sefira Top UI -->
-	<text id="Tooltip_Sefira@RecoveroGauge">再生反應爐恢復條&#13;&#10;在條充滿時，位於主休息室內的員工，將會恢復生命值與精神值。</text>
+	<text id="Tooltip_Sefira@RecoveroGauge">再生反應爐恢復條&#13;&#10;當條充滿時，位於主休息室內的員工會恢復生命值與精神值</text>
 	<text id="Tooltip_Sefira@ReturnAgents">將此部門的所有員工調回部門主休息室</text>
   
   <!-- Management Part : GameStatusUI-->
 	<text id="Tooltip_GameStatus@GoalValue">當日的PE-Box指標</text>
 	<text id="Tooltip_GameStatus@QliphothGauge">逆卡巴拉熔毀計量表</text>
 	<text id="Tooltip_GameStatus@QliphothLevel">逆卡巴拉熔毀等級</text>
-	<text id="Tooltip_GameStatus@QliphothRoom">發生逆卡巴拉熔毀的收容單位數量</text>
+	<text id="Tooltip_GameStatus@QliphothRoom">發生逆卡巴拉熔毀的收容單元數量</text>
 	<text id="Tooltip_GameStatus@QliphothOrdeal">檢測到在下次逆卡巴拉熔毀時會出現的考驗</text>
 	<text id="Tooltip_GameStatus@Pause">暫停&#13;&#10;可透過按下空白鍵來暫停</text>
 	<text id="Tooltip_GameStatus@SpeedLv1">預設速度</text>
 	<text id="Tooltip_GameStatus@SpeedLv2">1.5倍速&#13;&#10;Q：減速/E：加速</text>
 	<text id="Tooltip_GameStatus@SpeedLv3">2倍速&#13;&#10;Q：減速/E：加速</text>
-	<text id="Tooltip_GameStatus@MissionList">當天能夠完成的任務清單。</text>
+	<text id="Tooltip_GameStatus@MissionList">當天能夠完成的任務清單</text>
   
   <!-- Management Part : Worker Command Window : Manage Creature -->
 	<text id="Tooltip_WorkerCommand_Management@CreatureCode">異想體編號</text>
@@ -136,7 +136,7 @@
 	<text id="Tooltip_WorkerCommand_Suppression@OtherSefira">檢視其他部門的員工清單&#13;&#10;（也可透過滾動滑鼠滾輪來檢視其他部門的員工清單）</text>
   
   <!-- Management Part : Bullet UI -->
-	<text id="Tooltip_Bullet@TotalCounts">子彈數量&#13;&#10;在發生逆卡巴拉熔毀時會完全裝填。</text>
+	<text id="Tooltip_Bullet@TotalCounts">子彈數量&#13;&#10;在發生逆卡巴拉熔毀時會完全裝填</text>
 	<text id="Tooltip_Bullet@RecoverHP">生命值恢復彈頭</text>
 	<text id="Tooltip_Bullet@RecoveMental">精神值恢復彈頭</text>
 	<text id="Tooltip_Bullet@ProtectRED">紅色傷害護盾</text>
@@ -167,8 +167,8 @@
 
   <text id="Option@Tooltip">顯示UI作用提示框</text>
 
-  <text id="Tooltip_Gift_Lock">&lt;鎖定E.G.O飾品&gt;&#13;&#10;（此功能僅對4級及以上員工可用）&#13;&#10;該部位的E.G.O飾品不會被同部位的其他飾品所替換</text>
-  <text id="Tooltip_Gift_Locked">&lt;解鎖E.G.O飾品&gt;&#13;&#10;該部位的E.G.O飾品可以被同部位的其他飾品所替換</text>
+  <text id="Tooltip_Gift_Lock">&lt;鎖定E.G.O飾品&gt;&#13;&#10;（此功能僅對4級及以上員工可用）&#13;&#10;該部位的E.G.O飾品不會被同部位的其他飾品所替代</text>
+  <text id="Tooltip_Gift_Locked">&lt;解鎖E.G.O飾品&gt;&#13;&#10;該部位的E.G.O飾品可以被同部位的其他飾品所替代</text>
   <text id="Tooltip_Gift_Display">&lt;顯示E.G.O飾品外觀&gt;&#13;&#10;顯示該部位的E.G.O飾品外觀</text>
   <text id="Tooltip_Gift_Disappear">&lt;隱藏E.G.O飾品外觀&gt;&#13;&#10;（此功能僅對3級及以上員工可用）&#13;&#10;隱藏該部位的E.G.O飾品外觀（不影響飾品帶來的加成）</text>
 </localize>

@@ -20,7 +20,7 @@
   <text id="CreatureInfo_Escape">出逃情報</text>
   <text id="CreatureInfo_CumlativeText">獨立PE-Box儲量</text>
   <text id="CreatureInfo_CareTakingSlot">管理須知</text>
-  <text id="CreatureInfo_WorkSlot">工作喜好</text>
+  <text id="CreatureInfo_WorkSlot">工作偏好</text>
   <text id="CreatureInfo_Defense">防禦類型</text>
   <text id="CreatureInfo_Defense_OnlyText">傷害抗性</text>
   <text id="CreatureInfo_AttackInWork">工作傷害</text>
@@ -229,7 +229,7 @@
   <text id="CreatureInfo_CurrentObserveLevel">觀察等級</text>
   <text id="CreatureInfo_Information">異想體情報</text>
   <text id="CreatureInfo_Caretaking">管理須知</text>
-  <text id="CreatureInfo_WorkFavor">工作喜好</text>
+  <text id="CreatureInfo_WorkFavor">工作偏好</text>
   <text id="CreatureInfo_Prefix">異想體</text>
 
   <text id="OrdealMax">感測到當日最&#13;&#10;大的考驗等級</text>
