@@ -3,29 +3,29 @@
   <!-- 에피소드 1-->
   
   <text id="hokma1_intro_h1">歡迎您，A。</text>
-  <text id="hokma1_intro_h2">我一直很想念您。</text>
+  <text id="hokma1_intro_h2">我一直很想見您。</text>
   <text id="hokma1_intro_h3">從您入職的第一天起，我就一直在等待您的到來。</text>
   <text id="hokma1_intro_h4">這片海，您還記得嗎？</text>
-  <text id="hokma1_intro_h5">您曾說過，從江河溪流而來的一切，終將在此沉積歸宿。同樣地……</text>
-  <text id="hokma1_intro_h6">在底層，萬物終將沉澱。</text>
-  <text id="hokma1_intro_h7">用灰泥勉強粉刷潔白的天堂，還值得一看嗎？</text>
-  <text id="hokma1_intro_h8">我早有預感您即將到來。</text>
-  <text id="hokma1_intro_h9">請將方才的景象當作是我給您的見面禮。</text>
-  <text id="hokma1_intro_h10">因為我認為，您所眷戀的並非此刻的我，而是往昔某個場景中的我。</text>
+  <text id="hokma1_intro_h5">您曾說過，從江河溪流而來的一切，終將在此沉積。同樣地……</text>
+  <text id="hokma1_intro_h6">在底層，萬物都沉澱了下去。</text>
+  <text id="hokma1_intro_h7">用灰泥費力粉刷的天堂，值得一看嗎？</text>
+  <text id="hokma1_intro_h8">我知道您很快就會來。</text>
+  <text id="hokma1_intro_h9">請將方才，當作是我給您的見面禮。</text>
+  <text id="hokma1_intro_h10">因為我認為，您所懷念的並非此刻的我，而是往昔某個場景中的我。</text>
   <text id="hokma1_intro_h11">時光如刃，總是不停斬斷摯愛之人緊握的雙手。</text>
-  <text id="hokma1_intro_h12">我所愛的人們皆已離去，獨留我一人蒼老孤獨。</text>
+  <text id="hokma1_intro_h12">我所愛的人們皆已離去，獨留我一人衰老。</text>
   <text id="hokma1_intro_h13">請不要自責。</text>
   <text id="hokma1_intro_h14">那段時光，是我人生中最燦爛的瞬間。</text>
-  <text id="hokma1_intro_h15">唯一令我追悔莫及的是，當年未能堅守與您的約定，因膽怯而倉皇逃離。</text>
-  <text id="hokma1_intro_h16">但您最終仍找到了我，親自讓我在這裡履行未竟的承諾，這份心意，我怎能不心懷感激呢？</text>
-  <text id="hokma1_intro_h17">直至最後，您對我依然如此關切。</text>
+  <text id="hokma1_intro_h15">唯一令我追悔莫及的是，當年未能堅守與您的約定，過早地因膽怯而逃跑。</text>
+  <text id="hokma1_intro_h16">但您最終仍找到了我，親自讓我在這裡履行未竟的承諾，這份心意，我怎麼能不心懷感激呢？</text>
+  <text id="hokma1_intro_h17">直至最後，您對我依然如此親切。</text>
 
   
   <!--에피소드 2-->
 
   <text id="hokma2_intro_h1">我們是否正逐漸接近目標呢？</text>
   <text id="hokma2_intro_h2">正如人們常說，年長並不一定帶來智慧。</text>
-  <text id="hokma2_intro_h3">看看我的日常吧：只有反覆無常的貪婪、對逝去之物的執著與無用的後悔，日復一日無意義地凝視時鐘。</text>
+  <text id="hokma2_intro_h3">看看我的日常吧：只有間歇性的貪婪、對逝去之物的執著與無用的後悔，日復一日、無意義地凝視時鐘。</text>
   <text id="hokma2_intro_h4">說起來，有件事我一直想問您。</text>
   <text id="hokma2_intro_h5">我常看到您每次在職員死去時，露出惋惜的表情。</text>
   <text id="hokma2_intro_h6">正如我終將老去一樣，所有誕生的人都無法避開衰老與死亡。</text>
@@ -51,7 +51,7 @@
   <text id="hokma3_intro_h1">您或許以為，</text>
   <text id="hokma3_intro_h2">沉於底層的我，對上方之事一無所知。</text>
   <text id="hokma3_intro_h3">但真正一無所知的，其實是您。</text>
-  <text id="hokma3_intro_h4">痛苦、煎熬、後悔，以及從未放過您的過往陰影——</text>
+  <text id="hokma3_intro_h4">痛苦、煎熬、後悔，以及從未放過您的過往陰影。</text>
   <text id="hokma3_intro_h5">那些曾與您共度不少時日的人們，與我相比，不過是微不足道的瞬間。</text>
   <text id="hokma3_intro_h6">他們終究是不了解您的人。</text>
   <text id="hokma3_intro_h7">無法接受自身命運的人，總是將無名的憤怒之箭射向您。</text>
@@ -69,13 +69,13 @@
   <text id="hokma3_intro_h16">信中寫著一句平凡卻如魔法般的話：「您因優秀才能而獲准入職」。</text>
   <text id="hokma3_intro_h17">難以置信的安雅反覆讀了又讀。</text>
   <text id="hokma3_intro_h18">她長期懷疑是誤寄或惡作劇，但信件毫無偽造痕跡。</text>
-  <text id="hokma3_intro_h19">她短暫疑惑自己是否曾申請過，隨即意識到——</text>
+  <text id="hokma3_intro_h19">她短暫疑惑自己是否曾申請過，隨即意識到，</text>
   <text id="hokma3_intro_h20">這根本不重要。</text>
   <text id="hokma3_intro_h21">我扮演著為人們送信的郵差，</text>
   <text id="hokma3_intro_h22">篩選能進入此地之人，賜予他們奇蹟。</text>
   <text id="hokma3_intro_h23">安雅並非因「優秀才能」而來，</text>
   <text id="hokma3_intro_h23_1">而是具備所有職員共有、卻不自知的資格。</text>
-  <text id="hokma3_intro_h24">您也知道，要成為「翼」的羽毛，需要卓越的天賦。</text>
+  <text id="hokma3_intro_h24">您也知道，要成為「翼」的羽，需要卓越的天賦。</text>
   <text id="hokma3_intro_h25">而學業未竟、技術平庸、生於後巷而非巢的安雅，為何能夠入職？</text>
   <text id="hokma3_intro_h26">她的家人最終是否脫離了困境？</text>
   <text id="hokma3_intro_h27">她收到信，是十年前的事。</text>
@@ -88,7 +88,7 @@
   <text id="hokma3_selection1">喚醒。</text>
   <text id="hokma3_intro_h34">安雅將以新進職員的腳步前去工作，不知十年已逝。</text>
   <text id="hokma3_intro_h35">您只需支付少許代價，即可提升她的勇氣或智慧。</text>
-  <text id="hokma3_intro_h36">那麼現在，請抹除安雅。</text>
+  <text id="hokma3_intro_h36">那現在，請抹除安雅。</text>
   <text id="hokma3_selection2">抹除。</text>
   <text id="hokma3_intro_h37">感覺如何？</text>
   <text id="hokma3_intro_h38">被怪物撕碎的安雅，與被您抹消的安雅，同樣徒然喪命。</text>
@@ -99,15 +99,15 @@
   <text id="hokma3_intro_h43">上方之人渾然不覺，只為眼前的死亡疲於奔命，</text>
   <text id="hokma3_intro_h44">懷著模糊的怨懟，將一切歸咎於您這樣的存在，最終分崩離析……</text>
   <text id="hokma3_intro_h45">請放心，我絕不敢如此對您。</text>
-  <text id="hokma3_intro_h46">因為我始終渴望投身於您的生命洪流之中。</text>
+  <text id="hokma3_intro_h46">因為我始終渴望，投身於您的生命洪流之中。</text>
 
   <!-- 에피소드 4-->
 
-  <text id="hokma4_intro_a1">上層與中層的Sephiroth指派均已完畢。</text>
+  <text id="hokma4_intro_a1">上層與中層的Sephiroth指派皆已完畢。</text>
   <text id="hokma4_intro_a2">這不會是一次就能結束的事。</text>
-  <text id="hokma4_intro_a3">恐怕我將無數次地向他們重複相同的話語，不斷指引道路，但您應該會有所不同。</text>
+  <text id="hokma4_intro_a3">恐怕，我將無數次地向他們重複相同的話語，不斷指引道路，但您應該會有所不同。</text>
   <text id="hokma4_intro_a4">既然您知曉這設施的意圖，也清楚地明白該做的事，</text>
-  <text id="hokma4_intro_a5">想必，您不會期望我為您付出與他們相同的辛勞吧。</text>
+  <text id="hokma4_intro_a5">想必，您不會期望我承受與他們相同的辛勞吧。</text>
   <text id="hokma4_intro_a6">請您記住這一點：</text>
   <text id="hokma4_intro_a7">除非情況最為惡劣，否則我不會踏足這下層。</text>
   <text id="hokma4_intro_a8">這並非意味著完全袖手旁觀，而是表示我不會加以干涉。</text>
@@ -123,23 +123,23 @@
   <text id="hokma4_intro_h7">因為您似乎恢復如常，開始專注於某件事了。</text>
   <text id="hokma4_intro_h8">……</text>
   <text id="hokma4_intro_h9">她初次睜開雙眼的那天，</text>
-  <text id="hokma4_intro_h10">我記得您無法踏入那間實驗室，愣愣地站了許久。</text>
+  <text id="hokma4_intro_h10">我記得您沒能踏入那間實驗室，愣愣地站了許久。</text>
   <text id="hokma4_intro_h11">您或許以為是遇見了我，</text>
-  <text id="hokma4_intro_h12">但其實我在背後注視了您苦惱的模樣好一陣子。</text>
-  <text id="hokma4_intro_h13">是何種矛盾讓您如此猶豫不決？</text>
+  <text id="hokma4_intro_h12">但其實，我在背後注視了您苦惱的模樣好一陣子。</text>
+  <text id="hokma4_intro_h13">是何種矛盾，讓您如此猶豫不決？</text>
   <text id="hokma4_intro_h14">而當您看見那既不展露溫暖微笑、也沒有笑聲，與卡門截然不同的機械造物時，又有何感想？</text>
-  <text id="hokma4_intro_h15">我不是一再告訴過您了嗎？即使製造數百個像安潔拉那樣的AI，她也絕不可能成為卡門。</text>
+  <text id="hokma4_intro_h15">我不是一再告訴過您了嗎？即使製造數百個像安潔拉那樣的AI，也絕不可能成為卡門。</text>
   <text id="hokma4_intro_h16">而她也不過是以悲慘的模樣，擔負著照料我們的職責罷了。</text>
   <text id="hokma4_intro_h17">若說我有什麼誤判的話，</text>
-  <text id="hokma4_intro_h18">那就是我曾以為您已克服了一切，因而感到安心，</text>
-  <text id="hokma4_intro_h19">但事實卻完全不是如此。</text>
+  <text id="hokma4_intro_h18">那就是我曾以為，您已克服了一切，因而感到安心，</text>
+  <text id="hokma4_intro_h19">但事實，卻完全不是如此。</text>
 
 
   <!-- 에피소드 5-->
 
   <text id="hokma5_intro_m1">我會努力試試看的！</text>
   <text id="hokma5_intro_y1">過於鬆懈並非好事。</text>
-  <text id="hokma5_intro_hod1">我真能做好嗎？</text>
+  <text id="hokma5_intro_hod1">我能做好嗎？</text>
   <text id="hokma5_intro_c1">別太擔心了，像我這樣的精英可不多見。</text>
   <text id="hokma5_intro_ca1">……</text>
   <text id="hokma5_intro_a1">……</text>
@@ -148,7 +148,7 @@
   <text id="hokma5_intro_h2">它也可能成為現在，乃至未來。</text>
   <text id="hokma5_intro_h3">這裡有曾經喜歡過您的人們，以及自以為幸福的職員們。</text>
   <text id="hokma5_intro_h4">還有仿照卡門製造的安潔拉陪伴在您身邊。</text>
-  <text id="hokma5_intro_h5">這不正是滲入您心中的天堂嗎？</text>
+  <text id="hokma5_intro_h5">這不正是您心中的天堂嗎？</text>
   <text id="hokma5_intro_h6">創造出這個連死亡都變得無足輕重之地的您，與神明無異。</text>
   <text id="hokma5_intro_h7">所以，到此為止，您還不滿足嗎？</text>
 
@@ -161,8 +161,8 @@
   <text id="hokma5_intro_h13">您至今以來的所作所為，真是出自您自身的選擇嗎？</text>
   <text id="hokma5_intro_h14">您總是沒有準備好。</text>
   <text id="hokma5_intro_h15">沒有準備好接受她的死亡，於是創造出一個僅被失落感淹沒的存在，</text>
-  <text id="hokma5_intro_h16">如今又像盲人般摸索、辨識著過去的您所留下的模糊痕跡。</text>
-  <text id="hokma5_intro_h17">這個過程中，並無您的真心。</text>
+  <text id="hokma5_intro_h16">如今又像失明般摸索、辨識著過去的您所留下的模糊痕跡。</text>
+  <text id="hokma5_intro_h17">在這個過程中，並無您的真心。</text>
   <text id="hokma5_intro_h18">所以，請回去吧。</text>
   <text id="hokma5_selection1">我不會回去。</text>
   <text id="hokma5_intro_h19">請看，您這不正在證明嗎？</text>
@@ -176,7 +176,7 @@
   <text id="hokma5_selection2">我不會回去。</text>
   <text id="hokma5_intro_h27">您現在連該往何處去的方向標都沒有。</text>
   <text id="hokma5_intro_h28">在這茫茫大海中感到恐懼，是理所當然的事。</text>
-  <text id="hokma5_intro_h29">但您無需再畏懼歲月流逝的滴答聲。</text>
+  <text id="hokma5_intro_h29">但您無需再畏懼歲月流逝的發條聲。</text>
   <text id="hokma5_intro_h30">每當您到來時，我總會安慰您、溫暖地迎接您。</text>
   <text id="hokma5_intro_h31">我還是那句話：您從未準備好。</text>  <!-- 이 문장 중복이라 안나오게 해놓음.-->
   <text id="hokma5_selection3">我不會回去。</text>
@@ -185,32 +185,32 @@
   <text id="hokma5_intro_h34">雖然總以為明日會照常來臨，但事實卻並非如此。</text>
   <text id="hokma5_intro_h35">寂靜等待的時間早已結束。</text>
   <text id="hokma5_intro_h36">當我不再畏懼即將降臨的夜晚時，我便決心愛上此地。</text>
-  <text id="hokma5_intro_h37">即便如此，若您執意要打破這個外殼——</text>
+  <text id="hokma5_intro_h37">即便如此，若您執意要打破這個外殼，</text>
   <text id="hokma5_intro_h38">那我就作為它的守衛者，將您終結。</text>
-  <text id="hokma5_intro_h39">這怎能算是繼承她的意志呢？</text>
-  <text id="hokma5_intro_h40">這不過是一場充斥著可怕罪孽的災難。</text>
+  <text id="hokma5_intro_h39">這怎麼能算是繼承她的意志呢？</text>
+  <text id="hokma5_intro_h40">這只是一場充斥著可怕罪孽的災難。</text>
   <text id="hokma5_intro_h41">怎麼會……您比我想像的更加浸潤於悲傷之中。</text>
   <text id="hokma5_intro_h42">不如，就在這裡停下，好嗎？</text>
   <text id="hokma5_intro_h43">您，以及我們，已經盡力而為了。</text>
   <text id="hokma5_intro_h44">以至今積攢的財富與資歷，足以在巢內安穩度日了。</text>
-  <text id="hokma5_intro_h45">算我求您，就此罷手吧。</text>
+  <text id="hokma5_intro_h45">算我求您，就此收手吧。</text>
   <text id="hokma5_intro_h46">在越過那條線之前……</text>
-  <text id="hokma5_selection4">我不會罷手。</text>
-  <text id="hokma5_selection5">我不會罷手。</text>
-  <text id="hokma5_selection6">我不會罷手。</text>
-  <text id="hokma5_intro_A1">我的身邊早已空無一人。</text>
+  <text id="hokma5_selection4">我不會收手。</text>
+  <text id="hokma5_selection5">我不會收手。</text>
+  <text id="hokma5_selection6">我不會收手。</text>
+  <text id="hokma5_intro_A1">我的身邊，早已空無一人。</text>
   <text id="hokma5_intro_A2">憑藉眾人的犧牲，我達成了翼之位，但無人能與我共享成功的喜悅。</text>
   <text id="hokma5_intro_A3">這片寂靜，正是開始為眾人行事之時。</text>
   <text id="hokma5_intro_A4">我們日復一日地在失去著什麼。</text>
-  <text id="hokma5_intro_A5">我們從首腦那裡抓住了她。而從她身上，我們以非人道的方式取得情報；</text>
+  <text id="hokma5_intro_A5">我們從首腦那裡被抓來的她身上，以無法視為人道的手段套取情報，</text>
   <text id="hokma5_intro_A6">我以尚未賦予名字的AI，來傳達未來的所有計劃。</text>
   <text id="hokma5_intro_A7">常伴身旁的他的心，也已然破碎。</text>
   <text id="hokma5_intro_A8">海浪聲遠不可及，未曾停留。</text>
   <text id="hokma5_intro_A9">連為我停留的最後一人，也已失去。</text>
   <text id="hokma5_intro_A10">當下雖是不幸，但我未曾掩飾這份失去。</text>
   <text id="hokma5_intro_A11">早早離去的人們或許已不再需要我，但直到最後，我才明白我需要他們。</text>
-  <text id="hokma5_intro_A12">再度將離開大地懷抱之人召回，隱藏起秘密的種子。</text>
-  <text id="hokma5_intro_A13">留下的，只有我。</text>
+  <text id="hokma5_intro_A12">再度將離開大地懷抱之人召回，將秘密的種子藏起並囚禁。</text>
+  <text id="hokma5_intro_A13">留下的只有我。</text>
   <text id="hokma5_intro_A14">而我想如幻影般被遺忘。</text>
 
   <!-- 에피소드 6-->
@@ -229,10 +229,10 @@
   <text id="hokma6_intro_h12">而我曾認為您過於脆弱，無法承受那一切。</text>
   <text id="hokma6_intro_h13">您想飛往何方，我無從知曉。您也從未告訴過我。</text>
   <text id="hokma6_intro_h14">我始終是需要您教誨的學生。</text>
-  <text id="hokma6_intro_h15">而您總是欲言又止。</text>
-  <text id="hokma6_intro_h16">因為我無從得知您建造這座監獄究竟想達到何種目的，</text>
+  <text id="hokma6_intro_h15">而您總是嚥下了話語。</text>
+  <text id="hokma6_intro_h16">因為我無從得知您建造這座監獄，究竟想達到何種目的，</text>
   <text id="hokma6_intro_h17">加之過程過於艱險，</text>
-  <text id="hokma6_intro_h18">所以我逃跑了。我本可以徹底逃走，但我沒有那樣做。我試圖將您拽回正軌，卻反而被抓住；</text>
+  <text id="hokma6_intro_h18">所以我逃跑了。我本可以徹底逃走，但我沒有那樣做。我試圖將您修正，卻反而被抓住；</text>
   <text id="hokma6_intro_h19">自那以後，我的時間便永遠停止。</text>
   <text id="hokma6_intro_h20">其實我隱約感覺到，結局已然可見。</text>
   <text id="hokma6_intro_h21">但因畏懼面對結果，因而選擇了永恆的停駐。</text>
