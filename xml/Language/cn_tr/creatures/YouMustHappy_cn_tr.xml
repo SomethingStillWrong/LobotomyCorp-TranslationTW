@@ -30,48 +30,48 @@
       </riskLevel>
 
       <openText>
-        許多人在這台機器中接受手術後，得到了充分休息，變得更加健康。
+        許多在機器內接受治療的人，都重獲了休息，恢復了健康。
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一台用途不明的老舊手術機器，處處可見歲月留下的痕跡。}
+      {此異想體是一台處處顯得斑駁老舊、用途不明的醫療用機器。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {機器的機關在頭骨內翻攪，其設計旨在安全且有效地破壞神經組織。}
+      {這台能在頭蓋骨裡四處翻攪穿梭的機器，被設計得很適合安全且有效地破壞神經組織。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {許多人在這台機器中接受手術後，得到了充分休息，變得更加健康。}
+      {許多在機器內接受治療的人，都重獲了休息，恢復了健康。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       [
-      {當被問及「你愛你的城市嗎？」時，回答「是」者，被視為病情好轉；回答「不是」者，則無法出院。}
+      {當被問及「是否愛你的城市？」時，回答「是」的人被視為病情好轉；回答「不是」的人則無法出院。}
       ]
     </desc>
 
     <desc id="5" openLevel="4">
       [
-      {機器使用得越久，員工的狀態越佳。與此同時，使用時間越長，提問的頻率也隨之加快。}
+      {機器使用時間越長，員工的狀態就越好。與此同時，使用時間越長，提問的頻率也隨之加快。}
       ]
     </desc>
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">使用該機器的員工，其所有能力數值皆會獲得提升。</specialTip>
-      <specialTip openLevel="2" key="2">使用時間越長，能力值提升的幅度越高。</specialTip>
-      <specialTip openLevel="2" key="3">請確認在機器頂端顯示「YES」的狀態下結束使用。若在「NO」狀態下結束，所有能力值將下降，降幅等同於先前提升的總和。</specialTip>
-      <specialTip openLevel="2" key="4">提升的能力值將於次日復原。然而，曾因該對象效果累計提升超過200點能力值的員工，於當日結束時死亡。</specialTip>
-      <specialTip openLevel="2" key="5">&lt;注意&gt;：我們發現，有員工在使用該異想體五次後，當場爆炸。</specialTip>
+      <specialTip openLevel="1" key="1">使用此機器的員工，其所有能力值都會有所提升。</specialTip>
+      <specialTip openLevel="2" key="2">使用時間越長，能力值提升的幅度就越高。</specialTip>
+      <specialTip openLevel="2" key="3">請確保在機器頂部顯示「YES」時結束使用。若在顯示「NO」時結束使用，所有能力值皆會下降，降幅等同於先前提升的總和。</specialTip>
+      <specialTip openLevel="2" key="4">提升的能力值將於次日復原。但若有員工使用機器一次提升了200以上的能力值，則此員工將於當日結束管理時死亡。</specialTip>
+      <specialTip openLevel="2" key="5">&lt;注意&gt;：我們確認，使用此異想體超過五次的員工會當場爆炸。</specialTip>
     </specialTipSize>
 
 
