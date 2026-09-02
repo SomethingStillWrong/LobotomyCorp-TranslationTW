@@ -20,35 +20,35 @@
 
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
     <narration action="start">
       [
-      {它一絲不掛的來到這世, 也毫無牽掛的回去.},
-      {$0 還記得裡面的焦煙.},
+      {赤條條地來到這世上之人，終將赤條條地歸於塵土。},
+      {$0記得內心的黑灰。},
       ]
     </narration>
 
     <narration action="mid1">
       [
-      {或許我們曾試圖使人類失去心臟.},
-      {永不凋零的花朵正使勁的萌發. },
+      {我們或許是想創造出沒有心的人吧。},
+      {永不凋謝的花朵肆意綻放。},
       ]
     </narration>
 
     <narration action="mid2">
       [
-      {員工 #0 想要在春天的花圃上睡覺.},
-      {被薰衣草淹沒的收容室讓員工 #0 印象深刻.},
+      {#0渴望著如花般的春眠。},
+      {#0為那將逐漸暈染收容單元而逼近的薰衣草叢感到激動。},
       ]
     </narration>
 
     <narration action="mid3">
       [
-      {Allione, 盛開又枯萎. 它明白了復活的意義. 留下了小徑並使一切活物聚集到了 $0 身邊.},
-      {員工 #0 嘴中湧出了清新的氣味, 而不是鮮血.}
-      {花朵在大家的心中萌發了.}
+      {縱然盛開後凋零，但領悟到復活意義的$0，無論走到哪裡都會留下痕跡。而所有的生命都將聚集至$0。},
+      {陷入花中沉睡的#0，散發出的不再是血液，而是清幽濃郁的香氣。}
+      {花朵在每個人的心中綻放。}
       ]
     </narration>
 
@@ -60,90 +60,57 @@
       <portrait openLevel ="1">Sprites/Unit/creature/Alriune</portrait>
 
       <name openLevel ="1">
-        艾露內
+        愛娜溫
       </name>
       
       <riskLevel openLevel ="1">
         WAW
       </riskLevel>
-
-      <specialName openLevel ="2">
-        生於地球, 亦回歸至地球
-      </specialName>
       
-       <openText>帶著她的希望回歸了塵土, 她會帶著她渴望的一切回歸塵土.</openText>
+
+
+
+       <openText>懷抱著歸於泥土的願望，她將和所有渴望生存之物一同歸於墳墓。</openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {它的表面光滑. 眼窩處是空心的; 被植物給填滿.}
+      {此異想體知曉春之誕生與秋之消逝。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {艾露內, 一個渴望成為人類的玩偶. 她用那深情的雙眼深愛著人們.}
+      {其表面如同陶瓷般光滑。本該有眼睛的位置空無一物。而裂縫則由生長而出的植物填滿。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {艾露內, 被拋棄在在黑森林裡. 烏鴉們渴望並偷取了她閃亮的雙眼. 她的理智, 生命, 以及內心漸漸的消逝.}
+      {<i>可愛的愛娜溫，曾渴望成為人類的玩偶，帶著裝載靈魂的雙眸，備受人們疼愛地活著。</i>}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       [
-      {艾露內, 不帶眼睛的看著一切. 一個渴望成為人類的玩偶. 帶著她的希望回歸了塵土, 她會帶著她渴望的一切回歸塵土.}
+      {<i>被拋棄在黑暗森林裡的愛娜溫，眼珠遭貪圖光芒的烏鴉竊走，心靈、生命與心臟皆逐漸黯淡枯萎。</i>}
       ]
     </desc>
 
+    <desc id="5" openLevel="4">
+      [
+      {<i>雙眼雖失明卻能看透萬物的愛娜溫，曾渴望成為玩偶的人。懷抱著歸於泥土的願望，她將和所有渴望生存之物一同歸於墳墓。</i>}
+      ]
+    </desc>
+
+
     <specialTipSize size="2">
-      <specialTip openLevel="1" key="PanicDeath">當工作結果為優良時, $0 的逆卡巴拉計數器會以較高的機率減少.</specialTip>
-      <specialTip openLevel="1" key="PanicDeath2">當工作結果為差時, $0 的逆卡巴拉計數器會以較高的機率減少.</specialTip>
+      <specialTip openLevel="1" key="PanicDeath">當工作結果為優時，$0的逆卡巴拉計數器有高機率在倒數計時結束後減少。</specialTip>
+      <specialTip openLevel="1" key="PanicDeath2">當工作結果為差時，$0的逆卡巴拉計數器有高機率在倒數計時結束後減少。</specialTip>
     </specialTipSize>
     
-    <max>
-      <!--기본 선택지-->
-      <desc id="0" select="1">
-        [
-        {你跟我說過, 落下的是花瓣而不是眼淚.  }
-        {"我們都來自塵土卻又微不足道, 所以不要在這把話說完."}
-        {你跟我說過, 你的遺言就如花朵盛開的軀體.}
-        {"很快..."}
 
-        <!--계속-->
-        ]
-      </desc>
-
-      <!--선택지-->
-      <select id="1">
-        <node desc="Spring will come." target="1" isAnswer="true" message="You have succeeded to obtain final observation report on Allione"/>
-        <node desc="Winter will come." target="2" isAnswer="true" message="You have succeeded to obtain final observation report on Allione"/>
-      </select>
-
-      <desc id="1" select="0">
-        [
-        {春天要來了.}
-        {慢慢地, 開心地, 我的結局開始了.}
-        ]
-      </desc>
-
-      <desc id="2" select="0">
-        [
-        {冬天要來了.}
-        {漸漸地, 我的贖罪就要結束了. }
-        ]
-      </desc>
-      <!--스토리 파트에서 출력될 부분-->
-      <angela>
-        [
-        {你摯愛的回憶正在凋零嗎?}
-        {還是它們早就凋謝了?}
-        ]
-      </angela>
-    </max>
 
   </observe>
 
