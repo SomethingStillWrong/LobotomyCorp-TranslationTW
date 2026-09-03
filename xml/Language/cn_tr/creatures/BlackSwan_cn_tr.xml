@@ -94,7 +94,7 @@
       <specialTip openLevel="1" key="3">每當設施內有5名職員死亡，$0的逆卡巴拉計數器將會立即減少，且F-02-70-1會失去雙眼。（被處決彈擊殺的職員不會計入）</specialTip>
       <specialTip openLevel="1" key="4">每當設施內有5名職員陷入恐慌，$0的逆卡巴拉計數器將會立即減少，且F-02-70-2會失去下巴。</specialTip>
       <specialTip openLevel="1" key="5">當設施內總共有3隻異想體出逃，$0的逆卡巴拉計數器將會立即減少，且F-02-70-3會失去雙臂。</specialTip>
-      <specialTip openLevel="1" key="6">&lt;注意&gt;：由其他異想體或者事件帶來的逆卡巴拉計數器強制減少，也同樣會改變F-02-70的外貌。</specialTip>
+      <specialTip openLevel="1" key="6">&lt;注意&gt;：由其他異想體或者事件帶來的逆卡巴拉計數器強制減少，也同樣會改變$0相關個體的外貌。</specialTip>
     </specialTipSize>
 
   </observe>

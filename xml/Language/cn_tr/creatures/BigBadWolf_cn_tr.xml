@@ -99,7 +99,7 @@
       <specialTip openLevel="1" key="1">曾對F-01-57工作的員工在完成了$0的工作時，其逆卡巴拉計數器將會在倒數計時後減少，且$0會吞食此員工。</specialTip>
       <specialTip openLevel="2" key="2">當工作結果為差時，$0的逆卡巴拉計數器將會在倒數計時後減少，且其會吞食完成工作的員工。</specialTip>
       <specialTip openLevel="2" key="3">若在員工被吞食的狀態下完成對$0的本能工作，則$0會吐出之前吞食的員工。</specialTip>
-      <specialTip openLevel="3" key="4">若受到F-01-57的攻擊且正在流血的對象進入了$0收容單元前的走廊，其逆卡巴拉計數器將會立即減少。</specialTip>
+      <specialTip openLevel="3" key="4">若受到F-01-57的攻擊且正在流血的對象進入了$0收容單元前的走廊，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="3" key="5">若F-01-57進入了$0收容單元前的走廊，$0的逆卡巴拉計數器將會立即歸零。</specialTip>
       <specialTip openLevel="4" key="6">幾名員工報告說，在$0的肚子裡傳出了聲音。必須鎮壓出逃的$0以救出被吞食的員工。或許也能將此內容委託給F-01-57。</specialTip>
     </specialTipSize>
