@@ -12,7 +12,7 @@
   <info id="300005">
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
@@ -22,7 +22,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/BigTreeSap</portrait>
 
       <name openLevel ="1">
-        巨樹的汁液
+        巨樹汁液
       </name>
 
       <riskLevel openLevel ="1">
@@ -31,49 +31,51 @@
 
 
       <openText>
-        "種什麼樹得什麼果.”
+        「這棵樹不過是得到了與其付出相等的回報。」
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {在世界的邊緣裡的不知名, 巨大樹木上萃取出來的樹液. }
+      {這是從生長在郊區的無名巨樹中提取出的樹液。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {根據調查小隊的說法, 有大量的綠色生物在那附近. 這樹液能餵飽它們且含有強大的治癒能力.}
+      {據探勘隊所述，巨樹周圍正棲息著混雜在綠色烟塵中的無數生命體。這是因為樹液中含有能帶來飽足感、在治療傷口方面有卓越效果的成份。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {某些喝下它的員工溶解了, 留下焦黑, 綠色的遺體.}
+      {然而，部分員工在飲用此液體後，其身體開始感覺不適，最終只留下綠色烟塵便融化了。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       <!-- 여기 번역 고치기 -->
       [
-      {許多的實驗證實, 液消耗的越多, 發生溶解的可能性就越高.}
+      {雖然進行了各種實驗，但只確認了一項事實：員工融化的機率會與攝取量成正比，其機率會隨攝取量而急劇增加。}
       ]
     </desc>
 
     <desc id="5" openLevel="4">
       [
-      {“許多人臆測該怎麼在那貧擠的郊區種出這麼大棵的樹. 生命像是它的培養液般被吸收殆盡. 種什麼樹得什麼果.”}
+      {「很多人都很好奇，在那個什麼都不剩的郊區裡，那棵巨樹究竟是怎麼長得如此茂盛的。成為巨樹養分的生命體，終究是那些吃著樹液長大的啊。這棵樹不過是得到了與其付出相等的回報。」}
       ]
     </desc>
 
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="healthgood">目標攝取 $0 後能立即恢復所有的 HP. 此外, 目標的 HP 會在之後持續恢復一段時間.</specialTip>
-      <specialTip openLevel="2" key="boomDead">在目標攝取 $0 後發現了一個副作用. 攝取 $0 後產生副作用的目標在 20 到 30 秒後會發生爆炸並死去, 並對整個區域產生 W 傷害.</specialTip>
-      <specialTip openLevel="2" key="boomGood">實驗證實攝取 $0 的數量與爆炸的機率之間有正相關.</specialTip>
+      <specialTip openLevel="1" key="healthgood">攝取了$0的員工會立即恢復所有生命值。此外，此員工的生命值還會在一段時間內持續得到恢復。</specialTip>
+      <specialTip openLevel="2" key="boomDead">以幾名攝取了$0的員工，我們確認了$0的副作用。攝取$0後的員工將會在20至30秒內發生爆炸，且對整個爆炸區域造成白色傷害。</specialTip>
+      <specialTip openLevel="2" key="boomGood">實驗結果顯示：$0的攝取次數與攝取後爆炸的機率成正比。</specialTip>
     </specialTipSize>
+
+
 
   </observe>
 </creature>
