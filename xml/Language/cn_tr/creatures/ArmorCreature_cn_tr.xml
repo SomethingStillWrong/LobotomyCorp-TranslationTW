@@ -92,11 +92,11 @@
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="NoPeace">我們發現，若是勇氣等級為1的員工進入了$0的收容單元，則在工作結束後，此員工將被斬首。</specialTip>
-      <specialTip openLevel="2" key="GiveYou">我們發現，對$0進行壓抑工作的員工身上，附著與$0成分相同的飾品($0-01)。根據該員工所說，感覺$0彷彿正在保護著自己。</specialTip>
+      <specialTip openLevel="1" key="NoPeace">我們發現，若是勇氣等級為1的員工進入$0的收容單元，則在對其工作結束後，此員工將被斬首。</specialTip>
+      <specialTip openLevel="2" key="GiveYou">我們發現，對$0進行壓抑工作的員工身上，附著與$0成分相同的飾品（$0-01）。根據該員工所說，感覺$0彷彿正在保護著自己。</specialTip>
       <specialTip openLevel="3" key="Change">我們曾命令被附著$0-01的員工持續進行壓抑工作。此後，每當此員工工作完成時，我們便會對其進行身體檢查。檢查結果顯示，根據附著對象進行壓抑工作的次數，$0-01給予附著對象的效果也會隨之改變。</specialTip>
-      <specialTip openLevel="4" key="KillPeace">&lt;注意&gt;若讓被附著$0-01的員工進行依戀作業。則此員工進入收容單元的瞬間，$0-01將立即消失，且此員工會因斬首而死。</specialTip>
-      <specialTip openLevel="4" key="NegativeChange">&lt;注意&gt;;若被附著$0-01的職員進行了過度的壓抑工作，則飾品提供的效果將會逐漸轉為負面。</specialTip>
+      <specialTip openLevel="4" key="KillPeace">&lt;注意&gt;：若讓被附著$0-01的員工進行依戀作業。則此員工進入收容單元的瞬間，$0-01將會立即消失，且此員工會因斬首而死。</specialTip>
+      <specialTip openLevel="4" key="NegativeChange">&lt;注意&gt;;：若被附著$0-01的職員進行了過度的壓抑工作，則飾品提供的效果將會逐漸轉為負面。</specialTip>
     </specialTipSize>
 
 

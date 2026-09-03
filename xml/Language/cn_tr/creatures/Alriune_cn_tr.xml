@@ -106,8 +106,8 @@
 
 
     <specialTipSize size="2">
-      <specialTip openLevel="1" key="PanicDeath">當工作結果為優時，$0的逆卡巴拉計數器有高機率在倒數計時結束後減少。</specialTip>
-      <specialTip openLevel="1" key="PanicDeath2">當工作結果為差時，$0的逆卡巴拉計數器有高機率在倒數計時結束後減少。</specialTip>
+      <specialTip openLevel="1" key="PanicDeath">當工作結果為優時，$0的逆卡巴拉計數器將會有高機率在倒數計時結束後減少。</specialTip>
+      <specialTip openLevel="1" key="PanicDeath2">當工作結果為差時，$0的逆卡巴拉計數器將會有高機率在倒數計時結束後減少。</specialTip>
     </specialTipSize>
     
 

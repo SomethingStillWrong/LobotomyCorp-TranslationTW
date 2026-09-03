@@ -84,8 +84,8 @@
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="1">當工作結果為差時，$0的逆卡巴拉計數器會立即減少。</specialTip>
-      <specialTip openLevel="1" key="2">在完成工作的時間低於40秒時，$0的逆卡巴拉計數器會立即減少。</specialTip>
+      <specialTip openLevel="1" key="1">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
+      <specialTip openLevel="1" key="2">在完成工作的時間低於40秒時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="3">當$0出逃時，所有職員與設施將無法偵測到此異想體。因此，主管必須親自找到並下達鎮壓命令。</specialTip>
     </specialTipSize>
 

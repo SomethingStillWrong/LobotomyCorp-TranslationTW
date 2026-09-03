@@ -107,7 +107,7 @@
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="noRationalist">勇氣等級為1的員工在完成對$0的工作後，$0會伸出手，將員工拖入浴缸內。節制等級為1的員工完成對$0的工作後，也出現了相同現象。</specialTip>
+      <specialTip openLevel="1" key="noRationalist">勇氣等級為1的員工在完成對$0的工作後，$0會伸出手，將員工拖入浴缸內。節制等級為1的員工在完成對$0的工作後，也出現了相同現象。</specialTip>
       <specialTip openLevel="1" key="manyHands">吸收員工後，$0表面會浮現蒼白的手。手的數量越多，其產出的PE-Box也隨之增加。</specialTip>
       <specialTip openLevel="1" key="threeHands">&lt;下達工作命令時需注意&gt;：當$0內的手的數量達到3隻時，無法保障工作員工的性命安全。在此狀態下，$0將無條件地吸收任何員工，不論工作結果為何。</specialTip>
     </specialTipSize>

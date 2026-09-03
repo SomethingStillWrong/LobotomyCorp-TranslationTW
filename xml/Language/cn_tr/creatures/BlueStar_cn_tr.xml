@@ -80,7 +80,7 @@
       <specialTip openLevel="1" key="2">智慧等級低於5級的員工在完成對$0的工作後，其逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="3">工作時間超過60秒時，$0的逆卡巴拉計數器將會立即減少，且該員工將被吸入其中心並消失。</specialTip>
       <specialTip openLevel="1" key="4">突破收容後，智慧等級低於4級且節制等級低於3級的員工在遭遇$0時，會立即被吸入其中心並死亡。</specialTip>
-      <specialTip openLevel="1" key="5">突破收容後，所有聲音將被替換為低沉的靜態雜音，且會干擾視野。</specialTip>
+      <specialTip openLevel="1" key="5">突破收容後，所有聲音將被變為低沉的靜態雜音，且會干擾視野。</specialTip>
       <specialTip openLevel="1" key="6">突破收容後，設施內所有陷入恐慌的員工都會立刻被吸入$0的中心並死亡。</specialTip>
     </specialTipSize>
   </observe>

@@ -100,8 +100,8 @@
 
     <specialTipSize size="7">
       <specialTip openLevel="1" key="1">當員工的勇氣等級不為1級時，對$0工作的成功率就會越低。我們判斷其主要原因是員工過度受到$0的影響，導致暴力傾向劇烈增加。</specialTip>
-      <specialTip openLevel="1" key="2">當工作結果為良時，$0的逆卡巴拉計數器有中等機率會立即減少。</specialTip>
-      <specialTip openLevel="1" key="3">當工作結果為差時，$0的逆卡巴拉計數器有高機率會立即減少。</specialTip>
+      <specialTip openLevel="1" key="2">當工作結果為良時，$0的逆卡巴拉計數器將會有中等機率立即減少。</specialTip>
+      <specialTip openLevel="1" key="3">當工作結果為差時，$0的逆卡巴拉計數器將會有高機率立即減少。</specialTip>
       <specialTip openLevel="1" key="4">當對$0工作的員工陷入恐慌時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="5">當工作結果為優時，$0的逆卡巴拉計數器將會立即加1。若有員工在工作時成功產出了所有PE-Box，$0的逆卡巴拉計數器將會立即加2。</specialTip>
       <specialTip openLevel="1" key="6">透過監視器螢幕，我們發現設施各處產生了大量噪音。由於此現象是在$0的逆卡巴拉計數器歸零後出現，我們可以推斷，噪音從$0的收容單元開始擴散。</specialTip>
