@@ -1,5 +1,4 @@
-## 您好，主管。
-## 直面恐懼，創造未來。
+## 您好，主管。直面恐懼，創造未來。
 
 [Nexus網站](https://www.nexusmods.com/games/lobotomycorporation/mods/1069)
 
