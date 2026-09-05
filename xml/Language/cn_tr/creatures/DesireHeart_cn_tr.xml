@@ -21,7 +21,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/DesireHeart</portrait>
 
       <name openLevel ="1">
-        渴望的心
+        渴望之心
       </name>
 
       <riskLevel openLevel ="1">
@@ -29,39 +29,38 @@
       </riskLevel>
 
 
-      <openText>過度的渴望終將導致瘋狂.</openText>
+      <openText>過度的渴望將會招致錯誤的瘋狂。</openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一顆沒有主人的心臟. 即使從身體裡取出後, 它仍不停的跳動著.}
+      {這是一顆沒有主人的心臟，即使與人體分離，也不會停止跳動。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {裝備時, 心跳會提高一倍, 增加 HP 以及攻擊傷害. }
+      {攜帶時，心跳速率將提升至原有兩倍以上，&#13;&#10;且能明顯感受到體力與攻擊力的增強。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {過度的渴望終將導致瘋狂.}
+      {過度的渴望將會招致錯誤的瘋狂。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
-
       [
-      {若有增加 HP 的員工在沒有攻擊過任何人或是 30 秒內歸還他們的心臟, 將會使他們盲目地殺害別人.}
+      {未在歸還心臟前進行攻擊，或是在30秒內就將其歸還的員工，&#13;&#10;將會在經過增強的體力驅使下，反覆進行毫無意義的謀殺。}
       ]
     </desc>
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="1">裝備了 $0 的目標將會享受到 HP 以及攻擊速度的增加.</specialTip>
-      <specialTip openLevel="2" key="2">在沒有攻擊過任何人的情況下收到了歸還 $0 的命令, 持有者失去了他們的理智並開始殘暴地攻擊任何在他附近的人.</specialTip>
-      <specialTip openLevel="2" key="3">若目標在裝備後的30 秒內收到歸還 $0 的命令, 它也會造成與上述同樣的影響.</specialTip>
+      <specialTip openLevel="1" key="1">攜帶了$0的員工將會獲得額外的生命值與攻擊速度加成。</specialTip>
+      <specialTip openLevel="2" key="2">將其攜帶的員工若在未進行攻擊的情況下就歸還$0，&#13;&#10;將會立即陷入恐慌，且攻擊性急劇增強，&#13;&#10;並試圖攻擊任何單位。</specialTip>
+      <specialTip openLevel="2" key="3">將其攜帶的員工若在30秒內就歸還$0，&#13;&#10;其也將會出現上述同種狀況。</specialTip>
     </specialTipSize>
 
 
