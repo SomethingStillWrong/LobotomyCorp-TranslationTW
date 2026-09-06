@@ -12,7 +12,7 @@
   <info id ="100105">
 
     <narration action="move">
-      #0 직원이 작업을 시작하러 $0의 방에 들어갑니다.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
     <narration action="mid1">
