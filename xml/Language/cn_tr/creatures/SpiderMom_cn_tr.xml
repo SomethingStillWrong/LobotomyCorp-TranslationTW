@@ -51,7 +51,7 @@
       <name openLevel="1">蜘蛛蕾</name>
       <portrait openLevel ="1">Sprites/Unit/creature/SpiderMom</portrait>
       <riskLevel openLevel ="1">TETH</riskLevel>
-      <openText>根本沒人願意去救那具已經變成繭的職員屍體。</openText>
+      <openText>根本沒人願意去救那已變成繭的職員屍體。</openText>
     </collection>
 
     <desc id="1" openLevel="0">
@@ -71,7 +71,7 @@
     </desc>
 
     <desc id="4" openLevel="3">
-      [{根本沒人願意去救那具已經變成繭的職員屍體。}]
+      [{根本沒人願意去救那已變成繭的職員屍體。}]
     </desc>
 
     <desc id="5" openLevel="2">
