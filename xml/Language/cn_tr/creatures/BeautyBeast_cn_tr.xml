@@ -41,7 +41,7 @@
       <name openLevel="1">美女與野獸</name>
       <portrait openLevel ="2">Sprites/Unit/creature/BeautyBeast</portrait>
       <riskLevel openLevel ="1">TETH</riskLevel>
-      <openText>但事實上，詛咒只會不斷重演，絕不會解除。</openText>
+      <openText>但事實上，詛咒只會&#13;&#10;不斷重演，絕不會解除。</openText>
     </collection>
 
     <desc id="1" openLevel="0">
@@ -112,9 +112,9 @@
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="hit">對$0進行工作時，壓抑工作的成功率是最高的。&#13;&#10;雖然對$0的壓抑工作有著很高的PE-Box生產效率，但會大幅惡化其健康狀況。</specialTip>
+      <specialTip openLevel="1" key="hit">對$0進行工作時，壓抑工作的成功率是最高的。雖然對$0的壓抑工作有著很高的PE-Box生產效率，但會大幅惡化其健康狀況。</specialTip>
       <specialTip openLevel="2" key="noHit">對$0完成除壓抑工作以外的其他工作後，其健康狀況有所好轉。</specialTip>
-      <specialTip openLevel="3" key="doubledHit">連續對其進行壓抑工作後，$0發出了無力的聲音，並倒了下去。&#13;&#10;當$0消失後，對其完成壓抑工作的#0身上出現了異常現象。隨後，新的$0誕生了。</specialTip>
+      <specialTip openLevel="3" key="doubledHit">連續對其進行壓抑工作後，$0發出了無力的聲音，並倒了下去。當$0消失後，對其完成壓抑工作的#0身上出現了異常現象。隨後，新的$0誕生了。</specialTip>
     </specialTipSize>
 
   </observe>
