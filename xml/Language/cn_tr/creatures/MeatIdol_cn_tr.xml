@@ -12,7 +12,7 @@
   <info id="300004">
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
   </info>
@@ -31,43 +31,43 @@
       </riskLevel>
 
 
-      <openText>而祈禱的結尾總是以人們吟唱的永恆絕望告終.</openText>
+      <openText>而祈禱，總是伴隨著禮&#13;&#10;拜者永恆的絕望而告終。</openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一團混合著血肉與鋼鐵的東西. }
+      {這是一團血肉與廢鐵交織混雜在一起的物件。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {推測這是在淹水的地區發現到的宗教藝品. 在以前, 有些人希望透過信仰來尋找解答. 當員工對它祈禱時, 這堆血肉會出現動作, 就像是在回應呼喚般.}
+      {我們推測，這是在淹沒地區所發現的宗教物品。在過去，&#13;&#10;曾有許多人試圖從宗教中尋找解答。當有職員禱告時，&#13;&#10;便能看見血肉彷彿在回應般蠕動著。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {祈禱的人會充滿痛苦, 像是它在測試他們一樣, 但是在附近的人將會恢復 HP 及 MP, 就像是獲得救贖似的.}
+      {禱告者將會面臨各式各樣的試煉，如同信仰正受到考驗那&#13;&#10;般；然而，對除了他以外的所有人而言，則會像以救贖&#13;&#10;回應般，恢復肉體與精神的狀態。}
       ]
     </desc>
 
     <desc id="4" openLevel="2">
       <!-- 여기 번역 고치기 -->
       [
-      {而祈禱的結尾總是以人們吟唱的永恆絕望告終.}
+      {而禱告，總是伴隨著禮拜者永恆的絕望而告終。}
       ]
     </desc>
 
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">$0 能透過祈禱來產生影響. 對 $0 祈禱的目標將會受到隨機類型的傷害.</specialTip>
-      <specialTip openLevel="2" key="2">&lt;實驗 1&gt; 目標祈禱了 20 秒或更少. 目標死亡.</specialTip>
-      <specialTip openLevel="3" key="3">&lt;實驗 2&gt;目標祈禱了約 21 至 45 秒. 除了目標的所有員工在那段時間恢復了 HP.</specialTip>
-      <specialTip openLevel="4" key="4">&lt;實驗 3&gt;目標祈禱了約 46 至 90 秒. 結果跟實驗 2 一樣, 但目標也恢復了 SP.</specialTip>
-      <specialTip openLevel="5" key="5">&lt;實驗 4&gt; 目標祈禱了約超過 90 秒. 目標死亡, 但所有異常的逆卡巴拉計數器也降低至 0.</specialTip>
+      <specialTip openLevel="1" key="1">您可以指派員工對$0禱告，以此觸發其效果。每隔一段&#13;&#10;時間，對$0禱告的員工就會受到隨機類型的傷害。</specialTip>
+      <specialTip openLevel="2" key="2">&lt;實驗1&gt;：我們要求測試者的禱告時間在20秒內&#13;&#10;結束，結果：受試者立即死亡。</specialTip>
+      <specialTip openLevel="3" key="3">&lt;實驗2&gt;：我們要求測試者的禱告時間在21至45&#13;&#10;秒內。結果：除禱告者外的所有員工都將會持續&#13;&#10;恢復生命值。</specialTip>
+      <specialTip openLevel="4" key="4">&lt;實驗3&gt;：我們要求測試者的禱告時間在46至90&#13;&#10;秒內。結果：跟實驗2相似，但除禱告者外的所有員工也&#13;&#10;都將會持續恢復精神值。</specialTip>
+      <specialTip openLevel="5" key="5">&lt;實驗4&gt;：我們要求測試者的禱告時間超過90秒。&#13;&#10;結果：設施內全異想體的逆卡巴拉計數器歸零。</specialTip>
     </specialTipSize>
 
 
