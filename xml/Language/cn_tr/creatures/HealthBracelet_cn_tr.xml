@@ -11,17 +11,17 @@
   -->
   <info id="300106">
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
   <observe level ="4">
     <collection>
-      <codeNo openLevel ="0">O-09-95 </codeNo>
+      <codeNo openLevel ="0">O-09-95</codeNo>
       <portrait openLevel ="1">Sprites/Unit/creature/HealthBracelet</portrait>
 
       <name openLevel ="1">
-        發光的手鐲
+        發光手鐲
       </name>
 
       <riskLevel openLevel ="1">
@@ -29,41 +29,40 @@
       </riskLevel>
 
 
-      <openText>手鐲將永不赦免那些貪婪之徒. 所以只能由所需之人持有.</openText>
+      <openText>手鐲不會原諒這種貪婪之人，因此&#13;&#10;務必只能讓迫切需要的人來佩戴。</openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一個發出柔和藍綠色光的手鐲. 從外面發現了許多無法解釋的事物.}
+      {我們在郊區發現了許多無法解釋的事物，而散發著淡淡&#13;&#10;玉色光芒的手鐲，便是其中之一。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {當裝備時, 所有的傷口不留痕跡的治癒了. }
+      {戴上手鐲時，佩戴者的傷口將會被完全治癒，不留一點&#13;&#10;痕跡。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {但是在沒有任何傷口下穿戴該手鐲是個貪婪的行為.}
+      {然而，若沒有可治癒的傷口，持續佩戴手鐲的行為將會&#13;&#10;被視為貪婪。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
 
       [
-      {手鐲將永不赦免那些貪婪之徒. 所以只能由所需之人持有.}
+      {手鐲不會原諒這種貪婪之人，因此務必只能讓迫切需要&#13;&#10;的人來佩戴。}
       ]
     </desc>
 
     <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">當穿戴 $0  時, 關於堅韌的狀態大幅的增加了.</specialTip>
-      <specialTip openLevel="2" key="2">當持有者的 HP 降低時, $0 會不斷地恢復 HP.</specialTip>
-      <specialTip openLevel="2" key="3">如果持有者在沒有 HP 回滿的情況下嘗試歸還它將會死亡.</specialTip>
-      <specialTip openLevel="2" key="4">在配戴它後, 如果持有者的 HP 在一定的時間裡沒有下降, 那麼持有者也會死亡.</specialTip>
-
+      <specialTip openLevel="1" key="1">佩戴$0後，佩戴者的最大生命值將會大幅提升。</specialTip>
+      <specialTip openLevel="2" key="2">當佩戴者的生命值降低時，&#13;&#10;$0會不斷為其恢復生命值。</specialTip>
+      <specialTip openLevel="2" key="3">若佩戴者未在生命值為滿時就試圖歸還$0，&#13;&#10;則佩戴者將會立即死亡。</specialTip>
+      <specialTip openLevel="2" key="4">若佩戴者未曾在一段時間內損失生命值，則佩戴者會因&#13;&#10;$0提供過量恢復的副作用而立即死亡。</specialTip>
     </specialTipSize>
 
 
