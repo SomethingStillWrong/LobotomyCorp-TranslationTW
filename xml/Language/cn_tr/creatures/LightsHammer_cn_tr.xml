@@ -12,7 +12,7 @@
   <info id ="100025">
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
     <narration action="start">
