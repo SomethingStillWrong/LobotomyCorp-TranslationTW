@@ -11,7 +11,7 @@
   -->
   <info id="300107">
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
@@ -21,7 +21,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/JusticeReceiver</portrait>
 
       <name openLevel ="1">
-        行為矯正
+        行為矯正儀
       </name>
 
       <riskLevel openLevel ="1">
@@ -29,40 +29,40 @@
       </riskLevel>
 
 
-      <openText>最後他們將會失去所有的智慧, 甚至遺忘生存的能力.</openText>
+      <openText>最終，智慧失去了其意義，&#13;&#10;連存在的形式都會被忘卻。</openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一台電子設備上刻印著一幅神秘的圖案.}
+      {這是刻有神秘圖案的訊號發射裝置。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {無論有多麼惡劣, 邪惡, 以及傲慢, 它都能使每個人變為正義之士.}
+      {無論是邪惡、傲慢還是厚顏無恥之人，&#13;&#10;其會不分對象地矯正，讓他們變得正直。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {但是, 如果使用者太過於依賴該設備, 會讓他們失去獨立思考的能力.}
+      {然而，由於過度依賴矯正儀，&#13;&#10;使用者將會喪失自主思考能力。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
 
       [
-      {最後他們將會失去所有的智慧, 甚至遺忘生存的能力.}
+      {最終，智慧失去了其意義，&#13;&#10;連存在的形式都會被忘卻。}
       ]
     </desc>
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="1">當持有 $0 時, 正義的數值會大幅的提昇. 然而, 所有有關謹慎的數值在同時也會下降.</specialTip>
-      <specialTip openLevel="2" key="2">如果在裝備後的 30 秒內命令他歸還該配備, 持有者會陷入恐慌並在顯露出異常的行為後死去.</specialTip>
-      <specialTip openLevel="2" key="3">如果在裝備 $0 後 MP 歸零的話, 持有者會死於恐慌之中.</specialTip>
+      <specialTip openLevel="1" key="1">攜帶$0的員工將會提高與正義相關的能力值，&#13;&#10;但會降低與智慧相關的能力值。</specialTip>
+      <specialTip openLevel="2" key="2">若在攜帶後的30秒內就歸還$0，此員工將會&#13;&#10;立即陷入恐慌，且在表現出異常行為後死亡。</specialTip>
+      <specialTip openLevel="2" key="3">若在攜帶$0時精神值歸零，此員工將會&#13;&#10;在陷入恐慌時立即死亡。</specialTip>
     </specialTipSize>
 
 
