@@ -12,7 +12,7 @@
   <info id="300103">
 
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
   </info>
 
@@ -22,50 +22,52 @@
       <portrait openLevel ="1">Sprites/Unit/creature/ProphecyOfSkin</portrait>
 
       <name openLevel ="1">
-        肌膚的預言
+        皮膚預言
       </name>
 
       <riskLevel openLevel ="1">
-        WAW
+        TETH
       </riskLevel>
 
       <openText>
-        從現在與永恆中拯救我們. 真相將解放我們.
+        賜給我們救贖吧。真理&#13;&#10;必叫我們得以自由。
       </openText>
 
     </collection>
 
     <desc id="1" openLevel="0">
       [
-      {一本老舊的宗教書籍靜靜的放在堤岸上. 老舊的羊皮紙上寫下了許多頁面.}
+      {一本看起來年代久遠的宗教書籍放置在瘦削的支架上。&#13;&#10;無數用舊羊皮紙所寫的頁面被固定著。}
       ]
     </desc>
 
     <desc id="2" openLevel="1">
       [
-      {信徒們用人類的皮膚編織出這本書, 祈禱著永恆的神聖.}
+      {信徒們用皮膚裝訂書籍，祈求其神聖永不褪色。}
       ]
     </desc>
 
     <desc id="3" openLevel="2">
       [
-      {打開這本書的員工也開啟了無法想像的真相. 掌握真相的人將被先知召喚, 且無法拒絕.}
+      {翻開這本書的封面，職員將會領悟到無法想像的真理。&#13;&#10;那些精通所有真理之人，將會受到先知的召喚，&#13;&#10;且絕無法拒絕。}
       ]
     </desc>
 
     <desc id="4" openLevel="3">
       [
-      {從現在與永恆中拯救我們. 真相將解放我們.}
+      {賜給我們救贖吧。真理必叫我們得以自由。}
       ]
     </desc>
 
 
     <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">閱讀此書的員工將會增加一定等級的謹慎.</specialTip>
-      <specialTip openLevel="2" key="2">員工能閱讀此書, 直到員工的謹慎到達上限.</specialTip>
-      <specialTip openLevel="2" key="3">員工讀取的越多, 員工越容易受到 W 傷害.</specialTip>
-      <specialTip openLevel="2" key="4">任何在閱讀此書後恐慌的員工將會死去.</specialTip>
+      <specialTip openLevel="1" key="1">閱讀$0的員工將會獲得額外的精神值加成。</specialTip>
+      <specialTip openLevel="2" key="2">員工可以持續閲讀$0，直到其員工的精神值&#13;&#10;達到此異想體的加成極限為止。</specialTip>
+      <specialTip openLevel="2" key="3">隨著閲讀次數的增加，員工對白色傷害的抗性&#13;&#10;就會越低。</specialTip>
+      <specialTip openLevel="2" key="4">閲讀過$0的員工一旦陷入恐慌，就會瞬間消失。</specialTip>
     </specialTipSize>
+
+
 
   </observe>
 </creature>
