@@ -67,10 +67,10 @@
 
   
      <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">員工可以使用$0強化自己的E.G.O武器，&#13;&#10;強化需要花費部分能源。</specialTip>
+      <specialTip openLevel="1" key="1">員工可以使用$0強化自己的E.G.O&#13;&#10;武器，強化需要花費部分能源。</specialTip>
       <specialTip openLevel="2" key="2">強化後的E.G.O武器會有更高的攻擊傷害。</specialTip>
       <specialTip openLevel="2" key="3">但在強化過程中，E.G.O武器有低機率直接&#13;&#10;損毀消失。</specialTip>
-      <specialTip openLevel="2" key="4">強化後的E.G.O武器將於次日失去強化，&#13;&#10;恢復原本的攻擊傷害。</specialTip>
+      <specialTip openLevel="2" key="4">強化後的E.G.O武器將於次日失去強化，&#13;&#10;恢復到原本的攻擊傷害。</specialTip>
      </specialTipSize>
 
 

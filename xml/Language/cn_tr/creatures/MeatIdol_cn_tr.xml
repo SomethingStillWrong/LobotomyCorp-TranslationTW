@@ -63,11 +63,11 @@
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">您可以指派員工對$0禱告，以此觸發其效果。每隔一段&#13;&#10;時間，對$0禱告的員工就會受到隨機類型的傷害。</specialTip>
-      <specialTip openLevel="2" key="2">&lt;實驗1&gt;：我們要求測試者的禱告時間在20秒內&#13;&#10;結束，結果：受試者立即死亡。</specialTip>
+      <specialTip openLevel="1" key="1">指派員工對$0禱告，以此觸發其效果。每隔一段&#13;&#10;時間，對$0禱告的員工就會受到隨機類型的傷害。</specialTip>
+      <specialTip openLevel="2" key="2">&lt;實驗1&gt;：我們要求測試者的禱告時間在20秒內&#13;&#10;結束，結果：測試者立即死亡。</specialTip>
       <specialTip openLevel="3" key="3">&lt;實驗2&gt;：我們要求測試者的禱告時間在21至45&#13;&#10;秒內。結果：除禱告者外的所有員工都將會持續&#13;&#10;恢復生命值。</specialTip>
-      <specialTip openLevel="4" key="4">&lt;實驗3&gt;：我們要求測試者的禱告時間在46至90&#13;&#10;秒內。結果：跟實驗2相似，但除禱告者外的所有員工也&#13;&#10;都將會持續恢復精神值。</specialTip>
-      <specialTip openLevel="5" key="5">&lt;實驗4&gt;：我們要求測試者的禱告時間超過90秒。&#13;&#10;結果：設施內全異想體的逆卡巴拉計數器歸零。</specialTip>
+      <specialTip openLevel="4" key="4">&lt;實驗3&gt;：我們要求測試者的禱告時間在46至90&#13;&#10;秒內。結果：跟實驗2相似，但除禱告者外的所有&#13;&#10;員工也都將會持續恢復精神值。</specialTip>
+      <specialTip openLevel="5" key="5">&lt;實驗4&gt;：我們要求測試者的禱告時間超過90秒。&#13;&#10;結果：測試者立即死亡，且設施內全異想體的逆&#13;&#10;卡巴拉計數器歸零。</specialTip>
     </specialTipSize>
 
 

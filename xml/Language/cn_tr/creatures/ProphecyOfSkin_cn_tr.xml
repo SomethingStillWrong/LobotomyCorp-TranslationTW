@@ -63,8 +63,8 @@
     <specialTipSize size="4">
       <specialTip openLevel="1" key="1">閱讀$0的員工將會獲得額外的精神值加成。</specialTip>
       <specialTip openLevel="2" key="2">員工可以持續閲讀$0，直到精神值&#13;&#10;達到此異想體的加成極限為止。</specialTip>
-      <specialTip openLevel="2" key="3">隨著閲讀次數的增加，員工對白色傷害的抗性&#13;&#10;就會越低。</specialTip>
-      <specialTip openLevel="2" key="4">閲讀過$0的員工一旦陷入恐慌，就會瞬間消失。</specialTip>
+      <specialTip openLevel="2" key="3">隨著閲讀次數的增加，員工對白色傷害&#13;&#10;的抗性就會越低。</specialTip>
+      <specialTip openLevel="2" key="4">閲讀過$0的員工一旦陷入恐慌，&#13;&#10;就會瞬間消失。</specialTip>
     </specialTipSize>
 
 
