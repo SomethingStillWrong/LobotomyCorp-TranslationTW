@@ -61,8 +61,8 @@
     <specialTipSize size="4">
       <specialTip openLevel="1" key="1">佩戴$0後，佩戴者的最大生命值將會大幅提升。</specialTip>
       <specialTip openLevel="2" key="2">當佩戴者的生命值降低時，&#13;&#10;$0會不斷為其恢復生命值。</specialTip>
-      <specialTip openLevel="2" key="3">若佩戴者未在生命值為滿時就試圖歸還$0，&#13;&#10;則佩戴者將會立即死亡。</specialTip>
-      <specialTip openLevel="2" key="4">若佩戴者未曾在一段時間內損失生命值，則佩戴者會因&#13;&#10;$0提供過量恢復的副作用而立即死亡。</specialTip>
+      <specialTip openLevel="2" key="3">若佩戴者未在生命值為滿時就試圖歸還$0，&#13;&#10;佩戴者將會立即死亡。</specialTip>
+      <specialTip openLevel="2" key="4">若佩戴者未曾在一段時間內損失生命值，佩戴者將會&#13;&#10;因$0提供過量恢復的副作用而立即死亡。</specialTip>
     </specialTipSize>
 
 

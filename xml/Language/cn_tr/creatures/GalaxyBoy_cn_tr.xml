@@ -106,8 +106,8 @@
       <specialTip openLevel="2" key="2">若持有「友誼之證」的員工完成了對$0的工作，$0逆卡巴拉計數器將會立即增加。</specialTip>
       <specialTip openLevel="2" key="3">若持有「友誼之證」的員工進入其他異想體的收容單元，「友誼之證」將根據$0的逆卡巴拉計數器數值，來對員工造成傷害。造成的傷害與$0的逆卡巴拉計數器數值成正比，且$0逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="2" key="4">若持有「友誼之證」的員工死亡，$0的逆卡巴拉計數器數值將會立即減4。</specialTip>
-      <specialTip openLevel="2" key="5">若$0的逆卡巴拉計數器歸零，所有持有「友誼之證」的員工將會立即死亡。</specialTip>
-      <!--<specialTip openLevel="2" key="6">當$0的逆卡巴拉計數器歸零時，無論如何，都無法收集足量PE-Box以滿足今日能源配額指標。</specialTip>-->
+      <specialTip openLevel="2" key="5">若$0的逆卡巴拉計數器歸零，所有持有「友誼之證」的員工都將會立即死亡。</specialTip>
+      <!--<specialTip openLevel="2" key="6">當$0的逆卡巴拉計數器歸零時，無論如何，都無法收集足量PE-Box以滿足今日能源指標。</specialTip>-->
     </specialTipSize>
 
    
