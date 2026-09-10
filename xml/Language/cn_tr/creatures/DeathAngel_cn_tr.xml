@@ -94,7 +94,7 @@
 
     <specialTipSize size="5">
       <specialTip openLevel="0" key="1">當$0的逆卡巴拉計數器歸零時，$0及其使徒將會再次降臨。</specialTip>
-      <specialTip openLevel="0" key="2">&lt;特別注意&gt;：與其他異想體不同，$0的逆卡巴拉計數器會定期減少。在管理時隨時檢查$0的收容單元狀態。</specialTip>
+      <specialTip openLevel="0" key="2">&lt;特別注意&gt;：與其他異想體不同，$0的逆卡巴拉計數器會定期減少。在管理時，請隨時檢查$0的收容單元狀態。</specialTip>
       <specialTip openLevel="1" key="3">當工作結果為優時，$0的逆卡巴拉計數器將會增加，且設施內所有職員的生命值與精神值將會完全恢復。</specialTip>
       <specialTip openLevel="2" key="4">當工作結果為良時，$0的逆卡巴拉計數器將會有中等機率增加，在此情況下，$0僅會為部署在其所在部門的員工恢復生命值與精神值。</specialTip>
       <specialTip openLevel="3" key="5">當工作結果為差時，$0的逆卡巴拉計數器將會減少。且會為部署在其所在部門的員工造成白色傷害。</specialTip>
