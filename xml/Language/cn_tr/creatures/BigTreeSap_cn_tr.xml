@@ -71,7 +71,7 @@
 
     <specialTipSize size="3">
       <specialTip openLevel="1" key="healthgood">攝取了$0的員工會立即恢復所有生命值。此外，&#13;&#10;此員工的生命值還會在一段時間內持續得到恢復。</specialTip>
-      <specialTip openLevel="2" key="boomDead">以幾名攝取了$0的員工，我們確認了$0的副作用：&#13;&#10;攝取$0後的員工將會在20至30秒內發生爆炸，&#13;&#10;且對整個爆炸區域造成白色傷害。</specialTip>
+      <specialTip openLevel="2" key="boomDead">透過幾名攝取了$0的員工，我們確認了其副作用：&#13;&#10;攝取$0後的員工將會在20至30秒內發生爆炸，&#13;&#10;且對整個爆炸區域造成白色傷害。</specialTip>
       <specialTip openLevel="2" key="boomGood">實驗結果顯示：$0的攝取次數與攝取後爆炸的機率&#13;&#10;成正比。</specialTip>
     </specialTipSize>
 
