@@ -143,9 +143,9 @@ Changes at 1.26
 	<text id="Manual_Text_0">主管目標說明</text>
 	<text id="Manual_Text_1">1. 您是Lobotomy Corporation（腦葉公司）的主管。</text>
 	<text id="Manual_Text_2">2. 主管的工作是安全管理公司收容的異想體，且&#13;&#10;生產名為&lt;color=#00FA9A&gt;「腦啡肽」&lt;/color&gt;的能源。</text>
-	<text id="Manual_Text_3">3. 每日都設有所需能源額度，您必須依此來收集&#13;&#10;一定額度的能源。</text>
+	<text id="Manual_Text_3">3. 每日都設有所需能源指標，您必須依此來收集&#13;&#10;一定額度的能源。</text>
 	<text id="Manual_Text_4">員工是什麼？</text>
-	<text id="Manual_Text_5">員工是我們公司直接負責管理異想體，&#13;&#10;對其「工作」的人員。</text>
+	<text id="Manual_Text_5">員工是我們公司直接負責管理異想體，&#13;&#10;並對其「工作」的人員。</text>
 	<text id="Manual_Text_6">員工的美德</text>
 	<text id="Manual_Text_7">勇氣</text>
 	<text id="Manual_Text_8">隨著最大生命值的提高，其勇氣美德也會隨之提高。&#13;&#10;本能工作可以提高最大生命值。</text>
