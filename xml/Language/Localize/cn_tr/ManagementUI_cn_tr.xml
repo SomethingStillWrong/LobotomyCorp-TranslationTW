@@ -32,7 +32,7 @@
   <text id="CreatureInfo_NoCost">PE-Box不足</text>
   <text id="CreatureInfo_NoRemain">已達最大值</text>
   <text id="CreatureInfo_Cost">PE-Box</text>
-  <text id="CreatureInfo_Prob">獲取率</text>
+  <text id="CreatureInfo_Prob">獲得率</text>
   <text id="CreatureInfo_Qliphoth">逆卡巴拉計數器極值</text>
 
   <text id="CreatureInfo_Name">名稱</text>
