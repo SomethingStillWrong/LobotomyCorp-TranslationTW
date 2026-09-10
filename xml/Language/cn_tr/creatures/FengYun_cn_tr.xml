@@ -88,11 +88,11 @@
     </desc>
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">對$0完成洞察工作的員工，其精神值將會恢復。</specialTip>
+      <specialTip openLevel="1" key="1">對$0完成洞察工作的員工將會恢復精神值。</specialTip>
       <specialTip openLevel="2" key="2">每當設施內有10名職員死亡，$0的逆卡巴拉計數器將會立即減少。（被處決彈擊殺的職員不會計入）</specialTip>
       <specialTip openLevel="2" key="3">當工作結果為良時，$0的逆卡巴拉計數器將會有低機率減少。</specialTip>
       <specialTip openLevel="2" key="4">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
-      <specialTip openLevel="2" key="5">若O-05-102進入了$0收容單元前的走廊，$0的逆卡巴拉計數器將會立即歸零。</specialTip>
+      <specialTip openLevel="2" key="5">若O-05-102進入$0收容單元前的走廊，$0的逆卡巴拉計數器將會立即歸零。</specialTip>
     </specialTipSize>
   </observe>
 

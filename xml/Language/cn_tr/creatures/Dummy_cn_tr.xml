@@ -81,7 +81,7 @@
     </record>
 
     <specialTipSize size="1">
-      <specialTip openLevel="1" key="tutorial">對$0完成壓抑工作後，其逆卡巴拉計數器將會在倒數計時後減少。</specialTip>
+      <specialTip openLevel="1" key="tutorial">對$0完成壓抑工作後，$0的逆卡巴拉計數器將會在倒數計時後減少。</specialTip>
     </specialTipSize>
 
   </observe>

@@ -84,7 +84,7 @@
     <specialTipSize size="3">
       <specialTip openLevel="1" key="1">當工作結果為良或優時，精靈們將會出現剛在對其完成工作後的員工周圍。</specialTip>
       <specialTip openLevel="2" key="2">在一段時間內，精靈們將會持續恢復此員工的生命值。</specialTip>
-      <specialTip openLevel="2" key="3">如果在此期間，員工被指派到其他異想體的收容單元裡工作, 此員工將會立刻被小精靈啃食而死。</specialTip>
+      <specialTip openLevel="2" key="3">若在此期間指派員工到其他異想體的收容單元裡工作, 此員工將會立即被精靈們啃食而死。</specialTip>
     </specialTipSize>
 
   </observe>
