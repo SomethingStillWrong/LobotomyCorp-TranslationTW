@@ -13,9 +13,9 @@
   <text id="CreatureInfo_ObserveLevel_FESTIVAL_ONLY">演示版本</text>
 
   <text id="CreatureInfo_ObserveLevel">觀察等級</text>
-  <text id="CreatureInfo_Description">異想體記錄</text>
+  <text id="CreatureInfo_Description">異想體紀錄</text>
   <text id="CreatureInfo_InfoButton">情報</text>
-  <text id="CreatureInfo_DescButton">記錄</text>
+  <text id="CreatureInfo_DescButton">紀錄</text>
   <text id="CreatureInfo_Stat">基礎情報</text>
   <text id="CreatureInfo_Escape">出逃情報</text>
   <text id="CreatureInfo_CumlativeText">獨立PE-Box儲量</text>
@@ -45,8 +45,8 @@
   <text id="CreatureInfo_Make">製造</text>
 
   <!-- 도구형 환상체 추가분 -->
-  <text id="CreatureInfoKit_NeedUseTime">所需使用時間</text>
-  <text id="CreatureInfoKit_NeedUseCount">所需使用次數</text>
+  <text id="CreatureInfoKit_NeedUseTime">需要使用時間</text>
+  <text id="CreatureInfoKit_NeedUseCount">需要使用次數</text>
 
   <text id="CreatureInfoKit_CumlativeUseTime">累計使用時間</text>
   <text id="CreatureInfoKit_CumlativeUseCount">累計使用次數</text>
@@ -62,7 +62,7 @@
   <text id="AgentState_KitReturn">歸還</text>
   <text id="AgentState_KitReturnCancel">取消歸還</text>
 
-  <text id="AgentState_KitLog">研究記錄</text>
+  <text id="AgentState_KitLog">研究紀錄</text>
   <text id="AgentState_KitUseMethod">使用須知</text>
 
 
@@ -93,7 +93,7 @@
   <text id="AgentStat_MP">精神值</text>
   <text id="AgentStat_MaxHP">最大&#13;&#10;生命值</text>
   <text id="AgentStat_MaxMP">最大&#13;&#10;精神值</text>
-  <text id="AgentStat_WorkSuccess">成功率</text>
+  <text id="AgentStat_WorkSuccess">工作成功率</text>
   <text id="AgentStat_WorkSpeed">工作速度</text>
   <text id="AgentStat_AttackSpeed">攻擊速度</text>
   <text id="AgentStat_MovementSpeed">移動速度</text>
@@ -144,7 +144,7 @@
   <text id="Rwork">本能</text>
   <text id="Wwork">洞察</text>
   <text id="Bwork">依戀</text>
-  <text id="Pwork">壓制</text>
+  <text id="Pwork">壓抑</text>
   <text id="Swork">委託</text>
   <text id="Vwork">犧牲</text>
   
@@ -176,7 +176,7 @@
   <text id="Escape_Checkpoint">返回記憶儲存庫</text>
   <text id="Escape_Exit">退出遊戲</text>
 
-  <text id="Escape_Checkpoint_Confirm">目前圖鑑及E.G.O裝備狀態將被儲存。&#13;&#10;是否返回最近的記憶儲存庫($0)？</text>
+  <text id="Escape_Checkpoint_Confirm">目前圖鑑及E.G.O裝備狀態都將被儲存。&#13;&#10;是否返回最近的記憶儲存庫($0)？</text>
   
   <text id="Escape_MasterVolume">主音量</text>
   <text id="Escape_MusicVolume">音樂音量</text>
@@ -232,7 +232,7 @@
   <text id="CreatureInfo_WorkFavor">工作偏好</text>
   <text id="CreatureInfo_Prefix">異想體</text>
 
-  <text id="OrdealMax">感測到當日最&#13;&#10;大的考驗等級</text>
+  <text id="OrdealMax">感測到當天最&#13;&#10;大的考驗等級</text>
   <text id="Inventory_LevelAndName">等級和名稱</text>
 
   <text id="AttackType">傷害類型</text>
@@ -248,7 +248,7 @@
 
   <text id="SefiraBossCondition_lastday">- 無法在最後一天抑制Sephirah的核心</text>
   <text id="SefiraBossCondition_checkpoint">- 無法在「記憶覆蓋日」抑制Sephirah的核心</text> 
-  <text id="SefiraBossCondition_day">- Day {1}後才可抑制此Sephirah的核心</text><!-- {0} : day, {1} : day-1 -->
+  <text id="SefiraBossCondition_day">- Day {1}後才能抑制此Sephirah的核心</text><!-- {0} : day, {1} : day-1 -->
   <text id="SefiraBossCondition_mission">- 完成{0}指派的第{1}個任務</text>
   <text id="SefiraBossCondition_up">- 需要先抑制ASIYAH（上層）所有Sephiroth的核心</text>
   <text id="SefiraBossCondition_middle">- 需要先抑制BRIAH（中層）所有Sephiroth的核心</text>
@@ -283,8 +283,8 @@
   <text id="AgentState_DefaultState">正常</text>
   <text id="AgentState_BattleState">戰鬥</text>
 
-  <text id="StoryView_Title">劇情回想</text>
-  <text id="StoryView_Day">每日記錄</text>
+  <text id="StoryView_Title">劇情閲覽</text>
+  <text id="StoryView_Day">每日紀錄</text>
   <text id="StoryView_Sefira">Sephiroth對話</text>
   <text id="StoryView_Ending">結局</text>
   <text id="StoryView_Seed">光之種</text>
@@ -313,12 +313,12 @@
   <text id="Option_Display">視窗顯示方式</text>
   <text id="Option_Display_Fullscreen">全螢幕</text>
   <text id="Option_Display_Window">視窗化</text>
-  <text id="Option_Display_WindowWithoutFrame">無邊框視窗</text>
+  <text id="Option_Display_WindowWithoutFrame">無邊框視窗化</text>
 
   <text id="Option_Tooltip">顯示UI作用提示框</text>
 
   <text id="Option_Dlc">啟用贊助者異想體</text>
-  <text id="Option_Dlc_Overlay">* 停用選項時，這些異想體不會在遊戲中出現。已收容的贊助者異想體將被替代為同等級的非贊助者異想體，其E.G.O也將從清單中移除。重新開啟選項後，這些異想體會再次顯示於異想體選擇畫面，且先前的觀察等級將完整保留，但已製造的E.G.O不會恢復。</text>
+  <text id="Option_Dlc_Overlay">* 停用選項時，這些異想體不會在遊戲中出現。已收容的贊助者異想體將被替代為同等級的非贊助者異想體，其E.G.O也將從清單中移除。重新開啟選項後，這些異想體會再次顯示於異想體選擇介面，且先前的觀察等級將完整保留，但已製造的E.G.O不會恢復。</text>
 
   <text id="Option_Texture">紋理品質</text>
   <text id="Option_Texture_High">高</text>
