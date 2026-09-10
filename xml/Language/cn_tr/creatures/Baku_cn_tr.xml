@@ -22,7 +22,7 @@
 
     <narration action="mid2">
       [
-      {$0能讓所有人都做幸福的夢，但事實上，不過是遙不可及的幸福，其只是在蠶食著希望。},
+      {$0能讓所有人都做幸福的夢，但事實上，不過是遙不可及的幸福。$0只是在蠶食著希望。},
       ]
     </narration>
 
@@ -64,7 +64,7 @@
 
     <desc id="2" openLevel="1">
       [
-      {此異想體有著羊毛與羊角。&#13;&#10;雖然嵌著五顏六色的眼睛，但除了眼珠偶爾會轉動之外，沒有其他特別顯著的特徵。&#13;&#10;由於其總是在沉睡，要掌握其特徵似乎需要花些時間。}
+      {此異想體有著羊毛與羊角。&#13;&#10;雖然嵌著五顏六色的眼睛，但除了眼珠偶爾會轉動之外，沒有其他特別顯著的特徵。&#13;&#10;由於其總是在沉睡，似乎需要花些時間來掌握其特徵。}
       ]
     </desc>
 
@@ -90,12 +90,12 @@
 
 
      <specialTipSize size="6">
-      <specialTip openLevel="1" key="1">節制等級低於2級的員工在完成了對$0的工作後，將會在收容單元內沉睡。睡著的員工此後再也沒有睜開眼睛。</specialTip>
+      <specialTip openLevel="1" key="1">節制等級低於2級的員工在完成了對$0的工作後，將會在收容單元內沉睡。此後，睡著的員工再也沒有睜開眼睛。</specialTip>
       <specialTip openLevel="2" key="2">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
-      <specialTip openLevel="2" key="3">出逃後，被$0的光球擊中的員工將會陷入沉睡。主管可以連續按下職員以將其喚醒。</specialTip>
-      <specialTip openLevel="2" key="4">經過一段時間，出逃的$0會自行回到收容單元。</specialTip>
+      <specialTip openLevel="2" key="3">出逃後，被$0的光球擊中的員工將會陷入沉睡。主管可以連續按下職員以喚醒職員。</specialTip>
+      <specialTip openLevel="2" key="4">經過一段時間後，出逃的$0會自行回到收容單元。</specialTip>
       <specialTip openLevel="2" key="5">&lt;注意&gt;：若對出逃的$0進行鎮壓，其長相將會有所變化，並呈現具攻擊性的狀態。（此形態被稱為$0-1）</specialTip>
-      <specialTip openLevel="3" key="6">$0-1有時會發出巨大的哭喊聲，對整個部門造成白色傷害。因被$0的光球擊中而陷入沉睡的員工，在聽聞此聲音後會立即睜開眼睛並陷入恐慌。</specialTip>
+      <specialTip openLevel="3" key="6">$0-1有時會發出巨大的哭喊聲，對整個部門造成白色傷害。因被$0的光球擊中而陷入沉睡的員工在聽聞此聲音後，將會立即睜開眼睛並陷入恐慌。</specialTip>
     </specialTipSize>
 
 
