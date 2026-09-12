@@ -62,9 +62,9 @@
     </desc>
 
     <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">犧牲工作能使$0的逆卡巴拉計數器增加。為了取悅此異想體，必須以抽簽的方式篩選並犧牲職員。</specialTip>
-      <specialTip openLevel="1" key="2">無論$0出逃與否，5級以下的員工在遭遇$0時將會立即陷入恐慌。</specialTip>
-      <specialTip openLevel="3" key="3">若有員工在$0的收容單元內陷入恐慌，$0的逆卡巴拉計數器將會立即減少。</specialTip>
+      <specialTip openLevel="1" key="1">犧牲工作能增加$0的逆卡巴拉計數器。為了取悅此異想體，必須以抽簽的方式篩選並犧牲職員。</specialTip>
+      <specialTip openLevel="1" key="2">無論$0出逃與否，若5級以下的員工遭遇了$0，此員工將會立即陷入恐慌。</specialTip>
+      <specialTip openLevel="3" key="3">當員工在$0的收容單元內陷入恐慌時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="2" key="4">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
     </specialTipSize>
 

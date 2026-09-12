@@ -131,7 +131,7 @@
       <specialTip openLevel="2" key="2">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="2" key="3">當工作結果為優時，$0的逆卡巴拉計數器將會立即增加。</specialTip>
       <specialTip openLevel="2" key="4">發生二級警報時，無論其逆卡巴拉計數器為何，$0會直接出逃。</specialTip>
-      <specialTip openLevel="3" key="5">出逃後，$0所在的部門將會停電。位於停電區域的職員，可能會在$0搖晃明燈後被引誘。</specialTip>
+      <specialTip openLevel="3" key="5">出逃後，$0所在的部門將會停電。位於停電區域的職員可能會在$0搖晃明燈後被引誘。</specialTip>
       <specialTip openLevel="2" key="6">職員被引誘時，所受的所有傷害都將會減少，處境似乎非常安全。但一段時間後，這些職員會無法控制地朝$0靠近，然後死於$0的攻擊。</specialTip>
       <specialTip openLevel="2" key="7">若指派被引誘的職員離開停電區域，其職員將會立即恢復正常。</specialTip>
     </specialTipSize>

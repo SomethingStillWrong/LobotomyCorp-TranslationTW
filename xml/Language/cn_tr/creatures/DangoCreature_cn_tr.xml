@@ -78,7 +78,7 @@
 
     <specialTipSize size="5">
       <specialTip openLevel="1" key="1">當對$0工作的員工死亡時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
-      <specialTip openLevel="2" key="2">當生命值不滿時的員工進入$0的收容單元時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
+      <specialTip openLevel="2" key="2">當生命值不滿的員工進入$0的收容單元時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="2" key="3">當工作結果為差時，$0的逆卡巴拉計數器將會在倒數計時後減少。</specialTip>
       <specialTip openLevel="2" key="4">每當設施內有10名職員死亡，$0的逆卡巴拉計數器將會立即減少。（被處決彈擊殺的職員不會計入）</specialTip>
       <specialTip openLevel="2" key="5">出逃後，$0對屍體相當敏感。在鎮壓時，請盡量確保沒有職員死於$0。若有職員死亡，請盡量讓$0遠離屍體。</specialTip>

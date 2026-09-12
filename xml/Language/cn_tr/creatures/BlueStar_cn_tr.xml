@@ -76,12 +76,12 @@
 
 
     <specialTipSize size="7">
-      <specialTip openLevel="1" key="1">節制等級低於4級的員工在進入$0的收容單元後，將會立即被吸入其中心並死亡。</specialTip>
+      <specialTip openLevel="1" key="1">節制等級低於4級的員工在進入$0的收容單元後，會立即被吸入中心並死亡。</specialTip>
       <specialTip openLevel="1" key="2">智慧等級低於5級的員工在完成對$0的工作後，$0的逆卡巴拉計數器將會立即減少。</specialTip>
-      <specialTip openLevel="1" key="3">工作時間超過60秒時，$0的逆卡巴拉計數器將會立即減少，且此員工將會被吸入其中心並死亡。</specialTip>
-      <specialTip openLevel="1" key="4">出逃後，智慧等級低於4級、節制等級低於3級的員工在遭遇$0時，將會立即被吸入其中心並死亡。</specialTip>
+      <specialTip openLevel="1" key="3">工作時間超過60秒時，$0的逆卡巴拉計數器將會立即減少，且此員工會被吸入中心並死亡。</specialTip>
+      <specialTip openLevel="1" key="4">出逃後，智慧等級低於4級、節制等級低於3級的員工在遭遇$0時，會立即被吸入中心並死亡。</specialTip>
       <specialTip openLevel="1" key="5">出逃後，所有聲音都將被變為低沉的靜態雜音，且會干擾視野。</specialTip>
-      <specialTip openLevel="1" key="6">出逃後，設施內所有陷入恐慌的員工將會被立刻吸入$0的中心並死亡。</specialTip>
+      <specialTip openLevel="1" key="6">出逃後，設施內所有陷入恐慌的員工會立刻被吸入$0的中心並死亡。</specialTip>
     </specialTipSize>
   </observe>
 </creature>
