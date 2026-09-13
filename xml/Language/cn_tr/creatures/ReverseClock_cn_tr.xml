@@ -61,7 +61,7 @@
 
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="1">每完成1次對$0的工作，$0的真空管燈泡&#13;&#10;就會亮起1盞並被充能。</specialTip>
+      <specialTip openLevel="1" key="1">每完成1次對$0的工作，$0的真空管&#13;&#10;燈泡就會亮起1盞並被充能。</specialTip>
       <specialTip openLevel="2" key="2">若3級以下的員工對$0進行工作，&#13;&#10;$0不會發生任何變化。</specialTip>
       <specialTip openLevel="2" key="3">在所有真空管燈泡全部亮起後，就能指派員工&#13;&#10;啟動$0。不過，每天只能啟動一次$0。&#13;&#10;啟動前還請審慎。</specialTip>
       <specialTip openLevel="2" key="4">&lt;注意&gt;：若$0已被完全充能，則嚴禁&#13;&#10;讓5級以下的員工靠近此裝置。</specialTip>
