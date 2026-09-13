@@ -61,14 +61,14 @@
 
     <desc id="5" openLevel="4">
       [
-      {員工走進內部時，其便會產生能源。裡面似乎十分舒適，&#13;&#10;一旦進入其內，裡面的員工就再也不會出來了。}
+      {員工走進內部時，其就會產生能源。內部似乎很舒適，&#13;&#10;一旦進入其內，就再也不會出來了。}
       ]
     </desc>
 
 
     <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">指派員工進入此機器，其之後將會持續產出能源。</specialTip>
-      <specialTip openLevel="2" key="2">在機器內部的員工，將會持續受到紅色傷害。&#13;&#10;且員工一旦進入其內，在死亡前都無法離開。</specialTip>
+      <specialTip openLevel="1" key="1">指派員工進入此機器後，其就會持續產出能源。</specialTip>
+      <specialTip openLevel="2" key="2">在機器內部的員工將會持續受到紅色傷害。&#13;&#10;且一旦進入其內，在死亡前都將無法離開。</specialTip>
       <specialTip openLevel="2" key="3">使用時間越長，機器的傷害會越高，&#13;&#10;產出的能源也會隨之增加。</specialTip>
       <specialTip openLevel="2" key="4">此異想體不會受到任何逆卡巴拉熔毀的影響。</specialTip>
       </specialTipSize>

@@ -93,12 +93,12 @@
 
 
     <specialTipSize size="6">
-      <specialTip openLevel="1" key="1">你可以委託$0進行一次射擊，費用為目前所收集能源的10%。（底價10點能源）</specialTip>
+      <specialTip openLevel="1" key="1">您可以委託$0進行一次射擊，費用為目前所收集能源的10%。（底價10點能源）</specialTip>
       <specialTip openLevel="1" key="2">不過，射出的子彈會從左至右貫穿路徑上所有單位並造成大量黑色傷害，在發射前必須注意職員的所在位置。此外，每在一天內發射7顆子彈，$0的逆卡巴拉計數器將會立即減少1點，請審慎委託$0。</specialTip>
       <specialTip openLevel="1" key="3">若正義等級低於3級的員工完成了對$0的工作，$0的逆卡巴拉計數器將會在倒數計時後減少。</specialTip>
       <specialTip openLevel="1" key="4">當工作結果為良時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="5">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
-      <specialTip openLevel="1" key="6">當$0的逆卡巴拉計數器歸零時，其會對設施裡的隨機位置進行一次射擊。</specialTip>
+      <specialTip openLevel="1" key="6">當$0的逆卡巴拉計數器歸零時，$0會對設施裡的隨機位置進行一次射擊。</specialTip>
     </specialTipSize>
   </observe>
 </creature>

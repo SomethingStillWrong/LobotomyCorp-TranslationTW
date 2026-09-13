@@ -89,7 +89,7 @@
     <specialTipSize size="3">
       <specialTip openLevel="1" key="1">在對$0工作時，請務必讓$0的收容單元遠離攝影機的監控範圍。</specialTip>
       <specialTip openLevel="1" key="2">在對$0工作時，若持續觀察$0的收容單元超過5秒，$0的逆卡巴拉計數器將會減少。</specialTip>
-      <specialTip openLevel="1" key="3">出逃後，若$0不在攝影機的監控範圍內，$0將會停止一切行動。鎮壓時請務必記住這一點。</specialTip>
+      <specialTip openLevel="1" key="3">出逃後，若$0不在攝影機的監控範圍內，$0將會停止一切行動。在鎮壓時，請務必記住這一點。</specialTip>
     </specialTipSize>
 
 

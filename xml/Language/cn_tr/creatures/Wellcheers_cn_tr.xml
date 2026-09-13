@@ -85,7 +85,7 @@
       <specialTip openLevel="0" key="specialCan">完成工作後，此異想體中央的自動販賣機將會掉出一瓶飲料。飲料種類似乎會根據工作結果而有所變動。</specialTip>
       <specialTip openLevel="2" key="healthCan">&lt;測試結果W-1&gt;：一瓶紅色罐裝飲料掉了出來。測試者表示，此飲料有種獨特的香氣與甜味，並讓自身充滿了活力。隨後，我們確認測試者的生命值得到了恢復。</specialTip>
       <specialTip openLevel="2" key="metalCan">&lt;測試結果W-2&gt;：藍色鋁罐裝的飲料是種內含強烈氣泡的無香味液體。該飲料被證實能有效恢復測試者的精神值。</specialTip>
-      <specialTip openLevel="3" key="wellCheersCan">&lt;測試結果W-3、W-4&gt;：這是外觀、成分、味道皆與紫色罐裝葡萄汽水完全一致的飲料。我們發現，測試者在喝下此飲料后，其生命值與精神值都同時得到了恢復。</specialTip>
+      <specialTip openLevel="3" key="wellCheersCan">&lt;測試結果W-3、W-4&gt;：這是外觀、成分、味道皆與紫色罐裝葡萄汽水完全一致的飲料。我們發現測試者在喝下此飲料后，生命值與精神值都同時得到了恢復。</specialTip>
       <specialTip openLevel="4" key="goToSea">&lt;注意&gt;：當工作結果為差時，無論販賣機掉出何種飲料，都不要去飲用。</specialTip>
     </specialTipSize>
 

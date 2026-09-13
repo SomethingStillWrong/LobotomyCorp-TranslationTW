@@ -98,8 +98,8 @@
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="give">當工作結果為良時，$0會送給了對其完成工作的員工一份禮包。</specialTip>
-      <specialTip openLevel="2" key="gift">若持有禮物的員工試圖對除$0以外的異想體工作，一個████████將會從其員工體內爆出，並殺死此員工。</specialTip>
+      <specialTip openLevel="1" key="give">當工作結果為良時，$0會送給對其完成工作的員工一份禮包。</specialTip>
+      <specialTip openLevel="2" key="gift">若持有禮物的員工試圖對除$0以外的異想體工作，一個████████將會從此員工體內爆出，並將員工殺死。</specialTip>
       <specialTip openLevel="2" key="cancle">若在████████出現前就取消工作命令，持有禮物的員工就不會發生身體異變。</specialTip>
     </specialTipSize>
   </observe>

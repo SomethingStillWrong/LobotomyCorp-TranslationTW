@@ -92,8 +92,8 @@
     </desc>
 
     <specialTipSize size="6">
-      <specialTip openLevel="1" key="1">指派員工對$0進行演奏工作。但請注意，在完成演奏工作後，$0的逆卡巴拉計數器將會減少。</specialTip>
-      <specialTip openLevel="1" key="2">演奏樂曲時，所有員工的節制與正義相關屬性都會暫時小幅提升。然而，完成演奏工作的員工將會損失目前生命值50%的生命值。</specialTip>
+      <specialTip openLevel="1" key="1">員工能對$0進行演奏工作。但請注意，在完成演奏工作後，$0的逆卡巴拉計數器將會減少。</specialTip>
+      <specialTip openLevel="1" key="2">演奏樂曲時，所有員工的節制與正義相關屬性都將會暫時小幅提升。但完成演奏工作的員工將會損失目前生命值50%的生命值。</specialTip>
       <specialTip openLevel="1" key="3">當工作結果為良時，$0的逆卡巴拉計數器將會有中等機率立即減少。</specialTip>
       <specialTip openLevel="1" key="4">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="5">當員工進入收容單元進行第三次演奏時，$0的逆卡巴拉計數器將會歸零。</specialTip>

@@ -71,7 +71,7 @@
 
 
       <openText>
-        悲傷說著：「消失吧，死去吧！」但慾望&#13;&#10;渴望成為永恆————深邃無盡的永恆！
+        悲傷說著：「消失吧，死去吧！」&#13;&#10;但慾望渴望成為永恆————&#13;&#10;深邃無盡的永恆！
       </openText>
 
 
@@ -103,7 +103,7 @@
     <specialTipSize size="3">
       <specialTip openLevel="1" key="monster">當工作結果為良時，$0的逆卡巴拉計數器將會有中等機率在倒數計時後減少。</specialTip>
       <specialTip openLevel="1" key="monster2">當工作結果為差時，$0的逆卡巴拉計數器將會有高機率在倒數計時後減少。</specialTip>
-      <specialTip openLevel="2" key="swallow">出逃後，$0會無差別吞噬在其正前方的所有單元，所以在鎮壓$0時，特別注意到其前進方向。</specialTip>
+      <specialTip openLevel="2" key="swallow">出逃後，$0會無差別吞噬在其正前方的所有單元，所以，在鎮壓$0時，特別注意到其前進方向。</specialTip>
     </specialTipSize>
 
 

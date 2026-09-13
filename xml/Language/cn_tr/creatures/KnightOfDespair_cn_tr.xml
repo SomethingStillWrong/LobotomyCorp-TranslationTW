@@ -45,7 +45,7 @@
         WAW
       </riskLevel>
 
-      <openText>所剩無幾的是那風化騎士的空洞自尊.</openText>
+      <openText>剩下的，只有那份磨損&#13;&#10;殆盡、名為騎士的可悲驕傲。</openText>
 
     </collection>
 
@@ -81,9 +81,9 @@
 
 
     <specialTipSize size="4">
-      <specialTip openLevel="1" key="1">每日首位對$0完成結果為優的工作的員工，將會獲得$0的祝福。（自獲得祝福起，此員工將被稱為O-01-73-1）</specialTip>
-      <specialTip openLevel="2" key="2">O-01-73-1僅能進行鎮壓工作，無法指派去進行其他工作。此外，受祝福影響的O-01-73-1，其所受的紅色、白色及黑色傷害減半，但所受的蒼色傷害將提升至原有的1.5倍。</specialTip>
-      <specialTip openLevel="2" key="3">若O-01-73-1死亡或陷入恐慌，祝福就會消失。祝福消失後，可重新將其祝福賦予給其他員工。</specialTip>
+      <specialTip openLevel="1" key="1">每日首位對$0完成結果為優的工作之員工，將會獲得$0的祝福。（自獲得祝福起，此員工將被稱為O-01-73-1）</specialTip>
+      <specialTip openLevel="2" key="2">O-01-73-1僅能進行鎮壓工作，無法指派去進行其他工作。此外，受祝福影響的O-01-73-1受到的紅色、白色及黑色傷害減半，但受到的蒼色傷害將提升至原有的1.5倍。</specialTip>
+      <specialTip openLevel="2" key="3">若O-01-73-1死亡或陷入恐慌，祝福就會消失。消失後，可重新將祝福賦予給其他員工。</specialTip>
       <specialTip openLevel="1" key="4">若O-01-73-1死亡或陷入恐慌，$0將會出逃。</specialTip>
     </specialTipSize>
   </observe>

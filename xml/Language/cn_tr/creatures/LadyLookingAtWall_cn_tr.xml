@@ -100,7 +100,7 @@
   </desc>
 
     <specialTipSize size="5">
-      <specialTip openLevel="1" key="CCC">若指派節制等級為1的員工對$0進行工作，此員工將會在聽完$0的話語後回頭看，且立即陷入恐慌。</specialTip>
+      <specialTip openLevel="1" key="CCC">若指派節制等級為1級的員工對$0進行工作，則此員工將會在聽完$0的話語後回頭，並立即陷入恐慌。</specialTip>
       <specialTip openLevel="3" key="possible">若試圖對$0進行依戀工作，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="3" key="possible2">當工作結果為良時，$0的逆卡巴拉計數器將會有中等機率減少。</specialTip>
       <specialTip openLevel="3" key="possible3">當工作結果為差時，$0的逆卡巴拉計數器將會有高機率減少。</specialTip>
