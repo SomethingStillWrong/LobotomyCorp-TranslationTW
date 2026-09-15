@@ -79,9 +79,7 @@ Surolanter（腦葉公司繁體中文譯者）
 
       的、地、得的用法近乎全錯  
 
-      人名拼錯（似乎是前英翻所遺留）：  
-      Malkhut、Malkuth、Malkhuth三種寫法同時出現  
-      Binah拼成Vina  
+      人名拼錯（似乎是前英翻所遺留）：Malkhut、Malkuth、Malkhuth三種寫法同時出現、Binah拼成Vina  
       ……
 
 - [x] 關鍵詞不一致、濫用  
