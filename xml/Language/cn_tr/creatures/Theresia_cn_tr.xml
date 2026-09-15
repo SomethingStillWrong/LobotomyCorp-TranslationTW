@@ -62,7 +62,7 @@
 
     <specialTipSize size="2">
       <specialTip openLevel="1" key="1">在聆聽$0的聲音時，$0所屬部門的&#13;&#10;職員將會持續恢復精神值。</specialTip>
-      <specialTip openLevel="2" key="2">若聆聽$0的聲音超過30秒，對其工作的&#13;&#10;員工將會陷入恐慌。</specialTip>
+      <specialTip openLevel="2" key="2">若聆聽$0的聲音超過30秒，對其工&#13;&#10;作的員工將會陷入恐慌。</specialTip>
     </specialTipSize>
 
 
