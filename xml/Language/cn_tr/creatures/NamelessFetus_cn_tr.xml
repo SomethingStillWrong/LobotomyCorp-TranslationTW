@@ -122,7 +122,7 @@
     <specialTipSize size="5">
       <specialTip openLevel="1" key="teeth">當工作結果為良時，$0的逆卡巴拉計數器將會有低機率在倒數計時後減少。</specialTip>
       <specialTip openLevel="2" key="cry">當工作結果為差時，$0的逆卡巴拉計數器將會有高機率在倒數計時後減少。</specialTip>
-      <specialTip openLevel="2" key="cryEffect">當$0的逆卡巴拉計數器歸零時，$0將會放聲大哭。聽到哭聲的職員會感到頭痛。此外，聽到哭聲的異想體，其收容單元的逆卡巴拉計數器也將會週期性地減少。</specialTip>
+      <specialTip openLevel="2" key="cryEffect">當$0的逆卡巴拉計數器歸零時，$0將會放聲大哭。聽到哭聲的職員會感到頭痛。此外，聽到哭聲的異想體也將會週期性地減少逆卡巴拉計數器。</specialTip>
       <specialTip openLevel="3" key="sacrifice">當$0哭泣時，只能命令職員對$0進行犧牲工作。</specialTip>
       <specialTip openLevel="3" key="sacrifice">輪盤旋轉後，被選到執行犧牲工作的職員將會悄悄走進$0的收容單元。經過短暫的騷動後，$0停止了哭泣。</specialTip>
     </specialTipSize>
