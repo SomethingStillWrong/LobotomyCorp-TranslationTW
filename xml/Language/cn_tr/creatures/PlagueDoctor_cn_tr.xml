@@ -3,7 +3,7 @@
   <info id ="100014">
 
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。 
     </narration>
 
     <narration action="start">
@@ -53,7 +53,7 @@
       <name openLevel="1">疫醫</name>
       <portrait openLevel ="1">Sprites/Unit/creature/PlagueDoctor</portrait>
       <riskLevel openLevel ="3">ZAYIN</riskLevel>
-      <openText>"내가 너의 모든 질병을 고쳐 너를 낫게 하리라"</openText>
+      <openText>「我將治癒你所有的疾&#13;&#10;病，讓你痊癒如初。」</openText>
     </collection>
 
     <desc id="1" openLevel="1">
