@@ -12,7 +12,7 @@
   <info id ="100006">
     
     <narration action="move">
-      #0 進入了 $0 的收容單位並開始進行任務.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
     <narration action="start">
@@ -83,7 +83,7 @@
       <portrait openLevel ="1">Sprites/Unit/creature/SingingMachine</portrait>
       <name openLevel ="1">歌唱機</name>
       <riskLevel openLevel ="2">HE</riskLevel>
-      <openText>但是，没有什麼能像活人一樣，能演奏出如此美妙的音樂。</openText>
+      <openText>但是，没有什麼能像活人一樣，&#13;&#10;能演奏出如此美妙的音樂。</openText>
     </collection>
     
     <desc id="1" openLevel="0">
