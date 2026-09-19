@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+
+  <!-- Attrbute "id " must equal to attribute "id" in CreatureList.xml -->
+  <info id ="100101">
+
+    <!-- $0 : Creature name, #0 : Agent name -->
+    <narration action="move">
+      #0被指派至$0的收容單元內，開始對$0進行工作。
+    </narration>
+
+    <narration action="start">
+      [
+      {接近$0時，能聽到歲月流逝的聲音。},
+      {$0散發著鮮明的綠光。有時，$0看起來就像是正盯著人看的眼眸。},
+      {與看似輕盈的外表相反，就算三名職員使盡全力試圖抬起，$0也紋絲不動。},
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {#0的明天或許會來，或許不來。}
+      {對於寫在$0後的P，職員們眾說紛紜。}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {有傳聞說，聽見第13聲鐘響的人會遭到詛咒。}
+      {$0恐怕是唯一理解何為絕對孤獨的存在。}
+      {若試圖留住時間，就須付出相符的代價。}
+      ]
+    </narration>
+  </info>
+
+  <!-- Maximum observation level. -->
+  <observe level ="3">
+    <collection>
+      <codeNo openLevel ="0">O-05-65-H</codeNo>
+      <portrait openLevel ="1">Sprites/Unit/creature/ScytheClock</portrait>
+
+      <name openLevel ="1">
+        沉默的代價
+      </name>
+      
+      <riskLevel openLevel ="1">
+        HE
+      </riskLevel>
+
+      <specialName openLevel ="2">
+       第十三聲鐘響
+      </specialName>
+
+    </collection>
+
+    <desc id="1" openLevel="1">
+      [
+      {此異想體看似非常古老的時鐘。接近時，能聽到內部傳來的滴答聲。鐘的背面寫著：「時光如生命般流逝；生命如時光般流逝。」至於這句話的確切意義，還暫不清楚。}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="2">
+      [
+      {&lt;職員的觀察紀錄&gt;&#13;&#10;偶爾會有種時間彷彿停止的錯覺，短暫的完全沉默會瞬間到來。而每到那時，就會有職員因不明原因而死。瑞克雖然容易因瑣事而驚慌，但沒人認為這和心臟麻痺有什麼太大的關聯。而賈斯汀的體檢結果高於平均值。表面上，他們看起來沒有任何外傷，只是心臟不再跳動，既沒有舊病，也沒做過會對心臟造成負擔的事。就像機器電池耗盡而停運那般，他們停了下來。正因如此，才更加讓人感到煩悶。在十幾名職員皆死於原因不明的心臟麻痺時，眾人開始不再將這些死亡視為單純的巧合，逐漸猜測原因可能來自某特定異想體。&#13;&#10;當響起的鐘聲迴盪於整座設施、伴隨傳來的陣陣尖叫聲時，我想，那可怕的巧合所匯聚而成的惡夢終於到來了。那異想體明明報不出準確的時間，卻偏偏擁有時鐘的外形，就像是立於地獄正中央的路燈。&#13;&#10;我想起了那異想體的背面似乎寫過文字，但我記不太清楚。沒錯，那災難般的鐘聲依然在響個不停，我開始朝著那異想體的收容單元跑去。&#13;&#10;在那絕不可能聽見的第十三聲鐘聲響起的瞬間，我瘋狂摸索著異想體的背面，才驚覺原本的文字已消失不見。取而代之的是一段新文字，就好像是那鐘聲導致了這些變化的臨界點：&#13;&#10;「我知曉絕對的孤獨。既然我分出了沉默，就該索取應有代價。待原主人歸來之時，我將收取這份代價。————P」}
+      ]
+    </desc>
+
+
+    <specialTipSize size="2">
+      <specialTip openLevel="1" key="payFor">當$0的心情狀態為差時，將會在使用暫停時付出代價。</specialTip>
+      <specialTip openLevel="3" key="ringMyBell">在鐘聲響起12次後，若再次觸發$0的特殊能力，將會有等同於響聲次數的職員死亡。</specialTip>
+    </specialTipSize>
+
+    <!-- Narration when observation level is maximum. -->
+    <max>
+      <!--기본 선택지-->
+      <desc id="0" select="1">
+        [
+        {其實，浪費了時間、時間不夠用之類的，都只是無謂的抱怨。}
+        {不過，這座時鐘不僅能幫你找回失去的時間，還能讓你擁有比原本更多的時間。}
+        {你會使用這座時鐘嗎……}
+        <!--계속-->
+        ]
+      </desc>
+
+      <!--선택지-->
+      <select id="1">
+        <node desc="會。" target="1" isAnswer="true"/>
+        <node desc="不會。" target="2" isAnswer="false"/>
+      </select>
+
+      <desc id="1" select="0">
+        [
+        {然而，其也必會索討相應代價。}
+        {因為從一開始，其就是這樣設計的。}
+        ]
+      </desc>
+
+      <desc id="2" select="0">
+        [
+        {其實，你沒法拒絕這份禮物。}
+        {無論是否願意，我們都很清楚，你只能接受。}
+        ]
+      </desc>
+
+      <!--스토리 파트에서 출력될 부분-->
+      <angela>
+        [
+        {沉默所帶來的，不再僅有和平。}
+        ]
+      </angela>
+    </max>
+
+  </observe>
+
+
+</creature>
