@@ -67,7 +67,7 @@
 
     <specialTipSize size="4">
       <specialTip openLevel="1" key="1">佩戴$0的員工將對白色傷害具有較高的抗性。&#13;&#10;但若未收容O-05-102，此加成將會失效。</specialTip>
-      <specialTip openLevel="2" key="2">會每隔一定時間，$0會恢復佩戴者的精神值。</specialTip>
+      <specialTip openLevel="2" key="2">每隔一定時間，$0會恢復佩戴者的精神值。</specialTip>
       <specialTip openLevel="2" key="3">&lt;注意&gt;：嚴禁將佩戴$0的員工派入&#13;&#10;O-05-102的收容單元。</specialTip>
       <specialTip openLevel="2" key="4">&lt;注意&gt;：當O-05-102出逃時，$0也&#13;&#10;會出逃，請務必留意。（即便$0正被員工佩戴，&#13;&#10;也會發生相同情況。）</specialTip>
     </specialTipSize>
