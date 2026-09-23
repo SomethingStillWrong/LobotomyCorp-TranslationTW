@@ -93,7 +93,7 @@
 
       <!--선택지-->
       <select id="1">
-        <node desc="會。" target="1" isAnswer="true"/>
+        <node desc="會。" target="1" isAnswer="true"  message="已成功完成對沉默的代價的最終觀測"/>
         <node desc="不會。" target="2" isAnswer="false"/>
       </select>
 
