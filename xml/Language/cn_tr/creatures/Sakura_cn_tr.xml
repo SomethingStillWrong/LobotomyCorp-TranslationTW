@@ -31,9 +31,6 @@
       ]
     </narration>
 
-
-
-
   </info>
 
   <observe level ="4">
@@ -48,7 +45,6 @@
       <riskLevel openLevel ="1">
         TETH
       </riskLevel>
-
 
       <openText>含血越多，更加沉醉。</openText>
 
@@ -95,7 +91,7 @@
       <specialTip openLevel="1" key="2">當對$0工作的員工陷入恐慌時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="3">當$0的逆卡巴拉計數器歸零時，設施內的數名隨機職員會如同著了魔般走向$0的收容單元。（此狀態稱為「魅惑狀態」）</specialTip>
       <specialTip openLevel="2" key="4">陷入「魅惑狀態」的職員在到達了$0的收容單元後，將會被拖入樹中。 </specialTip>
-      <specialTip openLevel="2" key="5">經確認，重複按下陷入「魅惑狀態」的職員可以使其恢復正常。在所有職員解除「魅惑狀態」後，此異想體的逆卡巴拉計數器將會恢復至最大值。</specialTip>
+      <specialTip openLevel="2" key="5">經確認，持續按下陷入「魅惑狀態」的職員可以使其恢復正常。在所有職員解除「魅惑狀態」後，此異想體的逆卡巴拉計數器將會恢復至最大值。</specialTip>
       <specialTip openLevel="3" key="6">在$0吸收了一名職員後，若指派另一名員工對其進行工作，此異想體的逆卡巴拉計數器將恢復至最大值。此外，設施內所有職員的生命值與精神值也將會完全恢復。</specialTip>
     </specialTipSize>
 
