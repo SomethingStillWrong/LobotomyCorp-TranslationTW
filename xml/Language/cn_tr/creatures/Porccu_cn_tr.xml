@@ -18,9 +18,8 @@
   -->
   <info id ="100057" >
 
-
     <narration action="move">
-      指派 #0 至 $0 的收容室.
+      #0被指派至$0的收容單元內，開始對$0進行工作。
     </narration>
 
     <narration action="start">
@@ -44,18 +43,12 @@
   </info>
 
   <observe level ="5">
+  
     <collection>
       <codeNo openLevel ="0">O-02-98</codeNo>
       <portrait openLevel ="1">Sprites/Unit/creature/Porccu</portrait>
-
-      <name openLevel ="1">
-        荊棘魔刺
-      </name>
-
-      <riskLevel openLevel ="1">
-       HE
-      </riskLevel>
-
+      <name openLevel ="1">荊棘魔刺</name>
+      <riskLevel openLevel ="1">HE</riskLevel>
       <openText>現在，我的腦袋快要爆炸了，再見。</openText>
 
     </collection>
@@ -104,10 +97,6 @@
       <specialTip openLevel="1" key="5">出逃的$0不會受到來自其攻擊範圍之外的傷害。</specialTip>
     </specialTipSize>
 
-
-
   </observe>
-
-
 
 </creature>
