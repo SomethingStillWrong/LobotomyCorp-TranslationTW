@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
   <!--
-  사실 있음
-  
+
   직원 상황별 대사
   
   AgentNewgrade_XXX_Y_Z : XXX - 상황, Y - 직원 유형, Z - 텍스트 넘버
@@ -11,178 +10,180 @@
   
   -->
 
+  <!-- (/｀ω´)ﾉ 主程式設計師提醒您：請先遊玩遊戲。-->
+
   <category type="normal">
     <grade level="1">
       <lyrics rwbp="a">
-        <lyric>真不敢相信我能在翼裡工作!</lyric>
-        <lyric>我已經完成了管理訓練, 但我還是有些生疏.</lyric>
-        <lyric>為什麼大家要我小心那些異常? 它們還能有多危險?</lyric>
-        <lyric>我只希望這些工作不會太難.</lyric>
-        <lyric>當上經理後能多棒我想都不敢想.</lyric>  <!-- *-->
-        <lyric>現在我能非常驕傲的告訴其他人我加入翼了.</lyric>
+        <lyric>真不敢相信。我居然加入了翼。</lyric>
+        <lyric>雖然接受過員工培訓，但我還沒什麼實感。</lyric>
+        <lyric>大家都讓我要小心翼翼，異想體到底有多危險？</lyric>
+        <lyric>只希望別負責太困難的工作就好。</lyric>
+        <lyric>要想成為主管，究竟得有多厲害才行啊。</lyric>
+        <lyric>我現在終於能大大方方地告訴別人：我加入了翼。</lyric>
       </lyrics>
       <lyrics rwbp="r">
-        <lyric>工作時越順利, 我們完成的時間就越快.</lyric>
-        <lyric>讓我們為了公司蒸蒸日上吧.</lyric>
-        <lyric>加油加油!</lyric>
-        <lyric>所以, 在進行直覺工作的時候我們需要滿足那些異常的需求.</lyric>
-        <lyric>我們一直以來都是這麼幹的. 在未來也會這麼幹下去.</lyric>
+        <lyric>只要工作順利就能提早下班，這樣應該會輕鬆點。</lyric>
+        <lyric>今天也努力工作吧。</lyric>
+        <lyric>今天也要加油！</lyric>
+        <lyric>原來得透過本能工作來滿足異想體如飢餓般的慾望。</lyric>
+        <lyric>只要像之前一樣去做就行了吧。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>這裡的某些人也是從郊外來的. 公司的錄用標準到底是什麼?</lyric>
-        <lyric>我們臂章裡的晶片到底有啥用?</lyric>
-        <lyric>有個傢伙在我還沒認識他之前就被換掉了.</lyric>
-        <lyric>透過洞察工作我們才能分析那些異常並創造它們喜歡的環境.</lyric>
-        <lyric>那些逼著我們去幹活的指示太刻薄了, 我覺得啦. </lyric> 
+        <lyric>郊區出身的人也進來了這裡……這裡的入職標準到底是什麼？</lyric>
+        <lyric>縫在臂章裡的這枚晶片到底是什麼？</lyric>
+        <lyric>之前見過的那個人不知不覺間消失了，來了名新人。</lyric>
+        <lyric>要透過洞察工作來分析異想體，並為其創造出喜歡的環境。</lyric>
+        <lyric>任何命令都必須無條件服從的條款太苛刻了。</lyric> 
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>如果我在這裡更努力的話, 我就能讓我的家庭住到巢中了.</lyric>
-        <lyric>我知道這裡有些對翼的造謠, 但我還能怎樣. 這裡的薪水太好了, 每個看著你的人都是這麼的羨慕.</lyric>
-        <lyric>我真不敢相信我們真的能夠跟那些異常溝通.</lyric>
-        <lyric>或許我們可以跟異常們交個朋友?</lyric>
+        <lyric>只要在這裡努力工作，就能把家人接到巢裡。</lyric>
+        <lyric>雖然有關翼的負面傳聞也不少，但也沒辦法。年薪優渥，还是個誰看了都羨慕的地方。</lyric>
+        <lyric>原來還能跟異想體建立「交感」啊。</lyric>
+        <lyric>說不定，我們能和異想體成為朋友？</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>我很喜歡這裡的設施, 但是這裡的氣氛太凝重了.</lyric>
-        <lyric>我覺得好像有人在盯著我.</lyric>
-        <lyric>壓迫工作, 能夠壓抑即將爆發的一切…</lyric>
-        <lyric>設施以及當中的走廊都被刻上了恐懼跟絕望.</lyric>
+        <lyric>這設施很不錯，但空氣有點太沉重了。</lyric>
+        <lyric>總覺得有什麼東西在注視著我……</lyric>
+        <lyric>壓抑所有即將噴發之物就是壓抑工作……</lyric>
+        <lyric>這些走廊和設施裡似乎都深刻烙印著人們的絕望與恐懼。</lyric>
       </lyrics>
     </grade>
     <grade level="2">
       <lyrics rwbp="a">
-        <lyric>那些異常比我想的還要危險.</lyric>
-        <lyric>真不敢相信這裡的人們會死的這麼隨便.</lyric>
-        <lyric>這才是 Lobotomy… 的真面目吧…</lyric>
-        <lyric>以前的我絕對沒辦法戰勝那些異常, 但我覺得現在的我一定沒問題.</lyric>
-        <lyric>不管怎樣總比晚上巷子裡發生的事要好.</lyric>
+        <lyric>異想體這東西好像比我想像的更危險。</lyric>
+        <lyric>真不敢相信人竟然會這麼輕易死去。</lyric>
+        <lyric>沒想到腦葉公司竟然是這樣的地方……</lyric>
+        <lyric>我以前總覺得自己絕對無法對抗異想體，但現在覺得自己能做到了。</lyric>
+        <lyric>比起後巷深宵發生的那些事，這裡好像還算好一點。</lyric>
       </lyrics>
       <lyrics rwbp="r">
-        <lyric>在使用武器的時候你只需要跟著身體跟內心的流動就行了.</lyric>
-        <lyric>對於異常來說, “食物” 的定義是非常模糊的.</lyric>
-        <lyric>比起食物, 異常更喜歡其他的東西.</lyric>
-        <lyric>我們不能老是愁容滿面. 讓我們變得更強吧!</lyric>
+        <lyric>只要順其身心就能使用武器啊。</lyric>
+        <lyric>要發放給異想體的糧食標準比想像的要微妙。</lyric>
+        <lyric>異想體可不光給飯吃就會感到滿足。</lyric>
+        <lyric>可不能一直這麼愁容滿面。大家都打起精神吧。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>在其他的翼裡也會發生這些事嗎…?</lyric>
-        <lyric>我還以為 Lobotomy 公司是間綠能供應商...</lyric>
-        <lyric>這個地方藏了一些不為人知的東西.</lyric>
-        <lyric>真是太沒有效率了. 為什麼人類就得管理這些危險的東西?</lyric>
-        <lyric>需要更多的知識才能分析那些異常.</lyric>
+        <lyric>其他翼也會發生這種事嗎？</lyric>
+        <lyric>一開始我明明聽說是環保能源公司……</lyric>
+        <lyric>雖然不太清楚，但這地方的可疑之處可不只有一兩個。</lyric>
+        <lyric>太沒效率了。為什麼這種危險的傢伙非得由人類來管理？</lyric>
+        <lyric>分析異想體並不是光靠知識就能解決的。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>我希望我能更早去掌握這些事物.</lyric>
-        <lyric>不是所有的異常都是不好的…</lyric>
-        <lyric>我開始明白有哪些方法能更好的掌控那些異常了.</lyric>
-        <lyric>他們說, “絕對不要私下去接觸那些異常”, 可是…</lyric>
+        <lyric>希望我能更快上手工作。</lyric>
+        <lyric>好像也不是所有異想體都是壞的。</lyric>
+        <lyric>我好像摸索出應付異想體的方法了。</lyric>
+        <lyric>雖然都說絕對不要對異想體產生私人感情，不過……</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>這裡的裝備太棒了… 我對它們感到懷念.</lyric>
-        <lyric>我很好奇在這裡工作的人有什麼感想.</lyric>
-        <lyric>在我幹著壓迫工作的時候, 有些東西都會在我的內心波動著.</lyric>
-        <lyric>我覺得在這裡發生的每件事都是有目的的.</lyric>
+        <lyric>這裡發放的裝備真奇妙。讓我有種懷念的感覺。</lyric>
+        <lyric>其他人都抱著什麼樣的心情在這裡工作呢。</lyric>
+        <lyric>每當進行壓抑工作時，我內心深處總有什麼東西在翻騰。</lyric>
+        <lyric>我總覺得這一切都彷彿帶著某种方向性在流動著。</lyric>
       </lyrics>
     </grade>
     <grade level="3">
       <lyrics rwbp="a">
-        <lyric>新來的傢伙絕對不會知道他們將要面對的究竟是什麼.</lyric>
-        <lyric>我一定要撐下去. 他們會讓工作超過 2 個月的員工放假.</lyric>
-        <lyric>我聽說過關於夜晚巷子裡的傳說. 那怪物的聲音聽起來就像那些異常一樣恐怖.</lyric>
-        <lyric>如果我死了, 我只會被另一個人給換掉而已…</lyric>
-        <lyric>儘管很苦, 但我還是習慣了在這裡的日子.</lyric>
-        <lyric>可是, 這樣還是好過在巷子裡奄奄一息.</lyric>
+        <lyric>新員工們肯定想像不到自己即將面臨什麼樣的狀況。</lyric>
+        <lyric>聽說只要連續做滿兩個月就能放假離開，所以只能咬牙忍下去了。</lyric>
+        <lyric>我偶爾聽說，後巷深宵也會出現像異想體那般怪物的傳聞。</lyric>
+        <lyric>有人死去，就會有人補進來啊……</lyric>
+        <lyric>雖然很苦，但我也漸漸習慣了這一切。</lyric>
+        <lyric>不過，總比在後巷苟延殘喘、窩囊死去要好。</lyric>
       </lyrics>
       <lyrics rwbp="r">
-        <lyric>現在我能在看到屍體後照樣大吃一頓了.</lyric>
-        <lyric>我真痛恨已經習慣死亡的我.</lyric>
-        <lyric>不同的異常有不同的 “食物”...</lyric>
-        <lyric>我的鼻子裡還有鮮血的腥臭味. 用水怎麼洗就是沖不掉.</lyric>
+        <lyric>現在就算看到了屍體，晚飯也還能吃得下。</lyric>
+        <lyric>我討厭逐漸習慣目睹死亡的自己。</lyric>
+        <lyric>根據異想體的類型，糧食的類型也會有所不同。</lyric>
+        <lyric>血腥味一直在鼻尖縈繞，怎麼洗都洗不掉。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>這都是值得的嗎?</lyric>
-        <lyric>我看過一個瘋掉的人身上發生了什麼事.</lyric>
-        <lyric>如果那些異常是類似上帝的東西呢?</lyric>
-        <lyric>透過洞察工作我能更深的認識那些異常, 但卻有更多的資訊讓我無法理解.</lyric>
+        <lyric>真的值得在這裡如此拼命工作嗎？</lyric>
+        <lyric>我已經親眼見過一個人真正發瘋時的樣子。</lyric>
+        <lyric>也許異想體是神一般的存在。</lyric>
+        <lyric>透過洞察工作對異想體了解得越多，反而會出現越多無法理解的情報。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>我痛恨它們. 它們毫不在意的將我們殺掉, 但我們還是得照料它們. 多麼不公平!</lyric>
-        <lyric>千萬別對那些異常有私人的接觸, 就算你在進行溝通工作也是.</lyric>
-        <lyric>他們對戲劇真挑剔.</lyric>
-        <lyric>友情在這裡是沒有意義的. 不過, 如果沒有身邊的同伴, 你還是沒辦法撐過明天.</lyric>
+        <lyric>我現在覺得這群傢伙真是可憎。它們若無其事地殺人，我們卻還得討好這群傢伙。</lyric>
+        <lyric>你必須記住，就算進行的是依戀工作，也絕不能對它們付出感情。</lyric>
+        <lyric>它們各自喜歡的遊戲真是千差萬別。</lyric>
+        <lyric>在這裡交朋友毫無意義。但沒有同事的話也根本撐不下去。</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>有時候我會有種從一陣長眠中醒來的感覺.</lyric>
-        <lyric>每次面對異常的時候都像在夢中一樣.</lyric>
-        <lyric>我們需要明白它們到底是什麼並抑制它們.</lyric>
-        <lyric>感覺那些死掉的鬼魂還留在這裡.</lyric>
+        <lyric>有時候，我會有種從長眠中醒來的感覺。</lyric>
+        <lyric>每當面對異想體時，我就像置身於夢境中一樣。</lyric>
+        <lyric>必須看透其本質，並盡最大努力將其抑制。</lyric>
+        <lyric>死者的靈魂似乎無法離開此地。</lyric>
       </lyrics>
     </grade>
     <grade level="4">
       <lyrics rwbp="a">
-        <lyric>我很好奇有多少菜鳥會死.</lyric>
-        <lyric>隨你說吧, 經理.</lyric>
-        <lyric>不用太認真啦.</lyric>
-        <lyric>下次我放假的時候一定要買個 W 公司的旅行包.</lyric>
-        <lyric>如果我更努力的話, 我的家庭就能去巢中了.</lyric>
+        <lyric>這次又會有多少新人死掉。</lyric>
+        <lyric>既然主管叫我們做，那就別廢話照做。</lyric>
+        <lyric>沒必要賦予太多意義。</lyric>
+        <lyric>等我休假了，我打算去買W公司的旅遊套餐。</lyric>
+        <lyric>再多幹一陣子，我的家人也能搬進巢裡了。</lyric>
       </lyrics>
       <lyrics rwbp="r">
-        <lyric>差不多啦. 鎮壓異常, 還是殺掉瘋掉的員工.</lyric>
-        <lyric>我希望工作能快點結束.</lyric>
-        <lyric>我懷念血液的味道.</lyric>
-        <lyric>我們在這的樂趣就只剩下吃了.</lyric>
+        <lyric>無論是面對異想體還是發瘋的員工，需要處理的事情其實也差不了多少。</lyric>
+        <lyric>我真希望工作能快點結束。</lyric>
+        <lyric>我開始有點懷念血腥味了。</lyric>
+        <lyric>剩下的就只有進食了。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>人類的內心太過脆弱了.</lyric>
-        <lyric>你不該去理解那些無法理解的事物.</lyric>
-        <lyric>如果我們一直在這裡工作的話, 總有一天我們會失去我們的人性.</lyric>
-        <lyric>有些人就是會去做那些早就說過不能去做的事.</lyric>
+        <lyric>人類的精神太脆弱了。</lyric>
+        <lyric>你不該試圖去理解那些無法理解的事物。</lyric>
+        <lyric>再繼續幹下去將會失去人性。</lyric>
+        <lyric>總有傢伙硬要去做那些被禁止的事情。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>每個人都有他的問題.</lyric>
-        <lyric>放輕鬆就好. 不用想太多.</lyric>
-        <lyric>放下心去工作就好. 一切都會沒事的.</lyric>
-        <lyric>不要太緊張. 我們能一個一個解決掉的.</lyric>
+        <lyric>每個人都有各自的人生。</lyric>
+        <lyric>放輕鬆點。最好別想得太複雜。</lyric>
+        <lyric>就像平常那樣，放輕鬆開始就行。</lyric>
+        <lyric>別太緊張。一件一件慢慢解決。</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>壓迫工作的本質就是連結對象存在的目的.</lyric>
-        <lyric>在面對死亡時我們都是平等的.</lyric>
-        <lyric>即使我們失去了身軀, 我們的靈魂仍會在這個世上遊蕩.</lyric>
+        <lyric>壓抑的本質似乎與對象的存在理由有關。</lyric>
+        <lyric>在死亡面前，人人平等。</lyric>
+        <lyric>就算失去了肉體，靈魂仍將流轉。</lyric>
       </lyrics>
     </grade>
     <grade level="5">
       <lyrics rwbp="a">
-        <lyric>每個人都會在某天死去.</lyric>
-        <lyric>又是該死的一天, 我們只能照著命令走.</lyric>
-        <lyric>別想在這裡找什麼意義. 工作, 拿薪水, 就這樣.</lyric>
-        <lyric>就算你才剛加入也不用太擔心. 你很快就會習慣這的.</lyric>
-        <lyric>有人死掉也不用想太多. 接受事實就好.</lyric>
+        <lyric>人總有一死。</lyric>
+        <lyric>沒什麼區別，我們只是奉命行事。</lyric>
+        <lyric>這份工作毫無意義。工作、領報酬，僅此而已。</lyric>
+        <lyric>不用擔心自己不習慣這份工作，你最終都會習慣的。</lyric>
+        <lyric>都別太在意誰在這裡死了、消失了。接受事實就好。</lyric>
       </lyrics>
       <lyrics rwbp="r">
-        <lyric>畢竟, 我們就只是一團血肉而已.</lyric>
-        <lyric>鮮血優雅地在每條生命中流動.</lyric>
-        <lyric>直覺工作的目的就僅僅是讓它們保持在固定的形狀罷了.</lyric>
-        <lyric>脆弱的生命是道美麗的火焰, 如此的激烈.</lyric>
-        <lyric>我們必須現在就把事情幹完, 不是以後.</lyric>
+        <lyric>歸根究底，我們不過是肉塊罷了。</lyric>
+        <lyric>每條生命的鮮血都以各自的形式美麗地流淌著。</lyric>
+        <lyric>本能工作不過是為了維持形體而做的事情罷了。</lyric>
+        <lyric>生命是道美麗的火花，脆弱而又強烈。</lyric>
+        <lyric>比起未來，我們更應該做好現在所能做的事。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>所以, 人性究竟是什麼? 是人類一直在追求的真理嗎?</lyric>
-        <lyric>我們必須以更遠的眼光來看待我們所見到的.</lyric> <!-- *-->
-        <lyric>每個人都有自己的任務來證明自己的存在.</lyric>
-        <lyric>我們以智慧的雙眼來看透真理並重塑了這個世界.</lyric>
+        <lyric>人性究竟意味著什麼？是追求真實與真理才算有人性嗎？</lyric>
+        <lyric>我們必須始終將目光投向可見之物以外的世界。</lyric>
+        <lyric>賦予所有人的任務：證明自己的存在。</lyric>
+        <lyric>以智慧之眼看透本質，重塑環境。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>人類, 異常, 都不重要. 存在的共鳴才是最重要的.</lyric>
-        <lyric>至少我還能保護其他人.</lyric>
-        <lyric>一段感情是兩條生命在相互連接後所產生的合奏.</lyric>
-        <lyric>外殼就是外殼. 我們不能忘記在那底下的是什麼.</lyric>
-        <lyric>如果我們能夠合而為一並共享我們的存在, 那就真的太迷人了.</lyric>
+        <lyric>不管是人類還是異想體都不重要。重要的是存在的共鳴。</lyric>
+        <lyric>我至少還能保護其他人。</lyric>
+        <lyric>所謂關係，就是存在與存在相遇時綻放的和弦。</lyric>
+        <lyric>軀殼終究只是軀殼。只要別忘記本質就行了。</lyric>
+        <lyric>如果大家能融為一體，分享彼此的存在，那該有多美好啊。</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>死亡不是一切的終點.</lyric>
-        <lyric>生命就如在黑夜中閃耀光芒的星辰, 所以它才如此的美麗.</lyric>
-        <lyric>沒有比星星更美麗的景象了.</lyric>
-        <lyric>壓迫工作的本質就是否認存在的目的.</lyric>
-        <lyric>我們會在死後再度回歸, 因為我們的靈魂將會指引我們...</lyric>
-        <lyric>異常都有靈魂, 就跟人一樣...</lyric>
+        <lyric>死亡並非一切的終點。</lyric>
+        <lyric>生命之所以美麗，是因為它像星光一樣在黑夜中閃爍。</lyric>
+        <lyric>沒有什麼景色能比星辰殞落更為美麗。</lyric>
+        <lyric>對存在理由的否定才是壓抑工作的本質。</lyric>
+        <lyric>因為有靈魂這座路標，就算我們死去，也將會再次重生……</lyric>
+        <lyric>異想體終究也和人類一樣擁有靈魂……</lyric>
       </lyrics>
     </grade>
   </category>
@@ -190,97 +191,97 @@
   <category type="panic">
     <grade level="1">
       <lyrics rwbp="a">
-        <lyric>下命令啊! 下命令啊! 下命令啊! 下命令啊! 下命令!</lyric>
-        <lyric>讓我回家! 我想回家!</lyric>
-        <lyric>經理, 如果你有看到這個情況的話請做些什麼吧! 救救我!</lyric>
-        <lyric>啊啊啊啊啊啊啊啊啊啊啊!!</lyric>
+        <lyric>請下命令！請下命令！請下命令！請下命令！請下命令！</lyric>
+        <lyric>放我回家吧，主管……我想回家。</lyric>
+        <lyric>主管，如果您有在看我，求您解決這個局面，救救我。</lyric>
+        <lyric>呃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊額！</lyric>
       </lyrics>
     </grade>
     <grade level="2">
       <lyrics rwbp="r">
-        <lyric>我不想孤零零的死去…</lyric>
-        <lyric>是的, 就是你的錯! 你把一切都搞砸了!</lyric>
-        <lyric>你才是該被罵的人! 不是我!</lyric>
+        <lyric>不能只有我死……</lyric>
+        <lyric>是啊，都是你的錯。要不是你，事情才不會這樣！</lyric>
+        <lyric>都是你的問題。不是我！</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>都是我的錯. 這是我的責任.</lyric>
-        <lyric>這個情況下我看不到任何希望.</lyric>
-        <lyric>就算我活下來了, 我接下來的人生也會因這一刻受苦.</lyric>
+        <lyric>都是我的錯，都是我的責任。</lyric>
+        <lyric>在這種情況下已經無望了。</lyric>
+        <lyric>就算在這裡活下來，我的餘生也會活在痛苦之中吧……</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>幫幫我! 我要離開這, 打開緊急出口吧!</lyric>
-        <lyric>經理, 打開緊急出口吧! 讓我出去!</lyric>
-        <lyric>我好怕. 大家都死掉了. 我該怎麼辦?</lyric>
+        <lyric>救救我，我想離開這裡，給我打開緊急出口。</lyric>
+        <lyric>主管，求您打開緊急出口。放我出去！</lyric>
+        <lyric>我好害怕。其他人都死了，我該怎麼辦？</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>你看, 經理! 我沒有失敗呢!</lyric>
-        <lyric>我才不像我身邊的那些笨蛋! 看我怎麼做!</lyric>
-        <lyric>為什麼這麼不開心? 等我一下, 我會讓你笑開懷的!</lyric>
+        <lyric>主管，看看我。我還沒有失敗！</lyric>
+        <lyric>我和這裡的其他蠢貨不一樣！看好我在做什麼！</lyric>
+        <lyric>大家為什麼都露出那種表情？我會讓你們開心的，等一下！</lyric>
       </lyrics>
     </grade>
     <grade level="3">
       <lyrics rwbp="r">
-        <lyric>消失吧! 這間公司, 我們, 你們, 都消失吧!</lyric>
-        <lyric>我能作到的. 我能跟它們一樣殺死人類.</lyric>
-        <lyric>你 拋 棄 了 我!!!</lyric>
+        <lyric>都消失吧。這家公司、我們，還有你……</lyric>
+        <lyric>我也能做到。就像他們那樣，我也能殺人。</lyric>
+        <lyric>你拋棄了我！！！</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>走廊上都是血液和腦漿…… 你也看得到, 對吧? 我們得把那裡掃乾淨…</lyric>
-        <lyric>昨天我看到了死去的同事. 我們一起吃了晚餐和咖啡. 他似乎沒什麼事. 我可能很快就要去見他了.</lyric>
+        <lyric>我同事的腦漿在地上滾來滾去……你也看到了嗎？得儘快清理乾净才行……走廊裡滿是血……</lyric>
+        <lyric>我昨天看到了死去的同事。我們一起吃飯、喝咖啡。看到他過得很好，我感到很欣慰。我可能在不久後就要去見他了。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>我們全都會死. 我們的身心會在這該死的地方被他們折磨到死!</lyric>
-        <lyric>我 不 想 送 死! 我 不 想 死 得 跟 他 們 一 樣!</lyric>
-        <lyric>哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈 哈!!!</lyric>
-        <lyric>別 丟 我 進 去 那!!!! 不 要 害 死 我!!!</lyric>
+        <lyric>我們都會死的。我們在這個悲催的地方死去，肢體被那些怪物撕成碎片。</lyric>
+        <lyric>我不想死。我不想像我同事那樣死得那麼慘……</lyric>
+        <lyric>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</lyric>
+        <lyric>別送我去！！！別送我去死！！！！</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>那些死去的朋友們我很抱歉但是我不想就這麼死掉我現在好想念我的父母...</lyric>
-        <lyric>讓你看看我幻想的朋友們! 他們向我哀求, 哭喊著想離開這裡!</lyric>
+        <lyric>我想對死去的同事說聲對不起我生來不是為了這樣死去的爸媽我好想您</lyric>
+        <lyric>讓你看看我夢裡的朋友們。這些朋友哭喊著求我讓它們出去！</lyric>
       </lyrics>
     </grade>
     <grade level="4">
       <lyrics rwbp="r">
-        <lyric>死吧! 死 死 死!</lyric>
-        <lyric>血腥的味道呼喚著我. 我渴望鮮血跟肉塊.</lyric>
-        <lyric>我會殺光所有人. 我會摧毀一切. 畢竟, 這一切都是沒有意義的.</lyric>
+        <lyric>去死吧！殺光所有人，然後去死。</lyric>
+        <lyric>血腥味正在呼喚我。我好想看見血肉與內臟四濺的景象。</lyric>
+        <lyric>我要把大家都殺光。全都給我消失吧。這種地方根本沒有什麼意義。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>我聽到了某人. 聽起來很像家裡的誰. 我沒辦法讓那個聲音停下來.</lyric>
-        <lyric>這裡沒有希望. 我崩潰了. 一切都崩潰了.</lyric>
-        <lyric>我們全都會被瘋狂吞噬淹沒掉.</lyric>
+        <lyric>有人一直在跟我說話。但那聲音讓人無比懷念，我不能不聽。</lyric>
+        <lyric>毫無希望了。心徹底崩塌了。一切都在被消磨殆盡。</lyric>
+        <lyric>我們將沉淪於此，終將被瘋狂吞噬，最後消逝。</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>沒辦法. 我是著去習慣了. 但 我 就 是 不 行!</lyric>
-        <lyric>拜託讓我離開這. 我盡力了. 但我再也受不了了!</lyric>
-        <lyric>我們都不想就這麼死掉. 我們不是來這裡這麼死掉的.</lyric>
+        <lyric>我受不了了。雖然試著去習慣了，但真的辦不到。</lyric>
+        <lyric>求求你放我離開這裡。我努力過了。但我真的撐不下去了。</lyric>
+        <lyric>大家都不想就這樣死在這裡。我們來到這裡可不是為了這樣死去的啊！</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>讓我們從它們身上找尋平靜吧.</lyric>
-        <lyric>我很抱歉, 朋友. 我現在就去解放你.</lyric>
-        <lyric>出來吧, 大家! 從這個被詛咒的地方解放出來吧!</lyric>
+        <lyric>從它們那裡尋求安息吧。</lyric>
+        <lyric>對不起，朋友。我現在就讓你自由。</lyric>
+        <lyric>大家都出來吧，拯救這個受詛咒的地方與朋友們。</lyric>
       </lyrics>
     </grade>
     <grade level="5">
       <lyrics rwbp="r">
-        <lyric>很快就要有趣起來了. 那廝扯肉體的旋律!</lyric>
-        <lyric>為什麼人類會這麼容易地死去? 就像你.</lyric>
-        <lyric>很快就會結束了. 我會將你從血肉的監獄裡給解放出來的.</lyric>
+        <lyric>這會很愉快的。因為當你的皮膚被撕裂時，它將會奏出美麗的和弦。</lyric>
+        <lyric>為什麼人這麼容易死呢？就像你一樣。</lyric>
+        <lyric>很快就會結束了，放輕鬆點。我會把你從肉體的監獄中解放出來。</lyric>
       </lyrics>
       <lyrics rwbp="w">
-        <lyric>月亮的耳語以及星星的聲音. 超越一切的真相…</lyric>
-        <lyric>抵達知識的邊際, 超越了理解的一切…</lyric>
-        <lyric>它們的吼聲. 你跟我之間的共鳴. 白熾的智慧…</lyric>
+        <lyric>星星的聲音與月亮的低語。彼方的真理……</lyric>
+        <lyric>超越理解，邁向遙遠的認知地平線……</lyric>
+        <lyric>它們的哀號。我與你的共鳴。發光的知性……</lyric>
       </lyrics>
       <lyrics rwbp="b">
-        <lyric>我一輩子都出不去了.</lyric>
-        <lyric>我們終將回到最初的源頭.</lyric>
-        <lyric>放棄理智是在這裡唯一的救贖.</lyric>
+        <lyric>我無法逃出此地。</lyric>
+        <lyric>因為大家終究會在源頭合而為一。</lyric>
+        <lyric>此地唯一的救贖就是大家一起拋開精神。</lyric>
       </lyrics>
       <lyrics rwbp="p">
-        <lyric>我們能夠透過那些異常來得到救贖.</lyric>
-        <lyric>異常是人類真正的起源. 讓我們接觸它們來找到救贖吧.</lyric>
-        <lyric>讓我們跟著異常到達超越死亡的天堂吧.</lyric>
+        <lyric>透過異想體，我們將能獲得救贖。</lyric>
+        <lyric>異想體才是人類根源的模樣。與它們相連，一同獲得救贖。</lyric>
+        <lyric>在這個地方，與異想體一同抵達超越死亡的樂園吧。</lyric>
       </lyrics>
     </grade>
   </category>
@@ -288,73 +289,73 @@
   <category type="horror">
     <grade level="0">
       <lyrics rwbp="a">
-        <lyric>這沒什麼.</lyric>
-        <lyric>我還是辦得到.</lyric>
-        <lyric>輕而易舉.</lyric>
-        <lyric>搔搔癢罷了.</lyric>
-        <lyric>無聊.</lyric>
-        <lyric>這連抓癢都說不上.</lyric>
+        <lyric>沒什麼大不了的。</lyric>
+        <lyric>輕鬆解決。</lyric>
+        <lyric>簡直小菜一碟。</lyric>
+        <lyric>感覺跟搔癢差不多。</lyric>
+        <lyric>真無趣。</lyric>
+        <lyric>沒什麼感覺。</lyric>
       </lyrics>
     </grade>
     <grade level="1">
       <lyrics rwbp="a">
-        <lyric>先冷靜冷靜. 就跟我們做過得那樣.</lyric>
-        <lyric>盡量不要失去自我, 並照著手冊上說的去做.</lyric>
-        <lyric>就照我們常做的那樣去做吧.</lyric>
-        <lyric>不要粗心大意啊.</lyric>
-        <lyric>專心…</lyric>
+        <lyric>冷靜，和往常一樣做就行。</lyric>
+        <lyric>只要保持清醒、照著手冊做就行。</lyric>
+        <lyric>就跟平常一樣做吧。</lyric>
+        <lyric>只要不掉以輕心。</lyric>
+        <lyric>要小心謹慎……</lyric>
       </lyrics>
     </grade>
     <grade level="2">
       <lyrics rwbp="a">
-        <lyric>我有點緊張.</lyric>
-        <lyric>慢慢地, 慢慢地…</lyric>
-        <lyric>吸氣, 吐氣…</lyric>
-        <lyric>照著手冊說的去做就行了.</lyric>
-        <lyric>如果我們專心些一定不會有事, 我覺得…</lyric>
+        <lyric>有點緊張。</lyric>
+        <lyric>慢慢來，小心點……</lyric>
+        <lyric>深呼吸……</lyric>
+        <lyric>照著手冊做就可以了。</lyric>
+        <lyric>小心點就好……大概吧……</lyric>
       </lyrics>
     </grade>
     <grade level="3">
       <lyrics rwbp="a">
-        <lyric>我不可能會在這裡犯錯的…</lyric>
-        <lyric>我的腿在發抖…</lyric>
-        <lyric>該死的, 它好恐怖.</lyric>
-        <lyric>它讓我的背脊發涼.</lyric>
-        <lyric>拜託拜託, 什麼事都沒有…</lyric>
+        <lyric>好像一點失誤都不能有。</lyric>
+        <lyric>雙腿都在發抖……</lyric>
+        <lyric>該死，好可怕。</lyric>
+        <lyric>背脊直發涼。</lyric>
+        <lyric>拜託，千萬別出事……</lyric>
       </lyrics>
     </grade>
     <grade level="4">
       <lyrics rwbp="a">
-        <lyric>該 死 的!!!</lyric>
-        <lyric>我們該怎麼辦?</lyric>
-        <lyric>我們該拿這個情況怎麼辦?</lyric>
-        <lyric>我的身體動不了啊…</lyric>
-        <lyric>救命…</lyric>
-        <lyric>我不想要死啊!</lyric>
-        <lyric>我得快跑...</lyric>
+        <lyric>該死！！！！</lyric>
+        <lyric>我該怎麼辦。</lyric>
+        <lyric>這種狀況下我該怎麼辦。</lyric>
+        <lyric>身體不聽使喚……</lyric>
+        <lyric>救救我……</lyric>
+        <lyric>我不想死。</lyric>
+        <lyric>我想逃跑……</lyric>
       </lyrics>
     </grade>
     <grade level="5">
       <lyrics rwbp="a">
-        <lyric>*呼*</lyric>
-        <lyric>什麼…</lyric>
-        <lyric>我看到了什麼…?</lyric>
-        <lyric>我受不了了…</lyric>
-        <lyric>我搞不懂…</lyric>
-        <lyric>...................</lyric>
-        <lyric>一切都停下來了…</lyric>
+        <lyric>啊……</lyric>
+        <lyric>什麼……</lyric>
+        <lyric>我剛才看到了什麼……</lyric>
+        <lyric>承受不了……</lyric>
+        <lyric>無法理解……</lyric>
+        <lyric>……</lyric>
+        <lyric>一切都麻木了……</lyric>
       </lyrics>
     </grade>
     <grade level="6">
       <lyrics rwbp="a">
-        <lyric>這就是神啊…</lyric>
-        <lyric>我的存在毫無意義…</lyric>
-        <lyric>我們微不足道…</lyric>
-        <lyric>超越一切至高無上的存在…</lyric>
-        <lyric>大發慈悲啊…</lyric>
-        <lyric>授予我們救贖吧…</lyric>
-        <lyric>儘管, 我什麼都不是…</lyric>
-        <lyric>我們滿是敬畏地看著…</lyric>
+        <lyric>這就是神……</lyric>
+        <lyric>我的存在如此虛無……</lyric>
+        <lyric>我們是微不足道的存在……</lyric>
+        <lyric>存在之上的全能存在……</lyric>
+        <lyric>慈悲……</lyric>
+        <lyric>請拯救我們……</lyric>
+        <lyric>我真的什麼都不是……</lyric>
+        <lyric>心懷敬畏……</lyric>
       </lyrics>
     </grade>
   </category>
@@ -362,57 +363,57 @@
   <category type="otherdead">
     <grade level="0">
       <lyrics rwbp="a">
-        <lyric>另一個傢伙踢走了水桶.</lyric>
-        <lyric>可憐的混蛋.</lyric>
-        <lyric>我們沒有為他們悲傷的時間.</lyric>
-        <lyric>總是會發生的.</lyric>
-        <lyric>會死的就會死.</lyric>
-        <lyric>弱者.</lyric>
-        <lyric>至少, 讓我獻上敬意.</lyric>
+        <lyric>看來又走了個傢伙。</lyric>
+        <lyric>可憐的傢伙。</lyric>
+        <lyric>我可不想浪費時間去悲傷。</lyric>
+        <lyric>不過是司空見慣的事。</lyric>
+        <lyric>該死的自然會死。</lyric>
+        <lyric>懦弱的傢伙。</lyric>
+        <lyric>我姑且表示下哀悼。</lyric>
       </lyrics>
     </grade>
     <grade level="1">
       <lyrics rwbp="a">
-        <lyric>讓我們獻上敬意…</lyric>
-        <lyric>又一個員工死了.</lyric>
-        <lyric>我得習慣死亡...</lyric>
-        <lyric>我們不能被悲傷給掌握住.</lyric>
-        <lyric>我在想是不是有人會為他們流淚.</lyric>
+        <lyric>哀悼吧……</lyric>
+        <lyric>又有一名員工離開了。</lyric>
+        <lyric>你得習慣死亡。</lyric>
+        <lyric>得把悲傷這類情緒埋藏起來。</lyric>
+        <lyric>會有人為這場死亡哭泣嗎。</lyric>
       </lyrics>
     </grade>
     <grade level="2">
       <lyrics rwbp="a">
-        <lyric>該死, 有人死掉了.</lyric>
-        <lyric>友軍陣亡!</lyric>
-        <lyric>他走了…</lyric>
-        <lyric>有人員損失了. 請小心!</lyric>
-        <lyric>專心點. 我不能死…</lyric>
+        <lyric>該死，死了一個人。</lyric>
+        <lyric>有人倒下了！</lyric>
+        <lyric>那傢伙走了……</lyric>
+        <lyric>死了一個。振作精神。</lyric>
+        <lyric>冷靜點，連我也有可能會死……</lyric>
       </lyrics>
     </grade>
     <grade level="3">
       <lyrics rwbp="a">
-        <lyric>{0}… 你真的死了嗎?</lyric>
-        <lyric>不敢相信你就這麼死了.</lyric>
-        <lyric>我不能讓它們就這麼殺掉我.</lyric>
-        <lyric>拜託, 拜託, 拜託了…</lyric>
-        <lyric>{0} 真的死了嗎? 輪到我了?</lyric>
+        <lyric>{0}……真的死了嗎？</lyric>
+        <lyric>我沒想到你會這樣死去……</lyric>
+        <lyric>我可不能連自己也跟著死。</lyric>
+        <lyric>拜託。拜託。拜託。</lyric>
+        <lyric>員工{0}真死了嗎？那該輪到我了？</lyric>
       </lyrics>
     </grade>
     <grade level="4">
       <lyrics rwbp="a">
-        <lyric>我的老天…</lyric>
-        <lyric>讓我如此依靠的他…</lyric>
-        <lyric>我還能做什麼…?</lyric>
-        <lyric>如果連 {0} 都死了…</lyric>
-        <lyric>我死定了. 如果 {0} 都這麼死了…</lyric>
+        <lyric>天啊……</lyric>
+        <lyric>我很依賴的人……</lyric>
+        <lyric>我究竟能做什麼……</lyric>
+        <lyric>連{0}都死了的話……</lyric>
+        <lyric>我死定了，連{0}都變成這樣了……</lyric>
       </lyrics>
     </grade>
     <grade level="5">
       <lyrics rwbp="a">
-        <lyric>我玩完了.</lyric>
-        <lyric>真不敢相信那個人死了.</lyric>
-        <lyric>我 們 死 定 了 啦!</lyric>
-        <lyric>員工 {0} 死掉了, 我也不會例外.</lyric>
+        <lyric>我完了……</lyric>
+        <lyric>那人竟然死了……</lyric>
+        <lyric>我們都會落得同種下場，難逃一死！！！！</lyric>
+        <lyric>連{0}這樣的員工都死了，我也不例外……</lyric>
       </lyrics>
     </grade>
   </category>
@@ -420,300 +421,296 @@
   <category type="otherpanic">
     <grade level="0">
       <lyrics rwbp="a">
-        <lyric>又一個人瘋掉了.</lyric>
-        <lyric>人心真容易崩潰.</lyric>
-        <lyric>脆弱的內心在這裡是沒有位置的.</lyric>
-        <lyric>絕望的聲音, 我習慣了.</lyric>
-        <lyric>就算是尖叫聲也能讓我開心.</lyric>
-        <lyric>我以為每次看到類似那樣的東西都會讓我發瘋. 但現在…</lyric>
-        <lyric>它很快就會安靜下來了.</lyric>
+        <lyric>又瘋了一個傢伙。</lyric>
+        <lyric>心靈真是脆弱易碎。</lyric>
+        <lyric>軟弱的傢伙很難在這裡撐下去。</lyric>
+        <lyric>不過是熟悉的絕望之聲。</lyric>
+        <lyric>現在連尖叫聲聽起來都讓我感到興奮。</lyric>
+        <lyric>以前，每次看到那種場面時，我還以為連自己都要瘋了……</lyric>
+        <lyric>很快就會安靜下來的吧……</lyric>
       </lyrics>
     </grade>
     <grade level="1">
       <lyrics rwbp="a">
-        <lyric>又一個失心瘋了.</lyric>
-        <lyric>我不能變得跟他們一樣.</lyric>
-        <lyric>我已經習慣看見瘋掉的臉孔了.</lyric>
-        <lyric>瘋掉的尖叫聲一直困擾著我.</lyric>
-        <lyric>今天我會像他們一樣瘋掉嗎?</lyric>
+        <lyric>又出現一個失去理智的。</lyric>
+        <lyric>我絕不能變得像那傢伙一樣。</lyric>
+        <lyric>我連看著發瘋的表情也漸漸習慣了。</lyric>
+        <lyric>不管聽多少次，瘋子的吶喊都很不是滋味。</lyric>
+        <lyric>我總有一天也會像這樣失去理智嗎。</lyric>
       </lyrics>
     </grade>
     <grade level="2">
       <lyrics rwbp="a">
-        <lyric>我們有人暴走了!</lyric>
-        <lyric>有人的精神污染程度到達最高了!</lyric>
-        <lyric>我不能失去自我.</lyric>
-        <lyric>我得保持自我… 我不能瘋掉.</lyric>
-        <lyric>看起來就很痛. 這會讓我瘋掉的.</lyric>
-        <lyric>我不想聽見那些痛苦的尖叫聲了.</lyric>
+        <lyric>有同事失去理智了。</lyric>
+        <lyric>剛才有個人的精神污染達到了最大值。</lyric>
+        <lyric>至少我絕不能失去理智。</lyric>
+        <lyric>繼續保持緊張……必須穩住心神。</lyric>
+        <lyric>看著就讓人感到痛苦，我感覺自己也快失去理智了……</lyric>
+        <lyric>我不想聽那些痛苦的聲音……</lyric>
       </lyrics>
     </grade>
     <grade level="3">
       <lyrics rwbp="a">
-        <lyric>就算是那些比較高階的人也會瘋掉.</lyric>
-        <lyric>不知道我到底能不能忍受這個瘋狂的地方.</lyric>
-        <lyric>拜託別放棄你的內心啊.</lyric>
-        <lyric>拜託快回來!</lyric>
-        <lyric>你看到什麼了?</lyric>
-        <lyric>{0}, 拜託了, 回來吧…</lyric>
+        <lyric>就算經驗再豐富，結果都一樣是發瘋。</lyric>
+        <lyric>我真能在這個瘋狂的地方撐下去嗎？</lyric>
+        <lyric>拜託，不要放棄理智。</lyric>
+        <lyric>求求你，回來吧。</lyric>
+        <lyric>你到底看到了什麼。</lyric>
+        <lyric>{0}，拜託了，振作點……</lyric>
       </lyrics>
     </grade>
     <grade level="4">
       <lyrics rwbp="a">
-        <lyric>那麼高階的人也瘋了…</lyric>
-        <lyric>我還能忍受這些瘋狂多久?</lyric> <!-- *-->
-        <lyric>沒有人在這個地方是安全的.</lyric> <!-- *-->
-        <lyric>到底是什麼讓那些人瘋了?</lyric>
-        <lyric>員工 {0}… 最高精神污染層級… 唷天哪…</lyric>
+        <lyric>那樣的員工最終也會發瘋啊……</lyric>
+        <lyric>我真能在這個瘋狂的地方撐下去嗎？</lyric>
+        <lyric>這裡對任何人來說都不安全……</lyric>
+        <lyric>他們到底經歷了什麼……</lyric>
+        <lyric>員工{0}……精神污染達到最大值……拜託……</lyric>
       </lyrics>
     </grade>
     <grade level="5">
       <lyrics rwbp="a">
-        <lyric>瘋狂統治著這個地方…</lyric>
-        <lyric>{0}… 不該是你… 你應該是要保護我們的人才對…</lyric>
-        <lyric>那 個 人 會 把 我 們 都 殺 了! 這 個 地 方 會 變 成 我 們 的 地 獄!</lyric>
-        <lyric>我 們 都 會 像 那 個 員 工 一 樣 在 瘋 狂 中 死 去!!</lyric>
-        <lyric>這個地方沒有希望… 每個人在最後都會瘋掉的…</lyric>
-        <lyric>跟員工 {0} 一樣瘋掉只是時間上的問題而已…</lyric>
+        <lyric>這裡只是個瘋狂的地方……</lyric>
+        <lyric>{0}……不能連你也瘋掉……你得保護我們……</lyric>
+        <lyric>我們都會被他殺掉！那傢伙會把這裡變成地獄！</lyric>
+        <lyric>我們都會像那員工一樣在這裡死於發瘋！！！</lyric>
+        <lyric>這裡已經沒救了……所有人最終都會發瘋……</lyric>
+        <lyric>我變得像那個員工{0}一樣，也只是一瞬間的事吧……</lyric>
       </lyrics>
     </grade>
-   
   </category>
 
   <!--Tumblbug Agent Lyrics -->
   <credit>
     <category type="normal">
       <unit id="0">
-        <!--미스터블랙 -->
-        <lyric>笑能讓你更好. 所以, 笑吧!</lyric>
-        <lyric>哈 哈 哈 哈 哈 哈 哈 哈 哈 哈!</lyric>
-        <lyric>笑的越開越好! 像這樣!</lyric>
+        <!--미스터블랙（布萊克先生）-->
+        <lyric>笑容是個好東西。所以大家一起笑吧。</lyric>
+        <lyric>哈哈哈哈哈哈哈哈哈哈！</lyric>
+        <lyric>把嘴角往上拉到極限。就像這樣～</lyric>
       </unit>
       <unit id="1">
-        <!-- 양치기 -->
-        <lyric>牧羊人會從羊身上取毛跟肉. 就跟我們一樣.</lyric>
-        <lyric>像這樣的事在世界上總是在發生. 即使在人群中也是.</lyric>
-        <lyric>但那些絕對不是什麼羊. 我很確定.</lyric>
+        <!--양치기（牧羊人）-->
+        <lyric>牧羊人養羊來獲取肉與毛。就像我們所做的那樣。</lyric>
+        <lyric>這種事情在世界上比比皆是，在人與人之間也是如此。</lyric>
+        <lyric>但那些傢伙看起來絕對不像羊。我很肯定。</lyric>
       </unit>
       <unit id="2">
-        <!--김대리 -->
-        <lyric>我的…我的藥丸呢?</lyric>
-        <lyric>希望今天我能準時到家…</lyric>
-        <lyric>我沒有! 我什麼都沒有說, 經理!</lyric>
+        <!--김대리（金戴麗） -->
+        <lyric>胃藥……我的胃藥放哪去了……</lyric>
+        <lyric>呃呃……希望今天能下班……</lyric>
+        <lyric>不！我什麼都沒說，主管！</lyric>
       </unit>
       <unit id="3">
-        <!--아란 -->
-        <lyric>隨便啦.</lyric>
-        <lyric>我盡力了.</lyric>
-        <lyric>吵死了…</lyric>
+        <!--아란（阿蘭）-->
+        <lyric>隨便吧。</lyric>
+        <lyric>我總是在全力以赴。</lyric>
+        <lyric>真麻煩。</lyric>
       </unit>
       <unit id="4">
-        <!--유메카 -->
-        <lyric>我好想來個草莓蛋糕.</lyric>
-        <lyric>今天是哪一天? 我又忘了.</lyric>
-        <lyric>我該怎麼辦? 喔, 耶.</lyric>
+        <!--유메카（尤梅卡）-->
+        <lyric>好想吃草莓奶油蛋糕……</lyric>
+        <lyric>今天是禮拜幾來著？我又忘了。</lyric>
+        <lyric>我剛說要做什麼來著？啊，對了。</lyric>
       </unit>
       <unit id="5">
-        <!--이희창 -->
-        <lyric>我是為了錢才來幹這事的, 不是因為我喜歡這事.</lyric>
-        <lyric>這個工作真是令人頭痛.</lyric>
-        <lyric>我真的得辭掉這份工作.</lyric>
+        <!--이희창（李熙昌）-->
+        <lyric>我幹這個是為了錢，不是因為喜歡。</lyric>
+        <lyric>好麻煩……好麻煩……好麻煩……</lyric>
+        <lyric>我真該從這家破公司裡辭職。</lyric>
       </unit>
       <unit id="6">
-        <!--전상민 -->
-        <lyric>天哪, 我什麼都不想做了.</lyric>
-        <lyric>我在想今天又會有多少人死去.</lyric>
-        <lyric>或許很快, 我就要死了.</lyric>
+        <!--전상민（全尚敏）-->
+        <lyric>啊，真麻煩。</lyric>
+        <lyric>一天到底會死多少人呢？</lyric>
+        <lyric>我也會在不久的將來死掉吧？</lyric>
       </unit>
       <unit id="7">
-        <!--에피비네아 -->
-        <lyric>我該幫大家都做一個護身符. 我會偷偷的把它放到每個人身上!</lyric>
-        <lyric>這是異常的觀察報告, 這個也是…. 喔, 還有這個! 員工的觀察報告!</lyric>
-        <lyric>我應該在休息時間去做對我有益的事. 所以我猜, 如果偷偷監視其他人確保他們沒事能讓我感到放鬆, 這樣是可以的…?</lyric>
+        <!--에피비네아（艾比米利亞）-->
+        <lyric>要不要給大家做個護身符呢……？就算他們不收下，我也會偷偷掛上去。</lyric>
+        <lyric>這是異想體觀察清單，這也是異想體觀察清單。啊，在這裡！職員們的觀察清單！</lyric>
+        <lyric>空閑時間是屬於我的時間。所以去看看別人怎麼樣應該也沒關係吧……？</lyric>
       </unit>
       <unit id="8">
-        <!--PESCA -->
-        <lyric>*嘆氣* 這裡沒有單身帥哥了嗎…</lyric>
-        <lyric>好想錢多事少啊.</lyric>
-        <lyric>我希望能跟可愛的異常工作, 如果有機會的話.</lyric>
+        <!--PESCA（佩希卡）-->
+        <lyric>公司裡完全沒有帥哥……（沮喪）</lyric>
+        <lyric>好想少工作賺大錢……</lyric>
+        <lyric>如果可以的話，我想負責一隻可愛的異想體！</lyric>
       </unit>
       <unit id="9">
-        <!--SpeciaLee -->
-        <lyric>加班一整晚, 太棒了.</lyric>
-        <lyric>我想回家.</lyric>
-        <lyric>啊… 我不想做這個.</lyric>
+        <!--SpeciaLee（斯貝莎麗）-->
+        <lyric>今天又要加班嗎……</lyric>
+        <lyric>想趕快下班。</lyric>
+        <lyric>啊……真麻煩。</lyric>
       </unit>
       <unit id="10">
-        <!--예띠 -->
-        <lyric>在我晉升之後我想看見更多的異常! 我能的, 對吧?</lyric>
-        <lyric>我覺得我應該得到更好的待遇!</lyric>
-        <lyric>我的朋友跟家人在聽到我在這裡工作的時候一定會非常驚訝. 嘿嘿!</lyric>
+        <!--예띠（耶蒂）-->
+        <lyric>我想更努力工作，看看各式各樣的異想體。這總有一天會實現的吧？</lyric>
+        <lyric>以我這樣的員工，難道就不該獲得更好的待遇嗎？</lyric>
+        <lyric>要是讓家人和朋友知道我在這種地方工作，一定都會驚訝吧？嘿嘿。</lyric>
       </unit>
       <unit id="11">
-        <!--Alex-->
-        <lyric>喔, 抱歉. 我能幫你什麼?</lyric>
-        <lyric>我晚餐想吃義大利麵.</lyric>
-        <lyric>保持專注. 你不知道接下來會發生什麼.</lyric>
+        <!--Alex（亞歷克斯）-->
+        <lyric>喔，抱歉。請問有什麼需要幫忙的嗎？</lyric>
+        <lyric>我打算今晚吃義大利麵。</lyric>
+        <lyric>隨時保持專注。誰也不知道接下來會發生什麼事。</lyric>
       </unit>
     </category>
 
     <category type="panic">
       <unit id="0">
-        <lyric>笑! 笑啊! 給我笑啊!</lyric>
+        <lyric>笑！笑啊！給我笑啊！</lyric>
       </unit>
       <unit id="1">
-        <lyric>以前的時光… 更美好…. 守衛! 守 衛 衛 衛 衛!</lyric>
+        <lyric>以前的日子……明明好得多！！警衛！！！警衛啊啊啊！！！！！</lyric>
       </unit>
       <unit id="2">
-        <lyric>耶! 又 要 加 班 囉!</lyric>
+        <lyric>嘿！今天也要加班！</lyric>
       </unit>
       <unit id="3">
-        <lyric>從學校畢業是我人生最大的錯誤!</lyric>
+        <lyric>當初就不該去讀研究所！</lyric>
       </unit>
       <unit id="4">
-        <lyric>它才不是什麼兔子! 我才不要幹這事!</lyric>
+        <lyric>根本就不是兔子！我不幹了！我不幹啦！</lyric>
       </unit>
       <unit id="5">
-        <lyric>早 就 該 辭 職 啦! 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊!</lyric>
+        <lyric>早該辭職的！！！！！呃啊啊啊啊啊啊啊啊啊啊——</lyric>
       </unit>
       <unit id="6">
-        <lyric>我不想死啦!</lyric>
+        <lyric>我可不想死在那些傢伙手上！</lyric>
       </unit>
       <unit id="7">
-        <lyric>不… 大家都會死…! 跟他一樣…!</lyric>
+        <lyric>不行，全都會死的，就像那人一樣……！</lyric>
       </unit>
       <unit id="8">
-        <lyric>喔, 天哪! 誰都好, 救救我!</lyric>
+        <lyric>怎麼辦！誰來幫幫我！</lyric>
       </unit>
       <unit id="9">
-        <lyric>...</lyric>
+        <lyric>……</lyric>
       </unit>
       <unit id="10">
-        <lyric>一開始我就不該來這裡. 我怎麼這麼傻…. 我想要回家. 拜託了, 我想回家啊…</lyric>
+        <lyric>我不該進這種地方的。我真傻……我想回家，我想回家。拜託你……</lyric>
       </unit>
       <unit id="11">
-        <lyric>啊 哈 哈 哈 哈 哈 哈 哈!! 從來沒這麼好過!!!</lyric>
+        <lyric>啊哈哈哈哈哈哈哈！！心裡舒坦多了！！！</lyric>
       </unit>
     </category>
 
     <category type="horror">
       <unit id="0">
-        <lyric>嘿, 小伙子. 你有像個乖小孩那樣笑嗎?</lyric>
+        <lyric>你好，朋友。你今天也在笑嗎？</lyric>
       </unit>
       <unit id="1">
-        <lyric>這些… 該死的東西…</lyric>
+        <lyric>這……該死的東西……</lyric>
       </unit>
       <unit id="2">
-        <lyric>我還沒回到家啊!</lyric>
+        <lyric>還沒下班呢！</lyric>
       </unit>
       <unit id="3">
-        <lyric>做不完的工作, 唉….</lyric>
+        <lyric>工作沒完沒了……</lyric>
       </unit>
       <unit id="4">
-        <lyric>是隻小兔子… 毛茸茸的可愛小兔子…</lyric>
+        <lyric>那是隻可愛的兔子……可愛又毛茸茸的兔子……</lyric>
       </unit>
       <unit id="5">
-        <lyric>一切都結束了.</lyric>
+        <lyric>一切都結束了……</lyric>
       </unit>
       <unit id="6">
-        <lyric>我們完工了.</lyric>
+        <lyric>這下完了。</lyric>
       </unit>
       <unit id="7">
-        <lyric>你也失去了某個深愛的東西嗎…?</lyric>
+        <lyric>你也失去了珍貴之物……？</lyric>
       </unit>
       <unit id="8">
-        <lyric>哇嗚, 多麼奇妙啊! 我真想摸摸它♡♡♡</lyric>
+        <lyric>哇，好神奇！好想摸摸看！♡♡♡</lyric>
       </unit>
       <unit id="9">
-        <lyric>?!</lyric>
+        <lyric>？！</lyric>
       </unit>
       <unit id="10">
-        <lyric>哇嗚! 或許我們能交個朋友?</lyric>
+        <lyric>哇！也許你能跟我成為朋友？</lyric>
       </unit>
       <unit id="11">
-        <lyric>…很的, 什麼都沒有.</lyric>
+        <lyric>……好，那我上了。</lyric>
       </unit>
     </category>
 
     <category type="otherdead">
       <unit id="0">
-        <lyric>…. 我再也見不到你的笑容了.</lyric>
+        <lyric>……今後再也見不到你的笑容了。</lyric>
       </unit>
       <unit id="1">
-        <lyric>跟你說過它們不是羊或是獵犬之類的東西了…</lyric>
+        <lyric>不都說過那些傢伙既不是獵犬也不是羊嗎……</lyric>
       </unit>
       <unit id="2">
-        <lyric>我, 我得趕緊離開這裡!</lyric>
+        <lyric>我、我得離開這裡！</lyric>
       </unit>
       <unit id="3">
-        <lyric>我唸了這麼多書不是為了來變成這樣的!</lyric>
+        <lyric>我拿到學位可不是為了來看這種場面的！</lyric>
       </unit>
       <unit id="4">
-        <lyric>你, 你死了嗎? 我什麼都不知道!</lyric>
+        <lyric>死、死了嗎？真的嗎？這不關我的事！</lyric>
       </unit>
       <unit id="5">
-        <lyric>我們都要死了…</lyric>
+        <lyric>我們現在全都得死……</lyric>
       </unit>
       <unit id="6">
-        <lyric>如果我再慢一點, 或許最後我就會變成那樣了…</lyric>
+        <lyric>要是再晚一點，我也會變成那樣吧……</lyric>
       </unit>
       <unit id="7">
-        <lyric>…. 我以為這一次我也能夠保護他.</lyric>
+        <lyric>……我本以為這次能保護好他們。</lyric>
       </unit>
       <unit id="8">
-        <lyric>在遇到一個帥哥之前我是不會死的.</lyric>
+        <lyric>我一定要見過帥哥後再死……</lyric>
       </unit>
       <unit id="9">
-        <lyric>!!!</lyric>
+        <lyric>！！！</lyric>
       </unit>
       <unit id="10">
-        <lyric>我, 我知道總有一天我會變成那樣… 但這個….</lyric>
+        <lyric>啊啊……雖然早就知道自己總有一天會變成那樣……但這……</lyric>
       </unit>
      <unit id="11">
-        <lyric>這就是為什麼我不想做出承諾.</lyric>
+        <lyric>所以我從不和別人約定。</lyric>
       </unit>
     </category>
 
     <category type="otherpanic">
       <unit id="0">
-        <lyric>試著笑吧, 朋友! 這能讓你冷靜點.</lyric>
+        <lyric>試著笑一笑吧，朋友。這樣就能平靜下來了。</lyric>
       </unit>
       <unit id="1">
-        <lyric>滾出我的視線, 你這個混蛋.</lyric>
+        <lyric>立刻從我眼前消失，你這垃圾。</lyric>
       </unit>
       <unit id="2">
-        <lyric>又, 又要加班?</lyric>
+        <lyric>該、該不會今天又要加班吧？！</lyric>
       </unit>
       <unit id="3">
-        <lyric>來人啊, 阻止他!</lyric>
+        <lyric>誰來攔住他！</lyric>
       </unit>
       <unit id="4">
-        <lyric>又來了? 我猜我是這裡唯一腦子清楚的人.</lyric>
+        <lyric>又來？感覺這裡只有我一個人是正常的。</lyric>
       </unit>
       <unit id="5">
-        <lyric>蛤? 發生什麼事了? 我覺得我該跑了.</lyric>
+        <lyric>嗯？什麼？先逃跑吧。</lyric>
       </unit>
       <unit id="6">
-        <lyric>來把那些蠢蛋在失去控制前處理掉吧.</lyric>
+        <lyric>趁在他還沒做出蠢事，趕快把他處理掉。</lyric>
       </unit>
       <unit id="7">
-        <lyric>希望我能讓你冷靜下來…</lyric>
+        <lyric>雖然很想讓你好起來……</lyric>
       </unit>
       <unit id="8">
-        <lyric>醒醒! 你發生什麼事了?</lyric>
+        <lyric>振作點！到底是怎麼回事？</lyric>
       </unit>
       <unit id="9">
-        <lyric>!</lyric>
+        <lyric>！</lyric>
       </unit>
       <unit id="10">
-        <lyric>真不敢想像有人會變成這付模樣… 我不敢肯定我會沒事….</lyric>
+        <lyric>其他人都成了那樣……我也得撐下去……沒問題嗎……</lyric>
       </unit>
       <unit id="11">
-        <lyric>這比我想的還要來的難過.</lyric>
+        <lyric>這比我想像中的還要讓人難過。</lyric>
       </unit>
     </category>
   </credit>
-
-  
-  
 </root>
