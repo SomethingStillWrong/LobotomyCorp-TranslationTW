@@ -41,7 +41,7 @@
   <observe level="4">
     <!--level은 관찰 최대 레벨-->
     <collection>
-      <codeNo openLevel ="0">O-00-00</codeNo>
+      <codeNo openLevel ="0">0-00-00</codeNo>
       <name openLevel="1">培訓用不倒翁兔</name>
       <portrait openLevel ="1">Sprites/CreatureSprite/Dummy</portrait>
       <riskLevel openLevel ="1">TETH</riskLevel>
