@@ -6,7 +6,7 @@
   <skill id="4" name="壓抑" called="壓抑工作"/>
   
   <!-- 도구형 환상체 -->
-  <skill id="5" name="使用" called="使用工具"/>
+  <skill id="5" name="委託" called="特別委託"/>
   
   <skill id="6" name="告解" called="告解"/>
 
