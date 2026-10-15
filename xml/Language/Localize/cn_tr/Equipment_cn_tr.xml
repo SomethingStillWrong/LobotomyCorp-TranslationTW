@@ -318,12 +318,12 @@
   <text id="LookAtMe_gift_Desc">最大生命值+4</text>
   <text id="LittleWitch_gift_Desc">最大精神值+4</text>
   <text id="BlackSwan_gift_Desc">最大生命值-4 最大精神值-4&#13;&#10;工作成功率+10 工作速度+10</text>
-  <text id="FireBird_gift_Desc">最大精神值+2 移動速度+4 攻擊速度 +4</text>
-  <text id="Piano_gift_Desc">最大生命值+1 最大精神值+1&#13;&#10;工作成功率+1 工作速度+1&#13;&#10;移動速度+1 攻擊速度 +1</text>
+  <text id="FireBird_gift_Desc">最大精神值+2 移動速度+4 攻擊速度+4</text>
+  <text id="Piano_gift_Desc">最大生命值+1 最大精神值+1&#13;&#10;工作成功率+1 工作速度+1&#13;&#10;移動速度+1 攻擊速度+1</text>
   <text id="Shark_gift_Desc">最大精神值+6</text>
   <text id="ViscusSnake_gift_Desc">最大生命值+5 最大精神值+2</text>
   <text id="YoungPrince_gift_Desc">最大精神值+5 工作成功率+2 工作速度+2</text>
-  <text id="FengYun_gift_Desc">最大生命值+10，最大精神值-4</text>
+  <text id="FengYun_gift_Desc">最大生命值+10 最大精神值-4</text>
   <text id="Wraith_gift_Desc">最大精神值+6</text>
   <text id="BloodyTree_gift_Desc">最大生命值+4 工作成功率+2 工作速度+2</text>
   <text id="QueenBee_gift_Desc">最大生命值+2 最大精神值+4</text>
@@ -337,7 +337,7 @@
   <text id="Bald_gift_Desc">移動速度+2 工作速度+2</text>
 
 
-  <text id="SlimeGirl_armor_specialDesc">佩戴飾品「愛慕」時，若穿戴者的生命值低於20%且將損失至少10點生命值，&#13;&#10;則此護甲將會附加能夠吸收紅色傷害的護盾，持續3秒。&#13;&#10;但護盾存在時，佩戴者的移動速度將會減少50%。</text>
+  <text id="SlimeGirl_armor_specialDesc">佩戴飾品「愛慕」時，若穿戴者的生命值低於20%且至少損失了10點生命值，&#13;&#10;則此護甲將會附加能夠吸收紅色傷害的護盾，持續3秒。&#13;&#10;但護盾存在時，佩戴者的移動速度將會減少50%。</text>
 
 
 </localize>
