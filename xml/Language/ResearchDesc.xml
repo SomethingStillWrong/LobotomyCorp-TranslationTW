@@ -270,9 +270,9 @@
       <next></next>
     </jp>
     <cn_tr>
-      <name>G.O 可視化</name>
+      <name>G.O視覺化</name>
       <short>顯示生命值與精&#13;&#10;神值UI</short>
-      <current>將異想體與員工的幾何生體構成資訊&#13;&#10;可視化。</current>
+      <current>將異想體與員工的幾何生體構成資訊&#13;&#10;視覺化。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -341,7 +341,7 @@
     <cn_tr>
       <name>傷害規格化</name>
       <short>顯示傷害值UI</short>
-      <current>將各種單位造成的傷害可視化。</current>
+      <current>將各種單位造成的傷害視覺化。</current>
       <next></next>
     </cn_tr>
     <ru>
@@ -1954,7 +1954,7 @@
     <cn_tr>
       <name>綜合研究</name>
       <short>培訓用臨時綜合研究</short>
-      <current>此研究啟動的召集呼叫、G.O可視化、&#13;&#10;傷害規格化將會在主管培訓完成後被重&#13;&#10;設。各項功能隨後需要完成對應部門的&#13;&#10;研究後才能正式使用。</current>
+      <current>此研究啟動的召集呼叫、G.O視覺化、&#13;&#10;傷害規格化將會在主管培訓完成後被重&#13;&#10;設。各項功能隨後需要完成對應部門的&#13;&#10;研究後才能正式使用。</current>
       <next></next>
     </cn_tr>
     <ru>
