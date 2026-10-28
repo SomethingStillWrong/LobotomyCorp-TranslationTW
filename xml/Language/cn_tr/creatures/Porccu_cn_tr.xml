@@ -93,8 +93,8 @@
       <specialTip openLevel="1" key="1">當工作結果為優時，$0的逆卡巴拉計數器將會立即增加。</specialTip>
       <specialTip openLevel="1" key="2">當工作結果為差時，$0的逆卡巴拉計數器將會立即減少。</specialTip>
       <specialTip openLevel="1" key="3">若節制等級低於4級的員工對$0完成了結果為優的工作，此員工將會被$0殺死。</specialTip>
-      <specialTip openLevel="1" key="4">出逃的$0將會節制等級低於4級的員工造成極高的白色傷害。</specialTip>
-      <specialTip openLevel="1" key="5">出逃的$0不會受到來自其攻擊範圍之外的傷害。</specialTip>
+      <specialTip openLevel="1" key="4">出逃後，$0將會對節制等級低於4級的員工造成極高的白色傷害。</specialTip>
+      <specialTip openLevel="1" key="5">出逃後，$0不會受到來自其攻擊範圍之外的傷害。</specialTip>
     </specialTipSize>
 
   </observe>
