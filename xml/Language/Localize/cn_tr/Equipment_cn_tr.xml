@@ -165,7 +165,7 @@
   <text id="DangoCreature_armor_specialDesc">穿戴者經過職員的屍體時會恢復生命值，且摧毀對應屍體。</text>
   <text id="DangoCreature_weapon_specialDesc">持有者每讓目標的生命值歸零，其勇氣與正義屬性就會提高3點。（僅限當日有效）&#13;&#10;&#13;&#10;發動普通攻擊時，此武器能減慢受擊單位的移動速度。&#13;&#10;發動特殊攻擊時，此武器能減慢目前區域內所有敵對單位的移動速度。</text>
   <text id="BlackSwan_weapon_name">黑天鵝</text>
-  <text id="BlackSwan_weapon_desc">曾以為自己會變成白天鵝的黑天鵝，渴望透過編織蕁麻來解除詛咒。它留下來的僅有生前所珍愛的破舊陽傘。&#13;&#10;&#13;&#10;雖然期盼著能有永不醒來的夢，但現實卻總是如此冷酷。</text>
+  <text id="BlackSwan_weapon_desc">曾以為自己會變成白天鵝的黑天鵝，渴望透過編織蕁麻來解除詛咒。它留下來的，僅有生前所珍愛的破舊陽傘。&#13;&#10;&#13;&#10;雖然期盼著能有永不醒來的夢，但現實卻總是如此冷酷。</text>
   <text id="BlackSwan_armor_desc">日復一日，他們在濃煙中重複著如幻影般的日子。&#13;&#10;每當對痛苦與掙扎感到厭倦時，便會用承載著回憶的胸針來壓抑情緒。&#13;&#10;&#13;&#10;污濁湖底的海藻如同黑天鵝的羽毛一般潮濕。</text>
   <text id="BlackSwan_weapon_specialDesc">持有者受到傷害時，有一定機率免疫此次傷害並將其反彈給傷害來源。</text>
   <text id="Shark_armor_name">恍惚</text>
@@ -213,7 +213,7 @@
   <text id="RedHood_weapon_name">赤紅創痕</text>
   <text id="RedHood_weapon_desc">一手執鐵，一手持火藥，在此處便無所畏懼。&#13;&#10;&#13;&#10;比起半吊子的勇氣，倒不如陷入狂熱的憎恨，揮出毫不遲疑的一擊更為重要。&#13;&#10;&#13;&#10;希望終有一天，這段無比可愛的童話故事也能迎來結局。</text>
   <text id="RedHood_weapon_specialDesc">若持有者的生命值低於50%，其武器的攻擊傷害將會提高50%。&#13;&#10;但持有者在此狀態下攻擊時，會對其他職員造成無差別傷害。</text>
-  <text id="RedHood_armor_desc">這名紅帽雇傭兵唯一能熱愛的就是那隻狼的死亡。&#13;&#10;對於那些僅能從毀滅中感受到生命價值的人們而言，其前路似乎充滿了黑暗。&#13;&#10;&#13;&#10;有時，如同卸下重擔一般，放下那積怨已久的憎恨似乎也是個好選擇。</text>
+  <text id="RedHood_armor_desc">這名紅帽雇傭兵唯一能熱愛的，就是那隻狼的死亡。&#13;&#10;對於那些僅能從毀滅中感受到生命價值的人們而言，其前路似乎充滿了黑暗。&#13;&#10;&#13;&#10;有時，如同卸下重擔一般，放下那積怨已久的憎恨似乎也是個好選擇。</text>
   <text id="RedHood_armor_specialDesc">穿戴者進入鎮壓狀態時，提高30%的移動速度。</text>
   <text id="RedHood_gift_Desc">最大生命值+2 移動速度+4 攻擊速度+4</text>
   <text id="BigBadWolf_weapon_name">青藍創痕</text>
@@ -269,7 +269,7 @@
   <text id="Dummy_armor_desc">主管培訓用E.G.O。</text>
   <text id="Dummy_gift_Desc">最大生命值+2 最大精神值+2</text>
   <text id="PinkCorps_weapon_name">紅粉</text>
-  <text id="PinkCorps_weapon_desc">人們常認為粉紅色代表著溫暖與愛。&#13;&#10;但粉紅色真就是愛的顏色嗎？&#13;&#10;&#13;&#10;愛與和平真能透過槍枝來實現嗎？</text>
+  <text id="PinkCorps_weapon_desc">人們常認為，粉紅色代表著溫暖與愛。&#13;&#10;但粉紅色真就是愛的顏色嗎？&#13;&#10;&#13;&#10;愛與和平，真能透過槍枝來實現嗎？</text>
   <text id="PinkCorps_armor_desc">這是一件粉紅色的軍服。&#13;&#10;它擁有充足的收納空間，可以隨身攜帶各種彈藥。&#13;&#10;&#13;&#10;它能讓內心平靜下來。&#13;&#10;這或許是因為粉紅色能安定許多人。</text>
   <text id="PinkCorps_gift_Desc">最大精神值+5 攻擊速度+5&#13;&#10;裝備此異想體的全套裝備時，&#13;&#10;其E.G.O武器的攻擊傷害將會提高15%。</text>
   <text id="Ppodae_weapon_name">好可愛！！！</text>
