@@ -82,8 +82,8 @@
 
 
     <specialTipSize size="3">
-      <specialTip openLevel="1" key="memeriBeam">頭髮依然柔順的你，被來自「禿頭-真的-超棒！」的光線所照射。</specialTip>
-      <specialTip openLevel="2" key="memeriOnly">若被來自「禿頭-真的-超棒！」的光線所照射之員工未對其工作，則這個月之內，其餘員工的頭髮就會全部掉光，變成禿頭。</specialTip>
+      <specialTip openLevel="1" key="memeriBeam">頭髮依然柔順的你，被來自$0的光線所照射。</specialTip>
+      <specialTip openLevel="2" key="memeriOnly">若被來自$0的光線所照射的員工未對其工作，則在本月之內，其餘員工的頭髮就會全部掉光，變成禿頭。</specialTip>
       <specialTip openLevel="3" key="memeriHurryUp">現在還來得及。30……29……28……</specialTip>
     </specialTipSize>
 
